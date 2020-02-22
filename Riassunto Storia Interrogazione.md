@@ -21,8 +21,11 @@ PARTI:
 	-  rivoluzionari 
 	-  riformisti
 
-- La CGIL era controllata dal partito socialista!
-[immagine](https://www.gelestatic.it/thimg/yQ6CZOXjvuEq757rnd9kdsVgg04=/fit-in/960x540/filters:format%28webp%29/https://www.lastampa.it/image/contentid/policy:1.34354949:1560949480/siamo%2520fatti%25201-k9HE-U1100655841240ncD-1024x576@LaStampa.it.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=df32c0f)
+- La CGIL era controllata dal partito socialista
+
+ ## MUSSOLINI
+ - Storia di mussolini in generale :
+	 - Trafiletto sul libro con vita e opere iniziale con entrata in politica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA2MjA0OTMsLTMxNzE0OTI5M119
+eyJoaXN0b3J5IjpbNzcwMjk1NzA1LC0zMTcxNDkyOTNdfQ==
 -->
