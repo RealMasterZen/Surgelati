@@ -1,9 +1,8 @@
-## Per prima cosa si stratto i trattati di pace 
- Sono quelli firmati dopo la fine della prima guerra mondiale
-Esempio:
+# MATERIALE INTERROGAZIONE
+Eddy + Guazzo
 
-Alla germania con il trattato di Versailles vennerò privati alcuni privilegi:
-- Vennero 
+## Trattati di pace
+- Versailles contro la germania
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMTkyMTk0XX0=
+eyJoaXN0b3J5IjpbLTU5NTI3OTA4OF19
 -->
