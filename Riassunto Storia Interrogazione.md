@@ -31,8 +31,8 @@ PARTI:
 	Il fascio Littorio
 -  Donne appena disimpiegate dalle fabbriche con il fascismo tornavano alla loro situazione di sottoposte
 
-## Ideali fascisti
+## RICHIESTE SULLA RIVOLZUIONE RUSSA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDA5MTMzNiwtMTQ0MzI0NTYzMCw3Nz
-AyOTU3MDUsLTMxNzE0OTI5M119
+eyJoaXN0b3J5IjpbMzUxMDA1NDA5LDEzMjQwOTEzMzYsLTE0ND
+MyNDU2MzAsNzcwMjk1NzA1LC0zMTcxNDkyOTNdfQ==
 -->
