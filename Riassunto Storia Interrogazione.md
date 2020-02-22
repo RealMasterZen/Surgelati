@@ -26,6 +26,11 @@ PARTI:
  ## MUSSOLINI
  - Storia di mussolini in generale :
 	 - Trafiletto sul libro con vita e opere iniziale con entrata in politica
+ 
+ - RIcordarsi del vero significato ddei fasci:
+	Il fascio Littorio
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMjk1NzA1LC0zMTcxNDkyOTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDMyNDU2MzAsNzcwMjk1NzA1LC0zMT
+cxNDkyOTNdfQ==
 -->
