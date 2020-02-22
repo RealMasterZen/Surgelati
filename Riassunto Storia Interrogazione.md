@@ -8,7 +8,8 @@ Eddy + Guazzo
 - Ripresa delle terre irrendente e in generale discussione sulla situazione territoriale nell'europa
 - Impresa di fiume di D'annunzio e conseguente trattato di Rapallo
 - Discussione sull'identità sociale di d'annunzio
+- Discussione sulla riconversione dal punto di vista economico delle imprese italiane e quindi l'occuzione dei posti di lavoro arrivà a un incremento straordinaro ma così facendo si raggiunge un alto gradi disoccupazione e un alto grado di inflazione.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzE0OTI5M119
+eyJoaXN0b3J5IjpbNDk1NTM3ODk0LC0zMTcxNDkyOTNdfQ==
 -->
