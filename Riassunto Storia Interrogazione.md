@@ -29,8 +29,10 @@ PARTI:
  
  - RIcordarsi del vero significato ddei fasci:
 	Il fascio Littorio
-- 
+-  Donne appena disimpiegate dalle fabbriche con il fascismo tornavano alla loro situazione di sottoposte
+
+## Ideali fasci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMyNDU2MzAsNzcwMjk1NzA1LC0zMT
-cxNDkyOTNdfQ==
+eyJoaXN0b3J5IjpbOTE3ODMyODA0LC0xNDQzMjQ1NjMwLDc3MD
+I5NTcwNSwtMzE3MTQ5MjkzXX0=
 -->
