@@ -13,6 +13,8 @@ Eddy + Guazzo
 - Scioperi costanti causati da queste problematiche:
 	- Riferimento alla FIOM e ai sindacati
 - Da cosa nasce la debolezza del partito socialista
+
+## PARTITO SOCIALISTA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTcxNzM0NCwtMzE3MTQ5MjkzXX0=
+eyJoaXN0b3J5IjpbODY0NDQ1Mjg1LC0zMTcxNDkyOTNdfQ==
 -->
