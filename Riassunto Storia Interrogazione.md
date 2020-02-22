@@ -31,8 +31,8 @@ PARTI:
 	Il fascio Littorio
 -  Donne appena disimpiegate dalle fabbriche con il fascismo tornavano alla loro situazione di sottoposte
 
-## Ideali fasci
+## Ideali fascisti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3ODMyODA0LC0xNDQzMjQ1NjMwLDc3MD
-I5NTcwNSwtMzE3MTQ5MjkzXX0=
+eyJoaXN0b3J5IjpbMTMyNDA5MTMzNiwtMTQ0MzI0NTYzMCw3Nz
+AyOTU3MDUsLTMxNzE0OTI5M119
 -->
