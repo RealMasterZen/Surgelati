@@ -15,6 +15,12 @@ Eddy + Guazzo
 - Da cosa nasce la debolezza del partito socialista
 
 ## PARTITO SOCIALISTA
+PARTI:
+- composizione del partito e capo
+- divisione del parito in :
+	-  rivoluzionari 
+	-  riformisti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDQ1Mjg1LC0zMTcxNDkyOTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NTMzMTkzMTQsLTMxNzE0OTI5M119
 -->
