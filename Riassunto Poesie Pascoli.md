@@ -12,7 +12,8 @@
 # Canti di Castelvecchio
 
 Il nome deriva dalla località in cui Giovanni Pascoli si era trasferito, cioè Castelvecchio di Barga.
-Questa raccolta può essere interpretata come la continuazione morale della raccolta Myricae, infatti al suo interno i racconti sono ancora una volta di carattere familiare e campestre, con riferimenti a turbamenti di carattere familiare o più specificamente un inquietudine di 
+Questa raccolta può essere interpretata come la continuazione morale della raccolta Myricae, infatti al suo interno i racconti sono ancora una volta di carattere familiare e campestre, con riferimenti a turbamenti di carattere familiare o più specificamente un inquietudine di frone all'esperienza sessuale, alla componente erotica adulta, osservata con distacco e senso di estraneità nel componimeto * il gelsomino notturno* .
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzQzMzgwMywtMjkxNDM2ODY4XX0=
+eyJoaXN0b3J5IjpbMTQ2NzQ4MzQxLC0yOTE0MzY4NjhdfQ==
 -->
