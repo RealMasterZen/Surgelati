@@ -30,7 +30,9 @@ Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che
 
 ## STRUTTUTA E EVOLUZIONE DELLE OPERE
 
+- Struttura sintattica prevalentemente Paratattica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjQzOTMwOSwtMTM1NDYxNjg3OCwtMj
-A1MTU1MTY1OSwzNDY4MDY0MCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTE0MjU5ODk3ODksLTI5NjQzOTMwOSwtMT
+M1NDYxNjg3OCwtMjA1MTU1MTY1OSwzNDY4MDY0MCwtMTY3OTY3
+OTI4MV19
 -->
