@@ -31,8 +31,9 @@ Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che
 ## STRUTTUTA E EVOLUZIONE DELLE OPERE
 
 - Struttura sintattica prevalentemente Paratattica
+- Gran numero di onomatopee e in generale una grande presenza di Fonosimbolismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU5ODk3ODksLTI5NjQzOTMwOSwtMT
-M1NDYxNjg3OCwtMjA1MTU1MTY1OSwzNDY4MDY0MCwtMTY3OTY3
-OTI4MV19
+eyJoaXN0b3J5IjpbMTQ2MTMxNTA0MSwtMTQyNTk4OTc4OSwtMj
+k2NDM5MzA5LC0xMzU0NjE2ODc4LC0yMDUxNTUxNjU5LDM0Njgw
+NjQwLC0xNjc5Njc5MjgxXX0=
 -->
