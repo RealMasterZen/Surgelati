@@ -21,8 +21,10 @@ Nel 1919 nacque il **PPI** fondata dal sacerdote **Luigi Sturzo**, anche quest'u
 L'avanzata di questi nuovi partiti fù favorita dalla nuova legge elettorale che garantiva un numero di seggi proporzionale al numero di voti ottenuti.
 Di fatto alle elezioni del novembre del 1919 i due partiti insieme presero 1/2 dei seggi disponibili ma non potendo raggiungere un accordo essendo 2 partiti fondamentalmente diversi.
 Per questo la guida del Governo fu assegnata ancora una volta ai vecchi liberali, **Nitti** e successivamente **Giolitti**.
+L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industriali.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzUxMzEwNjcsNjcwMjEwNDYzLC04NT
-k4OTgwMDQsMTkyMDc2ODg2OSwtMTQ0MTExMjE4LDg0NDA1NTk4
-OCwxNjY5Mzk0NDI5XX0=
+eyJoaXN0b3J5IjpbNTgyNjY0MjI0LDY3MDIxMDQ2MywtODU5OD
+k4MDA0LDE5MjA3Njg4NjksLTE0NDExMTIxOCw4NDQwNTU5ODgs
+MTY2OTM5NDQyOV19
 -->
