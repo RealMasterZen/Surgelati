@@ -19,8 +19,9 @@ Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo 
 
 Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che nei Canti di Castelvecchio.
 
-###
+## TEMI E MOTIVI DI PASCOLI
+- Peni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE1NTE2NTksMzQ2ODA2NDAsLTE2Nz
-k2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjY3NzM4NDUsLTIwNTE1NTE2NTksMz
+Q2ODA2NDAsLTE2Nzk2NzkyODFdfQ==
 -->
