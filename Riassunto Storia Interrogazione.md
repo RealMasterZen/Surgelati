@@ -3,7 +3,6 @@ Eddy + Guazzo
 
 ## Trattati di pace
 - Versailles contro la germania
-~~strikethrough text~~
 ## Situazione post-bellica dell'Italia
 - Ripresa delle terre irrendente e in generale discussione sulla situazione territoriale nell'europa
 - Impresa di fiume di D'annunzio e conseguente trattato di Rapallo
@@ -33,6 +32,7 @@ PARTI:
 
 ## RICHIESTE SULLA RIVOLZUIONE RUSSA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMDA1NDA5LDEzMjQwOTEzMzYsLTE0ND
-MyNDU2MzAsNzcwMjk1NzA1LC0zMTcxNDkyOTNdfQ==
+eyJoaXN0b3J5IjpbMTY4MjQxNTQ3NywzNTEwMDU0MDksMTMyND
+A5MTMzNiwtMTQ0MzI0NTYzMCw3NzAyOTU3MDUsLTMxNzE0OTI5
+M119
 -->
