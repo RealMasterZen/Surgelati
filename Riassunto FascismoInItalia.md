@@ -18,7 +18,7 @@ La vecchia classe politica italiana non era capace di gestire la situazione in C
 
 Esisteva il parito Socialista diviso in:
 - **Riformisti** -> guidati da Filippo Turati
-- Rivoluzionari -> guidati da Antonio Gramsci e Palmiro Togliatti
+- **Rivoluzionari** -> guidati da Antonio Gramsci e Palmiro Togliatti.
 
 Nel 1919 nacque il **PPI** fondata dal sacerdote **Luigi Sturzo**, anche quest'ultimo non molto diverso dal **PSI** difendeva i contadini più deboli e chiedeva agevolazioni per i lavoratori, diversamente però era meno riformista.
 
@@ -27,8 +27,9 @@ Di fatto alle elezioni del novembre del 1919 i due partiti insieme presero 1/2 d
 Per questo la guida del Governo fu assegnata ancora una volta ai vecchi liberali, **Nitti** e successivamente **Giolitti**.
 L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industriali.
 
+Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzczNjk1Miw2NzAyMTA0NjMsLTg1OT
-g5ODAwNCwxOTIwNzY4ODY5LC0xNDQxMTEyMTgsODQ0MDU1OTg4
-LDE2NjkzOTQ0MjldfQ==
+eyJoaXN0b3J5IjpbLTE4NjU1NTc4MDksNjcwMjEwNDYzLC04NT
+k4OTgwMDQsMTkyMDc2ODg2OSwtMTQ0MTExMjE4LDg0NDA1NTk4
+OCwxNjY5Mzk0NDI5XX0=
 -->
