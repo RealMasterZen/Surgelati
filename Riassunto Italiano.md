@@ -15,7 +15,9 @@ Il costui pensiero riguardo alla politica estera era parecchio propenso alla bat
 Giovanni Pascoli, nel saggio: il fanciullino espoe chiaramente uno degli aspetti più caratteristici della sua poetica: quello della visione delle cose come dagli occhi di un fanciullino. Quel fanciullino che risiede all'interno di ognuno di noi.
 Quest'ultimo vede gli avvenimenti con tanto stupore (poetica dello stupore).
 
-Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo il Poeta non poteva spiegare esattamente i fenomeni, il compito era secondo esso infatti soltanto del 
+Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo il Poeta non poteva spiegare esattamente i fenomeni. A riuscire in questa impresa era infatti solo il Poeta nei suoi versi.
+
+Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che nei Canti di Castelvecchio.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNTU3MzIsLTE2Nzk2NzkyODFdfQ==
+eyJoaXN0b3J5IjpbMzQ2ODA2NDAsLTE2Nzk2NzkyODFdfQ==
 -->
