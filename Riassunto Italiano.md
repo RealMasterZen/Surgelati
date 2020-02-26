@@ -32,8 +32,9 @@ Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che
 
 - Struttura sintattica prevalentemente Paratattica
 - Gran numero di onomatopee e in generale una grande presenza di Fonosimbolismo
+- In generale si cerca di far esprimere alle 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTMxNTA0MSwtMTQyNTk4OTc4OSwtMj
-k2NDM5MzA5LC0xMzU0NjE2ODc4LC0yMDUxNTUxNjU5LDM0Njgw
-NjQwLC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTEyNDYxMDUyNDAsLTE0MjU5ODk3ODksLT
+I5NjQzOTMwOSwtMTM1NDYxNjg3OCwtMjA1MTU1MTY1OSwzNDY4
+MDY0MCwtMTY3OTY3OTI4MV19
 -->
