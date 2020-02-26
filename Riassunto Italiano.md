@@ -13,7 +13,9 @@ Il costui pensiero riguardo alla politica estera era parecchio propenso alla bat
 ### La poetica del fanciullino
 
 Giovanni Pascoli, nel saggio: il fanciullino espoe chiaramente uno degli aspetti più caratteristici della sua poetica: quello della visione delle cose come dagli occhi di un fanciullino. Quel fanciullino che risiede all'interno di ognuno di noi.
+Quest'ultimo vede gli avvenimenti con tanto stupore (poetica dello stupore).
 
+Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo il Poeta non poteva spiegare esattamente i fenomeni, il compito era secondo esso infatti soltanto del 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU1NzgyMCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNzQzNTU3MzIsLTE2Nzk2NzkyODFdfQ==
 -->
