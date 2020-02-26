@@ -27,9 +27,9 @@ Di fatto alle elezioni del novembre del 1919 i due partiti insieme presero 1/2 d
 Per questo la guida del Governo fu assegnata ancora una volta ai vecchi liberali, **Nitti** e successivamente **Giolitti**.
 L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industriali.
 
-Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario
+Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU1NTc4MDksNjcwMjEwNDYzLC04NT
-k4OTgwMDQsMTkyMDc2ODg2OSwtMTQ0MTExMjE4LDg0NDA1NTk4
-OCwxNjY5Mzk0NDI5XX0=
+eyJoaXN0b3J5IjpbNDMxMjI1NjY5LC0xODY1NTU3ODA5LDY3MD
+IxMDQ2MywtODU5ODk4MDA0LDE5MjA3Njg4NjksLTE0NDExMTIx
+OCw4NDQwNTU5ODgsMTY2OTM5NDQyOV19
 -->
