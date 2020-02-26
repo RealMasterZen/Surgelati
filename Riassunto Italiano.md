@@ -20,13 +20,17 @@ Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo 
 Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che nei Canti di Castelvecchio.
 
 ## TEMI E MOTIVI DI PASCOLI
+
 - Costante pensiero della morte, ricordo dei cari defunti e il dolore 
 - Richiamo al nido e agli affetti familiari 
 - Motivo della siepe
 - Celebrazione della natura
 - Mistero del Cosmo
 - Miti del modno classico
+
+## STRUTTUTA E EVOLUZIONE DELLE OPERE
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MjU4MjY1LC0xMzU0NjE2ODc4LC0yMD
-UxNTUxNjU5LDM0NjgwNjQwLC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTI5NjQzOTMwOSwtMTM1NDYxNjg3OCwtMj
+A1MTU1MTY1OSwzNDY4MDY0MCwtMTY3OTY3OTI4MV19
 -->
