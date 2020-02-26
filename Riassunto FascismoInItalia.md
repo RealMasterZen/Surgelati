@@ -18,9 +18,10 @@ La vecchia classe politica italiana non era capace di gestire la situazione in C
 
 Nel 1919 nacque il **PPI** fondata dal sacerdote **Luigi Sturzo**, anche quest'ultimo non molto diverso dal **PSI** difendeva i contadini più deboli e chiedeva agevolazioni per i lavoratori, diversamente però era meno riformista.
 
-L'avanza
+L'avanzata di questi nuovi partiti fù favorita dalla nuova legge elettorale che garantiva un numero di seggi proporzionale al numero di voti ottenuti.
+Di fatto alle elezioni del novembre del 1919 i due partiti insieme presero 1/2 dei seggi disponibili ma n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIxMDA2NDgsLTg1OTg5ODAwNCwxOT
-IwNzY4ODY5LC0xNDQxMTEyMTgsODQ0MDU1OTg4LDE2NjkzOTQ0
-MjldfQ==
+eyJoaXN0b3J5IjpbOTI5NDQxNDEzLC04NTk4OTgwMDQsMTkyMD
+c2ODg2OSwtMTQ0MTExMjE4LDg0NDA1NTk4OCwxNjY5Mzk0NDI5
+XX0=
 -->
