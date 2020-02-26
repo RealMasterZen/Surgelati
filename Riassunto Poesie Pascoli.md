@@ -11,7 +11,8 @@
 
 # Canti di Castelvecchio
 
-Il nome deriva dalla località in cui Giovanni Pascoli si era trasferito, cieè Castelvecchio di Barga
+Il nome deriva dalla località in cui Giovanni Pascoli si era trasferito, cioè Castelvecchio di Barga.
+Questa raccolta può essere interpretata come la continuazione morale della raccolta Myricae, infatti al suo interno i racconti sono ancora una volta di carattere familiare e campestre, con riferimenti a turbamenti di carattere familiare o più specificamente un inquietudine di 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkzMjAzLC0yOTE0MzY4NjhdfQ==
+eyJoaXN0b3J5IjpbMTA1MzQzMzgwMywtMjkxNDM2ODY4XX0=
 -->
