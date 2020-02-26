@@ -20,8 +20,9 @@ Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo 
 Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che nei Canti di Castelvecchio.
 
 ## TEMI E MOTIVI DI PASCOLI
-- Peni
+- Costante pensiero della morte, ricordo dei cari defunti e il dolore 
+- Richiamo al nido e agli affetti familiari 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY3NzM4NDUsLTIwNTE1NTE2NTksMz
+eyJoaXN0b3J5IjpbLTEzNTQ2MTY4NzgsLTIwNTE1NTE2NTksMz
 Q2ODA2NDAsLTE2Nzk2NzkyODFdfQ==
 -->
