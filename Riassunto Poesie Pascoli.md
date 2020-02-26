@@ -5,7 +5,7 @@
 
 - La raccolta è formata da 15 sezioni
 
-- Il titolo dalla raccolta deriva da un termine espresso 
+- Il titolo dalla raccolta deriva da un verso della IV egogla 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTIxNjYsLTI5MTQzNjg2OF19
+eyJoaXN0b3J5IjpbNjU2MDI2NTgxLC0yOTE0MzY4NjhdfQ==
 -->
