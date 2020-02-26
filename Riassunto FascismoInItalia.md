@@ -33,8 +33,11 @@ Settembre 1919 si effettuò l'impresa di Fiume, alla testa di 9000 legionari Gab
 >1921 Trattato di Rapallo Fece di Fiume una città Libera 
 >1924 trattato tra Italia e Iugoslavia conede Fiume all'Italia e I territori circostanti alla Iugoslavia
 
+## Il Fascismo Al Potere
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTcxOTgxOSw1Mjg0MjUyNTYsLTE4Nj
+eyJoaXN0b3J5IjpbMTY3NzUyMTM1Myw1Mjg0MjUyNTYsLTE4Nj
 U1NTc4MDksNjcwMjEwNDYzLC04NTk4OTgwMDQsMTkyMDc2ODg2
 OSwtMTQ0MTExMjE4LDg0NDA1NTk4OCwxNjY5Mzk0NDI5XX0=
 -->
