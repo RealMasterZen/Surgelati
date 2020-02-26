@@ -12,11 +12,13 @@ Da questa crisi economica ne derivò dunque anche una crisi sociale dove:
 - Gli operai Occuparono le Fabbriche interrompendone la produzione -> Strategia ideata dalla FIOM (Socialisti)
 - Timore che anche in italia stesse per scatenarsi una rivoluzione socialista
 
-## Partiti di massa ed élite di governo Liberali
+## Partiti di massa ed élite di governo Liberali ##
 
-LA vecchia classe politica italiana non era capace di gestire la situazione in Corso e avevano preso molti soci i cosidetti partti di massa: 
+La vecchia classe politica italiana non era capace di gestire la situazione in Corso e avevano preso molti soci i cosidetti partti di massa
+
+Nel 1919 nacque il ** PPI ** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5ODYzMDEsLTg1OTg5ODAwNCwxOT
+eyJoaXN0b3J5IjpbLTEwMjMyNDI3MjcsLTg1OTg5ODAwNCwxOT
 IwNzY4ODY5LC0xNDQxMTEyMTgsODQ0MDU1OTg4LDE2NjkzOTQ0
 MjldfQ==
 -->
