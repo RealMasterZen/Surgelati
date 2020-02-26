@@ -29,9 +29,9 @@ L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industria
 
 Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario transitarono nella creazione del partito Comunista d'Italia. Ciò accadde in uno momento in cui la sinistra doveva restare più unita che mai per combattere il fascismo.
 
-Settembre 1919 si effettuò l'impresa di Fiume, alla testa di 9000 legionari Gabriele d'Annunzion occupò la città, Giolitti dopo aver provato a paci
+Settembre 1919 si effettuò l'impresa di Fiume, alla testa di 9000 legionari Gabriele d'Annunzion occupò la città, Giolitti dopo aver provato a risolvere la questione in modo pacifico ricorse all'utilizzo dei cannoni.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEzNzc0MDUsLTE4NjU1NTc4MDksNj
-cwMjEwNDYzLC04NTk4OTgwMDQsMTkyMDc2ODg2OSwtMTQ0MTEx
-MjE4LDg0NDA1NTk4OCwxNjY5Mzk0NDI5XX0=
+eyJoaXN0b3J5IjpbNTI4NDI1MjU2LC0xODY1NTU3ODA5LDY3MD
+IxMDQ2MywtODU5ODk4MDA0LDE5MjA3Njg4NjksLTE0NDExMTIx
+OCw4NDQwNTU5ODgsMTY2OTM5NDQyOV19
 -->
