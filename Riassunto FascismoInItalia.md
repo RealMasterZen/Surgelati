@@ -27,9 +27,10 @@ Di fatto alle elezioni del novembre del 1919 i due partiti insieme presero 1/2 d
 Per questo la guida del Governo fu assegnata ancora una volta ai vecchi liberali, **Nitti** e successivamente **Giolitti**.
 L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industriali.
 
-Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario transitarono nella creazione del partito Comunista d'Italia. Ciò accadde in uno momento in cui la sinistra doveva restare più unita che mai per combattere il fascismo
+Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario transitarono nella creazione del partito Comunista d'Italia. Ciò accadde in uno momento in cui la sinistra doveva restare più unita che mai per combattere il fascismo.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NDUxNzAsLTE4NjU1NTc4MDksNjcwMj
-EwNDYzLC04NTk4OTgwMDQsMTkyMDc2ODg2OSwtMTQ0MTExMjE4
-LDg0NDA1NTk4OCwxNjY5Mzk0NDI5XX0=
+eyJoaXN0b3J5IjpbNzIyOTQ1NjAyLC0xODY1NTU3ODA5LDY3MD
+IxMDQ2MywtODU5ODk4MDA0LDE5MjA3Njg4NjksLTE0NDExMTIx
+OCw4NDQwNTU5ODgsMTY2OTM5NDQyOV19
 -->
