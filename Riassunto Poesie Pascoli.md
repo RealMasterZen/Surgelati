@@ -5,7 +5,7 @@
 
 - La raccolta è formata da 15 sezioni
 
-- Il titolo dalla raccolta deriva da un termine espress
+- Il titolo dalla raccolta deriva da un termine espresso 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMjQxODE1LC0yOTE0MzY4NjhdfQ==
+eyJoaXN0b3J5IjpbMzA1NTIxNjYsLTI5MTQzNjg2OF19
 -->
