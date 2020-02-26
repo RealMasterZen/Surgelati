@@ -17,7 +17,8 @@ Da questa crisi economica ne derivò dunque anche una crisi sociale dove:
 La vecchia classe politica italiana non era capace di gestire la situazione in Corso e avevano preso molti soci i cosidetti partti di massa
 
 Esisteva il parito Socialista diviso in:
-- Riformisti
+- **Riformisti** -> guidati da Filippo Turati
+- Rivoluzionari -> guidati da Antonio Gramsci e Palmiro Togliatti
 
 Nel 1919 nacque il **PPI** fondata dal sacerdote **Luigi Sturzo**, anche quest'ultimo non molto diverso dal **PSI** difendeva i contadini più deboli e chiedeva agevolazioni per i lavoratori, diversamente però era meno riformista.
 
@@ -27,7 +28,7 @@ Per questo la guida del Governo fu assegnata ancora una volta ai vecchi liberali
 L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industriali.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDMxMzcwMCw2NzAyMTA0NjMsLTg1OT
+eyJoaXN0b3J5IjpbMTQwNzczNjk1Miw2NzAyMTA0NjMsLTg1OT
 g5ODAwNCwxOTIwNzY4ODY5LC0xNDQxMTEyMTgsODQ0MDU1OTg4
 LDE2NjkzOTQ0MjldfQ==
 -->
