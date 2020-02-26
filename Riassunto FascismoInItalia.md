@@ -7,9 +7,10 @@ Da questa crisi economica ne derivò dunque anche una crisi sociale dove:
 - Gli operai dato lo scarso lavoro delle industrie arrivarono a intraprendere degli scioperi
 > Questo avvenimento fù talmente ampio da essere chiamato Biennio rosso (1919-1920)
 - Gli operai Occuparono le Fabbriche interrompendone la produzione -> Strategia ideata dalla FIOM (Socialisti)
+- Timore che anche in italia stesse per scatenarsi una rivoluzione socialista
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjU3Nzk3OCwtODU5ODk4MDA0LDE5Mj
-A3Njg4NjksLTE0NDExMTIxOCw4NDQwNTU5ODgsMTY2OTM5NDQy
-OV19
+eyJoaXN0b3J5IjpbNjkzMDkzMzYyLC04NTk4OTgwMDQsMTkyMD
+c2ODg2OSwtMTQ0MTExMjE4LDg0NDA1NTk4OCwxNjY5Mzk0NDI5
+XX0=
 -->
