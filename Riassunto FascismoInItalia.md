@@ -1,5 +1,6 @@
 # Fascismo in Italia
-Questa 
+Questa fase storica parte da un presupposto:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTkwNDU0LDE2NjkzOTQ0MjldfQ==
+eyJoaXN0b3J5IjpbODQ0MDU1OTg4LDE2NjkzOTQ0MjldfQ==
 -->
