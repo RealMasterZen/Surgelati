@@ -16,10 +16,10 @@ Da questa crisi economica ne derivò dunque anche una crisi sociale dove:
 
 La vecchia classe politica italiana non era capace di gestire la situazione in Corso e avevano preso molti soci i cosidetti partti di massa
 
-Nel 1919 nacque il **PPI** fondata dal sacerdote **Luigi Sturzo**, anche quest'ultimo non molto diverso dal partito 
+Nel 1919 nacque il **PPI** fondata dal sacerdote **Luigi Sturzo**, anche quest'ultimo non molto diverso dal **PSI** difendeva i contadini più deboli e chiedeva agevolazioni per i lavoratori, diversamente però 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMjExOTYsLTg1OTg5ODAwNCwxOTIwNz
-Y4ODY5LC0xNDQxMTEyMTgsODQ0MDU1OTg4LDE2NjkzOTQ0Mjld
-fQ==
+eyJoaXN0b3J5IjpbMjU0ODg4OTc1LC04NTk4OTgwMDQsMTkyMD
+c2ODg2OSwtMTQ0MTExMjE4LDg0NDA1NTk4OCwxNjY5Mzk0NDI5
+XX0=
 -->
