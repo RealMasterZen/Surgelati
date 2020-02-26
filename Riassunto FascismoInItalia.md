@@ -30,9 +30,11 @@ L'ultimo fronteggiò la crisi del 1920 con un accordo tra lavoratori e industria
 Nel gennaio 1921 Antonio Gramsci e Palmiro Togliatti, direttori del partito socialista Rivoluzionario transitarono nella creazione del partito Comunista d'Italia. Ciò accadde in uno momento in cui la sinistra doveva restare più unita che mai per combattere il fascismo.
 
 Settembre 1919 si effettuò l'impresa di Fiume, alla testa di 9000 legionari Gabriele d'Annunzion occupò la città, Giolitti dopo aver provato a risolvere la questione in modo pacifico ricorse all'utilizzo dei cannoni.
-1921 Trattato di Rapallo Fece di Fiume una città Libera 
+>1921 Trattato di Rapallo Fece di Fiume una città Libera 
+>1924 trattato tra Italia e Iugoslavia conede Fiume all'Italia e I territori circostanti alla Iugoslavia
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMzMzg1NDEsNTI4NDI1MjU2LC0xOD
-Y1NTU3ODA5LDY3MDIxMDQ2MywtODU5ODk4MDA0LDE5MjA3Njg4
-NjksLTE0NDExMTIxOCw4NDQwNTU5ODgsMTY2OTM5NDQyOV19
+eyJoaXN0b3J5IjpbMTIzNTcxOTgxOSw1Mjg0MjUyNTYsLTE4Nj
+U1NTc4MDksNjcwMjEwNDYzLC04NTk4OTgwMDQsMTkyMDc2ODg2
+OSwtMTQ0MTExMjE4LDg0NDA1NTk4OCwxNjY5Mzk0NDI5XX0=
 -->
