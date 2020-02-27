@@ -7,9 +7,9 @@ dopo ciò fondò un nuovo giornale chiamato "Il Popolo d'Italia" che userà succ
 
 Poco dopo la conclusione della prima guerra mondiale il 23 marzo del 1919 Mussolini creò a Milano i Fasci di Combattimento (Composti inizialmente da reduci di guerra)
 l'ideologia Politica dei fesci era assolutamente contro i partiti di massa, era anticlericale e fortemente repubblicana e nazionlista inoltre prediligeva la risoluzione dellle contese politiche attraverso la violenza.
-Mussolini teneva a far diventare i Fasci un gran movimento e cercava il consenso trasversale di tutte le classi sociali, nonostante questo nelle elezioni del 1919 non ottennero grande successo e nessun seggio elettorale
+Mussolini teneva a far diventare i Fasci un gran movimento e cercava il consenso trasversale di tutte le classi sociali, nonostante questo nelle elezioni del 1919 non ottennero grande successo e nessun seggio elettorale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzM5ODQ3LC0xNjI3ODUwMDcwLC03Nz
-Q1ODc3NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEw
-OTQsMjcwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNz
+c0NTg3NzQ2LC01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTEx
+MDk0LDI3MDc0NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
 -->
