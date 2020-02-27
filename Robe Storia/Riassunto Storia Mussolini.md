@@ -32,8 +32,11 @@ gran parte dell'elettorato attivo confidava nel nuovo partito come una forza cap
 Il governo di  di Mussoi si concentrò a:
 -  ridurre le manifestazioni più estreme dello squadrismo per evitare il dissenso ù
 -  successivamente aumentò la pressione sui sindacati per ridurre il numero di scioperi
+- Creò nuove istituzioni:
+	- Gran consiglio del fascismo
+	- Milizia volontaria per la sicurezza nazionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyNzQwOTQ3LC05MTY1MDQ0NjksMTA2MT
+eyJoaXN0b3J5IjpbMjQwMTcyNzc0LC05MTY1MDQ0NjksMTA2MT
 Y3MDIxMCwtNzEyNDczNDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3
 NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMj
 cwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
