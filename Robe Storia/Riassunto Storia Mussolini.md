@@ -73,12 +73,16 @@ A governare l'Italia erano quindi 3 organi:
 
 ## Patti Lateranensi 
 
-Risoluzione dei Problemi tra Stato e chiesa Mussolini li stilò con il Papa Pio 
+Risoluzione dei Problemi tra Stato e chiesa Mussolini li stilò con il Papa Pio 10°.
+
+Questi dichiaravano:
+- Lo Stato del Vaticano come un Vero e proprio stato
+- RIconoscevano il 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNDI2MDQ3LC0xMjI1OTg4MjM0LDE5OD
-I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
-OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
-Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
-ODgyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0MzgyMDM2NTIsLTEyMjU5ODgyMzQsMT
+k4MjczNDI5LC05MTY1MDQ0NjksMTA2MTY3MDIxMCwtNzEyNDcz
+NDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3NDYsLTUwMDc4NDQ0Ni
+wxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMjcwNzQ1NjE0LDEyMjgx
+OTg4ODIsNzMwOTk4MTE2XX0=
 -->
