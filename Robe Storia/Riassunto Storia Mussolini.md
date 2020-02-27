@@ -23,10 +23,10 @@ naque così nel 1921 il **partito nazionale fascista** le cui linee guida erano 
 - passaggio a una politica economica liberista
 - tentativo di riallacciamento dei rapporti con la chiesa
 
-Nell'ottobre del 1922 Mussolini percepì che era il momento di agir
+Nell'ottobre del 1922 Mussolini percepì che era il momento di agire e chiamò a riunirsi a Roma tutte le camice nere d'Italia, vista la situazione come un possibile colpo di mano il presidente del consiglio Facta chiese al re Vittorio Emanuele III di dichiarare lo stato d'assedio, in tutta risposta il re convocò mussolini e gli affidò l'incarico di formare un nuovo governo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE2OTY0NTMsLTkxNjUwNDQ2OSwxMD
-YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
-Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
-wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQyODMyODY5MSwtOTE2NTA0NDY5LDEwNj
+E2NzAyMTAsLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNzc0NTg3
+NzQ2LC01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTExMDk0LD
+I3MDc0NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
 -->
