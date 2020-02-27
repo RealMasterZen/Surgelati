@@ -90,9 +90,10 @@ Per ripristinare l'economia statale si cercò di adottare un economia prevalenta
 Per vincere la disoccupazioni fù introdotto un piano di lavori pubblici.
 Il fascismo inoltre promosse 2 progetti ambiziosi:
 - la **battaglia del grano**, che mirava a incrementare la produzione dei cereale per i quali l'italia dipendeva in grande misura dall'estero
-- il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili
+- il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili le zone paludose del centro Italia, ad esempio l'Agro Pontino
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTkyODA4OSwtMTIyNTk4ODIzNCwxOT
+eyJoaXN0b3J5IjpbLTI3NzMzOTk4MSwtMTIyNTk4ODIzNCwxOT
 gyNzM0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0
 MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LD
 E2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5
