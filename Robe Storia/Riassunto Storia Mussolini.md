@@ -57,13 +57,15 @@ Vennero poi istituiti
 - **l'Ovra**, l'organo di polizia che doveva provvedere a reprimere il dissenso 
 - **Tribunale speciale per la difesa dello Stato**, con cui divenne più facile arrestare gli oppositori politici.
 
-in ogni città vennero sostituiti i sindaci con 
+in ogni città vennero sostituiti i sindaci con podestà scelti direttamente da Roma
+
+Infine furono concessi poteri altissimi al capo del Governo, e ridotti drasticamente q
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDczNzk2MiwtMTIyNTk4ODIzNCwxOT
-gyNzM0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0
-MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LD
-E2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5
-ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjI2NzYyODI2LC0xMjI1OTg4MjM0LDE5OD
+I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
+OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
+Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
+ODgyLDczMDk5ODExNl19
 -->
