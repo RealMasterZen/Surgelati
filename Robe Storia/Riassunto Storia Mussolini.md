@@ -10,8 +10,10 @@ l'ideologia Politica dei fesci era assolutamente contro i partiti di massa, era 
 Mussolini teneva a far diventare i Fasci un gran movimento e cercava il consenso trasversale di tutte le classi sociali, nonostante questo nelle elezioni del 1919 non ottennero grande successo e nessun seggio elettorale.
 
 Dopo questo insuccesso i Fasci cambiarono direzione appoggiando l'alta borghesia e la piccola borghesia, e stando contro la classe operai e i contadini.
+Questo cambio di rotta si rivelò assai fruttuoso per Mussolini e i suoi fasci che inizarono ad ottenere l'appoggio degli imprenditori agrari e degli impresari.
+Questi inoltre agivano con appoggio o sotto il velo di omertà delle forze dell'ordine e del Governo, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMyNjA3NTMsLTkxNjUwNDQ2OSwxMD
+eyJoaXN0b3J5IjpbLTE1NzYzNjUyODMsLTkxNjUwNDQ2OSwxMD
 YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
 Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
 wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
