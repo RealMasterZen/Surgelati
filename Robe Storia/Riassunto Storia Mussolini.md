@@ -39,10 +39,11 @@ Il governo di  di Mussoi si concentrò a:
 
 ## Omicidio Matteotti
 
-
+il primo gennaio del 1924 il Governo si sciolse e con le nuove elezioni i fascisti provvidero a cercare la vittoria attraverso brogli e minaccie, 
+dopo la ovvia v
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk2OTQ3OTAsLTkxNjUwNDQ2OSwxMD
-YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
-Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
-wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM4NTE5Njg1NSwtOTE2NTA0NDY5LDEwNj
+E2NzAyMTAsLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNzc0NTg3
+NzQ2LC01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTExMDk0LD
+I3MDc0NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
 -->
