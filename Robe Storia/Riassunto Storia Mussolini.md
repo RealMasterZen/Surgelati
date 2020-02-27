@@ -9,10 +9,10 @@ Poco dopo la conclusione della prima guerra mondiale il 23 marzo del 1919 Mussol
 l'ideologia Politica dei fesci era assolutamente contro i partiti di massa, era anticlericale e fortemente repubblicana e nazionlista inoltre prediligeva la risoluzione dellle contese politiche attraverso la violenza.
 Mussolini teneva a far diventare i Fasci un gran movimento e cercava il consenso trasversale di tutte le classi sociali, nonostante questo nelle elezioni del 1919 non ottennero grande successo e nessun seggio elettorale.
 
-Dopo questo insuccesso i Fasci cambiarono direzione appoggiando l'alta borghesia e la piccola borghesia
+Dopo questo insuccesso i Fasci cambiarono direzione appoggiando l'alta borghesia e la piccola borghesia, e stando contro la classe operai e i contadini.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MT
-I0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0
-NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMT
-IyODE5ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTMyNjA3NTMsLTkxNjUwNDQ2OSwxMD
+YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
+Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
+wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
 -->
