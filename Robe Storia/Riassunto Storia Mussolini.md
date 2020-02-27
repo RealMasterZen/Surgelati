@@ -26,10 +26,13 @@ naque così nel 1921 il **partito nazionale fascista** le cui linee guida erano 
 Nell'ottobre del 1922 Mussolini percepì che era il momento di agire e chiamò a riunirsi a Roma tutte le camice nere d'Italia, vista la situazione come un possibile colpo di mano il presidente del consiglio Facta chiese al re Vittorio Emanuele III di dichiarare lo stato d'assedio, in tutta risposta il re convocò mussolini e gli affidò l'incarico di formare un nuovo governo.
 
 2 giorni dopo, il 30 ottobre il governo Mussolini era pronto.
-A wuesto governo appartenevano fascisti, alcuni liberali e popolari, gli oppositori erano socialisti e comunisti, 
+A wuesto governo appartenevano fascisti, alcuni liberali e popolari, gli oppositori erano socialisti e comunisti.
+gran parte dell'elettorato attivo confidava nel nuovo partito come una forza capace di rinnovare la situazione in Italia ormai disastrosa.
+
+Il governo di  di Mussoi si conceentrò inizia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODQ5NzM5OCwtOTE2NTA0NDY5LDEwNj
-E2NzAyMTAsLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNzc0NTg3
-NzQ2LC01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTExMDk0LD
-I3MDc0NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1NjU1MzMwMzAsLTkxNjUwNDQ2OSwxMD
+YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
+Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
+wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
 -->
