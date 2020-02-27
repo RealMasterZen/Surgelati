@@ -48,11 +48,19 @@ dopo questo avvenimento si scatenò l'ira contro il partito fascista considerato
 3 gennaio del 1925 mussolini sì dichiaro nella camera dei Deputati come unico responsabile di ciò che era accaduto al socialista Matteotti.
 
 Tra il 1925 e il 1926 Mussolinì pubblicò le leggi fascistissime che prevedevano:
-- destituzione di qualsiasi partito antifas
+- destituzione di qualsiasi partito antifascista
+- censura e privazione della libertà di espressione 
+- privazione della libertà sindacale
+- privazione del diritto di sciopero
+
+Venne poi istituita 
+**l'Ovra**, l'organo di polizia che doveva provvedere a reprimere il dissenso
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjg1Mzg4MSwtMTIyNTk4ODIzNCwxOT
-gyNzM0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0
-MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LD
-E2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5
-ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDU4MDY0NzU0LC0xMjI1OTg4MjM0LDE5OD
+I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
+OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
+Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
+ODgyLDczMDk5ODExNl19
 -->
