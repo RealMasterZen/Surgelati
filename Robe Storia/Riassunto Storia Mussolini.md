@@ -35,9 +35,14 @@ Il governo di  di Mussoi si concentrò a:
 - Creò nuove istituzioni:
 	- Gran consiglio del fascismo
 	- Milizia volontaria per la sicurezza nazionale
+- introdotta legge elettorale Acerbo per consentire il pieno controllo del governo a Mussolini
+
+## Omicidio Matteotti
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMTcyNzc0LC05MTY1MDQ0NjksMTA2MT
-Y3MDIxMCwtNzEyNDczNDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3
-NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMj
-cwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3NTk2OTQ3OTAsLTkxNjUwNDQ2OSwxMD
+YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
+Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
+wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
 -->
