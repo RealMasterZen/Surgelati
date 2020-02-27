@@ -69,12 +69,16 @@ Grazie a ciò mussolini e il fascismo era i padroni assulti dell'Italia.
 A governare l'Italia erano quindi 3 organi:
 - Il Gran Consiglio Del fascismo
 - Il partito Nazional Fascista
-- Al vertice Benito Mussolini,. 
+- Al vertice Benito Mussolini, capo del Regime
+
+## Patti Lateranensi 
+
+Risoluzione dei Problemi tra Stato e chiesa Mussolini li stilò con il Papa Pio 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NjE4MCwtMTIyNTk4ODIzNCwxOTgyNz
-M0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0MDks
-LTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LDE2OT
-I2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5ODg4
-Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjIyNDI2MDQ3LC0xMjI1OTg4MjM0LDE5OD
+I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
+OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
+Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
+ODgyLDczMDk5ODExNl19
 -->
