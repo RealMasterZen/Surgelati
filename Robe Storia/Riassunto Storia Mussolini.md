@@ -83,11 +83,15 @@ Questi dichiaravano:
 ## Panorama Economico
 
 Vennero istituite delle Corporazioni per ogni branca produttiva (in totale 22 branche) e un organo super partes chiamato consiglio nazionale delle corporazioni
-e successivamente fondarono una Camera dei Fasci e delle corporaizoni che sostitui la camera dei deputati Italiana
+e successivamente fondarono una Camera dei Fasci e delle corporaizoni che sostitui la camera dei deputati Italiana.
+
+Per ripristinare l'economia statale si cercò di adottare un economia prevalentaemente Protezionistica con aumento dei prezzi sui beni più importanti
+
+Per vincere la disoccupazioni fù introdotto un piano 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk5ODU1NjAsLTEyMjU5ODgyMzQsMT
-k4MjczNDI5LC05MTY1MDQ0NjksMTA2MTY3MDIxMCwtNzEyNDcz
-NDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3NDYsLTUwMDc4NDQ0Ni
-wxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMjcwNzQ1NjE0LDEyMjgx
-OTg4ODIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTI3NTA4OTg4LC0xMjI1OTg4MjM0LDE5OD
+I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
+OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
+Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
+ODgyLDczMDk5ODExNl19
 -->
