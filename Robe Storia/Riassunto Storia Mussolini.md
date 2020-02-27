@@ -41,10 +41,12 @@ Il governo di  di Mussoi si concentrò a:
 
 il primo gennaio del 1924 il Governo si sciolse e con le nuove elezioni i fascisti provvidero a cercare la vittoria attraverso brogli e minaccie, 
 dopo la ovvia vittoria del partito con 324 seggi il Socialista **Matteotti** denunciò il parito per le illegalità commesse, come conseguenza alcuni fascisti lo rapirono e uccisero,
-dopo questo avvenimento si scatenò l'ira contro il partito fascista considerato i
+dopo questo avvenimento si scatenò l'ira contro il partito fascista considerato illegale e più parti fecero pressioni su Vittorio emanuele per destituire Mussolini.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYxNjY1NzgsLTkxNjUwNDQ2OSwxMD
-YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
-Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
-wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk4MjczNDI5LC05MTY1MDQ0NjksMTA2MT
+Y3MDIxMCwtNzEyNDczNDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3
+NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMj
+cwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
 -->
