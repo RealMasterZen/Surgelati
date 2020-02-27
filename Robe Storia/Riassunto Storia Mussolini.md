@@ -29,10 +29,12 @@ Nell'ottobre del 1922 Mussolini percepì che era il momento di agire e chiamò a
 A wuesto governo appartenevano fascisti, alcuni liberali e popolari, gli oppositori erano socialisti e comunisti.
 gran parte dell'elettorato attivo confidava nel nuovo partito come una forza capace di rinnovare la situazione in Italia ormai disastrosa.
 
-Il governo di  di Mussoi si conceentrò inizia
+Il governo di  di Mussoi si concentrò a:
+-  ridurre le manifestazioni più estreme dello squadrismo per evitare il dissenso ù
+-  successivamente aumentò la pressione sui sindacati per ridurre il numero di scioperi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU1MzMwMzAsLTkxNjUwNDQ2OSwxMD
-YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
-Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
-wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTkyNzQwOTQ3LC05MTY1MDQ0NjksMTA2MT
+Y3MDIxMCwtNzEyNDczNDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3
+NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMj
+cwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
 -->
