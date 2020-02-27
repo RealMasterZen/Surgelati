@@ -12,9 +12,12 @@ Mussolini teneva a far diventare i Fasci un gran movimento e cercava il consenso
 Dopo questo insuccesso i Fasci cambiarono direzione appoggiando l'alta borghesia e la piccola borghesia, e stando contro la classe operai e i contadini.
 Questo cambio di rotta si rivelò assai fruttuoso per Mussolini e i suoi fasci che inizarono ad ottenere l'appoggio degli imprenditori agrari e degli impresari.
 Questi inoltre agivano con appoggio o sotto il velo di omertà delle forze dell'ordine e del Governo, inoltre nel 1921 Mussolini fu portato da Giolitti come alleato per le elezioni, con questo i fascisti ottennero ben 35 deputati in parlamento.
+
+## Seguito elezioni 21 / Marci su Roma
+Le elezioni del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDE2NTUxMSwtOTE2NTA0NDY5LDEwNj
-E2NzAyMTAsLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNzc0NTg3
-NzQ2LC01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTExMDk0LD
-I3MDc0NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTkwNDE2NjM2LC05MTY1MDQ0NjksMTA2MT
+Y3MDIxMCwtNzEyNDczNDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3
+NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMj
+cwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
 -->
