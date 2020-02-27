@@ -82,10 +82,10 @@ Questi dichiaravano:
 
 ## Panorama Economico
 
-Vennero istituite delle Corporazioni
-
+Vennero istituite delle Corporazioni per ogni branca produttiva (in totale 22 branche) e un organo super partes chiamato consiglio nazionale delle corporazioni
+e successivamente fondarono una Camera dei Fasci e delle corporaizoni che sostitui la camera dei deputati Italiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ2NTUyMzEsLTEyMjU5ODgyMzQsMT
+eyJoaXN0b3J5IjpbLTE4NDk5ODU1NjAsLTEyMjU5ODgyMzQsMT
 k4MjczNDI5LC05MTY1MDQ0NjksMTA2MTY3MDIxMCwtNzEyNDcz
 NDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3NDYsLTUwMDc4NDQ0Ni
 wxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMjcwNzQ1NjE0LDEyMjgx
