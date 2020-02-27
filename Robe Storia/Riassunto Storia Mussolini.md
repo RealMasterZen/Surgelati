@@ -77,10 +77,15 @@ Risoluzione dei Problemi tra Stato e chiesa Mussolini li stilò con il Papa Pio 
 
 Questi dichiaravano:
 - Lo Stato del Vaticano come un Vero e proprio stato
-- RIconoscevano il 
+- Riconoscevano il cattolicesono come la sola religione dello stato
+- Venne attribuito valore civile al matrimonio religioso
+
+## Panorama Economico
+
+Vennero istituite delle Corporazioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgyMDM2NTIsLTEyMjU5ODgyMzQsMT
+eyJoaXN0b3J5IjpbLTEzMTQ2NTUyMzEsLTEyMjU5ODgyMzQsMT
 k4MjczNDI5LC05MTY1MDQ0NjksMTA2MTY3MDIxMCwtNzEyNDcz
 NDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3NDYsLTUwMDc4NDQ0Ni
 wxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMjcwNzQ1NjE0LDEyMjgx
