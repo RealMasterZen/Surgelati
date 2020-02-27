@@ -87,11 +87,14 @@ e successivamente fondarono una Camera dei Fasci e delle corporaizoni che sostit
 
 Per ripristinare l'economia statale si cercò di adottare un economia prevalentaemente Protezionistica con aumento dei prezzi sui beni più importanti
 
-Per vincere la disoccupazioni fù introdotto un piano 
+Per vincere la disoccupazioni fù introdotto un piano di lavori pubblici.
+Il fascismo inoltre promosse 2 progetti ambiziosi:
+- la **battaglia del grano**, che mirava a incrementare la produzione dei cereale per i quali l'italia dipendeva in grande misura dall'estero
+- il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NTA4OTg4LC0xMjI1OTg4MjM0LDE5OD
-I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
-OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
-Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
-ODgyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTU1NTkyODA4OSwtMTIyNTk4ODIzNCwxOT
+gyNzM0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0
+MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LD
+E2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5
+ODg4Miw3MzA5OTgxMTZdfQ==
 -->
