@@ -59,13 +59,16 @@ Vennero poi istituiti
 
 in ogni città vennero sostituiti i sindaci con podestà scelti direttamente da Roma
 
-Infine furono concessi poteri altissimi al capo del Governo, e ridotti drasticamente q
+- Infine furono concessi poteri altissimi al capo del Governo, e ridotti drasticamente quelli del Parlamento,
+- nel 1948 fu approvata una nuova legge elettorali che consentiva l'approvazione di una unica lista fascista.
+
+Grazie a ciò mussolini e il fascismo era i padroni assulti dell'Italia.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NzYyODI2LC0xMjI1OTg4MjM0LDE5OD
-I3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAyMTAsLTcxMjQ3MzQw
-OSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC01MDA3ODQ0NDYsMT
-Y5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0NTYxNCwxMjI4MTk4
-ODgyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTU2NDkxMzI2MiwtMTIyNTk4ODIzNCwxOT
+gyNzM0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0
+MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LD
+E2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5
+ODg4Miw3MzA5OTgxMTZdfQ==
 -->
