@@ -45,7 +45,7 @@ dopo questo avvenimento si scatenò l'ira contro il partito fascista considerato
 
 ## Trasformazione dell'italia in una dittatura
 
-3 gennaio del 1925 mussolini sì dichiaro nella camera dei Deputati come unico responsabile di ciò che era accaduto al socialista Matteotti.
+3 gennaio del 1925 mussolini sì dichiarò nella camera dei Deputati come unico responsabile di ciò che era accaduto al socialista Matteotti.
 
 Tra il 1925 e il 1926 Mussolinì pubblicò le leggi fascistissime che prevedevano:
 - destituzione di qualsiasi partito antifascista
@@ -93,9 +93,9 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 - il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili le zone paludose del centro Italia, ad esempio l'Agro Pontino
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzMzOTk4MSwtMTIyNTk4ODIzNCwxOT
-gyNzM0MjksLTkxNjUwNDQ2OSwxMDYxNjcwMjEwLC03MTI0NzM0
-MDksLTE2Mjc4NTAwNzAsLTc3NDU4Nzc0NiwtNTAwNzg0NDQ2LD
-E2OTI2NzgxNDcsLTY5NTUxMTA5NCwyNzA3NDU2MTQsMTIyODE5
-ODg4Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTEyMjU5ODA3MCwtMjc3MzM5OTgxLC0xMj
+I1OTg4MjM0LDE5ODI3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAy
+MTAsLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC
+01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0
+NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
 -->
