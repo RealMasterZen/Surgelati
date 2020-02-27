@@ -14,13 +14,16 @@ Questo cambio di rotta si rivelò assai fruttuoso per Mussolini e i suoi fasci c
 Questi inoltre agivano con appoggio o sotto il velo di omertà delle forze dell'ordine e del Governo, inoltre nel 1921 Mussolini fu portato da Giolitti come alleato per le elezioni, con questo i fascisti ottennero ben 35 deputati in parlamento.
 
 ## Seguito elezioni 21 / Marci su Roma
+
 Le elezioni del 21 dunque non diedero una maggioranza stabile e nel giro di pochi mesi prima Bonomi e poi Facta rimpiazzarono Giolitti come presidenti del Consiglio ;questi si dimostrarono però sempre inefficaci nel trattare la deifficile situazione socio economica italiana.
 
 Intanto lo squadrismo prendeva sempre più piede all'interno dello stato e Mussolini trasformò il suo movimento in un vero e proprio Partito: 
-naque così nel 1921 il partito nazionale fascista
+naque così nel 1921 il **partito nazionale fascista** le cui linee guida erano : 
+- abbandono delle iniziali posizioni radicali
+- u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTMyNDQ5LC05MTY1MDQ0NjksMTA2MT
-Y3MDIxMCwtNzEyNDczNDA5LC0xNjI3ODUwMDcwLC03NzQ1ODc3
-NDYsLTUwMDc4NDQ0NiwxNjkyNjc4MTQ3LC02OTU1MTEwOTQsMj
-cwNzQ1NjE0LDEyMjgxOTg4ODIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMjA2MzcxMTgsLTkxNjUwNDQ2OSwxMD
+YxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLTc3NDU4
+Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUxMTA5NC
+wyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ==
 -->
