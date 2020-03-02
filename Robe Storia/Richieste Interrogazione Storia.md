@@ -30,7 +30,5 @@ PARTI:
 	Il fascio Littorio
 -  Donne appena disimpiegate dalle fabbriche con il fascismo tornavano alla loro situazione di sottoposte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODA4MDQzOCwzNTEwMDU0MDksMTMyND
-A5MTMzNiwtMTQ0MzI0NTYzMCw3NzAyOTU3MDUsLTMxNzE0OTI5
-M119
+eyJoaXN0b3J5IjpbMTcxODA4MDQzOF19
 -->
