@@ -28,7 +28,15 @@ Gli elementi caratteristici che costituiscono ogni progetto devono essere:
 	- Temporale
 	- Finanziario
 	- Personale
+
+## Fasi di un progetto
+
+**qualsiasi progetto** si compone di 4 fasi fondamentali:
+- la fase di **concezione**
+- la fase di **pianificazione**
+- la fase di **realizzazione**
+- la fase di ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDcxNDMzMSwtNTQ4MjUzOTA0LDczMD
+eyJoaXN0b3J5IjpbLTI2OTA5NDc3NiwtNTQ4MjUzOTA0LDczMD
 k5ODExNl19
 -->
