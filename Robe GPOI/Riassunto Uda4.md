@@ -79,9 +79,11 @@ Bisogna pensare al **progetto** come una **successione di processi**
 **Vincoli/Opportunità** : se non previsti potrebbero presentarsi in corso d'opera e quindi stravolgere il processo di produzione richiedendo tempi e risorse maggiori
 
 più specificatamente nel caso in cui questi vincoli emergano si causano diversi fenomeni:
-- Ricicli
+- **Ricicli**: si torna alla fase iniziale per riprogettare secondo il cambiamento
+- **Scaricamento problemi nella fase finale**: si aspetta l'ultima fase del progetto per risolvere questi problemi 
+- rINUNCIA ALLA 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDcwNjcwLC0xNzM2NjMyODE5LDEzOD
-c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzU3ODA3MDEsLTE3MzY2MzI4MTksMT
+M4NzU0MDQzMywtMTYyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5
+ODExNl19
 -->
