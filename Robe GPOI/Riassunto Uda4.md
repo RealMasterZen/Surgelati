@@ -141,10 +141,9 @@ Il project Menager ha nel suo complesso però dei compiti comuni a tutti e 3 i r
 - **Ruolo di confine** tra i gruppi di lavoro
 - **Ruolo di interfaccia** tra azienda e cliente
 - **Ruolo intermedio**: si intende come chiave di volta all'interno delle gerarchie
-- **Ruolo di agente del
+- **Ruolo di agente del cambiamento**: può essere promotore di cambiamenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mzc2MDIyMSw3OTcwMDE5NzMsLTE5OD
-I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
-MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbNjkyOTEzMzQ1LDc5NzAwMTk3MywtMTk4Mj
+UxMDUzNCw5Mjk3NDYyNDQsLTE3MzY2MzI4MTksMTM4NzU0MDQz
+MywtMTYyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
 -->
