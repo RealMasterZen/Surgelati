@@ -72,8 +72,9 @@ inoltre *si verifica il grado di raggiungimento degli obbiettivi*
 
 ## Gestione di un progetto e obbiettivi di progetto (117/123)
 
-
+Bisogna pensare al **progetto come una successione di processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY2MzI4MTksMTM4NzU0MDQzMywtMT
-YyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTA3MTMwNDg2LC0xNzM2NjMyODE5LDEzOD
+c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
+MTZdfQ==
 -->
