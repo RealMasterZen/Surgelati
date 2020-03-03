@@ -43,8 +43,9 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 Momento di nascita e ideazione del progetto stesso
 1) Si **identifica** quale potrebbe essere **la risposta al problema** o identificare eventuali opportunità
-2) Si  
+2) Si stima la **fattibilità** e la **convenienza**
+3) Si **decide** solo ora, concluse tutte le ricerche **se attivare il progetto** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA1NjE0MzYsLTE2MjYyNTI1ODYsLT
+eyJoaXN0b3J5IjpbLTIwODg1MjkyMzksLTE2MjYyNTI1ODYsLT
 U0ODI1MzkwNCw3MzA5OTgxMTZdfQ==
 -->
