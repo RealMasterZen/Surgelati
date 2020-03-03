@@ -49,10 +49,12 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 > **Definizione**
 
-*il progetto viene pianificato in tutti i suoi aspetti*
+*il progetto viene **pianificato** in tutti i suoi aspetti*
 
-
+1) Si **identificano le attività** del progetto
+2) Si **sceglie** una **struttura organizzativa**
+3) Si **formula un Programma di Lavoro** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODQyMTMyLC0xNjI2MjUyNTg2LC01ND
+eyJoaXN0b3J5IjpbNDAyOTE1OTUzLC0xNjI2MjUyNTg2LC01ND
 gyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
