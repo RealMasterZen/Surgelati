@@ -10,7 +10,7 @@ Da Sintetizzare sono le unità:
 Il progetto è un processo che richiede uno sforzo concentrato nel tempo finalizzato a realizzare un output unico
 
 
-### Il Progetto e le sue Fasi
+### Il Progetto e le sue Fasi (112/115)
 Il Progeto e la sua gestione si compongono di una serie di attività di più sottospecie:
 - pianificazione 
 - Esecutive
@@ -29,7 +29,7 @@ Gli elementi caratteristici che costituiscono ogni progetto devono essere:
 	- Finanziario
 	- Personale
 
-## Fasi di un progetto
+### Fasi di un progetto
 
 **qualsiasi progetto** si compone di 4 fasi fondamentali:
 - la fase di **concezione**
@@ -70,8 +70,8 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 inoltre *si verifica il grado di raggiungimento degli obbiettivi*
 
-## 
+## Gestione di un progetto e obbiettivi di progetto (117/123)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEyMzE5NjUsMTM4NzU0MDQzMywtMT
-YyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg4NjEyOTU4NSwxMzg3NTQwNDMzLC0xNj
+I2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
