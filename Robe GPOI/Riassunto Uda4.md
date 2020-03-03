@@ -82,8 +82,10 @@ più specificatamente nel caso in cui questi vincoli emergano si causano diversi
 - **Ricicli**: si torna alla fase iniziale per riprogettare secondo il cambiamento
 - **Scaricamento problemi nella fase finale**: si aspetta l'ultima fase del progetto per risolvere questi problemi 
 - **Rinuncia alla correzione dell'errore**: questi vincoli aumentano di gravità proporzionalmente allo stato di avanzamento del problema 
+
+In ogni caso nel ricorrere a questi ostacoli 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MDMwMzcyLC0xNzM2NjMyODE5LDEzOD
-c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTU5NzE1NzQzOCwtMTczNjYzMjgxOSwxMz
+g3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4
+MTE2XX0=
 -->
