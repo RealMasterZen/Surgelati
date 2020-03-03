@@ -130,9 +130,14 @@ Ogni progetto è organizzato (nell'ottica dei gruppi di lavoro) seguendo 3 strut
 
 **Colui che coordina le risorse al fine di compiere gli obbiettivi preposti** di costi tempo e qualità
 
+Quest'ultimo può avere 3 caratterizzazioni differenti
 
+|Peso Leggero|Peso medio|Peso Massimo|
+|--|--|--|
+|- Facilitatore|||
+|- Pres|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTQ2Nzk4MCw3OTcwMDE5NzMsLTE5OD
+eyJoaXN0b3J5IjpbLTY5ODUxNjUwOSw3OTcwMDE5NzMsLTE5OD
 I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
 MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
 ==
