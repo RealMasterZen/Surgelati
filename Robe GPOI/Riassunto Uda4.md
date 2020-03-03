@@ -115,8 +115,15 @@ Questi Obbiettivi di Progetto devono essere decisi rispettando la standardizzazi
 
 ## L'Organizzazione dei progetti(125/139)
 
+Ogni progetto è organizzato (nell'ottica dei gruppi di lavoro) seguendo 3 strutture:
+- **funzionale**
+		- dove ogn
+- **task force**
+- **matrice**
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MDAxOTczLC0xOTgyNTEwNTM0LDkyOT
-c0NjI0NCwtMTczNjYzMjgxOSwxMzg3NTQwNDMzLC0xNjI2MjUy
-NTg2LC01NDgyNTM5MDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY0NzU4NzgzOCw3OTcwMDE5NzMsLTE5OD
+I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
+MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
+==
 -->
