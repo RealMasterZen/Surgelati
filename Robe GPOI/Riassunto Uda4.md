@@ -88,9 +88,11 @@ In ogni caso nel ricorrere a questi ostacoli il progetto arriva a dilatarsi nei 
 Per prevenire l'accadere di questi problemi è necessario utilizzare **l'anticipazione dei vincoli**
 
 Molto importanti sono le fasi di **concezione e pianificazione** infatti una maggiore attenzione durante queste fasi permette una più breve fase di realizzazione
-questo processo è definito come **anticipazione dei vincoli** e consiste molto più nello specifico nel coinvolgere fin dalle prime fasi del progetto i **project stakeholder** per venire a conoscenz
+questo processo è definito come **anticipazione dei vincoli** e consiste molto più nello specifico nel coinvolgere fin dalle prime fasi del progetto i **project stakeholder** per venire a conoscenza fin da subito di eventuali vincoli e per avere piena consapevolezza della direzione del progetto.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NjU5ODE5LC0xNzM2NjMyODE5LDEzOD
+eyJoaXN0b3J5IjpbOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzOD
 c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
 MTZdfQ==
 -->
