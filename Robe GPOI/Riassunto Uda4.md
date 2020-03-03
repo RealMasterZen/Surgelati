@@ -102,11 +102,13 @@ Un progetto presenta 2 tipi di obbiettivi:
 	- si **Occupano dell'output** del Progetto
 	- 
 - di **Continuità**:
-	- Sono **presidiati da un Impreditore**c 
+	- Sono **presidiati da** un **Impreditore** 
 	- Rappresentano un legame tra il progetto e l'azienda
-	- Si 
+	- Rappresentano gli obbiettivi che motivano l'azienda ad affrontare il progetto
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI1MTA1MzQsOTI5NzQ2MjQ0LC0xNz
-M2NjMyODE5LDEzODc1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1
-MzkwNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTIxMTU1NDM3MiwtMTk4MjUxMDUzNCw5Mj
+k3NDYyNDQsLTE3MzY2MzI4MTksMTM4NzU0MDQzMywtMTYyNjI1
+MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
 -->
