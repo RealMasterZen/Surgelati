@@ -70,8 +70,8 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 inoltre *si verifica il grado di raggiungimento degli obbiettivi*
 
-
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzU0MDQzMywtMTYyNjI1MjU4NiwtNT
-Q4MjUzOTA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExNDEyMzE5NjUsMTM4NzU0MDQzMywtMT
+YyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
 -->
