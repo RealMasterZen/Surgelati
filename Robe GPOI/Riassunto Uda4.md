@@ -81,9 +81,9 @@ Bisogna pensare al **progetto** come una **successione di processi**
 più specificatamente nel caso in cui questi vincoli emergano si causano diversi fenomeni:
 - **Ricicli**: si torna alla fase iniziale per riprogettare secondo il cambiamento
 - **Scaricamento problemi nella fase finale**: si aspetta l'ultima fase del progetto per risolvere questi problemi 
-- rINUNCIA ALLA 
+- **Rinuncia alla correzione dell'errore**: questi vincoli aumentano di gravità proporzionalmente allo stato di  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU3ODA3MDEsLTE3MzY2MzI4MTksMT
-M4NzU0MDQzMywtMTYyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMTkyMDU3MzMzMywtMTczNjYzMjgxOSwxMz
+g3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4
+MTE2XX0=
 -->
