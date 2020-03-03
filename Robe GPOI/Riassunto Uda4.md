@@ -5,8 +5,11 @@ Da Sintetizzare sono le unità:
 - 2
 - 3
 
-## Le
+## Lezione 1
+### Il progetto
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg2Mzk2MzgsLTU0ODI1MzkwNCw3Mz
+eyJoaXN0b3J5IjpbLTE5MTgzMDg1MTYsLTU0ODI1MzkwNCw3Mz
 A5OTgxMTZdfQ==
 -->
