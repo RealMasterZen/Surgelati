@@ -117,12 +117,16 @@ Questi Obbiettivi di Progetto devono essere decisi rispettando la standardizzazi
 
 Ogni progetto è organizzato (nell'ottica dei gruppi di lavoro) seguendo 3 strutture:
 - **funzionale**
-		- dove ogn
+	- Diretto da un **responsabile funzionale**
+	- Ogni reparto sviluppa indipendentemente una parte del progetto
 - **task force**
+	- Diretta dal **Project Leader**
+	- Consiste in un gruppo di lavoro a tempo pieno 
 - **matrice**
+	- Gruppi di lavoro che rispondo al ***
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzU4NzgzOCw3OTcwMDE5NzMsLTE5OD
+eyJoaXN0b3J5IjpbMTM1MDk3MTcyMCw3OTcwMDE5NzMsLTE5OD
 I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
 MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
 ==
