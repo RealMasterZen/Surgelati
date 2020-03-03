@@ -41,7 +41,8 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 > **Concezione**
 
+Momento 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzM1NjUzNSwtNTQ4MjUzOTA0LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbODQwNjEzMzUwLC01NDgyNTM5MDQsNzMwOT
+k4MTE2XX0=
 -->
