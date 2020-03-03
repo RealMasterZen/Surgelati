@@ -106,9 +106,11 @@ Un progetto presenta 2 tipi di obbiettivi:
 	- Rappresentano un legame tra il progetto e l'azienda
 	- Rappresentano gli obbiettivi che motivano l'azienda ad affrontare il progetto
 
-
+Questi Obbiettivi di Progetto devono essere decisi rispettando la standardizzazione di obbiettivo **S.M.A.R.T**:
+- *S*
+- *M*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTU1NDM3MiwtMTk4MjUxMDUzNCw5Mj
-k3NDYyNDQsLTE3MzY2MzI4MTksMTM4NzU0MDQzMywtMTYyNjI1
-MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzA4NTI2MjMxLC0xOTgyNTEwNTM0LDkyOT
+c0NjI0NCwtMTczNjYzMjgxOSwxMzg3NTQwNDMzLC0xNjI2MjUy
+NTg2LC01NDgyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
