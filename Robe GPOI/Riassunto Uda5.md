@@ -14,8 +14,8 @@ Per risolvere questa problematica i progetti informatici richiedono due tipologi
 
 ## Tipologie di Progetti Informatici
 
-
+di norma l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC0xMz
-I2MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbMTg1Nzc0NDI1MSwyMTAxOTc5OTIxLDIwNT
+MyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
 -->
