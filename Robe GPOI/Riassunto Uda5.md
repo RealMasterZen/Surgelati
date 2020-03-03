@@ -19,8 +19,8 @@ di norma l'esito di un progetto informatico può essere di 2 tipo:
 - il prodotto **pacchettizzato** che verrà venduto tramite licenza al mercato generale
 
 I progetti informatici inoltre possono essere classificati in 4 tipologie:
-- progetti commercial
+- progetti commerciali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk3NDk2MDcsMjEwMTk3OTkyMSwyMD
-UzMjE1NDY5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNT
+MyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
 -->
