@@ -74,9 +74,11 @@ inoltre *si verifica il grado di raggiungimento degli obbiettivi*
 
 Bisogna pensare al **progetto** come una **successione di processi**
 
-per le fasi di una successione valgono interdipendenze, infatti tra ogni fase valgono
+**per le fasi** di un progetto **valgono interdipendenze**, infatti tra ogni fase valgono interdipendenze reciproche.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODA2MzQ0LC0xNzM2NjMyODE5LDEzOD
-c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTM2MzgxNDI3NywtMTczNjYzMjgxOSwxMz
+g3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4
+MTE2XX0=
 -->
