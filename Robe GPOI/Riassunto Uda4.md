@@ -64,8 +64,14 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 *La vera e propria **realizzazione** del progetto*
 
+> **Chiusura**
+
+***output rilasciato** per il funzionamento a regime*
+
+inoltre *si verifica il grado di raggiungimento degli obbiettivi*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzI0MjczLC0xNjI2MjUyNTg2LC01ND
-gyNTM5MDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM4NzU0MDQzMywtMTYyNjI1MjU4NiwtNT
+Q4MjUzOTA0LDczMDk5ODExNl19
 -->
