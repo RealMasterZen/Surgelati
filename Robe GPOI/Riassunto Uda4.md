@@ -87,9 +87,9 @@ In ogni caso nel ricorrere a questi ostacoli il progetto arriva a dilatarsi nei 
 
 Per prevenire l'accadere di questi problemi è necessario utilizzare **l'anticipazione dei vincoli**
 
-A questo punto si 
+Molto importanti sono le fasi di **concezione e pianificazione** infatti una maggiore attenzione durante queste fasi permette una più preve 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTIyOTU1MCwtMTczNjYzMjgxOSwxMz
-g3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMTYyMTI1MzE5LC0xNzM2NjMyODE5LDEzOD
+c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
+MTZdfQ==
 -->
