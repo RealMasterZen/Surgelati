@@ -42,8 +42,8 @@ ora una breve descrizione per ciascuna di queste fasi:
 > **Concezione**
 
 Momento di nascita e ideazione del progetto stesso
-- Si identifica 
+- Si identifica quale potrebbe essere la risposta al problema o identificare eventuali opportunità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjExOTkwMTI2LC0xNjI2MjUyNTg2LC01ND
+gyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
