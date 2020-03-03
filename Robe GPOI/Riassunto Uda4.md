@@ -123,10 +123,12 @@ Ogni progetto è organizzato (nell'ottica dei gruppi di lavoro) seguendo 3 strut
 	- Diretta dal **Project Leader**
 	- Consiste in un gruppo di lavoro a tempo pieno 
 - **matrice**
-	- Gruppi di lavoro che rispondo al ***
-- 
+	- Gruppi di lavoro che rispondo al **Project Leader**
+	- Consiste in un mix tra le 2 altre tipologie
+ 
+## Il Project Menager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDk3MTcyMCw3OTcwMDE5NzMsLTE5OD
+eyJoaXN0b3J5IjpbMTMyNDU0NTk5NSw3OTcwMDE5NzMsLTE5OD
 I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
 MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
 ==
