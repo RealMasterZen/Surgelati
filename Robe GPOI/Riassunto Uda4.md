@@ -71,7 +71,9 @@ ora una breve descrizione per ciascuna di queste fasi:
 inoltre *si verifica il grado di raggiungimento degli obbiettivi*
 
 ## Gestione di un progetto e obbiettivi di progetto (117/123)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjEyOTU4NSwxMzg3NTQwNDMzLC0xNj
-I2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MzY2MzI4MTksMTM4NzU0MDQzMywtMT
+YyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
 -->
