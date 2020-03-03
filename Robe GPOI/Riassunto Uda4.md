@@ -44,17 +44,28 @@ ora una breve descrizione per ciascuna di queste fasi:
 *Momento di **nascita e ideazione** del progetto stesso*
 
 1) Si **identifica** quale potrebbe essere **la risposta al problema** o identificare eventuali opportunità
+
 2) Si stima la **fattibilità** e la **convenienza**
+
 3) Si **decide** solo ora, concluse tutte le ricerche **se attivare il progetto**
+
 
 > **Definizione**
 
 *il progetto viene **pianificato** in tutti i suoi aspetti*
 
 1) Si **identificano le attività** del progetto
+
 2) Si **sceglie** una **struttura organizzativa**
+
 3) Si **formula un Programma di Lavoro** 
+
+> **Realizzazione**
+
+*La vera e propria **realizzazione** del progetto*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyOTE1OTUzLC0xNjI2MjUyNTg2LC01ND
+eyJoaXN0b3J5IjpbMTk4NzI0MjczLC0xNjI2MjUyNTg2LC01ND
 gyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
