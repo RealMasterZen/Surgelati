@@ -6,10 +6,10 @@ Da Sintetizzare sono le unità:
 - 3
 
 ## Lezione 1
-### Il progetto
 
-j 
+### Il Progetto e le sue Fasi
+Il Progeto e la sua gestione si compongono di una serie di attività che possono 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTUwNTk1OCwtNTQ4MjUzOTA0LDczMD
+eyJoaXN0b3J5IjpbMTA1MzA0OTAwMywtNTQ4MjUzOTA0LDczMD
 k5ODExNl19
 -->
