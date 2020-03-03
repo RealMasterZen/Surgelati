@@ -22,8 +22,13 @@ attraversando 3 sottofasi:
 - Lo sviluppo
 - Il Risultato
 
-Gli elementi ca
+Gli elementi caratteristici che costituiscono ogni progetto devono essere:
+- Un **obbiettivo**
+- delle **limitazioni** che possono essere di carattere:
+	- Temporale
+	- Finanziario
+	- Personale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjIzODQzMSwtNTQ4MjUzOTA0LDczMD
+eyJoaXN0b3J5IjpbMTM5NDcxNDMzMSwtNTQ4MjUzOTA0LDczMD
 k5ODExNl19
 -->
