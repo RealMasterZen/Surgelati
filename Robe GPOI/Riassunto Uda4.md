@@ -93,13 +93,15 @@ questo processo è definito come **anticipazione dei vincoli** e consiste molto 
 ## Obbiettivi di progetto
 
 Un progetto presenta 2 tipi di obbiettivi:
-- Specifici che si classificano in:
-	- di Costo
-	- di Qualità
-	- 
-- di continuità
+- **Specifici** che si classificano in:
+	- di **Costo**
+	- di **Qualità**
+	- di **Tempo**
+- di **Continuità**:
+	- Sono presidiati da un Impreditore 
+	- Rappresentano 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzE3NzM1OSw5Mjk3NDYyNDQsLTE3Mz
+eyJoaXN0b3J5IjpbLTMwODYwNDE1OCw5Mjk3NDYyNDQsLTE3Mz
 Y2MzI4MTksMTM4NzU0MDQzMywtMTYyNjI1MjU4NiwtNTQ4MjUz
 OTA0LDczMDk5ODExNl19
 -->
