@@ -14,8 +14,13 @@ Per risolvere questa problematica i progetti informatici richiedono due tipologi
 
 ## Tipologie di Progetti Informatici
 
-di norma l
+di norma l'esito di un progetto informatico può essere di 2 tipo:
+- il prodotto **ad hoc** che verrà venduto privatamente a un cliente
+- il prodotto **pacchettizzato** che verrà venduto tramite licenza al mercato generale
+
+I progetti informatici inoltre possono essere classificati in 4 tipologie:
+- progetti commercial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Nzc0NDI1MSwyMTAxOTc5OTIxLDIwNT
-MyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzk3NDk2MDcsMjEwMTk3OTkyMSwyMD
+UzMjE1NDY5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
 -->
