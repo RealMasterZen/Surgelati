@@ -8,8 +8,8 @@ Da Sintetizzare sono le unità:
 ## Lezione 1
 ### Il progetto
 
-
+j 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgzMDg1MTYsLTU0ODI1MzkwNCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM4MTUwNTk1OCwtNTQ4MjUzOTA0LDczMD
+k5ODExNl19
 -->
