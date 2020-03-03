@@ -36,8 +36,10 @@ Gli elementi caratteristici che costituiscono ogni progetto devono essere:
 - la fase di **pianificazione**
 - la fase di **realizzazione**
 - la fase di **chiusura**
-o
+ora una breve descrizione per ciascuna di queste fasi:
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NjcxMjgxLC01NDgyNTM5MDQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU4MjgxMjgzMiwtNTQ4MjUzOTA0LDczMD
+k5ODExNl19
 -->
