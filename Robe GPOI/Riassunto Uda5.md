@@ -12,8 +12,10 @@ Per risolvere questa problematica i progetti informatici richiedono due tipologi
 - **top down** a partire dagli obbiettivi di un progetto l scompone in sotto obbiettivi individuando e formalizzando le fasi per raggiungerli e dettagliando le singole attività che devono essere svolte
 - **bottom up** che parte dalle attività, ne individua le risorse necessarie, valuta i tempi e i costi e li aggrega a un progetto
 
+## Tipologie di Progetti Informatici
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MT
-g4NTMxNF19
+eyJoaXN0b3J5IjpbMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC0xMz
+I2MzY0MzcsMTkxODg1MzE0XX0=
 -->
