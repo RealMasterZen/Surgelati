@@ -6,8 +6,8 @@ Da sintetizzare sono le unità:
 
 # I Progetti Informatici
 
-
+sono a tutti gli effetti dei progetti come gli altri con la sole e unica differenza che nella loro realizzazione essi richiedono la costruzione di un algoritmo, quest'ultima attività potrebbe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjk1NTM4NSwxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbLTY2MzAzNDAzNSwxOTE4ODUzMTRdfQ==
 -->
