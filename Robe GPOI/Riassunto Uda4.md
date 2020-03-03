@@ -6,6 +6,9 @@ Da Sintetizzare sono le unità:
 - 3
 
 ## Lezione 1
+### Il Progetto
+Il progetto è un processo che richiede uno sforzo concentrato nel tempo finalizzato a realizzare un output unico
+
 
 ### Il Progetto e le sue Fasi
 Il Progeto e la sua gestione si compongono di una serie di attività di più sottospecie:
@@ -14,7 +17,13 @@ Il Progeto e la sua gestione si compongono di una serie di attività di più sot
 - Di controllo
 
 Il ***Project menajer*** guida il progetto al suo compimento 
+attraversando 3 sottofasi:
+- L'inizio 
+- Lo sviluppo
+- Il Risultato
+
+Gli elementi ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzgwMTQ2OSwtNTQ4MjUzOTA0LDczMD
+eyJoaXN0b3J5IjpbLTU3MjIzODQzMSwtNTQ4MjUzOTA0LDczMD
 k5ODExNl19
 -->
