@@ -127,8 +127,12 @@ Ogni progetto è organizzato (nell'ottica dei gruppi di lavoro) seguendo 3 strut
 	- Consiste in un mix tra le 2 altre tipologie
  
 ## Il Project Menager
+
+**Colui che coordina le risorse al fine di compiere gli obbiettivi preposti** di costi tempo e qualità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDU0NTk5NSw3OTcwMDE5NzMsLTE5OD
+eyJoaXN0b3J5IjpbLTg4OTQ2Nzk4MCw3OTcwMDE5NzMsLTE5OD
 I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
 MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
 ==
