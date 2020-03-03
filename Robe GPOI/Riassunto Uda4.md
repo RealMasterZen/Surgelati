@@ -41,11 +41,18 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 > **Concezione**
 
-Momento di nascita e ideazione del progetto stesso
+*Momento di **nascita e ideazione** del progetto stesso*
+
 1) Si **identifica** quale potrebbe essere **la risposta al problema** o identificare eventuali opportunità
 2) Si stima la **fattibilità** e la **convenienza**
-3) Si **decide** solo ora, concluse tutte le ricerche **se attivare il progetto** 
+3) Si **decide** solo ora, concluse tutte le ricerche **se attivare il progetto**
+
+> **Definizione**
+
+*il progetto viene pianificato in tutti i suoi aspetti*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg1MjkyMzksLTE2MjYyNTI1ODYsLT
-U0ODI1MzkwNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU5ODQyMTMyLC0xNjI2MjUyNTg2LC01ND
+gyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
