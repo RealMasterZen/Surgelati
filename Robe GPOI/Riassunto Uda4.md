@@ -90,9 +90,16 @@ Per prevenire l'accadere di questi problemi è necessario utilizzare **l'anticip
 Molto importanti sono le fasi di **concezione e pianificazione** infatti una maggiore attenzione durante queste fasi permette una più breve fase di realizzazione
 questo processo è definito come **anticipazione dei vincoli** e consiste molto più nello specifico nel coinvolgere fin dalle prime fasi del progetto i **project stakeholder** per venire a conoscenza fin da subito di eventuali vincoli e per avere piena consapevolezza della direzione del progetto.
 
+## Obbiettivi di progetto
 
+Un progetto presenta 2 tipi di obbiettivi:
+- Specifici che si classificano in:
+	- di Costo
+	- di Qualità
+	- 
+- di continuità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzOD
-c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMjEyMzE3NzM1OSw5Mjk3NDYyNDQsLTE3Mz
+Y2MzI4MTksMTM4NzU0MDQzMywtMTYyNjI1MjU4NiwtNTQ4MjUz
+OTA0LDczMDk5ODExNl19
 -->
