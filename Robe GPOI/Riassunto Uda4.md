@@ -113,9 +113,10 @@ Questi Obbiettivi di Progetto devono essere decisi rispettando la standardizzazi
 - **R**ealistici
 - **T**emporalmente definibili
 
+## L'Organizzazione dei progetti(125/139)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ3ODQ5NTUsLTE5ODI1MTA1MzQsOT
-I5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0MzMsLTE2MjYy
-NTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzk3MDAxOTczLC0xOTgyNTEwNTM0LDkyOT
+c0NjI0NCwtMTczNjYzMjgxOSwxMzg3NTQwNDMzLC0xNjI2MjUy
+NTg2LC01NDgyNTM5MDQsNzMwOTk4MTE2XX0=
 -->
