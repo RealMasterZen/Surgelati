@@ -138,10 +138,12 @@ Quest'ultimo può avere 3 caratterizzazioni differenti
 | Presidio Sui tempi|Presidio su Tempi e costi|Presidio su temi, costi e qualità|
 
 Il project Menager ha nel suo complesso però dei compiti comuni a tutti e 3 i ranghi:
-- Ruolo di confine tra i gruppi di lavoro
-- 
+- **Ruolo di confine** tra i gruppi di lavoro
+- **Ruolo di interfaccia** tra azienda e cliente
+- **Ruolo intermedio**: si intende come chiave di volta all'interno delle gerarchie
+- **Ruolo di agente del
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzI0MjM4MSw3OTcwMDE5NzMsLTE5OD
+eyJoaXN0b3J5IjpbMTk0Mzc2MDIyMSw3OTcwMDE5NzMsLTE5OD
 I1MTA1MzQsOTI5NzQ2MjQ0LC0xNzM2NjMyODE5LDEzODc1NDA0
 MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgxMTZdfQ
 ==
