@@ -86,8 +86,10 @@ più specificatamente nel caso in cui questi vincoli emergano si causano diversi
 In ogni caso nel ricorrere a questi ostacoli il progetto arriva a dilatarsi nei costi e nei temi
 
 Per prevenire l'accadere di questi problemi è necessario utilizzare **l'anticipazione dei vincoli**
+
+A questo punto si 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MTYzODIwLC0xNzM2NjMyODE5LDEzOD
-c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTE5OTIyOTU1MCwtMTczNjYzMjgxOSwxMz
+g3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4
+MTE2XX0=
 -->
