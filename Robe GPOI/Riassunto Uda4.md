@@ -76,9 +76,11 @@ Bisogna pensare al **progetto** come una **successione di processi**
 
 **per le fasi** di un progetto **valgono interdipendenze**, infatti tra ogni fase valgono interdipendenze reciproche.
 
+**Vincoli/Opportunità** : se non previsti potrebbero presentarsi in corso d'opera e quindi stravolgere il processo di produzione richiedendo tempi e risorse maggiori
 
+più specificatamente 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzgxNDI3NywtMTczNjYzMjgxOSwxMz
-g3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMDYyODk1MzMsLTE3MzY2MzI4MTksMT
+M4NzU0MDQzMywtMTYyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5
+ODExNl19
 -->
