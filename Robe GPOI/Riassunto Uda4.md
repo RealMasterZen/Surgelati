@@ -78,9 +78,10 @@ Bisogna pensare al **progetto** come una **successione di processi**
 
 **Vincoli/Opportunità** : se non previsti potrebbero presentarsi in corso d'opera e quindi stravolgere il processo di produzione richiedendo tempi e risorse maggiori
 
-più specificatamente 
+più specificatamente nel caso in cui questi vincoli emergano si causano diversi fenomeni:
+- Ricicli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYyODk1MzMsLTE3MzY2MzI4MTksMT
-M4NzU0MDQzMywtMTYyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMTc1NDcwNjcwLC0xNzM2NjMyODE5LDEzOD
+c1NDA0MzMsLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3MzA5OTgx
+MTZdfQ==
 -->
