@@ -41,8 +41,9 @@ ora una breve descrizione per ciascuna di queste fasi:
 
 > **Concezione**
 
-Momento 
+Momento di nascita e ideazione del progetto stesso
+- Si identifica 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNjEzMzUwLC01NDgyNTM5MDQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MjYyNTI1ODYsLTU0ODI1MzkwNCw3Mz
+A5OTgxMTZdfQ==
 -->
