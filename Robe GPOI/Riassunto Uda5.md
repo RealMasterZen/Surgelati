@@ -56,11 +56,12 @@ La fase di progetto rappresenta la fase più importante all'interno di quest'ult
 	- effettuata una **prima valutazione dei rischi**
 	- valutazione dei costi/**preventivo**
 - **piano di progetto**
-	- effettuata la scomposizione del progetto in singole attività
+	- effettuata la **scomposizione** del progetto in singole attività -> **WBS**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NzM3NDY3LDE0ODg5NTQ4NTQsLTE5ND
-gwMTcxMDcsOTgzMzI0ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTky
-MSwyMDUzMjE1NDY5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbLTE1OTE2MjIxNTIsMTQ4ODk1NDg1NCwtMT
+k0ODAxNzEwNyw5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5
+OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ
+==
 -->
