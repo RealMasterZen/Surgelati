@@ -63,11 +63,14 @@ La fase di progetto rappresenta la fase più importante all'interno di quest'ult
 			- tempi
 		- utilizzando **GANTT** e **PERT** -> si evidenziano i punti critici
 
-adesso si andranno a snocciolare più nel profondo le strutture di azione relatice a queste due fasi iniz
+adesso si andranno a snocciolare più nel profondo le strutture di azione relatice a queste due fasi iniziali di un progetto:
+
+## Studio di Fattibilità
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTU0MDg4NiwxNDg4OTU0ODU0LC0xOT
-Q4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5
-MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF19
+eyJoaXN0b3J5IjpbLTE1ODE5MjgzNDYsMTQ4ODk1NDg1NCwtMT
+k0ODAxNzEwNyw5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5
+OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ
+==
 -->
