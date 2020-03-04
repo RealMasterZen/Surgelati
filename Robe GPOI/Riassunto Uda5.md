@@ -47,20 +47,20 @@ da tenere a mente termini quali:
 # Preprogetto: fattibilità e analisi dei requisiti(191/202)
 
 La fase di progetto rappresenta la fase più importante all'interno di quest'ultimo ed è composta da due elementi in particolare:
-- **studio di fattibilità**:
-	- raccolta dei requisiti dell'utente
-	- definito modello di utente del sistema
-	- definito modello funzionale
-	- definito modello dei dati
-	- definito modello tecnologico
-	- effettuata una prima valutazione dei rischi
-	- valutazione dei costi/preventivo
+- **Studio di fattibilità**:
+	- **raccolta dei requisiti** dell'utente
+	- definito **modello di utente** del sistema
+	- definito **modello funzionale**
+	- definito **modello dei dati**
+	- definito **modello tecnologico**
+	- effettuata una **prima valutazione dei rischi**
+	- valutazione dei costi/**preventivo**
 - **piano di progetto**
+	- effettuata la scomposizione del progetto in singole attività
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ5MTY2OTQsMTQ4ODk1NDg1NCwtMT
-k0ODAxNzEwNyw5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5
-OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ
-==
+eyJoaXN0b3J5IjpbNDY2NzM3NDY3LDE0ODg5NTQ4NTQsLTE5ND
+gwMTcxMDcsOTgzMzI0ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTky
+MSwyMDUzMjE1NDY5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
 -->
