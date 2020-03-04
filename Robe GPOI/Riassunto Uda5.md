@@ -46,11 +46,13 @@ da tenere a mente termini quali:
 
 # Preprogetto: fattibilità e analisi dei requisiti(191/202)
 
-
+La fase di progetto rappresenta la fase più importante all'interno di quest'ultimo ed è composta da due elementi in particolare:
+- **studio di fattibilità**
+- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5OD
-MzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0
-NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbLTQ3Nzc5OTc5NywxNDg4OTU0ODU0LC0xOT
+Q4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5
+MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF19
 -->
