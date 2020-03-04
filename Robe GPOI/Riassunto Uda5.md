@@ -20,9 +20,10 @@ di norma l'esito di un progetto informatico può essere di 2 tipo:
 
 I progetti informatici inoltre possono essere classificati in 4 tipologie:
 - **progetti commerciali**: nascono dalla richiesta di un cliente specifico e nascono per soddisfare la fornitura di prodotti/servizi
-- **pro
+- **progetti di innovazione e investimento**: prettamente legati all'innovazione teconologica, nascono per far si che il prodotto riceva un aggiornamento secondo le più moderne tecnologie
+- **progetti di miglioramento gestionale**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjEzMTA1MSwxMDUyMTI0MzA2LDIxMD
-E5Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMx
-NF19
+eyJoaXN0b3J5IjpbOTgzMzI0ODY5LDEwNTIxMjQzMDYsMjEwMT
+k3OTkyMSwyMDUzMjE1NDY5LC0xMzI2MzY0MzcsMTkxODg1MzE0
+XX0=
 -->
