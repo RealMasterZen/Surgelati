@@ -39,8 +39,12 @@ i quali devono essere **integrati** nella pianificazione **a priori**
 questo capitolo affronta largamente le problematiche vissute all'inizio della progettazione di infrastrutture progettuali riguardanti l'informazione negli anni 80.
 
 In generale afferma quanto sia importante fissare degli obbiettivi e dei tempi prestabiliti fin dall'inizio del progetto e di mantenerlo snello, efficace ed efficiente
+
+da tenere a mente termini quali:
+- **skill gap**
+- skill shortage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyMTAzNTgsLTE5NDgwMTcxMDcsOT
-gzMzI0ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1
-NDY5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbOTAxMTA4MzQzLC0xOTQ4MDE3MTA3LDk4Mz
+MyNDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2
+OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF19
 -->
