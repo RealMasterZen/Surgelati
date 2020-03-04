@@ -43,8 +43,14 @@ In generale afferma quanto sia importante fissare degli obbiettivi e dei tempi p
 da tenere a mente termini quali:
 - **skill gap**: quando il personale manca nelle competenze tecniche
 - **skill shortage**: quando il mercato è a corto di personale competente
+
+# Preprogetto: fattibilità e analisi dei requisiti(191/202)
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDc2NDMxNCwtMTk0ODAxNzEwNyw5OD
+eyJoaXN0b3J5IjpbMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5OD
 MzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0
 NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
 -->
