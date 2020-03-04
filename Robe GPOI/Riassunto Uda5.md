@@ -56,11 +56,17 @@ La fase di progetto rappresenta la fase più importante all'interno di quest'ult
 	- effettuata una **prima valutazione dei rischi**
 	- valutazione dei costi/**preventivo**
 - **piano di progetto**
-	- effettuata la **scomposizione** del progetto in singole attività -> **WBS**
+	- effettuata la **scomposizione** del progetto **in singole attività** -> **WBS**
+		- si individuano :
+			- risorse
+			- costi 
+			- tempi
+		- utilizzando **GANTT** e **PERT** -> si evidenziano i punti critici
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2MjIxNTIsMTQ4ODk1NDg1NCwtMT
+eyJoaXN0b3J5IjpbLTE5MTI4OTc1OTMsMTQ4ODk1NDg1NCwtMT
 k0ODAxNzEwNyw5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5
 OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ
 ==
