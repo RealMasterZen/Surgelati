@@ -26,9 +26,14 @@ I progetti informatici inoltre possono essere classificati in 4 tipologie:
 
 ## La pianificazione del Progetto
 
-Il progetto in sè può anche essere def
+**Il progetto** in se può anche essere **definito** come **un insieme di attività ordinate** dotate di **durata** e **costo** che vengono **sistemate opportunamente durante tutta la durata di un progetto**
+
+riassumento un progetto è caratterizzato da:
+-**obbiettivo**
+**tempo**
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5OTE2MDcyLDk4MzMyNDg2OSwxMDUyMT
-I0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3
-LDE5MTg4NTMxNF19
+eyJoaXN0b3J5IjpbLTIxMzM2ODQ2Nyw5ODMzMjQ4NjksMTA1Mj
+EyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQz
+NywxOTE4ODUzMTRdfQ==
 -->
