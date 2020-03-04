@@ -29,11 +29,16 @@ I progetti informatici inoltre possono essere classificati in 4 tipologie:
 **Il progetto** in se può anche essere **definito** come **un insieme di attività ordinate** dotate di **durata** e **costo** che vengono **sistemate opportunamente durante tutta la durata di un progetto**
 
 riassumento un progetto è caratterizzato da:
--**obbiettivo**
-**tempo**
--
+- **obbiettivo**
+- **tempo**
+- **costo**
+i quali devono essere **integrati** nella pianificazione **a priori**
+
+## Capitolo con antefatto su progetti informatici falliti negli anni 80
+
+questo capitolo affronta largamente le problematiche vissute all'inizio della progettazione di infrastrutture progettuali riguarda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM2ODQ2Nyw5ODMzMjQ4NjksMTA1Mj
-EyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQz
-NywxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbNDI4MjgyOTI4LDk4MzMyNDg2OSwxMDUyMT
+I0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3
+LDE5MTg4NTMxNF19
 -->
