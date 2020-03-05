@@ -102,18 +102,18 @@ tutti colore che hanno in qualche modo a che fare o influenzano le attività, e 
 
 Questi possono essere classificati secondo 2 punti di vista:
 - Livello di Dettaglio del requisito:
-	- Requisiti utente
-	- Requisiti di sistema
+	- **Requisiti utente**
+	- **Requisiti di sistema**
 - Tipologia di requisito:
-	- requisito funzionale
-	- requisito non funzionale
-	- requisito di dominio
+	- requisito **funzionale**
+	- requisito **non funzionale**
+	- requisito **di dominio**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTM1Mzk1MCwxNjMyNzM1NzM1LC02Mj
+eyJoaXN0b3J5IjpbMTU0OTQxMDIwNiwxNjMyNzM1NzM1LC02Mj
 Y4MTIxMzUsMTAyODA0OTE2MywtMTk1MjYzMTI2NywxMzA3Mjcz
 MDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC0xNTgxOTI4MzQ2LD
 E0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0ODY5LDEwNTIx
