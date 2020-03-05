@@ -91,16 +91,16 @@ Nel preprogetto viene fatta una prima analisi dei requisiti nella quale vengono 
 
 - **definizione delle funzionalità**: conseguente alla fase precedente, consiste nella ricerca di soluzione o più specificatamente funzionalità che saranno atte alla risoluzione dei problemi emersi nella prima fase
 
-- **redazione del documento di specifica dei requisiti software**
+- **redazione del documento di Specifica dei requisiti software**: 
 
 - **convalida delle specifiche**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjU0ODAxNSwtMTk1MjYzMTI2NywxMz
-A3MjczMDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC0xNTgxOTI4
-MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0ODY5LD
-EwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC0xMzI2
-MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbMzAyNjk2NTIzLC0xOTUyNjMxMjY3LDEzMD
+cyNzMwMjQsMjQwNjMyMjU1LDE2NDk0MzA0MzQsLTE1ODE5Mjgz
+NDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5ODMzMjQ4NjksMT
+A1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0NjksLTEzMjYz
+NjQzNywxOTE4ODUzMTRdfQ==
 -->
