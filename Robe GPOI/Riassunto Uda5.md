@@ -67,16 +67,16 @@ adesso si andranno a snocciolare più nel profondo le strutture di azione relati
 
 ## Studio di Fattibilità
 
-Esso è uno strumento molto importante all'interno della fase pre-progettuale che permette di ridurre : costi, tempi, e risorse individuando fin dal principio quali sono gli effettivi obbiettivi a fronte dei costi richiesti
+Esso è uno **strumento** molto importante all'interno **della fase pre-progettuale** che **permette di ridurre : costi, tempi, e risorse** **individuando** fin dal principio quali sono gli **effettivi obbiettivi** a fronte dei costi richiesti
 
 I principali aspetti che uno studio di fattibilità affronta sono i seguenti:
 - **tecnico**: è necessario capire se il progetto è effettivamente realizzabile mediante le tecnologie attualmente in commercio
-- **organizzativo**:
+- **organizzativo**: verificare se il progetto è concretamente insediabile all'interno della realtà dell'azienda di riferimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTQzMDQzNCwtMTU4MTkyODM0NiwxND
-g4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0
-MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LD
-E5MTg4NTMxNF19
+eyJoaXN0b3J5IjpbLTE3NDM1NjEzOTgsMTY0OTQzMDQzNCwtMT
+U4MTkyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMy
+NDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OS
+wtMTMyNjM2NDM3LDE5MTg4NTMxNF19
 -->
