@@ -96,13 +96,13 @@ Nel preprogetto viene fatta una prima analisi dei requisiti nella quale vengono 
 
 - **convalida delle specifiche**: la conprovazione dell'**SRS** da parte del cliente
 
-tutti colore che hanno in qualche modo a che fare o possono tangere, cambiare l'insi
+tutti colore che hanno in qualche modo a che fare o influenzano le attività, e le risose sono chiamati: **stakeholder**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzExNzYwOSwtNjI2ODEyMTM1LDEwMj
+eyJoaXN0b3J5IjpbMTYzMjczNTczNSwtNjI2ODEyMTM1LDEwMj
 gwNDkxNjMsLTE5NTI2MzEyNjcsMTMwNzI3MzAyNCwyNDA2MzIy
 NTUsMTY0OTQzMDQzNCwtMTU4MTkyODM0NiwxNDg4OTU0ODU0LC
 0xOTQ4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5
