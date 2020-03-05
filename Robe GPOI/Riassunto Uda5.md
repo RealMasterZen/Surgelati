@@ -75,12 +75,16 @@ I principali aspetti che uno studio di fattibilità affronta sono i seguenti:
 - **organizzativo**: verificare se il progetto è concretamente insediabile all'interno della realtà dell'azienda di riferimento
 
 - **motivazionale**: il nuovo sistema deve essere effettivamente desiderato dai nuovi utilizzatori
-- **economico**:
+
+- **economico**: studio dei costi per verificare se effettivamente ci sarà un ritorno economiche date le risorse messe a disposizione
+
+- **temporale**: bisognerà fare una stima del tempo di realizzazione per verificare la sua possibile confomità con la richie
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxODIwODMsMTY0OTQzMDQzNCwtMTU4MT
-kyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMyNDg2
-OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OSwtMT
-MyNjM2NDM3LDE5MTg4NTMxNF19
+eyJoaXN0b3J5IjpbLTc4OTI5MTY2MSwxNjQ5NDMwNDM0LC0xNT
+gxOTI4MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0
+ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC
+0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
 -->
