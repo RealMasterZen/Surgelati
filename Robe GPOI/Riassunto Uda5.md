@@ -67,12 +67,12 @@ adesso si andranno a snocciolare più nel profondo le strutture di azione relati
 
 ## Studio di Fattibilità
 
-Esso è uno strumento molto importante all'interno della fase pre-progettuale che permette di ridurre : costi, tempi, e risorse infi
+Esso è uno strumento molto importante all'interno della fase pre-progettuale che permette di ridurre : costi, tempi, e risorse individuando fin dal principio quali sono gli effettivi obbiettivi a fronte dei costi richiesti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAxMjMyOTgsLTE1ODE5MjgzNDYsMT
-Q4ODk1NDg1NCwtMTk0ODAxNzEwNyw5ODMzMjQ4NjksMTA1MjEy
-NDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0NjksLTEzMjYzNjQzNy
-wxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbMTk0NzIyNTUxOCwtMTU4MTkyODM0NiwxND
+g4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0
+MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LD
+E5MTg4NTMxNF19
 -->
