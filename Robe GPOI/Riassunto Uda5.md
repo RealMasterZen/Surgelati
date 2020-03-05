@@ -98,14 +98,25 @@ Nel preprogetto viene fatta una prima analisi dei requisiti nella quale vengono 
 
 tutti colore che hanno in qualche modo a che fare o influenzano le attività, e le risose sono chiamati: **stakeholder**
 
+## Classificazione dei Requisiti
+
+Questi possono essere classificati secondo 2 punti di vista:
+- Livello di Dettaglio del requisito:
+	- Requisiti utente
+	- Requisiti di sistema
+- Tipologia di requisito:
+	- requisito funzionale
+	- requisito non funzionale
+	- requisito di dominio
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjczNTczNSwtNjI2ODEyMTM1LDEwMj
-gwNDkxNjMsLTE5NTI2MzEyNjcsMTMwNzI3MzAyNCwyNDA2MzIy
-NTUsMTY0OTQzMDQzNCwtMTU4MTkyODM0NiwxNDg4OTU0ODU0LC
-0xOTQ4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5
-Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF
-19
+eyJoaXN0b3J5IjpbMTU0MTM1Mzk1MCwxNjMyNzM1NzM1LC02Mj
+Y4MTIxMzUsMTAyODA0OTE2MywtMTk1MjYzMTI2NywxMzA3Mjcz
+MDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC0xNTgxOTI4MzQ2LD
+E0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0ODY5LDEwNTIx
+MjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC0xMzI2MzY0Mz
+csMTkxODg1MzE0XX0=
 -->
