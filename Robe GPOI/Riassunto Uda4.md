@@ -5,12 +5,11 @@ Da Sintetizzare sono le unità:
 - 2
 - 3
 
-## Lezione 1
-### Il Progetto
+# Il Progetto
 Il progetto è un processo che richiede uno sforzo concentrato nel tempo finalizzato a realizzare un output unico
 
 
-### Il Progetto e le sue Fasi (112/115)
+## Il Progetto e le sue Fasi (112/115)
 Il Progeto e la sua gestione si compongono di una serie di attività di più sottospecie:
 - pianificazione 
 - Esecutive
@@ -29,7 +28,7 @@ Gli elementi caratteristici che costituiscono ogni progetto devono essere:
 	- Finanziario
 	- Personale
 
-### Fasi di un progetto
+## Fasi di un progetto
 
 **qualsiasi progetto** si compone di 4 fasi fondamentali:
 - la fase di **concezione**
@@ -143,7 +142,8 @@ Il project Menager ha nel suo complesso però dei compiti comuni a tutti e 3 i r
 - **Ruolo intermedio**: si intende come chiave di volta all'interno delle gerarchie
 - **Ruolo di agente del cambiamento**: può essere promotore di cambiamenti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyOTEzMzQ1LDc5NzAwMTk3MywtMTk4Mj
-UxMDUzNCw5Mjk3NDYyNDQsLTE3MzY2MzI4MTksMTM4NzU0MDQz
-MywtMTYyNjI1MjU4NiwtNTQ4MjUzOTA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMjg0MjQ2MCw2OTI5MTMzNDUsNzk3MD
+AxOTczLC0xOTgyNTEwNTM0LDkyOTc0NjI0NCwtMTczNjYzMjgx
+OSwxMzg3NTQwNDMzLC0xNjI2MjUyNTg2LC01NDgyNTM5MDQsNz
+MwOTk4MTE2XX0=
 -->
