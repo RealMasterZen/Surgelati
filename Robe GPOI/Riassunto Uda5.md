@@ -93,14 +93,14 @@ Nel preprogetto viene fatta una prima analisi dei requisiti nella quale vengono 
 
 - **redazione del documento di Specifica** dei **Requisiti Software**: la trasformazione in un documento formalizzato di tutti i requisiti e delle specifiche tecniche del progetto. 
 
-- **convalida delle specifiche**:
+- **convalida delle specifiche**: la comprovazione dell'**SRS** da parte del cliente
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0ODMxMDU5LDEwMjgwNDkxNjMsLTE5NT
-I2MzEyNjcsMTMwNzI3MzAyNCwyNDA2MzIyNTUsMTY0OTQzMDQz
-NCwtMTU4MTkyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3MTA3LD
-k4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIx
-NTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF19
+eyJoaXN0b3J5IjpbMTE0NDM5OTI5MCwxMDI4MDQ5MTYzLC0xOT
+UyNjMxMjY3LDEzMDcyNzMwMjQsMjQwNjMyMjU1LDE2NDk0MzA0
+MzQsLTE1ODE5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNy
+w5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMy
+MTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
 -->
