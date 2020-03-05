@@ -80,11 +80,13 @@ I principali aspetti che uno studio di fattibilità affronta sono i seguenti:
 
 - **temporale**: bisognerà fare una stima del tempo di realizzazione per verificare la sua possibile conformità con la richiesta
 
+Lo
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNjMyMjU1LDE2NDk0MzA0MzQsLTE1OD
-E5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5ODMzMjQ4
-NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0NjksLT
-EzMjYzNjQzNywxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbMTI1MDE5OTAwMCwyNDA2MzIyNTUsMTY0OT
+QzMDQzNCwtMTU4MTkyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3
+MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMj
+A1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF19
 -->
