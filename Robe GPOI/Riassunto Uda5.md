@@ -82,12 +82,14 @@ I principali aspetti che uno studio di fattibilità affronta sono i seguenti:
 
 Lo **studio di fattibilità** può essere scomposte in ulteriori 2 fasi:
 - **analisi dei requisiti**: viene realizzato un documento che descrive ad alto livello le architetture utilizzate nella realizzazione e compie inoltre una prima stima dei costi.
-- **pre-analisti e valutazione dei costi**: 
+- **pre-analisti e valutazione dei costi**: viene stesa una analisi completa che mette insieme le risorse già presenti in azienda, e nel completo definisce la fattibilità del progetto
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDIzNDAwMCwyNDA2MzIyNTUsMTY0OT
+eyJoaXN0b3J5IjpbMTMwNzI3MzAyNCwyNDA2MzIyNTUsMTY0OT
 QzMDQzNCwtMTU4MTkyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3
 MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMj
 A1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF19
