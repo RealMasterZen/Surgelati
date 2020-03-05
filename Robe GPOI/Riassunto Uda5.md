@@ -71,12 +71,16 @@ Esso è uno **strumento** molto importante all'interno **della fase pre-progettu
 
 I principali aspetti che uno studio di fattibilità affronta sono i seguenti:
 - **tecnico**: è necessario capire se il progetto è effettivamente realizzabile mediante le tecnologie attualmente in commercio
+
 - **organizzativo**: verificare se il progetto è concretamente insediabile all'interno della realtà dell'azienda di riferimento
+
+- **motivazionale**: il nuovo sistema deve essere effettivamente desiderato dai nuovi utilizzatori
+- **economico**:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM1NjEzOTgsMTY0OTQzMDQzNCwtMT
-U4MTkyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMy
-NDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OS
-wtMTMyNjM2NDM3LDE5MTg4NTMxNF19
+eyJoaXN0b3J5IjpbMjQxODIwODMsMTY0OTQzMDQzNCwtMTU4MT
+kyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMyNDg2
+OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OSwtMT
+MyNjM2NDM3LDE5MTg4NTMxNF19
 -->
