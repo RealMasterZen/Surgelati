@@ -88,14 +88,17 @@ Lo **studio di fattibilità** può essere scomposte in ulteriori 2 fasi:
 
 Nel preprogetto viene fatta una prima analisi dei requisiti nella quale vengono rilevate le seguenti attività:
 - **analisi del problema**: è una prima analisi di tuttò ciò che sarà l'ambiente, composto da utenti utilizzatori, spettro tecnologico, richieste e obbiettivi, fatta per comprendere meglio quali siano le fasi da eseguire
-- **definizione delle funzionalità**: conseguente alla fase precedente, consiste nella ricerca di soluzione o più specificatamente funzionalità che saranno atte alla risoluzione 
+
+- **definizione delle funzionalità**: conseguente alla fase precedente, consiste nella ricerca di soluzione o più specificatamente funzionalità che saranno atte alla risoluzione dei problemi emersi nella prima fase
+
 - **redazione del documento di specifica dei requisiti software**
+
 - **convalida delle specifiche**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTk2NDY0MCwtMTk1MjYzMTI2NywxMz
+eyJoaXN0b3J5IjpbLTkzMjU0ODAxNSwtMTk1MjYzMTI2NywxMz
 A3MjczMDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC0xNTgxOTI4
 MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0ODY5LD
 EwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC0xMzI2
