@@ -78,13 +78,13 @@ I principali aspetti che uno studio di fattibilità affronta sono i seguenti:
 
 - **economico**: studio dei costi per verificare se effettivamente ci sarà un ritorno economiche date le risorse messe a disposizione
 
-- **temporale**: bisognerà fare una stima del tempo di realizzazione per verificare la sua possibile confomità con la richie
+- **temporale**: bisognerà fare una stima del tempo di realizzazione per verificare la sua possibile conformità con la richiesta
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTI5MTY2MSwxNjQ5NDMwNDM0LC0xNT
-gxOTI4MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0
-ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC
-0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbMjQwNjMyMjU1LDE2NDk0MzA0MzQsLTE1OD
+E5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5ODMzMjQ4
+NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0NjksLT
+EzMjYzNjQzNywxOTE4ODUzMTRdfQ==
 -->
