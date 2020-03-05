@@ -102,8 +102,8 @@ tutti colore che hanno in qualche modo a che fare o influenzano le attività, e 
 
 Questi possono essere classificati secondo 2 punti di vista:
 - Livello di Dettaglio del requisito:
-	- **Requisiti utente**
-	- **Requisiti di sistema**
+	- **Requisiti utente**:quei requisiti che sono richiesti dall'utente del sistema nella fase di preprogetto
+	- **Requisiti di sistema**: quei requisiti di sistema che sono limitati alla topologia di quest'ultimo
 - Tipologia di requisito:
 	- requisito **funzionale**
 	- requisito **non funzionale**
@@ -113,10 +113,10 @@ Questi possono essere classificati secondo 2 punti di vista:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTQxMDIwNiwxNjMyNzM1NzM1LC02Mj
-Y4MTIxMzUsMTAyODA0OTE2MywtMTk1MjYzMTI2NywxMzA3Mjcz
-MDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC0xNTgxOTI4MzQ2LD
-E0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgzMzI0ODY5LDEwNTIx
-MjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1NDY5LC0xMzI2MzY0Mz
-csMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbNTc5NjE1NzcxLDE1NDk0MTAyMDYsMTYzMj
+czNTczNSwtNjI2ODEyMTM1LDEwMjgwNDkxNjMsLTE5NTI2MzEy
+NjcsMTMwNzI3MzAyNCwyNDA2MzIyNTUsMTY0OTQzMDQzNCwtMT
+U4MTkyODM0NiwxNDg4OTU0ODU0LC0xOTQ4MDE3MTA3LDk4MzMy
+NDg2OSwxMDUyMTI0MzA2LDIxMDE5Nzk5MjEsMjA1MzIxNTQ2OS
+wtMTMyNjM2NDM3LDE5MTg4NTMxNF19
 -->
