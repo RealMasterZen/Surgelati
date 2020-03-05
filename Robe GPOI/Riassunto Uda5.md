@@ -108,7 +108,7 @@ Questi possono essere classificati secondo 2 punti di vista:
 	- **Requisiti di sistema**: quei requisiti di sistema che sono limitati alla tipologia di tecnologie utilizzate nella realizzazione di quest'ultimo, essi sono noti principalmente al programmatore
 
 - Tipologia di requisito:
-	- requisito **funzionale**
+	- requisito **funzionale**: descrive una funzionalità concreta che il sistema dovrà avere
 	- requisito **non funzionale**
 	- requisito **di dominio**
 
@@ -116,7 +116,7 @@ Questi possono essere classificati secondo 2 punti di vista:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjIwNzY1OSwxNTQ5NDEwMjA2LDE2Mz
+eyJoaXN0b3J5IjpbLTgwMjc3NDg1OSwxNTQ5NDEwMjA2LDE2Mz
 I3MzU3MzUsLTYyNjgxMjEzNSwxMDI4MDQ5MTYzLC0xOTUyNjMx
 MjY3LDEzMDcyNzMwMjQsMjQwNjMyMjU1LDE2NDk0MzA0MzQsLT
 E1ODE5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5ODMz
