@@ -96,13 +96,16 @@ Nel preprogetto viene fatta una prima analisi dei requisiti nella quale vengono 
 
 - **convalida delle specifiche**: la conprovazione dell'**SRS** da parte del cliente
 
+tutti colore che hanno in qualche modo a che fare o possono tangere, cambiare l'insi
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjgxMjEzNSwxMDI4MDQ5MTYzLC0xOT
-UyNjMxMjY3LDEzMDcyNzMwMjQsMjQwNjMyMjU1LDE2NDk0MzA0
-MzQsLTE1ODE5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNy
-w5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMy
-MTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbMTI4MzExNzYwOSwtNjI2ODEyMTM1LDEwMj
+gwNDkxNjMsLTE5NTI2MzEyNjcsMTMwNzI3MzAyNCwyNDA2MzIy
+NTUsMTY0OTQzMDQzNCwtMTU4MTkyODM0NiwxNDg4OTU0ODU0LC
+0xOTQ4MDE3MTA3LDk4MzMyNDg2OSwxMDUyMTI0MzA2LDIxMDE5
+Nzk5MjEsMjA1MzIxNTQ2OSwtMTMyNjM2NDM3LDE5MTg4NTMxNF
+19
 -->
