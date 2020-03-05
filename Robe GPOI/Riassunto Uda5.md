@@ -130,14 +130,14 @@ questi possono essere caratterizzati in diversa categorie:
 - **problemi di ambito**: quando nel sistemi il cliente o approfondisce troppo poco il problema e quindi realizzato il sistema avrà lacune magari in parti che dovevano essere fondamentali, oppure al contrario potrebbe essere troppo specifica e addentrarsi in aree esterne a quelle specifiche di competenza
 - **problemi di comunicazione**: si verifica ogniqualvolta due soggetti di ambiti diversi discutono sulla realizzazione di un obbiettivo, questo succedere perchè appunto i primi appartengono ad ambiti fondamentalmente diversi.
 - **problemi di conflitto**: si verificano quando molteplici stakehoder esprimono preferenze divere a proposito del medesimo soggetto all'interno del progetto, questo crea incomprensioni.
-- **problemi di volatilità**:
+- **problemi di volatilità**: causati da qualsiasi evoluzione a livello aziendale o tecnologico, sono intesi come evoluzioni dei requisiti dovute alle prime problematiche messe in discussione
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY0NzI4MDIsMTU0OTQxMDIwNiwxNj
+eyJoaXN0b3J5IjpbLTE2MDgzOTI5MTksMTU0OTQxMDIwNiwxNj
 MyNzM1NzM1LC02MjY4MTIxMzUsMTAyODA0OTE2MywtMTk1MjYz
 MTI2NywxMzA3MjczMDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC
 0xNTgxOTI4MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgz
