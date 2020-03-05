@@ -123,6 +123,8 @@ Per una migliore definizione di quest'ultimo è stata ideata la classificazione 
 		- Requisiti di prodotto
 		- Requisiti organizzativi
 		- Requisiti esterni
+
+## Classificazione F.U.R.P.S
 	
 ## Problematiche principale nella fase di comunicazione e raccolta dei requisiti
 
@@ -137,10 +139,11 @@ questi possono essere caratterizzati in diversa categorie:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgzOTI5MTksMTU0OTQxMDIwNiwxNj
-MyNzM1NzM1LC02MjY4MTIxMzUsMTAyODA0OTE2MywtMTk1MjYz
-MTI2NywxMzA3MjczMDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC
-0xNTgxOTI4MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgz
-MzI0ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1ND
-Y5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
+eyJoaXN0b3J5IjpbMTM3Mzk3NDc2MiwtMTYwODM5MjkxOSwxNT
+Q5NDEwMjA2LDE2MzI3MzU3MzUsLTYyNjgxMjEzNSwxMDI4MDQ5
+MTYzLC0xOTUyNjMxMjY3LDEzMDcyNzMwMjQsMjQwNjMyMjU1LD
+E2NDk0MzA0MzQsLTE1ODE5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0
+ODAxNzEwNyw5ODMzMjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5OT
+IxLDIwNTMyMTU0NjksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
+
 -->
