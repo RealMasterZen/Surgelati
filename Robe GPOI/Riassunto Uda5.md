@@ -108,18 +108,39 @@ Questi possono essere classificati secondo 2 punti di vista:
 	- **Requisiti di sistema**: quei requisiti di sistema che sono limitati alla tipologia di tecnologie utilizzate nella realizzazione di quest'ultimo, essi sono noti principalmente al programmatore
 
 - Tipologia di requisito:
+	
 	- requisito **funzionale**: descrive una funzionalità concreta che il sistema dovrà avere
-	- requisito **non funzionale**
-	- requisito **di dominio**
+	>esempio la richiesta dell'utente di avere diverse sezioni a seconda della tipologia di prodotto o magari da aggiungere una newsletter
+	
+	- requisito **non funzionale**: descrive un vero e proprio vincolo che incorre in un sistema pre-esistente e che deve forzatamente essere rispettato
+	>esempio la catena del freddo nel caso di un prodotto alimentare surgelato
+	
+	- requisito **di dominio**: riguardano le ristrettezze, legislative o operazionali dovute all'uso del sistema in un determinato ambiente.
+	>esempio la richiesta del login per la riservatezza delle informazioni
+
+Per una migliore definizione di quest'ultimo è stata ideata la classificazione di Sommerville
+	Requisiti non funzionali:
+		- Requisiti di prodotto
+		- Requisiti organizzativi
+		- Requisiti esterni
+	
+## Problematiche principale nella fase di comunicazione e raccolta dei requisiti
+
+questi possono essere caratterizzati in diversa categorie:
+- **problemi di ambito**: quando nel sistemi il cliente o approfondisce troppo poco il problema e quindi realizzato il sistema avrà lacune magari in parti che dovevano essere fondamentali, oppure al contrario potrebbe essere troppo specifica e addentrarsi in aree esterne a quelle specifiche di competenza
+- **problemi di comunicazione**: si verifica ogniqualvolta due soggetti di ambiti diversi discutono sulla realizzazione di un obbiettivo, questo succedere perchè appunto i primi appartengono ad ambiti fondamentalmente diversi.
+- **problemi di conflitto**: si verificano quando molteplici stakehoder esprimono preferenze divere a proposito del medesimo soggetto all'interno del progetto, questo crea incomprensioni.
+- **problemi di volatilità**:
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjc3NDg1OSwxNTQ5NDEwMjA2LDE2Mz
-I3MzU3MzUsLTYyNjgxMjEzNSwxMDI4MDQ5MTYzLC0xOTUyNjMx
-MjY3LDEzMDcyNzMwMjQsMjQwNjMyMjU1LDE2NDk0MzA0MzQsLT
-E1ODE5MjgzNDYsMTQ4ODk1NDg1NCwtMTk0ODAxNzEwNyw5ODMz
-MjQ4NjksMTA1MjEyNDMwNiwyMTAxOTc5OTIxLDIwNTMyMTU0Nj
-ksLTEzMjYzNjQzNywxOTE4ODUzMTRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODY0NzI4MDIsMTU0OTQxMDIwNiwxNj
+MyNzM1NzM1LC02MjY4MTIxMzUsMTAyODA0OTE2MywtMTk1MjYz
+MTI2NywxMzA3MjczMDI0LDI0MDYzMjI1NSwxNjQ5NDMwNDM0LC
+0xNTgxOTI4MzQ2LDE0ODg5NTQ4NTQsLTE5NDgwMTcxMDcsOTgz
+MzI0ODY5LDEwNTIxMjQzMDYsMjEwMTk3OTkyMSwyMDUzMjE1ND
+Y5LC0xMzI2MzY0MzcsMTkxODg1MzE0XX0=
 -->
