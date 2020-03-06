@@ -14,9 +14,10 @@ Inoltre legata a questo libro fù una voce messa in giri dallo stesso D'annunzio
 
 Trasferitosi a Roma nel 1881 venne subito accolto nell'ambiente dalla società letteraria nei salotti mondani e iniziò a collaborare con molti giornali e riviste che pubblicarono alcuni dei suoi articoli di critica letteraria.
 
-Il periodo romano fu caratterizzato da una vita raffinata e dispendiosa
+Il periodo romano fu caratterizzato da una vita raffinata e dispendiosa ma anche una fervida attività letteraria.
+Nel 1883 D'annunzio sposò la duchessina Maria Hardouin di Gallese dalla quale ebbe 3 figl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY3NTU5MjEsLTQxMjQ4NzE3MiwxMj
-A4NzU1NjczLC0xMzcyMzk2Njc1LC01MTcxNDc3OSwtMTgzMzI5
-Nzc4NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzOTcyNjYxODcsLTExNTY3NTU5MjEsLT
+QxMjQ4NzE3MiwxMjA4NzU1NjczLC0xMzcyMzk2Njc1LC01MTcx
+NDc3OSwtMTgzMzI5Nzc4NiwtMjA4ODc0NjYxMl19
 -->
