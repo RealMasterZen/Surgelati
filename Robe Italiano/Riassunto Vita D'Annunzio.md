@@ -15,9 +15,11 @@ Inoltre legata a questo libro fù una voce messa in giri dallo stesso D'annunzio
 Trasferitosi a Roma nel 1881 venne subito accolto nell'ambiente dalla società letteraria nei salotti mondani e iniziò a collaborare con molti giornali e riviste che pubblicarono alcuni dei suoi articoli di critica letteraria.
 
 Il periodo romano fu caratterizzato da una vita raffinata e dispendiosa ma anche una fervida attività letteraria.
-Nel 1883 D'annunzio sposò la duchessina Maria Hardouin di Gallese dalla quale ebbe 3 figl
+Nel 1883 D'annunzio sposò la duchessina Maria Hardouin di Gallese dalla quale ebbe 3 figli; nel 1887iniziò una relazione, durata 5 anni con Barbara Leoni, che gli ispirò i personaggi femminili ne: *il piacere e il trinfo dell'amore*. 
+
+Dopo aver speso una barca di soldi D'annunzio si trasferisce a napoli dove si legò sentimentalmente a Maria Gravina Crutllas, sposata con il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcyNjYxODcsLTExNTY3NTU5MjEsLT
-QxMjQ4NzE3MiwxMjA4NzU1NjczLC0xMzcyMzk2Njc1LC01MTcx
-NDc3OSwtMTgzMzI5Nzc4NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTg1NzYzNjM3LC0xMTU2NzU1OTIxLC00MT
+I0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwtNTE3MTQ3
+NzksLTE4MzMyOTc3ODYsLTIwODg3NDY2MTJdfQ==
 -->
