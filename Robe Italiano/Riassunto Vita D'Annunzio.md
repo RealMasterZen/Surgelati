@@ -7,9 +7,12 @@ D'annunzio compì privatamente gli studi elementari e frequentò il prestigioso 
 
 Fin da ragazzo dimostrò grandi doti e intelligenza.
 Già a sedici anni senza alcun timore scrisse una lettere a quello che era considerato il più grande poeta d'Italia Giosuè Carducci.
-Successivamente raccolse le sue poesie in una raccolta 
+Successivamente raccolse le sue poesie in una raccolta chiamata *Primo Vere(1879)*, pubblicazione sponsorizzata dal padre.
+Inoltre legata a questo libro fù una voce messa in giri dallo stesso D'annunzio, secondo la voce infatti il giovane creatore della raccolta era morto in un incidente a cavallo.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAyNjAzMzEsMTIwODc1NTY3MywtMT
-M3MjM5NjY3NSwtNTE3MTQ3NzksLTE4MzMyOTc3ODYsLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQxMjQ4NzE3MiwxMjA4NzU1NjczLC0xMz
+cyMzk2Njc1LC01MTcxNDc3OSwtMTgzMzI5Nzc4NiwtMjA4ODc0
+NjYxMl19
 -->
