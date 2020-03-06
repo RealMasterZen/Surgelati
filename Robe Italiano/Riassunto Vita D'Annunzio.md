@@ -10,9 +10,9 @@ Già a sedici anni senza alcun timore scrisse una lettere a quello che era consi
 Successivamente raccolse le sue poesie in una raccolta chiamata *Primo Vere(1879)*, pubblicazione sponsorizzata dal padre.
 Inoltre legata a questo libro fù una voce messa in giri dallo stesso D'annunzio, secondo la voce infatti il giovane creatore della raccolta era morto in un incidente a cavallo.
 
-
+## Il persi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjQ4NzE3MiwxMjA4NzU1NjczLC0xMz
-cyMzk2Njc1LC01MTcxNDc3OSwtMTgzMzI5Nzc4NiwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMTU3NzEzNDQwMiwtNDEyNDg3MTcyLDEyMD
+g3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3
+Nzg2LC0yMDg4NzQ2NjEyXX0=
 -->
