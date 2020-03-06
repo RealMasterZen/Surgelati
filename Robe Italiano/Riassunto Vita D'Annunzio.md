@@ -10,9 +10,13 @@ Già a sedici anni senza alcun timore scrisse una lettere a quello che era consi
 Successivamente raccolse le sue poesie in una raccolta chiamata *Primo Vere(1879)*, pubblicazione sponsorizzata dal padre.
 Inoltre legata a questo libro fù una voce messa in giri dallo stesso D'annunzio, secondo la voce infatti il giovane creatore della raccolta era morto in un incidente a cavallo.
 
-## Il persi
+## Il periodo romano e Napoletano
+
+Trasferitosi a Roma nel 1881 venne subito accolto nell'ambiente dalla società letteraria nei salotti mondani e iniziò a collaborare con molti giornali e riviste che pubblicarono alcuni dei suoi articoli di critica letteraria.
+
+Il periodo romano fu caratterizzato da una vita raffinata e dispendiosa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzEzNDQwMiwtNDEyNDg3MTcyLDEyMD
-g3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3
-Nzg2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExNTY3NTU5MjEsLTQxMjQ4NzE3MiwxMj
+A4NzU1NjczLC0xMzcyMzk2Njc1LC01MTcxNDc3OSwtMTgzMzI5
+Nzc4NiwtMjA4ODc0NjYxMl19
 -->
