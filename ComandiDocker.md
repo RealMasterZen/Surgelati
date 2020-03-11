@@ -133,6 +133,10 @@ Per cancellare tutti i docker in status di "Exit" utilizzare il seguente comando
 
 Video con istruzioni e spiegazione del docker: 
 https://youtu.be/fqMOX6JJhGo
+
+13:19
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2MzA1OTVdfQ==
+eyJoaXN0b3J5IjpbLTI4NjE1MTY5NSw0MDYzMDU5NV19
 -->
