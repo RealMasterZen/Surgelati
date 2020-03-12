@@ -6,6 +6,7 @@ Pagina wikipedia in Inglese
 
 I Diversi tipi di RAID sono calssificati per livello:
 - raid 0: sommo le memorie dei vari dischi per formare un disco logico unico
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjA4MDIwN119
+eyJoaXN0b3J5IjpbLTEwNDkxNDY0NTIsLTkxMjA4MDIwN119
 -->
