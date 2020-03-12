@@ -30,8 +30,10 @@ md1(sda1,sdb1)
 x md0
 md2(sda2,sdb2)
 
-##Controllo raid /proc/mdstat
+## Controllo raid /proc/mdstat
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQyNTE0NDMsOTIzOTEyMTUzLDE0OT
+eyJoaXN0b3J5IjpbLTE4OTkwMzQ2NDMsOTIzOTEyMTUzLDE0OT
 A0OTgxODEsMTM2MTY4OTI3NywtOTEyMDgwMjA3XX0=
 -->
