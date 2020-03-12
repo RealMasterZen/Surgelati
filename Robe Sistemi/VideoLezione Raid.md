@@ -9,7 +9,11 @@ I Diversi tipi di RAID sono calssificati per livello:
 - Raid 1: consiste nel Mirroring del mio disco anche su un altro disco:
 	- aumento delle prestazioni in lettura
 	- svantaggio della velocità in scrittura
+
+I raid possono essere di ulteriori 2 tipi:
+- raid hardware
+- raid software
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDQ5ODE4MSwxMzYxNjg5Mjc3LC05MT
-IwODAyMDddfQ==
+eyJoaXN0b3J5IjpbOTIzOTEyMTUzLDE0OTA0OTgxODEsMTM2MT
+Y4OTI3NywtOTEyMDgwMjA3XX0=
 -->
