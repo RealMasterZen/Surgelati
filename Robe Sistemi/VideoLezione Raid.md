@@ -1,6 +1,8 @@
 # Raid
 
-il ride riguarda la continuità di un servizio
+Pagina wikipedia in Inglese
+
+"insieme ridondante di dischi economici"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjIwNDg2XX0=
+eyJoaXN0b3J5IjpbMTMzMDQ2ODIxM119
 -->
