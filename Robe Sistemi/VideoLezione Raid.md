@@ -13,7 +13,9 @@ I Diversi tipi di RAID sono calssificati per livello:
 I raid possono essere di ulteriori 2 tipi:
 - raid hardware
 - raid software
+
+Per casa bisognerà creare un pc virtuale con 2 dischi in raid 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzOTEyMTUzLDE0OTA0OTgxODEsMTM2MT
-Y4OTI3NywtOTEyMDgwMjA3XX0=
+eyJoaXN0b3J5IjpbMTI3NDk0NDAwMiw5MjM5MTIxNTMsMTQ5MD
+Q5ODE4MSwxMzYxNjg5Mjc3LC05MTIwODAyMDddfQ==
 -->
