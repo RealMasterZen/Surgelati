@@ -128,3 +128,15 @@ In caso bisogna rimuovere un docker e i suoi volumi utilizzare il seguente coman
 Per cancellare tutti i docker in status di "Exit" utilizzare il seguente comando
 
 		sudo docker ps -a | grep Exit | cut -d ' ' -f 1 | xargs sudo docker rm
+
+## Link utilili per tutorial
+
+Video con istruzioni e spiegazione del docker: 
+https://youtu.be/fqMOX6JJhGo
+
+13:19
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2Njk0NTExMzMsLTE5NDgxNDI0NjgsLT
+IwNDAyMTA5ODgsLTI4NjE1MTY5NSw0MDYzMDU5NV19
+-->
