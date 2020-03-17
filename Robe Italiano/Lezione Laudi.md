@@ -10,7 +10,8 @@ Fanno parte del'alcione, libro raccolta poetica facente parte della raccolta del
 
 Tutte le poesie sono dedicate ai temi degli eroi in cui rievoca i personaggi della cultura classica
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTk0NTI2OSwxOTg5ODQ5NzU2LDQ2ND
-E5MzQ0MV19
+eyJoaXN0b3J5IjpbNTg2NjgzNDI3LDE0NTk5NDUyNjksMTk4OT
+g0OTc1Niw0NjQxOTM0NDFdfQ==
 -->
