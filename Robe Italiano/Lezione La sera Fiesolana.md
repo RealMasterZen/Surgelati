@@ -39,10 +39,17 @@ e su gli olivi, su i fratelli olivi
 e sorridenti.  
  (anafora della e)
  
+ 
 Laudata sii per le tue vesti aulenti,  
 o Sera, e pel cinto che ti cinge come il salce  
 il fien che odora!  
+
+> Analisi Strofa:
+- Laudata si per le tue vesti aulenti: inverisone sintattica.
+- come il salce: similitudine
+- e pel cinto: 
   
+
 35Io ti dirò verso quali reami  
 d’amor ci chiami il fiume, le cui fonti  
 eterne a l’ombra de gli antichi rami  
@@ -63,6 +70,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTczNDEyMSwtNzM4NjU1ODEzLC04Mj
-k1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2NTAwXX0=
+eyJoaXN0b3J5IjpbLTExNTM3NzA1ODMsLTczODY1NTgxMywtOD
+I5NTYyMDE4LDE2NDc5Nzc2ODIsLTI0MTY4NjUwMF19
 -->
