@@ -37,7 +37,8 @@ e trascolora,
 e su gli olivi, su i fratelli olivi  
 30che fan di santità pallidi i clivi  
 e sorridenti.  
-  
+ (anafora della e)
+ 
 Laudata sii per le tue vesti aulenti,  
 o Sera, e pel cinto che ti cinge come il salce  
 il fien che odora!  
@@ -62,6 +63,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODY1NTgxMywtODI5NTYyMDE4LDE2ND
-c5Nzc2ODIsLTI0MTY4NjUwMF19
+eyJoaXN0b3J5IjpbLTc4MTczNDEyMSwtNzM4NjU1ODEzLC04Mj
+k1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2NTAwXX0=
 -->
