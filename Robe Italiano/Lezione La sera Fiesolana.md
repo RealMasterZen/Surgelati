@@ -1,7 +1,7 @@
 # Lezione Analisi La ser fiesolana
 
 FRESCHE le mie parole ne la sera  
-ti sien (Inversione sintattiva)come il fruscìo che fan le foglie  (Alliterazione della f)
+ti sien (Inversione sintattiva)come il fruscìo (Onomatopea )che fan le foglie  (Alliterazione della f)
 del gelso ne la man di chi le coglie  
 silenzioso e ancor s’attarda a l’opra lenta  
 su l’alta scala che s’annera (perchè sta scendendo la sera) 
@@ -59,5 +59,5 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTY4NjUwMF19
+eyJoaXN0b3J5IjpbMTY0Nzk3NzY4MiwtMjQxNjg2NTAwXX0=
 -->
