@@ -5,11 +5,11 @@ ti sien (Inversione sintattiva)come il fruscìo (Onomatopea )che fan le foglie  
 del gelso ne la man di chi le coglie  
 silenzioso e ancor s’attarda a l’opra lenta  
 
-su l’alta scala che s’annera (perchè sta scendendo la sera) 
+su l’alta scala che s’annera (antitesi con s'inargenta)(perchè sta scendendo la sera) 
 contro il fusto che s’inargenta  
 con le sue rame spoglie  
 mentre la Luna è prossima a le soglie  
-cerule(grigie) e par (e sembra)che innanzi a sé distenda un velo
+cerule(soglie cerulee è una metafora)(grigie) e par (e sembra)che innanzi a sé distenda un velo(Personificazione)
 ove il nostro sogno si giace (dove trova pace il sogno) 
 e par che la campagna già si senta  
 da lei sommersa nel notturno gelo  
@@ -61,6 +61,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTg2Mjc1MiwxNjQ3OTc3NjgyLC0yND
+eyJoaXN0b3J5IjpbLTgyOTU2MjAxOCwxNjQ3OTc3NjgyLC0yND
 E2ODY1MDBdfQ==
 -->
