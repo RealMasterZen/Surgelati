@@ -4,11 +4,13 @@ FRESCHE le mie parole ne la sera(-> Enjambement)
 ti sien (Inversione sintattiva)come il fruscìo (Onomatopea )che fan le foglie  (Alliterazione della f)
 del gelso ne la man di chi le coglie  
 silenzioso e ancor s’attarda a l’opra lenta  
+
 su l’alta scala che s’annera (perchè sta scendendo la sera) 
 contro il fusto che s’inargenta  
 con le sue rame spoglie  
 mentre la Luna è prossima a le soglie  
-cerule(grigie) e par (e sembra)che innanzi a sé distenda un velo ove il nostro sogno si giace (dove trova pace il sogno) 
+cerule(grigie) e par (e sembra)che innanzi a sé distenda un velo
+ove il nostro sogno si giace (dove trova pace il sogno) 
 e par che la campagna già si senta  
 da lei sommersa nel notturno gelo  
 e da lei beva la sperata pace  
@@ -59,6 +61,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDU1ODgyOCwxNjQ3OTc3NjgyLC0yND
+eyJoaXN0b3J5IjpbLTYxNTg2Mjc1MiwxNjQ3OTc3NjgyLC0yND
 E2ODY1MDBdfQ==
 -->
