@@ -22,7 +22,7 @@ o Sera, e pe’ tuoi grandi umidi occhi ove si tace
 l’acqua del cielo!  
   
 Dolci le mie parole ne la sera  
-ti sien come la pioggia che bruiva  
+ti sien come la pioggia che bruiva(Similitudine/Onomatopea)  
 20tepida e fuggitiva,  
 commiato lacrimoso de la primavera,
 
@@ -62,6 +62,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTUxNjg0NiwtODI5NTYyMDE4LDE2ND
+eyJoaXN0b3J5IjpbLTczODY1NTgxMywtODI5NTYyMDE4LDE2ND
 c5Nzc2ODIsLTI0MTY4NjUwMF19
 -->
