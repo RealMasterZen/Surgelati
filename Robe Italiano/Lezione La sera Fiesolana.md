@@ -59,7 +59,7 @@ e ti dirò per qual segreto
 s’incùrvino come labbra che un divieto  
 chiuda, e perché la volontà di dire  
 le faccia belle  
-oltre ogni uman desire
+oltre ogni uman desiderio
 
 > Analisi strofa 
 - Si rileva un altra dimostrazione del panismo per l'apprezzamento mitico della natura
@@ -76,7 +76,7 @@ le prime stelle!
 
 > Analisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTI1MDk2MywtMTE1Mzc3MDU4MywtNz
-M4NjU1ODEzLC04Mjk1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2
-NTAwXX0=
+eyJoaXN0b3J5IjpbLTExOTE0NDM3MDUsLTExNTM3NzA1ODMsLT
+czODY1NTgxMywtODI5NTYyMDE4LDE2NDc5Nzc2ODIsLTI0MTY4
+NjUwMF19
 -->
