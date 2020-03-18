@@ -12,10 +12,11 @@ mentre la Luna è prossima a le soglie
 cerule(soglie cerulee è una metafora)(grigie) e par (e sembra)che innanzi a sé distenda un velo(Personificazione)
 ove il nostro sogno si giace (dove trova pace il sogno) 
 e par che la campagna già si senta  
-da lei sommersa nel notturno gelo  
+da lei sommersa (Personificazione)nel notturno gelo  
 e da lei beva la sperata pace  
 senza vederla.  
-  
+ 
+(Ripresa della prima strofa) 
 Laudata sii pel tuo viso di perla,  
 o Sera, e pe’ tuoi grandi umidi occhi ove si tace  
 l’acqua del cielo!  
@@ -61,6 +62,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTU2MjAxOCwxNjQ3OTc3NjgyLC0yND
-E2ODY1MDBdfQ==
+eyJoaXN0b3J5IjpbMTY3NTUxNjg0NiwtODI5NTYyMDE4LDE2ND
+c5Nzc2ODIsLTI0MTY4NjUwMF19
 -->
