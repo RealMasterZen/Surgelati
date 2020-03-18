@@ -8,7 +8,7 @@ su l’alta scala che s’annera (perchè sta scendendo la sera)
 contro il fusto che s’inargenta  
 con le sue rame spoglie  
 mentre la Luna è prossima a le soglie  
-cerule(grigie) e par (e sembra)che innanzi a sé distenda un velo ove il nostro sogno si giace  
+cerule(grigie) e par (e sembra)che innanzi a sé distenda un velo ove il nostro sogno si giace (dove trova pace il sogno) 
 e par che la campagna già si senta  
 da lei sommersa nel notturno gelo  
 e da lei beva la sperata pace  
@@ -59,5 +59,5 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzIzMjQyOV19
+eyJoaXN0b3J5IjpbLTI0MTY4NjUwMF19
 -->
