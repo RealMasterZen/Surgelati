@@ -79,9 +79,10 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 
-> Analisi
+> Analisi:
+- La sera indica la fase intermedia tra giorno che è la vita e la notte che è la morte della giornata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTExNjIyNywtMTE1Mzc3MDU4MywtNz
-M4NjU1ODEzLC04Mjk1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2
-NTAwXX0=
+eyJoaXN0b3J5IjpbLTk2ODA0ODYxNSwyMTM1MTE2MjI3LC0xMT
+UzNzcwNTgzLC03Mzg2NTU4MTMsLTgyOTU2MjAxOCwxNjQ3OTc3
+NjgyLC0yNDE2ODY1MDBdfQ==
 -->
