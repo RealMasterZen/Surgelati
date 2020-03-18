@@ -1,6 +1,6 @@
 # Lezione Analisi La ser fiesolana
 
-FRESCHE le mie parole ne la sera  
+FRESCHE le mie parole ne la sera(-> Enjambement)  
 ti sien (Inversione sintattiva)come il fruscìo (Onomatopea )che fan le foglie  (Alliterazione della f)
 del gelso ne la man di chi le coglie  
 silenzioso e ancor s’attarda a l’opra lenta  
@@ -59,5 +59,6 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzk3NzY4MiwtMjQxNjg2NTAwXX0=
+eyJoaXN0b3J5IjpbLTYxNDU1ODgyOCwxNjQ3OTc3NjgyLC0yND
+E2ODY1MDBdfQ==
 -->
