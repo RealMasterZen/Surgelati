@@ -64,19 +64,24 @@ oltre ogni uman desiderio
 > Analisi strofa 
 - Si rileva un altra dimostrazione del panismo per l'apprezzamento mitico della natura
 - anafora di "Ti dirò"
+- inversione sintattica per uman desiderio
+- si incurvino come labbra che un divieto chiuda e per la volontà di dire le faccia belle: significa che esse nascondono un segreto che le rende belle
 
 45e nel silenzio lor sempre novelle  
 consolatrici, sì che pare  
 che ogni sera l’anima le possa amare  
 d’amor più forte.  
-  
+
+>Analisi:
+-   
+
 Laudata sii per la tua pura morte,  
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 
 > Analisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE0NDM3MDUsLTExNTM3NzA1ODMsLT
-czODY1NTgxMywtODI5NTYyMDE4LDE2NDc5Nzc2ODIsLTI0MTY4
-NjUwMF19
+eyJoaXN0b3J5IjpbMjEzNTExNjIyNywtMTE1Mzc3MDU4MywtNz
+M4NjU1ODEzLC04Mjk1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2
+NTAwXX0=
 -->
