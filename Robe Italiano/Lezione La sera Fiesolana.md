@@ -62,7 +62,8 @@ le faccia belle
 oltre ogni uman desire
 
 > Analisi strofa 
-- 
+- Si rileva un altra dimostrazione del panismo per l'apprezzamento mitico della natura
+- anafora di "Ti dirò"
 
 45e nel silenzio lor sempre novelle  
 consolatrici, sì che pare  
@@ -75,7 +76,7 @@ le prime stelle!
 
 > Analisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjUwNDYxNSwtMTE1Mzc3MDU4MywtNz
+eyJoaXN0b3J5IjpbMTU1OTI1MDk2MywtMTE1Mzc3MDU4MywtNz
 M4NjU1ODEzLC04Mjk1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2
 NTAwXX0=
 -->
