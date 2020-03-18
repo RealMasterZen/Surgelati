@@ -61,6 +61,9 @@ chiuda, e perché la volontà di dire
 le faccia belle  
 oltre ogni uman desire
 
+> Analisi strofa 
+- 
+
 45e nel silenzio lor sempre novelle  
 consolatrici, sì che pare  
 che ogni sera l’anima le possa amare  
@@ -70,6 +73,7 @@ Laudata sii per la tua pura morte,
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM3NzA1ODMsLTczODY1NTgxMywtOD
-I5NTYyMDE4LDE2NDc5Nzc2ODIsLTI0MTY4NjUwMF19
+eyJoaXN0b3J5IjpbMjUzOTYwMzQ2LC0xMTUzNzcwNTgzLC03Mz
+g2NTU4MTMsLTgyOTU2MjAxOCwxNjQ3OTc3NjgyLC0yNDE2ODY1
+MDBdfQ==
 -->
