@@ -72,8 +72,10 @@ d’amor più forte.
 Laudata sii per la tua pura morte,  
 50o Sera, e per l’attesa che in te fa palpitare  
 le prime stelle!
+
+> Analisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzOTYwMzQ2LC0xMTUzNzcwNTgzLC03Mz
-g2NTU4MTMsLTgyOTU2MjAxOCwxNjQ3OTc3NjgyLC0yNDE2ODY1
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTI2MjUwNDYxNSwtMTE1Mzc3MDU4MywtNz
+M4NjU1ODEzLC04Mjk1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2
+NTAwXX0=
 -->
