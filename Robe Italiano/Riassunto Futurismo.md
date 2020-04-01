@@ -6,8 +6,8 @@ Il movimento culturale si basava sul movimento, la velocità, l'aggressività, l
 
 **Boccioni e Marinetti** Furono sul fronte durante la prima guerra mondiale, loro due così come **Ungaretti**.
 
-Tutta l'arte antica doveva essere svecchiata togliendo il passato e facendo passare solo il futuro, che nel caso erano i mezzi di traspor
+Tutta l'arte antica doveva essere svecchiata togliendo il passato e facendo passare solo il futuro, che nel caso erano i mezzi di trasporto ad alta velocità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE4OTEzMTcsMTg4Mjg2ODQzOSwxMD
+eyJoaXN0b3J5IjpbLTE2MTQ0NzcyOTEsMTg4Mjg2ODQzOSwxMD
 YyMjk5NDYxXX0=
 -->
