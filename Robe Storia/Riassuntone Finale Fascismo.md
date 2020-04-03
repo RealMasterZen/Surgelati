@@ -15,8 +15,10 @@ ci fu una grave crisi socale perché i reduci di guerra tornavano dalla guerra e
 Questo comportò un occupazione dei latifondi sopratutto nel centro sud.
 Qeusti reduci di guerra si impadronirono delle terre per viverci e stabilircisi.
 
-**gli opera
+**gli operai** dal canto loro reagirono alla disocupazione creando veri e propri scioeri.
+DI fatto quegli anni (stiamo parlando del 1919/1920) fu denominato **biennio rosso**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDMwNjA3NiwtMzMyMTg3MjAwLDE3OD
+eyJoaXN0b3J5IjpbLTUyODU1ODI1MywtMzMyMTg3MjAwLDE3OD
 g1NTU5OTFdfQ==
 -->
