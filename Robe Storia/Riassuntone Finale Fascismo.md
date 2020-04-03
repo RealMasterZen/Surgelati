@@ -20,7 +20,19 @@ DI fatto quegli anni (stiamo parlando del 1919/1920) fu denominato
 - **biennio rosso**:
  consistette infatti in uno sciopero generale operaio che nel settembre del arrivarono ad occupare fino ad 600 fabbriche interrompendone la produzione
 
+quest'ultima fu una strategia ideata dalla FIOM
+FEDERAZIONE
+ITALIANA
+OPERAI
+METALLURGIUCI
+e patrocinata dalla Cgdl
+CONFEDERAZIONE
+GENERALE
+DEL
+LAVORO
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODI3MzMzNiwtMzMyMTg3MjAwLDE3OD
-g1NTU5OTFdfQ==
+eyJoaXN0b3J5IjpbNTM1NjY2MjIzLC0zMzIxODcyMDAsMTc4OD
+U1NTk5MV19
 -->
