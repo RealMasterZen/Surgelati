@@ -165,10 +165,14 @@ Fu adottata una politica orientata all'aumento demografico richiedendo alle donn
 
 Il motto del fascismo, (uno dei tanti motti) era tutto nello stato, nulla contro lo stato, niente al di fuori dello stato.
 
-Alcune parole vennero italianizzate e venne 
+Alcune parole vennero italianizzate e venne imposto il saluto romano.
+
+La propaganda pose particolare attenzione ai giovani i quali si dimostrarono ben aperti a un regime dall'aspetto dinamico e moderno.
+
+Tutti i ragazzi furono inquadrati nell'opera nazionale ballilla, prima chiamata figli 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3NjM4OTUsLTQyMTQwMTU3MSw5MD
-M5NjQ5MTUsLTExMTM2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1
-OTkxXX0=
+eyJoaXN0b3J5IjpbOTUwODA4MTM1LC00MjE0MDE1NzEsOTAzOT
+Y0OTE1LC0xMTEzNjY3NTk0LC0zMzIxODcyMDAsMTc4ODU1NTk5
+MV19
 -->
