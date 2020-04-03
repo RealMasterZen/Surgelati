@@ -159,10 +159,12 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 ## La vita quotidiana e la situazione sociale sotto il fascismo
  attraverso il controllo che il fascismo aveva della popolazione il governo puntò alla creazione di un nuovo italiano capace di dar lustro all'italianità.
 
+Furono create molte convenzione per i lavoratori, quali ad esempio le ferie pagate e l'assicurazione e inoltre anche l'Opera nazionale dopolavoro.
 
+Fu adottata una politica orientata all'aumento demografico richiedendo alle donne di fare moti figli e incentivizzando quest'ultima opzione mettendo addirittura una tassa sul celibato
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ1Nzk0OTksLTQyMTQwMTU3MSw5MD
+eyJoaXN0b3J5IjpbLTE2OTE0MzE0NzgsLTQyMTQwMTU3MSw5MD
 M5NjQ5MTUsLTExMTM2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1
 OTkxXX0=
 -->
