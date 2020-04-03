@@ -54,8 +54,12 @@ quest'ultimo durante la crisi del 1920 rinunciò all'uso della forza
 (grande caratteristica di giovanni giolitti cercare il compromesso anzichè passare alla forza fin da subito)
 ecercò la trattativa tra industriali e operai.
 
-L'esito della trattaviva però intensificò la spaccatura del partito socialista facendo staccare i social
+L'esito della trattaviva però intensificò la spaccatura del partito socialista facendo staccare i social-rivoluzionari di togliatti e gramsci che 
+successivamente crearono il partito comunista italiano.
+
+QUesta separazione arrivò proprio nel momento sbagliato perchè la sinistra doveva tenersi forte per combattere l'arrivo del nascente fascismo.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjQ3OTI5MiwtMzMyMTg3MjAwLDE3OD
+eyJoaXN0b3J5IjpbMTE2MDU0NTI2NiwtMzMyMTg3MjAwLDE3OD
 g1NTU5OTFdfQ==
 -->
