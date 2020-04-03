@@ -4,8 +4,11 @@ Arriviamo da un panorama post-bellico che aveva come basamento aziende che produ
 
 Inoltre grazie al massiccio arruolamento di contadini tra le file dell'esercito la produzione agricola incominciava a diminuire, per questo infatti *lo stato fu costretto ad acquistare i beni primari dagli altri stati alleati*.
 
-Tutto ciò comporto dunque tre 
+Tutto ciò comporto dunque tre due fenomeni particolari:
+- **inflazione**
+- **disoccupazione**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc1OTY3MTYsMTc4ODU1NTk5MV19
+eyJoaXN0b3J5IjpbLTMzMjE4NzIwMCwxNzg4NTU1OTkxXX0=
 -->
