@@ -1,4 +1,4 @@
-# Mussolini
+# Mussolini (pag 97) 
 
 ad Approfittare della difficile situazione Politico Economica in italia fu **Benito Mussolini**. 
 
@@ -93,9 +93,10 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 - il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili le zone paludose del centro Italia, ad esempio l'Agro Pontino
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjU5ODA3MCwtMjc3MzM5OTgxLC0xMj
-I1OTg4MjM0LDE5ODI3MzQyOSwtOTE2NTA0NDY5LDEwNjE2NzAy
-MTAsLTcxMjQ3MzQwOSwtMTYyNzg1MDA3MCwtNzc0NTg3NzQ2LC
-01MDA3ODQ0NDYsMTY5MjY3ODE0NywtNjk1NTExMDk0LDI3MDc0
-NTYxNCwxMjI4MTk4ODgyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODgzMjI2NzY3LDExMjI1OTgwNzAsLTI3Nz
+MzOTk4MSwtMTIyNTk4ODIzNCwxOTgyNzM0MjksLTkxNjUwNDQ2
+OSwxMDYxNjcwMjEwLC03MTI0NzM0MDksLTE2Mjc4NTAwNzAsLT
+c3NDU4Nzc0NiwtNTAwNzg0NDQ2LDE2OTI2NzgxNDcsLTY5NTUx
+MTA5NCwyNzA3NDU2MTQsMTIyODE5ODg4Miw3MzA5OTgxMTZdfQ
+==
 -->
