@@ -161,10 +161,14 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 
 Furono create molte convenzione per i lavoratori, quali ad esempio le ferie pagate e l'assicurazione e inoltre anche l'Opera nazionale dopolavoro.
 
-Fu adottata una politica orientata all'aumento demografico richiedendo alle donne di fare moti figli e incentivizzando quest'ultima opzione mettendo addirittura una tassa sul celibato
+Fu adottata una politica orientata all'aumento demografico richiedendo alle donne di fare moti figli e incentivizzando quest'ultima opzione mettendo addirittura una tassa sul celibato.
+
+Il motto del fascismo, (uno dei tanti motti) era tutto nello stato, nulla contro lo stato, niente al di fuori dello stato.
+
+Alcune parole vennero italianizzate e venne 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE0MzE0NzgsLTQyMTQwMTU3MSw5MD
+eyJoaXN0b3J5IjpbLTE1Mzg3NjM4OTUsLTQyMTQwMTU3MSw5MD
 M5NjQ5MTUsLTExMTM2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1
 OTkxXX0=
 -->
