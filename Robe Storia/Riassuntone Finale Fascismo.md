@@ -43,7 +43,11 @@ Malgrado il grande incremento degli affiliati a questi 2 partiti nelle elezioni 
 Prima il governo Nitti,
 poi il governo Giolitti(ancora una volta)
 
+quest'ultimo durante la crisi del 1920 rinunciò all'uso della forza 
+(grande caratteristica di giovanni giolitti cercare il compromesso anzichè passare alla forza fin da subito)
+ecercò la trattativa tra industriali e operai.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NDA0NzQ5LC0zMzIxODcyMDAsMTc4OD
-U1NTk5MV19
+eyJoaXN0b3J5IjpbMTc2MjM1ODU2MCwtMzMyMTg3MjAwLDE3OD
+g1NTU5OTFdfQ==
 -->
