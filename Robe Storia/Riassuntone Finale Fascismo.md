@@ -38,8 +38,9 @@ QUesto e altri furono motivi per inizialre a temere una rivoluzione socalista.
 
 Finita la guerra la popolazione aveva bisogno di qualcuno che li guidasse meglio nella riconquista della propria indipendenza sociale e quindi iniziarono ad avere grande bisogno di partiti di massa come per esempio il **partito socialista** i cui iscritti aumentarono considerevolmente.
 Inoltre all'inizio del 1919 nacque il PEEPEE
-fondato da luigi sturzo e governata da ideali di ca
+fondato da luigi sturzo e governata da ideali di cattolicesimo democratico.
+Malgrado il grande 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTQwNjA5OCwtMzMyMTg3MjAwLDE3OD
-g1NTU5OTFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDM5MDIzODksLTMzMjE4NzIwMCwxNz
+g4NTU1OTkxXX0=
 -->
