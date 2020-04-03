@@ -157,9 +157,12 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 - il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili le zone paludose del centro Italia, ad esempio l'Agro Pontino
 
 ## La vita quotidiana e la situazione sociale sotto il fascismo
+ attraverso il controllo che il fascismo aveva della popolazione il governo puntò alla creazione di un nuovo italiano capace di dar lustro all'italianità.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTQwMTU3MSw5MDM5NjQ5MTUsLTExMT
-M2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1OTkxXX0=
+eyJoaXN0b3J5IjpbLTE2NzQ1Nzk0OTksLTQyMTQwMTU3MSw5MD
+M5NjQ5MTUsLTExMTM2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1
+OTkxXX0=
 -->
