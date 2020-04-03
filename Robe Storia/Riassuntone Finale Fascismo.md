@@ -37,11 +37,11 @@ QUesto e altri furono motivi per inizialre a temere una rivoluzione socalista.
 ## Partiti di massa e altra merda
 
 Finita la guerra la popolazione aveva bisogno di qualcuno che li guidasse meglio nella riconquista della propria indipendenza sociale e quindi iniziarono ad avere grande bisogno di partiti di massa come per esempio il **partito socialista** i cui iscritti aumentarono considerevolmente.
-Inoltre all'inizio del *1919 nacque il PEEPEE
-fondato da luigi sturzo e governata da ideali di cattolicesimo democratico.
-Malgrado il grande incremento degli affiliati a questi 2 partiti nelle elezioni del 1919 non ottennero grande successo nonpotendo unirsi avendo ideali fndamentalmente differenti, infatti il comando dell'esercito fu ancora un volta affidata ai vecchi politici liberali, 
+Inoltre all'inizio del **1919 nacque il PEEPEE**
+fondato da **luigi sturzo** e governata da **ideali di cattolicesimo democratico.**
+Malgrado il grande incremento degli affiliati a questi 2 partiti **nelle elezioni del 1919** non ottennero grande successo non potendo unirsi avendo ideali fondamentalmente differenti, infatti **il comando dell'esercito fu ancora un volta affidata ai vecchi politici liberali, 
 Prima il governo Nitti,
-poi il governo Giolitti(ancora una volta)
+poi il governo Giolitti(ancora una volta)**
 
 **schemino ignorante sulla formazione dei partiti politi del 1919**
 - politiconi vecchi (liberali)
@@ -179,7 +179,7 @@ Le ragazze invece erano chiamate giovani fasciste.
 Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzQzNzIyMSwxNTM2MjAxMTQwLC00Mj
+eyJoaXN0b3J5IjpbMjA0NTEwMTYxOCwxNTM2MjAxMTQwLC00Mj
 E0MDE1NzEsOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMzIxODcy
 MDAsMTc4ODU1NTk5MV19
 -->
