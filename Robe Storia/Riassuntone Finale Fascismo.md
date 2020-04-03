@@ -11,8 +11,12 @@ Tutto ciò comporto dunque tre due fenomeni particolari:
 ### Situazione a livello sociale e lavorativo interno
 
 In questo periodo (dopo il 1918)
-ci fu una grave crisi socale perchè i reduci di guerra tornavano dalla guerra e non ebbereo resi i possedeimenti loro promessi
+ci fu una grave crisi socale perché i reduci di guerra tornavano dalla guerra e non ebbereo resi i possedeimenti loro promessi.
+Questo comportò un occupazione dei latifondi sopratutto nel centro sud.
+Qeusti reduci di guerra si impadronirono delle terre per viverci e stabilircisi.
+
+**gli opera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEwODI5MCwtMzMyMTg3MjAwLDE3OD
+eyJoaXN0b3J5IjpbLTgzMDMwNjA3NiwtMzMyMTg3MjAwLDE3OD
 g1NTU5OTFdfQ==
 -->
