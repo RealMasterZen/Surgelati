@@ -174,10 +174,10 @@ Tutti i ragazzi furono inquadrati nell'opera nazionale ballilla, prima chiamata 
 Nei campi e nelle colonie veniva dato un primo insegnamento prebellico e venivano insegnati comportamenti ed etichetta specifiche fasciste completa di un indottrinamento politico.
 
 Per i più maturi c'erano addirittura i gruppi universitari fascisti.
-Le ragazze invece erano chi
+Le ragazze invece erano chiamate giovani fasciste
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE1NTg1MjcsLTQyMTQwMTU3MSw5MD
-M5NjQ5MTUsLTExMTM2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1
-OTkxXX0=
+eyJoaXN0b3J5IjpbMTUzNjIwMTE0MCwtNDIxNDAxNTcxLDkwMz
+k2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3MjAwLDE3ODg1NTU5
+OTFdfQ==
 -->
