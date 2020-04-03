@@ -156,8 +156,10 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 - la **battaglia del grano**, che mirava a incrementare la produzione dei cereale per i quali l'italia dipendeva in grande misura dall'estero
 - il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili le zone paludose del centro Italia, ad esempio l'Agro Pontino
 
+## La vita quotidiana e la situazione sociale sotto il fascismo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMz
-IxODcyMDAsMTc4ODU1NTk5MV19
+eyJoaXN0b3J5IjpbLTQyMTQwMTU3MSw5MDM5NjQ5MTUsLTExMT
+M2Njc1OTQsLTMzMjE4NzIwMCwxNzg4NTU1OTkxXX0=
 -->
