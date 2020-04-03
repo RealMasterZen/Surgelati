@@ -79,10 +79,10 @@ Questi inoltre agivano con appoggio o sotto il velo di omertà delle forze dell'
 
 ## Seguito elezioni 21 / Marcia su Roma
 
-Le **elezioni del 21** dunque non diedero una maggioranza stabile e nel giro di pochi mesi prima B*onomi e poi Facta rimpiazzarono Giolitti come presidenti del Consiglio ;questi si dimostrarono però sempre inefficaci nel trattare la deifficile situazione socio economica italiana.
+Le **elezioni del 21** dunque non diedero una maggioranza stabile e nel giro di pochi mesi prima **Bonomi e poi Facta** rimpiazzarono Giolitti come presidenti del Consiglio ;questi si dimostrarono però sempre inefficaci nel trattare la difficile situazione socio economica italiana.
 
 Intanto lo squadrismo prendeva sempre più piede all'interno dello stato e Mussolini trasformò il suo movimento in un vero e proprio Partito: 
-naque così nel 1921 il **partito nazionale fascista** le cui linee guida erano : 
+nacque così nel 1921 il **partito nazionale fascista** le cui linee guida erano : 
 - abbandono delle iniziali posizioni radicali
 - passaggio a una politica economica liberista
 - tentativo di riallacciamento dei rapporti con la chiesa
@@ -90,11 +90,11 @@ naque così nel 1921 il **partito nazionale fascista** le cui linee guida erano 
 Nell'ottobre del 1922 Mussolini percepì che era il momento di agire e chiamò a riunirsi a Roma tutte le camice nere d'Italia, vista la situazione come un possibile colpo di mano il presidente del consiglio Facta chiese al re Vittorio Emanuele III di dichiarare lo stato d'assedio, in tutta risposta il re convocò mussolini e gli affidò l'incarico di formare un nuovo governo.
 
 2 giorni dopo, il 30 ottobre il governo Mussolini era pronto.
-A wuesto governo appartenevano fascisti, alcuni liberali e popolari, gli oppositori erano socialisti e comunisti.
+A questo governo appartenevano fascisti, alcuni liberali e popolari, gli oppositori erano socialisti e comunisti.
 gran parte dell'elettorato attivo confidava nel nuovo partito come una forza capace di rinnovare la situazione in Italia ormai disastrosa.
 
-Il governo di  di Mussoi si concentrò a:
--  ridurre le manifestazioni più estreme dello squadrismo per evitare il dissenso ù
+Il governo di  di Mussolini si concentrò a:
+-  ridurre le manifestazioni più estreme dello squadrismo per evitare il dissenso 
 -  successivamente aumentò la pressione sui sindacati per ridurre il numero di scioperi
 - Creò nuove istituzioni:
 	- **Gran consiglio del fascismo**
@@ -103,9 +103,9 @@ Il governo di  di Mussoi si concentrò a:
 
 ## Omicidio Matteotti
 
-il primo gennaio del 1924 il Governo si sciolse e con le nuove elezioni i fascisti provvidero a cercare la vittoria attraverso brogli e minaccie, 
-dopo la ovvia vittoria del partito con 324 seggi il Socialista **Matteotti** denunciò il parito per le illegalità commesse, come conseguenza alcuni fascisti lo rapirono e uccisero,
-dopo questo avvenimento si scatenò l'ira contro il partito fascista considerato illegale e più parti fecero pressioni su Vittorio emanuele per destituire Mussolini.
+il primo gennaio del 1924 il Governo si sciolse e con le nuove elezioni i fascisti provvidero a cercare la vittoria attraverso brogli e minacce, 
+dopo la ovvia vittoria del partito con 324 seggi il Socialista **Matteotti** denunciò il partito per le illegalità commesse, come conseguenza alcuni fascisti lo rapirono e uccisero,
+dopo questo avvenimento si scatenò l'ira contro il partito fascista considerato illegale e più parti fecero pressioni su Vittorio Emanuele per destituire Mussolini.
 
 ## Trasformazione dell'italia in una dittatura
 
@@ -179,7 +179,7 @@ Le ragazze invece erano chiamate giovani fasciste.
 Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkzNjk4MTQsMTUzNjIwMTE0MCwtND
+eyJoaXN0b3J5IjpbLTEzMDE0NzE3MjcsMTUzNjIwMTE0MCwtND
 IxNDAxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3
 MjAwLDE3ODg1NTU5OTFdfQ==
 -->
