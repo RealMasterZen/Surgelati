@@ -16,9 +16,11 @@ Questo comportò un occupazione dei latifondi sopratutto nel centro sud.
 Qeusti reduci di guerra si impadronirono delle terre per viverci e stabilircisi.
 
 **gli operai** dal canto loro reagirono alla disocupazione creando veri e propri scioeri.
-DI fatto quegli anni (stiamo parlando del 1919/1920) fu denominato **biennio rosso**
+DI fatto quegli anni (stiamo parlando del 1919/1920) fu denominato 
+- **biennio rosso**:
+ consistette infatti in uno sciopero generale operaio che nel settembre del arrivarono ad occupare fino ad 600 fabbriche interrompendone la produzione
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODU1ODI1MywtMzMyMTg3MjAwLDE3OD
+eyJoaXN0b3J5IjpbLTI5ODI3MzMzNiwtMzMyMTg3MjAwLDE3OD
 g1NTU5OTFdfQ==
 -->
