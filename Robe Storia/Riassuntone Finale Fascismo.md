@@ -87,7 +87,7 @@ nacque così nel 1921 il **partito nazionale fascista** le cui linee guida erano
 - passaggio a una politica economica liberista
 - tentativo di riallacciamento dei rapporti con la chiesa
 
-Nell'ottobre del 1922 Mussolini percepì che era il momento di agire e chiamò a riunirsi a Roma tutte le camice nere d'Italia, vista la situazione come un possibile colpo di mano il presidente del consiglio Facta chiese al re Vittorio Emanuele III di dichiarare lo stato d'assedio, in tutta risposta il re convocò mussolini e gli affidò l'incarico di formare un nuovo governo.
+Nell'ottobre del **1922 Mussolini percepì che era il momento di agire e chiamò a riunirsi a fare la marcia su Roma tutte le camice nere** d'Italia, vista la situazione come un possibile colpo di mano il presidente del consiglio Facta chiese al re Vittorio Emanuele III di dichiarare lo stato d'assedio, in tutta risposta il re convocò mussolini e gli affidò l'incarico di formare un nuovo governo.
 
 2 giorni dopo, il 30 ottobre il governo Mussolini era pronto.
 A questo governo appartenevano fascisti, alcuni liberali e popolari, gli oppositori erano socialisti e comunisti.
@@ -179,7 +179,7 @@ Le ragazze invece erano chiamate giovani fasciste.
 Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE0NzE3MjcsMTUzNjIwMTE0MCwtND
-IxNDAxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3
-MjAwLDE3ODg1NTU5OTFdfQ==
+eyJoaXN0b3J5IjpbNTQwODEyNzcsMTUzNjIwMTE0MCwtNDIxND
+AxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3MjAw
+LDE3ODg1NTU5OTFdfQ==
 -->
