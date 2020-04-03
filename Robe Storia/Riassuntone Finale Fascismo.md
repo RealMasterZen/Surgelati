@@ -48,13 +48,13 @@ poi il governo Giolitti(ancora una volta)
 - Socialisti:
 	- Social-rivoluzionari
 	- Social-riformisti
-- P
+- Partito popolare italiano
 
 quest'ultimo durante la crisi del 1920 rinunciò all'uso della forza 
 (grande caratteristica di giovanni giolitti cercare il compromesso anzichè passare alla forza fin da subito)
 ecercò la trattativa tra industriali e operai.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTYyNDUxMiwtMzMyMTg3MjAwLDE3OD
-g1NTU5OTFdfQ==
+eyJoaXN0b3J5IjpbMTc3NzkzNjIyLC0zMzIxODcyMDAsMTc4OD
+U1NTk5MV19
 -->
