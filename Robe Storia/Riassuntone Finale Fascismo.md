@@ -174,10 +174,12 @@ Tutti i ragazzi furono inquadrati nell'opera nazionale ballilla, prima chiamata 
 Nei campi e nelle colonie veniva dato un primo insegnamento prebellico e venivano insegnati comportamenti ed etichetta specifiche fasciste completa di un indottrinamento politico.
 
 Per i più maturi c'erano addirittura i gruppi universitari fascisti.
-Le ragazze invece erano chiamate giovani fasciste
+Le ragazze invece erano chiamate giovani fasciste.
+
+Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjIwMTE0MCwtNDIxNDAxNTcxLDkwMz
-k2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3MjAwLDE3ODg1NTU5
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDI5NTE4MzksMTUzNjIwMTE0MCwtND
+IxNDAxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3
+MjAwLDE3ODg1NTU5OTFdfQ==
 -->
