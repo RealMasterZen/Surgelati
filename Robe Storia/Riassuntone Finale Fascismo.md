@@ -58,8 +58,12 @@ L'esito della trattaviva però intensificò la spaccatura del partito socialista
 successivamente crearono il partito comunista italiano.
 
 QUesta separazione arrivò proprio nel momento sbagliato perchè la sinistra doveva tenersi forte per combattere l'arrivo del nascente fascismo.
+## L'IMPRESA DI FUIMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEH
+
+già chiara 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDU0NTI2NiwtMzMyMTg3MjAwLDE3OD
+eyJoaXN0b3J5IjpbLTU3NjkwNTQyMSwtMzMyMTg3MjAwLDE3OD
 g1NTU5OTFdfQ==
 -->
