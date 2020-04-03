@@ -8,7 +8,11 @@ Tutto ciò comporto dunque tre due fenomeni particolari:
 - **inflazione**
 - **disoccupazione**
 
+### Situazione a livello sociale e lavorativo interno
 
+In questo periodo (dopo il 1918)
+ci fu una grave crisi socale perchè i reduci di guerra tornavano dalla guerra e non ebbereo resi i possedeimenti loro promessi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjE4NzIwMCwxNzg4NTU1OTkxXX0=
+eyJoaXN0b3J5IjpbLTE1MDEwODI5MCwtMzMyMTg3MjAwLDE3OD
+g1NTU5OTFdfQ==
 -->
