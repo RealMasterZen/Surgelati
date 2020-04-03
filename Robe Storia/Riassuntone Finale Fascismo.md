@@ -128,7 +128,7 @@ in ogni città vennero sostituiti i sindaci con podestà scelti direttamente da 
 
 Grazie a ciò mussolini e il fascismo era i padroni assulti dell'Italia.
 
-## Situzione del Ventennio Fascista
+## Situazione del Ventennio Fascista
 
 A governare l'Italia erano quindi 3 organi:
 - Il Gran Consiglio Del fascismo
@@ -158,6 +158,6 @@ Il fascismo inoltre promosse 2 progetti ambiziosi:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM2Njc1OTQsLTMzMjE4NzIwMCwxNz
-g4NTU1OTkxXX0=
+eyJoaXN0b3J5IjpbOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMz
+IxODcyMDAsMTc4ODU1NTk5MV19
 -->
