@@ -31,8 +31,10 @@ GENERALE
 DEL
 LAVORO
 
+fù in questo momento storico quantunque si crearono consigli di fabbrica ber gestire la situazione:questi erano basati sul modello sovietico.
+QUesto e altri furono motivi per inizialre a temere una rivoluzione socalista.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NjY2MjIzLC0zMzIxODcyMDAsMTc4OD
-U1NTk5MV19
+eyJoaXN0b3J5IjpbMjc2OTkxMTMsLTMzMjE4NzIwMCwxNzg4NT
+U1OTkxXX0=
 -->
