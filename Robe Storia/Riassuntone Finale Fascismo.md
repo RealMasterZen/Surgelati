@@ -176,10 +176,10 @@ Nei campi e nelle colonie veniva dato un primo insegnamento prebellico e venivan
 Per i più maturi c'erano addirittura i gruppi universitari fascisti.
 Le ragazze invece erano chiamate giovani fasciste.
 
-Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superioreva
+Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzY3NjUyMiwxNTM2MjAxMTQwLC00Mj
-E0MDE1NzEsOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMzIxODcy
-MDAsMTc4ODU1NTk5MV19
+eyJoaXN0b3J5IjpbLTEyMDI5NTE4MzksMTUzNjIwMTE0MCwtND
+IxNDAxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3
+MjAwLDE3ODg1NTU5OTFdfQ==
 -->
