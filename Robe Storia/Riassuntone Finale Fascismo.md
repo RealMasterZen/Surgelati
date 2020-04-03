@@ -69,17 +69,17 @@ ad Approfittare della difficile situazione Politico Economica in italia fu **Ben
 Nato a Predappio nel 1883, iniziò la sua carriera politica con i socialisti, direttore dell' **Avanti**, quotidiano del **Psi**, fino al 1914 quando fu espulso per posizioni troppo interventiste,
 dopo ciò fondò un nuovo giornale chiamato "Il Popolo d'Italia" che userà successivamente per sostenere le proprie posizioni.
 
-Poco dopo la conclusione della prima guerra mondiale il 23 marzo del 1919 Mussolini creò a Milano i Fasci di Combattimento (Composti inizialmente da reduci di guerra)
-l'ideologia Politica dei fesci era assolutamente contro i partiti di massa, era anticlericale e fortemente repubblicana e nazionlista inoltre prediligeva la risoluzione dellle contese politiche attraverso la violenza.
+Poco dopo la conclusione della prima guerra mondiale il **23 marzo del 1919 Mussolini creò a Milano i Fasci di Combattimento (Composti inizialmente da reduci di guerra)**
+l'ideologia Politica dei fasci era assolutamente contro i partiti di massa, era anticlericale e fortemente repubblicana e nazionalista inoltre prediligeva la risoluzione delle contese politiche attraverso la violenza.
 Mussolini teneva a far diventare i Fasci un gran movimento e cercava il consenso trasversale di tutte le classi sociali, nonostante questo nelle elezioni del 1919 non ottennero grande successo e nessun seggio elettorale.
 
 Dopo questo insuccesso i Fasci cambiarono direzione appoggiando l'alta borghesia e la piccola borghesia, e stando contro la classe operai e i contadini.
 Questo cambio di rotta si rivelò assai fruttuoso per Mussolini e i suoi fasci che inizarono ad ottenere l'appoggio degli imprenditori agrari e degli impresari.
 Questi inoltre agivano con appoggio o sotto il velo di omertà delle forze dell'ordine e del Governo, inoltre nel 1921 Mussolini fu portato da Giolitti come alleato per le elezioni, con questo i fascisti ottennero ben 35 deputati in parlamento.
 
-## Seguito elezioni 21 / Marci su Roma
+## Seguito elezioni 21 / Marcia su Roma
 
-Le elezioni del 21 dunque non diedero una maggioranza stabile e nel giro di pochi mesi prima Bonomi e poi Facta rimpiazzarono Giolitti come presidenti del Consiglio ;questi si dimostrarono però sempre inefficaci nel trattare la deifficile situazione socio economica italiana.
+Le **elezioni del 21** dunque non diedero una maggioranza stabile e nel giro di pochi mesi prima B*onomi e poi Facta rimpiazzarono Giolitti come presidenti del Consiglio ;questi si dimostrarono però sempre inefficaci nel trattare la deifficile situazione socio economica italiana.
 
 Intanto lo squadrismo prendeva sempre più piede all'interno dello stato e Mussolini trasformò il suo movimento in un vero e proprio Partito: 
 naque così nel 1921 il **partito nazionale fascista** le cui linee guida erano : 
@@ -179,7 +179,7 @@ Le ragazze invece erano chiamate giovani fasciste.
 Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTEwMTYxOCwxNTM2MjAxMTQwLC00Mj
-E0MDE1NzEsOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMzIxODcy
-MDAsMTc4ODU1NTk5MV19
+eyJoaXN0b3J5IjpbLTExNTkzNjk4MTQsMTUzNjIwMTE0MCwtND
+IxNDAxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3
+MjAwLDE3ODg1NTU5OTFdfQ==
 -->
