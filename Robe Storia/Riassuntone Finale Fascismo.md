@@ -126,13 +126,13 @@ in ogni città vennero sostituiti i sindaci con podestà scelti direttamente da 
 - Infine furono concessi poteri altissimi al capo del Governo, e ridotti drasticamente quelli del Parlamento,
 - nel 1928 fu approvata una nuova legge elettorali che consentiva l'approvazione di una unica lista fascista.
 
-Grazie a ciò mussolini e il fascismo era i padroni assulti dell'Italia.
+Grazie a ciò mussolini e il fascismo erano i padroni assulti dell'Italia.
 
 ## Situazione del Ventennio Fascista
 
 A governare l'Italia erano quindi 3 organi:
 - Il Gran Consiglio Del fascismo
-- Il partito Nazional Fascista
+- Il partito Nazionale Fascista
 - Al vertice Benito Mussolini, capo del Regime
 
 ## Patti Lateranensi 
@@ -141,13 +141,13 @@ Risoluzione dei Problemi tra Stato e chiesa Mussolini li stilò con il Papa Pio 
 
 Questi dichiaravano:
 - Lo Stato del Vaticano come un Vero e proprio stato
-- Riconoscevano il cattolicesono come la sola religione dello stato
+- Riconoscevano il cattolicesimo come la sola religione dello stato
 - Venne attribuito valore civile al matrimonio religioso
 
 ## Panorama Economico
 
 Vennero istituite delle Corporazioni per ogni branca produttiva (in totale 22 branche) e un organo super partes chiamato consiglio nazionale delle corporazioni
-e successivamente fondarono una Camera dei Fasci e delle corporaizoni che sostitui la camera dei deputati Italiana.
+e successivamente fondarono una Camera dei Fasci e delle corporazioni che sostitui la camera dei deputati Italiana.
 
 Per ripristinare l'economia statale si cercò di adottare un economia prevalentaemente Protezionistica con aumento dei prezzi sui beni più importanti
 
@@ -179,7 +179,7 @@ Le ragazze invece erano chiamate giovani fasciste.
 Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwODEyNzcsMTUzNjIwMTE0MCwtNDIxND
-AxNTcxLDkwMzk2NDkxNSwtMTExMzY2NzU5NCwtMzMyMTg3MjAw
-LDE3ODg1NTU5OTFdfQ==
+eyJoaXN0b3J5IjpbLTQ2MzY3OTM5NiwxNTM2MjAxMTQwLC00Mj
+E0MDE1NzEsOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMzIxODcy
+MDAsMTc4ODU1NTk5MV19
 -->
