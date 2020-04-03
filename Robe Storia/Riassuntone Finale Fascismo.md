@@ -34,7 +34,10 @@ LAVORO
 fù in questo momento storico quantunque si crearono consigli di fabbrica ber gestire la situazione:questi erano basati sul modello sovietico.
 QUesto e altri furono motivi per inizialre a temere una rivoluzione socalista.
 
+## Partiti di massa e altra merda
+
+Finita la guerra la popolazione aveva bisogno di qualcuno che li guidasse meglio nella riconquista della propria indipendenza sociale e quindi iniziarono ad avere grande bisogno di partiti di massa come per esempio il partito socialista i cui iscritti aumentarono considerevolmente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2OTkxMTMsLTMzMjE4NzIwMCwxNzg4NT
-U1OTkxXX0=
+eyJoaXN0b3J5IjpbLTE1MDg4NzM0NDUsLTMzMjE4NzIwMCwxNz
+g4NTU1OTkxXX0=
 -->
