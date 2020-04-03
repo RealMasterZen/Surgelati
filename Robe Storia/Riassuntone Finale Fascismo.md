@@ -54,7 +54,8 @@ quest'ultimo durante la crisi del 1920 rinunciò all'uso della forza
 (grande caratteristica di giovanni giolitti cercare il compromesso anzichè passare alla forza fin da subito)
 ecercò la trattativa tra industriali e operai.
 
+L'esito della trattaviva però intensificò la spaccatura del partito socialista facendo staccare i social
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzkzNjIyLC0zMzIxODcyMDAsMTc4OD
-U1NTk5MV19
+eyJoaXN0b3J5IjpbMTY5NjQ3OTI5MiwtMzMyMTg3MjAwLDE3OD
+g1NTU5OTFdfQ==
 -->
