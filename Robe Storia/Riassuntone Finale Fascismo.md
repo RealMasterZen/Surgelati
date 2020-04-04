@@ -147,11 +147,11 @@ Questi dichiaravano:
 ## Panorama Economico
 
 Vennero istituite delle Corporazioni per ogni branca produttiva (in totale 22 branche) e un organo super partes chiamato consiglio nazionale delle corporazioni
-e successivamente fondarono una Camera dei Fasci e delle corporazioni che sostitui la camera dei deputati Italiana.
+e successivamente fondarono una Camera dei Fasci e delle corporazioni che sostituì la camera dei deputati Italiana.
 
-Per ripristinare l'economia statale si cercò di adottare un economia prevalentaemente Protezionistica con aumento dei prezzi sui beni più importanti
+Per ripristinare l'economia statale si cercò di adottare un economia prevalentemente Protezionistica con aumento dei prezzi sui beni più importanti
 
-Per vincere la disoccupazioni fù introdotto un piano di lavori pubblici.
+Per vincere la disoccupazioni fu introdotto un piano di lavori pubblici.
 Il fascismo inoltre promosse 2 progetti ambiziosi:
 - la **battaglia del grano**, che mirava a incrementare la produzione dei cereale per i quali l'italia dipendeva in grande misura dall'estero
 - il **piano di bonifica integrale**, che aveva lo scopo di rendere abitabili le zone paludose del centro Italia, ad esempio l'Agro Pontino
@@ -179,7 +179,7 @@ Le ragazze invece erano chiamate giovani fasciste.
 Già nel 1923 giovanni gentile introduce l'esame di stato finito il corso di studi medio e superiore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzY3OTM5NiwxNTM2MjAxMTQwLC00Mj
+eyJoaXN0b3J5IjpbLTc4OTAxNjE0MiwxNTM2MjAxMTQwLC00Mj
 E0MDE1NzEsOTAzOTY0OTE1LC0xMTEzNjY3NTk0LC0zMzIxODcy
 MDAsMTc4ODU1NTk5MV19
 -->
