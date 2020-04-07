@@ -32,8 +32,12 @@ md2(sda2,sdb2)
 
 ## Controllo raid /proc/mdstat
 
+## Aggiunte di un terzo disco
+
+aggiungere un disco aggiuntivo per far passare da RAID1 aRAID5 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkwMzQ2NDMsOTIzOTEyMTUzLDE0OT
-A0OTgxODEsMTM2MTY4OTI3NywtOTEyMDgwMjA3XX0=
+eyJoaXN0b3J5IjpbLTY5NTE2ODczNiwtMTg5OTAzNDY0Myw5Mj
+M5MTIxNTMsMTQ5MDQ5ODE4MSwxMzYxNjg5Mjc3LC05MTIwODAy
+MDddfQ==
 -->
