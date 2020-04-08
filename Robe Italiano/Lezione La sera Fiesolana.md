@@ -1,4 +1,4 @@
-# Lezione Analisi La ser fiesolana
+# Lezione Analisi La sera fiesolana
 
 FRESCHE le mie parole ne la sera(-> Enjambement)  
 ti sien (Inversione sintattiva)come il fruscìo (Onomatopea )che fan le foglie  (Alliterazione della f)
@@ -82,7 +82,7 @@ le prime stelle!
 > Analisi:
 - La sera indica la fase intermedia tra giorno che è la vita e la notte che è la morte della giornata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODA0ODYxNSwyMTM1MTE2MjI3LC0xMT
-UzNzcwNTgzLC03Mzg2NTU4MTMsLTgyOTU2MjAxOCwxNjQ3OTc3
-NjgyLC0yNDE2ODY1MDBdfQ==
+eyJoaXN0b3J5IjpbLTQzMDgzNTA1OCwtOTY4MDQ4NjE1LDIxMz
+UxMTYyMjcsLTExNTM3NzA1ODMsLTczODY1NTgxMywtODI5NTYy
+MDE4LDE2NDc5Nzc2ODIsLTI0MTY4NjUwMF19
 -->
