@@ -39,7 +39,7 @@ nel 1905 Pascoli successe a carducci nella cattedra dell'università di Bologna.
 
 Sempre più vicino all'ideale nazionalista allora pubblica il discorso la grande proletaria si è mossa (1911)
 
-LE OPERE DI GIOVANNI PASCOLI
+## LE OPERE DI GIOVANNI PASCOLI
 
 1891 esce Myricae : una raccolta poetica di carattere tradizionale che racconta di temi della vita di tutti i giorni 
 guardandole con gli occhi del fanciullino.
@@ -56,7 +56,7 @@ parlino di liriche con un più ampio respiro e una magigore frequenza di studiat
 
 20 poemetti raccolit nei Poemi conviviali
 
-LE POESIE LATINE E I SAGGI
+## LE POESIE LATINE E I SAGGI
 I carmina, scritti in latino, comprendono 30 poemetti e fondamentalmente erano i poemi utilizzati per il concorso di poesia la
 tina ad amsterdam
 
@@ -67,5 +67,9 @@ negli ultimi anni della sua via giovanni pascoli si dedicò alla critica lettera
 
 
 
-IL PENSIERO E LA POETICA
+## IL PENSIERO E LA POETICA
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMjQ4ODY1MDVdfQ==
+-->
