@@ -17,9 +17,10 @@ Trasferitosi a Roma nel 1881 venne subito accolto nell'ambiente dalla società l
 Il periodo romano fu caratterizzato da una vita raffinata e dispendiosa ma anche una fervida attività letteraria.
 Nel 1883 D'annunzio sposò la duchessina Maria Hardouin di Gallese dalla quale ebbe 3 figli; nel 1887iniziò una relazione, durata 5 anni con Barbara Leoni, che gli ispirò i personaggi femminili ne: *il piacere e il trinfo dell'amore*. 
 
-Dopo aver speso una barca di soldi D'annunzio si trasferisce a napoli dove si legò sentimentalmente a Maria Gravina Crutllas, sposata con il conte Anguissola dalla quale ebbe la figlia renata.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NTc5MzgyLC0xMTU2NzU1OTIxLC00MT
-I0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwtNTE3MTQ3
-NzksLTE4MzMyOTc3ODYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTQzNTkyNzY1MCw0NTQ1NzkzODIsLTExNT
+Y3NTU5MjEsLTQxMjQ4NzE3MiwxMjA4NzU1NjczLC0xMzcyMzk2
+Njc1LC01MTcxNDc3OSwtMTgzMzI5Nzc4NiwtMjA4ODc0NjYxMl
+19
 -->
