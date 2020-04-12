@@ -22,12 +22,13 @@ Abbandonata napoli d'annunzio nel 1894 incontrò a venezia la celebre eleonora d
 
 nel 1897 entrò in politica nelle file della destra poi abbandonata per la sinistra a causa della polemica contro le leggi liberticide.
 
-1898 si trasferì con la duse nei pressi di firenze  nelle **Capponcina** dove spese tutte le risorse economiche per allestire l'ambiente 
+1898 si trasferì con la duse nei pressi di firenze  nelle **Capponcina** dove spese tutte le risorse economiche per allestire l'ambiente con gusto decadentista.
+In quegli anni: dal 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDM2NDc5MSwxOTAxOTM1NTU1LC0xOD
-g3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3
-MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC
-0xODMzMjk3Nzg2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIxMjg4MDUyNjUsMTkwMTkzNTU1NSwtMT
+g4NzU3MzMwNSw0NTQ1NzkzODIsLTExNTY3NTU5MjEsLTQxMjQ4
+NzE3MiwxMjA4NzU1NjczLC0xMzcyMzk2Njc1LC01MTcxNDc3OS
+wtMTgzMzI5Nzc4NiwtMjA4ODc0NjYxMl19
 -->
