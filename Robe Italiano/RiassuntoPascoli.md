@@ -39,7 +39,7 @@ nel 1905 Pascoli successe a carducci nella cattedra dell'università di Bologna.
 
 Sempre più vicino all'ideale nazionalista allora pubblica il discorso la grande proletaria si è mossa (1911)
 
-LE OPERE DI GIOVANNI PASCOLI
+## LE OPERE DI GIOVANNI PASCOLI
 
 1891 esce Myricae : una raccolta poetica di carattere tradizionale che racconta di temi della vita di tutti i giorni 
 guardandole con gli occhi del fanciullino.
@@ -56,7 +56,7 @@ parlino di liriche con un più ampio respiro e una magigore frequenza di studiat
 
 20 poemetti raccolit nei Poemi conviviali
 
-LE POESIE LATINE E I SAGGI
+## LE POESIE LATINE E I SAGGI
 I carmina, scritti in latino, comprendono 30 poemetti e fondamentalmente erano i poemi utilizzati per il concorso di poesia la
 tina ad amsterdam
 
@@ -67,5 +67,58 @@ negli ultimi anni della sua via giovanni pascoli si dedicò alla critica lettera
 
 
 
-IL PENSIERO E LA POETICA
+## IL PENSIERO E LA POETICA
 
+### Poetica
+
+La poetica di pascoli ritrova un senso etico in emozioni come il dolore e la sofferenza che possono portare l'uomo all ragione,
+(pensiero intrisicamente decadentista)
+
+Il costui pensiero riguardo alla politica estera era parecchio propenso alla battaglia, infatti i temi dell'emigrazione e dell'impegno coloniale sono frequentemente presenti nelle sue raccolte e quindi nelle sue poesie.
+
+### La poetica del fanciullino
+
+Giovanni Pascoli, nel saggio: il fanciullino espone chiaramente uno degli aspetti più caratteristici della sua poetica: quello della visione delle cose come dagli occhi di un fanciullino. Quel fanciullino che risiede all'interno di ognuno di noi.
+Quest'ultimo vede gli avvenimenti con tanto stupore (poetica dello stupore).
+
+Nonostante questo Pascoli provava una grande sfiducia nella scienza che secondo il Poeta non poteva spiegare esattamente i fenomeni. A riuscire in questa impresa era infatti solo il Poeta nei suoi versi.
+
+Forte ricerca di significati nascosti all'interno delle cose, sia in Myricae che nei Canti di Castelvecchio.
+
+### TEMI E MOTIVI DI PASCOLI
+
+- Costante pensiero della morte, ricordo dei cari defunti e il dolore 
+- Richiamo al nido e agli affetti familiari 
+- Motivo della siepe
+- Celebrazione della natura
+- Mistero del Cosmo
+- Miti del modno classico
+
+### STRUTTUTA E EVOLUZIONE DELLE OPERE
+
+- Struttura sintattica prevalentemente Paratattica
+- Gran numero di onomatopee e in generale una grande presenza di Fonosimbolismo
+- In generale si cerca di far esprimere alle parole un diverso significato attraverso differenti figure retoriche
+
+# Esempio Poesie di Pascoli
+
+### Myricae
+- La raccolta ebbe 9 edizioni:
+	- La prima nel 1891 con solo 22 componimenti
+	- L'ultima nel 1900 in cui la struttura raggiunse un suo stato ultimo 
+
+- La raccolta è formata da 15 sezioni
+
+- Il titolo dalla raccolta deriva da un verso della IV egogla di Virgilio: "nella frase sono citati gli umili tamerici"
+- All'interno della raccolta si trovano racconti ambientati in temi familiari e campestri, questi nella loro umiltà rappresentano l'interiorità del Poeta, le immagini della propria infanzia e al loro interno è trattata con molta frequenza la tematica del nido
+- Si può denotare un frequente sperimentalismo con figure retoriche fonosimboliche e una  gusto impressionistico con una musicalità personale.
+
+### Canti di Castelvecchio
+
+Il nome deriva dalla località in cui Giovanni Pascoli si era trasferito, cioè Castelvecchio di Barga.
+Questa raccolta può essere interpretata come la continuazione morale della raccolta Myricae, infatti al suo interno i racconti sono ancora una volta di carattere familiare e campestre, con riferimenti a turbamenti di carattere familiare o più specificamente un inquietudine di frone all'esperienza sessuale, alla componente erotica adulta, osservata con distacco e senso di estraneità nel componimeto * il gelsomino notturno*.
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEzNjMyMTA3Nl19
+-->

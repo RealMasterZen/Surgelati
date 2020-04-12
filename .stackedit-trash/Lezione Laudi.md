@@ -12,6 +12,5 @@ Tutte le poesie sono dedicate ai temi degli eroi in cui rievoca i personaggi del
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NjgzNDI3LDE0NTk5NDUyNjksMTk4OT
-g0OTc1Niw0NjQxOTM0NDFdfQ==
+eyJoaXN0b3J5IjpbNTg2NjgzNDI3XX0=
 -->
