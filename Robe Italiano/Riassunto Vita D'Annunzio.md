@@ -18,12 +18,16 @@ Il periodo romano fu caratterizzato da una vita raffinata e dispendiosa ma anche
 Nel 1883 D'annunzio sposò la duchessina Maria Hardouin di Gallese dalla quale ebbe 3 figli; nel 1887iniziò una relazione, durata 5 anni con Barbara Leoni, che gli ispirò i personaggi femminili ne: *il piacere* e *il trionfo della morte*.
  Successivamente, si verificò il suo trasferimento a napoli (1891), dove si legò sentimentalmente a maria gravilia cruyllas, sposata con il conte anguissola che poi li denunciò per adulterio.
 
-Abbandonata napoli d'annunzio nel 1894 incontrò a venezia la celebre eleonora douse con cui tenne una bruciante 
+Abbandonata napoli d'annunzio nel 1894 incontrò a venezia la celebre eleonora douse con cui tenne una bruciante relazione epistolare.
+
+nel 1897 entrò in politica nelle file della destra poi abbandonata per la sinistra a causa della polemica contro le leggi liberticide.
+
+1898 si trasferì con la duse nei pressi di firenze  nelle **Capponcina** dove spese tutte le risorse economiche per 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTkzNTU1NSwtMTg4NzU3MzMwNSw0NT
-Q1NzkzODIsLTExNTY3NTU5MjEsLTQxMjQ4NzE3MiwxMjA4NzU1
-NjczLC0xMzcyMzk2Njc1LC01MTcxNDc3OSwtMTgzMzI5Nzc4Ni
-wtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTI5MzMzMzcwMiwxOTAxOTM1NTU1LC0xOD
+g3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3
+MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC
+0xODMzMjk3Nzg2LC0yMDg4NzQ2NjEyXX0=
 -->
