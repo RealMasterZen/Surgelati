@@ -67,15 +67,17 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1900 - **il fuoco**: romanzo autobiografico che descire la relazione morbosa di d'annunzio con la Douse.
 
+> Laudi
 
+1903 - **Laudi(primi 3 libri)**: si sta parlando di maia elettra e alcione, le laudi erano un progetto che conteneva 7 raccolte poetiche nominate come le stelle più luminose della costellazione delle pleiadi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM2MDk5MCwtMTM3MzIyMjAwMSwxMz
-k1OTUzMzYsMTc5NDgyMTM1Myw3NjMzODI2MzMsMTY3NjQxODQ0
-NiwtMTIwMjExODA2MCwtMTI2MzQ5MTIsMTAyNDEyNzkyNiwxNz
-k0MTIyMDI0LC0yMDI4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5
-MzU1NTUsLTE4ODc1NzMzMDUsNDU0NTc5MzgyLC0xMTU2NzU1OT
-IxLC00MTI0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwt
-NTE3MTQ3NzldfQ==
+eyJoaXN0b3J5IjpbNjc4ODU3NDY5LC0xMTIzNjA5OTAsLTEzNz
+MyMjIwMDEsMTM5NTk1MzM2LDE3OTQ4MjEzNTMsNzYzMzgyNjMz
+LDE2NzY0MTg0NDYsLTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMj
+QxMjc5MjYsMTc5NDEyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgw
+NTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4Mi
+wtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEz
+NzIzOTY2NzVdfQ==
 -->
