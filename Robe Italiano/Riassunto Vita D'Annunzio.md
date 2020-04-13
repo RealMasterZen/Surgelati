@@ -30,10 +30,13 @@ Nel 1910 sempre per sfuggire ai numerosi creditori decise di fuggire in Francia 
 - beffa di buccari
 - volo sopra vienna 
 
-Nel 1919 finita la guerra infiammava le folle perchè l'italia aveva ottenuto una vittoria 
+Nel 1919 finita la guerra infiammava le folle perchè l'italia aveva ottenuto una vittoria mutilata, quindi si apprestò all'occupazione di fiume fino al 1920. 
+In quell'anno Giovanni giolitti lo cacciò a 
+cannoneggiate da Fiume.
+Alla conclusione della sua vità egli si pose in autoesilio a gardone 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTU0OTkzMSwtMjAyODM5ODYwOSwtMj
+eyJoaXN0b3J5IjpbLTgzMzc2NTM2NSwtMjAyODM5ODYwOSwtMj
 EyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3
 OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2Nz
 MsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3Nzg2LC0y
