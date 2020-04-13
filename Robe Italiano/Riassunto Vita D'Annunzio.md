@@ -49,14 +49,14 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1891 - **giovanni episcopo** : Romanzo derivante dall'appassionamento alla letteratura russa, dove si intravede il ritorno alla natura e si parla di un fenomeno di adulterio  
 
-
+1893 - **poema paradisiaco**: sempre ispirato ai temi della leteratura russa è una raccolta di poemi.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcxMjgwODksMTM5NTk1MzM2LDE3OT
+eyJoaXN0b3J5IjpbLTIxNDA4MzQzOTQsMTM5NTk1MzM2LDE3OT
 Q4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0NDYsLTEyMDIxMTgw
 NjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAyNCwtMj
 AyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3
