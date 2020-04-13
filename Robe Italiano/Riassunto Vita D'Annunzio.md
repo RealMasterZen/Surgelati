@@ -33,12 +33,14 @@ Nel 1910 sempre per sfuggire ai numerosi creditori decise di fuggire in Francia 
 Nel 1919 finita la guerra infiammava le folle perchè l'italia aveva ottenuto una vittoria mutilata, quindi si apprestò all'occupazione di fiume fino al 1920. 
 In quell'anno Giovanni giolitti lo cacciò a 
 cannoneggiate da Fiume.
-Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera sul lago di garda con luisa baccara dedicandosi all'allestimento del vittoriale degli italiani e alla scrittura di un autobiografia. Morì il 1° marzo 1938
+Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera sul lago di garda con luisa baccara dedicandosi all'allestimento del vittoriale degli italiani e alla scrittura di un autobiografia. Morì il 1° marzo 1938.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDEyMjAyNCwtMjAyODM5ODYwOSwtMj
-EyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3
-OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2Nz
-MsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3Nzg2LC0y
-MDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAyNDEyNzkyNiwxNzk0MTIyMDI0LC0yMD
+I4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5MzU1NTUsLTE4ODc1
+NzMzMDUsNDU0NTc5MzgyLC0xMTU2NzU1OTIxLC00MTI0ODcxNz
+IsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwtNTE3MTQ3NzksLTE4
+MzMyOTc3ODYsLTIwODg3NDY2MTJdfQ==
 -->
