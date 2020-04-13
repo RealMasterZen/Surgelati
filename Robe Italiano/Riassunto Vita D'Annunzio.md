@@ -61,15 +61,17 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 *nel 1892 D'annunzio si appresta a leggere l'opera di friederich nietsche*
 
+1894 - **il trionfo della morte**: romando anch'esso del ciclo della rosa ha come argomenti languore e voluttuosità e il protagonista incarna il personaggio di Andrea Sperelli
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MDUxNjgsLTEzNzMyMjIwMDEsMTM5NT
-k1MzM2LDE3OTQ4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0NDYs
-LTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5ND
-EyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1
-NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMS
-wtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUx
-NzE0Nzc5XX0=
+eyJoaXN0b3J5IjpbLTE5MjM1MjQ4MjQsLTEzNzMyMjIwMDEsMT
+M5NTk1MzM2LDE3OTQ4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0
+NDYsLTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMT
+c5NDEyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAx
+OTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NT
+kyMSwtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUs
+LTUxNzE0Nzc5XX0=
 -->
