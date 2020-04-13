@@ -24,10 +24,12 @@ nel 1897 entrò in politica nelle file della destra poi abbandonata per la sinis
 
 1898 si trasferì con la duse nei pressi di firenze  nelle **Capponcina** dove spese tutte le risorse economiche per allestire l'ambiente con gusto decadentista.
 In quegli anni si verificò una fervida attività di produzione letteraria e teatrale, la seconda era fatta assieme a Eleonora Douse, la prima rappresentata dalla pubblicazione delle Laudi del cielo della terra e degli eroi (si intendono i primi 3 libri).
+Nel 1900 scrisse il romanzo *il fuoco* che lo portò alla rottura con la douse.
 
+Nel 1910 sempr
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDM5OTQ3MywtMjAyODM5ODYwOSwtMj
+eyJoaXN0b3J5IjpbLTY0NTMyODU0NywtMjAyODM5ODYwOSwtMj
 EyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3
 OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2Nz
 MsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3Nzg2LC0y
