@@ -35,12 +35,14 @@ In quell'anno Giovanni giolitti lo cacciò a
 cannoneggiate da Fiume.
 Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera sul lago di garda con luisa baccara dedicandosi all'allestimento del vittoriale degli italiani e alla scrittura di un autobiografia. Morì il 1° marzo 1938.
 
+# Opere di d'annunzio in generale
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDEyNzkyNiwxNzk0MTIyMDI0LC0yMD
-I4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5MzU1NTUsLTE4ODc1
-NzMzMDUsNDU0NTc5MzgyLC0xMTU2NzU1OTIxLC00MTI0ODcxNz
-IsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwtNTE3MTQ3NzksLTE4
-MzMyOTc3ODYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5ND
+EyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1
+NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMS
+wtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUx
+NzE0Nzc5LC0xODMzMjk3Nzg2LC0yMDg4NzQ2NjEyXX0=
 -->
