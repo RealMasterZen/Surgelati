@@ -39,24 +39,30 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 ## Poesie
 
+> Primi poemi
+
 1879 - **Primo Vere**: prima raccolta, sul modello carducciano venne pubblicata +insieme allo scandalo di essere caduto da cavallo morendo sul colpo
 
 1882 - **Canto novo**: seconda raccolta pubblicata, viene messa in gioco la chiave di interpretazione sensuale della natura
+
+> Primo estetismo 
 
 1883 - **Intermezzo di Rime**: linguaggio artificioso e sempre più tema della lussuria.
 
 1889 - **il piacere**: Romanzo di carattere prevalentemente di esteta con protagonista Andrea Sperelli
 
+> Poemi ispirati alla letteratura russa
+
 1891 - **giovanni episcopo** : Romanzo derivante dall'appassionamento alla letteratura russa, dove si intravede il ritorno alla natura e si parla di un fenomeno di adulterio  
 
-1893 - **poema paradisiaco**: sempre ispirato ai temi della leteratura russa è una raccolta di poemi.
+1893 - **poema paradisiaco**: sempre ispirato ai temi della letteratura russa è una raccolta di poemi.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA4MzQzOTQsMTM5NTk1MzM2LDE3OT
+eyJoaXN0b3J5IjpbLTEzNzMyMjIwMDEsMTM5NTk1MzM2LDE3OT
 Q4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0NDYsLTEyMDIxMTgw
 NjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAyNCwtMj
 AyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3
