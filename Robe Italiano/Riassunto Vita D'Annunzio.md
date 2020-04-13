@@ -45,17 +45,18 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1883 - **Intermezzo di Rime**: linguaggio artificioso e sempre più tema della lussuria.
 
-1889 - **il piacere**: Romanzo di carattere prevalentemente superomistico con protagonista l'esteta Andrea Sperelli 
+1889 - **il piacere**: Romanzo di carattere prevalentemente di esteta con protagonista Andrea Sperelli 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMzgyNjMzLDE2NzY0MTg0NDYsLTEyMD
-IxMTgwNjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAy
-NCwtMjAyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC
-0xODg3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEy
-NDg3MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nz
-c5LC0xODMzMjk3Nzg2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTc5NDgyMTM1Myw3NjMzODI2MzMsMTY3Nj
+QxODQ0NiwtMTIwMjExODA2MCwtMTI2MzQ5MTIsMTAyNDEyNzky
+NiwxNzk0MTIyMDI0LC0yMDI4Mzk4NjA5LC0yMTI4ODA1MjY1LD
+E5MDE5MzU1NTUsLTE4ODc1NzMzMDUsNDU0NTc5MzgyLC0xMTU2
+NzU1OTIxLC00MTI0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5Nj
+Y3NSwtNTE3MTQ3NzksLTE4MzMyOTc3ODYsLTIwODg3NDY2MTJd
+fQ==
 -->
