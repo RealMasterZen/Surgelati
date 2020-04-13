@@ -69,15 +69,17 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 > Laudi
 
-1903 - **Laudi(primi 3 libri)**: si sta parlando di maia elettra e alcione, le laudi erano un progetto che conteneva 7 raccolte poetiche nominate come le stelle più luminose della costellazione delle pleiadi
+1903 - **Laudi(primi 3 libri)**: si sta parlando di maia elettra e alcione, le laudi erano un progetto che conteneva 7 raccolte poetiche nominate come le stelle più luminose della costellazione delle pleiadi, in queste c'era una rappresentazione in chiave superomistica di personagi classici e nel contempo una rappresentazione dell'esaltazione della natura esaltando la chiave interpretativa panistica.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4ODU3NDY5LC0xMTIzNjA5OTAsLTEzNz
-MyMjIwMDEsMTM5NTk1MzM2LDE3OTQ4MjEzNTMsNzYzMzgyNjMz
-LDE2NzY0MTg0NDYsLTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMj
-QxMjc5MjYsMTc5NDEyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgw
-NTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4Mi
-wtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEz
-NzIzOTY2NzVdfQ==
+eyJoaXN0b3J5IjpbMTA0ODY5OTA3MSwtMTEyMzYwOTkwLC0xMz
+czMjIyMDAxLDEzOTU5NTMzNiwxNzk0ODIxMzUzLDc2MzM4MjYz
+MywxNjc2NDE4NDQ2LC0xMjAyMTE4MDYwLC0xMjYzNDkxMiwxMD
+I0MTI3OTI2LDE3OTQxMjIwMjQsLTIwMjgzOTg2MDksLTIxMjg4
+MDUyNjUsMTkwMTkzNTU1NSwtMTg4NzU3MzMwNSw0NTQ1NzkzOD
+IsLTExNTY3NTU5MjEsLTQxMjQ4NzE3MiwxMjA4NzU1NjczLC0x
+MzcyMzk2Njc1XX0=
 -->
