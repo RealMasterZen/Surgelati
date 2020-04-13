@@ -59,15 +59,17 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 > Poemi di carattere superomistico
 
+*nel 1892 D'annunzio si appresta a leggere l'opera di friederich nietsche*
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzczNjM0MywtMTM3MzIyMjAwMSwxMz
-k1OTUzMzYsMTc5NDgyMTM1Myw3NjMzODI2MzMsMTY3NjQxODQ0
-NiwtMTIwMjExODA2MCwtMTI2MzQ5MTIsMTAyNDEyNzkyNiwxNz
-k0MTIyMDI0LC0yMDI4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5
-MzU1NTUsLTE4ODc1NzMzMDUsNDU0NTc5MzgyLC0xMTU2NzU1OT
-IxLC00MTI0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwt
-NTE3MTQ3NzldfQ==
+eyJoaXN0b3J5IjpbNzg5MDUxNjgsLTEzNzMyMjIwMDEsMTM5NT
+k1MzM2LDE3OTQ4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0NDYs
+LTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5ND
+EyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1
+NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMS
+wtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUx
+NzE0Nzc5XX0=
 -->
