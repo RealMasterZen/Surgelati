@@ -57,16 +57,17 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1893 - **poema paradisiaco**: sempre ispirato ai temi della letteratura russa è una raccolta di poemi.
 
+> Poemi di carattere superomistico
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMyMjIwMDEsMTM5NTk1MzM2LDE3OT
-Q4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0NDYsLTEyMDIxMTgw
-NjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAyNCwtMj
-AyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3
-NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MT
-cyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0x
-ODMzMjk3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTU2NzczNjM0MywtMTM3MzIyMjAwMSwxMz
+k1OTUzMzYsMTc5NDgyMTM1Myw3NjMzODI2MzMsMTY3NjQxODQ0
+NiwtMTIwMjExODA2MCwtMTI2MzQ5MTIsMTAyNDEyNzkyNiwxNz
+k0MTIyMDI0LC0yMDI4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5
+MzU1NTUsLTE4ODc1NzMzMDUsNDU0NTc5MzgyLC0xMTU2NzU1OT
+IxLC00MTI0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwt
+NTE3MTQ3NzldfQ==
 -->
