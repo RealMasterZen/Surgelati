@@ -41,14 +41,15 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1879 - **Primo Vere**: prima raccolta, sul modello carducciano venne pubblicata insieme allo scandalo di essere caduto da cavallo morendo sul colpo
 
+1882 - **Canto novo**: seconda raccolta pubblicata 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMj
-QxMjc5MjYsMTc5NDEyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgw
-NTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4Mi
-wtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEz
-NzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3Nzg2LC0yMDg4Nz
-Q2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzODExNjU5NTIsLTEyMDIxMTgwNjAsLT
+EyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAyNCwtMjAyODM5
+ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMz
+A1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEy
+MDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMj
+k3Nzg2LC0yMDg4NzQ2NjEyXX0=
 -->
