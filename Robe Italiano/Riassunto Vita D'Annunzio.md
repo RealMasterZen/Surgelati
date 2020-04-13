@@ -73,16 +73,18 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1910 - **Forse si forse che no**: romanzo di carattere superomistico ed interventista
 
+1921 - **il notturno**: quel romanzo in prosa scritto nel 1916 quando perse la vista momentaneamente dopo l'incidente in aereo. 
 
+1935 - **cento e cento pagine del libro segreto di gabriele d'annunzio tentato dalla morte**: diario autobiografico in cui l'autore ripercorre il proprio vivere in
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQyMzEyNDEsMTA0ODY5OTA3MSwtMT
-EyMzYwOTkwLC0xMzczMjIyMDAxLDEzOTU5NTMzNiwxNzk0ODIx
-MzUzLDc2MzM4MjYzMywxNjc2NDE4NDQ2LC0xMjAyMTE4MDYwLC
-0xMjYzNDkxMiwxMDI0MTI3OTI2LDE3OTQxMjIwMjQsLTIwMjgz
-OTg2MDksLTIxMjg4MDUyNjUsMTkwMTkzNTU1NSwtMTg4NzU3Mz
-MwNSw0NTQ1NzkzODIsLTExNTY3NTU5MjEsLTQxMjQ4NzE3Miwx
-MjA4NzU1NjczXX0=
+eyJoaXN0b3J5IjpbMTQxNTUxNzQ0MywxMDQ4Njk5MDcxLC0xMT
+IzNjA5OTAsLTEzNzMyMjIwMDEsMTM5NTk1MzM2LDE3OTQ4MjEz
+NTMsNzYzMzgyNjMzLDE2NzY0MTg0NDYsLTEyMDIxMTgwNjAsLT
+EyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAyNCwtMjAyODM5
+ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMz
+A1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEy
+MDg3NTU2NzNdfQ==
 -->
