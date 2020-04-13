@@ -41,15 +41,19 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1879 - **Primo Vere**: prima raccolta, sul modello carducciano venne pubblicata insieme allo scandalo di essere caduto da cavallo morendo sul colpo
 
-1882 - **Canto novo**: seconda raccolta pubblicata 
+1882 - **Canto novo**: seconda raccolta pubblicata, viene messa in gioco la chiave di interpretazione sensuale della natura
+
+1883 - **Intermezzo di Rime**: linguaggio artificioso e sempre più tema della lussuria.
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODExNjU5NTIsLTEyMDIxMTgwNjAsLT
-EyNjM0OTEyLDEwMjQxMjc5MjYsMTc5NDEyMjAyNCwtMjAyODM5
-ODYwOSwtMjEyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMz
-A1LDQ1NDU3OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEy
-MDg3NTU2NzMsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMj
-k3Nzg2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTY3NjQxODQ0NiwtMTIwMjExODA2MCwtMT
+I2MzQ5MTIsMTAyNDEyNzkyNiwxNzk0MTIyMDI0LC0yMDI4Mzk4
+NjA5LC0yMTI4ODA1MjY1LDE5MDE5MzU1NTUsLTE4ODc1NzMzMD
+UsNDU0NTc5MzgyLC0xMTU2NzU1OTIxLC00MTI0ODcxNzIsMTIw
+ODc1NTY3MywtMTM3MjM5NjY3NSwtNTE3MTQ3NzksLTE4MzMyOT
+c3ODYsLTIwODg3NDY2MTJdfQ==
 -->
