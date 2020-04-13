@@ -23,11 +23,11 @@ Abbandonata napoli d'annunzio nel 1894 incontrò a venezia la celebre eleonora d
 nel 1897 entrò in politica nelle file della destra poi abbandonata per la sinistra a causa della polemica contro le leggi liberticide.
 
 1898 si trasferì con la duse nei pressi di firenze  nelle **Capponcina** dove spese tutte le risorse economiche per allestire l'ambiente con gusto decadentista.
-In quegli anni si verificò una fervida attività di produzione letteraria e teatrale, 
+In quegli anni si verificò una fervida attività di produzione letteraria e teatrale, la seconda era fatta assieme a Eleonora Douse, la prima rappresentata dalla pubblicazione delle Laudi del cielo della terra e degli eroi (si intendono i primi 3 libri )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkzMTIyNDQsLTIxMjg4MDUyNjUsMT
+eyJoaXN0b3J5IjpbLTExMzAwOTAwNjksLTIxMjg4MDUyNjUsMT
 kwMTkzNTU1NSwtMTg4NzU3MzMwNSw0NTQ1NzkzODIsLTExNTY3
 NTU5MjEsLTQxMjQ4NzE3MiwxMjA4NzU1NjczLC0xMzcyMzk2Nj
 c1LC01MTcxNDc3OSwtMTgzMzI5Nzc4NiwtMjA4ODc0NjYxMl19
