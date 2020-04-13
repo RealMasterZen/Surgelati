@@ -63,15 +63,17 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1894 - **il trionfo della morte**: romando anch'esso del ciclo della rosa ha come argomenti languore e voluttuosità e il protagonista incarna il personaggio di Andrea Sperelli
 
+1894 - **La vergine delle rocce**: romanzo contenente prime tendenze nazionalistiche e imperialistiche che, l'opera incarna un senso di purezza sanguigna.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM1MjQ4MjQsLTEzNzMyMjIwMDEsMT
-M5NTk1MzM2LDE3OTQ4MjEzNTMsNzYzMzgyNjMzLDE2NzY0MTg0
-NDYsLTEyMDIxMTgwNjAsLTEyNjM0OTEyLDEwMjQxMjc5MjYsMT
-c5NDEyMjAyNCwtMjAyODM5ODYwOSwtMjEyODgwNTI2NSwxOTAx
-OTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3OTM4MiwtMTE1Njc1NT
-kyMSwtNDEyNDg3MTcyLDEyMDg3NTU2NzMsLTEzNzIzOTY2NzUs
-LTUxNzE0Nzc5XX0=
+eyJoaXN0b3J5IjpbMjEyNDY2Nzg5MSwtMTM3MzIyMjAwMSwxMz
+k1OTUzMzYsMTc5NDgyMTM1Myw3NjMzODI2MzMsMTY3NjQxODQ0
+NiwtMTIwMjExODA2MCwtMTI2MzQ5MTIsMTAyNDEyNzkyNiwxNz
+k0MTIyMDI0LC0yMDI4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5
+MzU1NTUsLTE4ODc1NzMzMDUsNDU0NTc5MzgyLC0xMTU2NzU1OT
+IxLC00MTI0ODcxNzIsMTIwODc1NTY3MywtMTM3MjM5NjY3NSwt
+NTE3MTQ3NzldfQ==
 -->
