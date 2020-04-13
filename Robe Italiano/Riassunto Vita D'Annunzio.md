@@ -71,15 +71,18 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1903 - **Laudi(primi 3 libri)**: si sta parlando di maia elettra e alcione, le laudi erano un progetto che conteneva 7 raccolte poetiche nominate come le stelle più luminose della costellazione delle pleiadi, in queste c'era una rappresentazione in chiave superomistica di personagi classici e nel contempo una rappresentazione dell'esaltazione della natura esaltando la chiave interpretativa panistica.
 
+1910 - **Forse si forse che no**: romanzo di carattere superomistico ed interventista
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODY5OTA3MSwtMTEyMzYwOTkwLC0xMz
-czMjIyMDAxLDEzOTU5NTMzNiwxNzk0ODIxMzUzLDc2MzM4MjYz
-MywxNjc2NDE4NDQ2LC0xMjAyMTE4MDYwLC0xMjYzNDkxMiwxMD
-I0MTI3OTI2LDE3OTQxMjIwMjQsLTIwMjgzOTg2MDksLTIxMjg4
-MDUyNjUsMTkwMTkzNTU1NSwtMTg4NzU3MzMwNSw0NTQ1NzkzOD
-IsLTExNTY3NTU5MjEsLTQxMjQ4NzE3MiwxMjA4NzU1NjczLC0x
-MzcyMzk2Njc1XX0=
+eyJoaXN0b3J5IjpbLTIxMDQyMzEyNDEsMTA0ODY5OTA3MSwtMT
+EyMzYwOTkwLC0xMzczMjIyMDAxLDEzOTU5NTMzNiwxNzk0ODIx
+MzUzLDc2MzM4MjYzMywxNjc2NDE4NDQ2LC0xMjAyMTE4MDYwLC
+0xMjYzNDkxMiwxMDI0MTI3OTI2LDE3OTQxMjIwMjQsLTIwMjgz
+OTg2MDksLTIxMjg4MDUyNjUsMTkwMTkzNTU1NSwtMTg4NzU3Mz
+MwNSw0NTQ1NzkzODIsLTExNTY3NTU5MjEsLTQxMjQ4NzE3Miwx
+MjA4NzU1NjczXX0=
 -->
