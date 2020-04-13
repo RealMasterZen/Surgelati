@@ -65,11 +65,13 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 1894 - **La vergine delle rocce**: romanzo contenente prime tendenze nazionalistiche e imperialistiche che, l'opera incarna un senso di purezza sanguigna.
 
+1900 - **il fuoco**: romanzo autobiografico che descire la relazione morbosa di d'annunzio con la Douse.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDY2Nzg5MSwtMTM3MzIyMjAwMSwxMz
+eyJoaXN0b3J5IjpbLTExMjM2MDk5MCwtMTM3MzIyMjAwMSwxMz
 k1OTUzMzYsMTc5NDgyMTM1Myw3NjMzODI2MzMsMTY3NjQxODQ0
 NiwtMTIwMjExODA2MCwtMTI2MzQ5MTIsMTAyNDEyNzkyNiwxNz
 k0MTIyMDI0LC0yMDI4Mzk4NjA5LC0yMTI4ODA1MjY1LDE5MDE5
