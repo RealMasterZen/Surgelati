@@ -26,10 +26,14 @@ nel 1897 entrò in politica nelle file della destra poi abbandonata per la sinis
 In quegli anni si verificò una fervida attività di produzione letteraria e teatrale, la seconda era fatta assieme a Eleonora Douse, la prima rappresentata dalla pubblicazione delle Laudi del cielo della terra e degli eroi (si intendono i primi 3 libri).
 Nel 1900 scrisse il romanzo *il fuoco* che lo portò alla rottura con la douse.
 
-Nel 1910 sempre per sfuggire ai numerosi creditori decise di fuggire in Francia ma 5 anni dopo, in veste di convinto interventista tornò in Italia per l'occasione dello scoppio della guerra, in questo periodo andò a definirsi meglio la sua etichetta di poeta vate che con i suoi esaltanti discorsi andava a spingere le folle a supportare la guerra, inoltre 
+Nel 1910 sempre per sfuggire ai numerosi creditori decise di fuggire in Francia ma 5 anni dopo, in veste di convinto interventista tornò in Italia per l'occasione dello scoppio della guerra, in questo periodo andò a definirsi meglio la sua etichetta di poeta vate che con i suoi esaltanti discorsi andava a spingere le folle a supportare la guerra, inoltre in questo periodo eseguì anche grandi imprese come:
+- beffa di buccari
+- volo sopra vienna 
+
+Nel 1919 finita la guerra infiammava le folle perchè l'italia aveva ottenuto una vittoria 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTkxODMxOCwtMjAyODM5ODYwOSwtMj
+eyJoaXN0b3J5IjpbMTMxMTU0OTkzMSwtMjAyODM5ODYwOSwtMj
 EyODgwNTI2NSwxOTAxOTM1NTU1LC0xODg3NTczMzA1LDQ1NDU3
 OTM4MiwtMTE1Njc1NTkyMSwtNDEyNDg3MTcyLDEyMDg3NTU2Nz
 MsLTEzNzIzOTY2NzUsLTUxNzE0Nzc5LC0xODMzMjk3Nzg2LC0y
