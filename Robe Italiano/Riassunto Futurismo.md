@@ -7,6 +7,8 @@ Nel manifesto erano elencati i motivi fondamentali del gruppo:
 - culto della macchina
 - culto della velocità
 - culto del prodotto industriale
+- culto dell'aggressività, violenza, guerra
+- rifiuto del passato e  
 
 Il movimento culturale si basava sul movimento, la velocità, l'aggressività, la violenza e la guerra. Quest'ultima era considerata igene del mondo.
 
@@ -15,6 +17,7 @@ Il movimento culturale si basava sul movimento, la velocità, l'aggressività, l
 Tutta l'arte antica doveva essere svecchiata togliendo il passato e facendo passare solo il futuro, che nel caso erano i mezzi di trasporto ad alta velocità.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNzEzOTYsMTE1Njc3MDE2MSwtMTYxND
-Q3NzI5MSwxODgyODY4NDM5LDEwNjIyOTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNjEwNDg2NTIsODMzNzEzOTYsMTE1Nj
+c3MDE2MSwtMTYxNDQ3NzI5MSwxODgyODY4NDM5LDEwNjIyOTk0
+NjFdfQ==
 -->
