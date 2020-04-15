@@ -1,6 +1,6 @@
 # Futurismo
 
-nel *1909* Filippo Tommaso marinetti pubblica il manifesto del Futurismo, lo esegue in francia perchè questa era il loco dove molte culture andavano a scontrarsi e quindi era culturalmente aperto.
+nel *1909* **Filippo Tommaso marinetti pubblica il manifesto del Futurismo, lo esegue in francia perchè questa era il loco dove molte culture andavano a scontrarsi e quindi era culturalmente aperto.
 
 Il movimento culturale si basava sul movimento, la velocità, l'aggressività, la violenza e la guerra. Quest'ultima era considerata igene del mondo.
 
@@ -8,6 +8,6 @@ Il movimento culturale si basava sul movimento, la velocità, l'aggressività, l
 
 Tutta l'arte antica doveva essere svecchiata togliendo il passato e facendo passare solo il futuro, che nel caso erano i mezzi di trasporto ad alta velocità.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Njc3MDE2MSwtMTYxNDQ3NzI5MSwxOD
-gyODY4NDM5LDEwNjIyOTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTc1MDcwNjk1OSwxMTU2NzcwMTYxLC0xNj
+E0NDc3MjkxLDE4ODI4Njg0MzksMTA2MjI5OTQ2MV19
 -->
