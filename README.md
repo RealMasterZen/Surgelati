@@ -27,9 +27,13 @@ Cartella contenenete Riassunti e File Utili
 ****
 ****
 ****
+- FileImportanti Didattici
 
+- Riassunti degli argomenti di 5°
+
+- altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDY5NTYzMCwtMTcyODUxNjMwMywxNz
-YwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMjEzMDE5NTc4
-NF19
+eyJoaXN0b3J5IjpbLTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNz
+I4NTE2MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0
+OSwyMTMwMTk1Nzg0XX0=
 -->
