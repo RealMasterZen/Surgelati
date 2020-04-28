@@ -55,13 +55,18 @@ diffidenza dalla scienza
 **Autori**
 - Filippo Tommaso Marinetti
 - Giovanni Papini
-- Tristan Tzara 
+- Tristan Tzara
+
+### UNITA' 14 - - - 
+**Giuseppe Ungaretti**:
+Ermetismo e ricercatezza nell'utilizzo di figure retoriche
+Opere 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUxNjI5NjAsMTAwMjg5NzU4NCwtMT
-c5NzE1NjQzOSwtMjU5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5
-NzYxLC05OTk1Njk0NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMT
-Y4MzgxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1
-MTYzMDMsMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LD
-IxMzAxOTU3ODRdfQ==
+eyJoaXN0b3J5IjpbNjg4NjU5Mjg0LDEwMDI4OTc1ODQsLTE3OT
+cxNTY0MzksLTI1OTMzOTI3NCwtNjYwMjc5MTE1LDIwMDE4OTc2
+MSwtOTk5NTY5NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMzLDE2OD
+M4MTA1MTQsLTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNzI4NTE2
+MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0OSwyMT
+MwMTk1Nzg0XX0=
 -->
