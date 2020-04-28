@@ -31,8 +31,11 @@ Cartella contenenete Riassunti e File Utili
 - Giosuè Carducci: ritorno al classicismo
 ### - - - UNITA' 4 - - -
 **Il Decadentismo**
-diffidenza dalla sci
-****
+diffidenza dalla scienza 
+**autori**:
+- Charles Boudelaire
+- Paul Verlaine
+- nietsche
 ****
 ****
 ****
@@ -47,10 +50,10 @@ diffidenza dalla sci
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE5NDMxNzIsLTE3OTcxNTY0MzksLT
-I1OTMzOTI3NCwtNjYwMjc5MTE1LDIwMDE4OTc2MSwtOTk5NTY5
-NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMzLDE2ODM4MTA1MTQsLT
-U0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNzI4NTE2MzAzLDE3NjA2
-MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0OSwyMTMwMTk1Nzg0XX
-0=
+eyJoaXN0b3J5IjpbMTAwMjg5NzU4NCwtMTc5NzE1NjQzOSwtMj
+U5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5NzYxLC05OTk1Njk0
+NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMTY4MzgxMDUxNCwtNT
+QxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1MTYzMDMsMTc2MDYy
+NDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LDIxMzAxOTU3ODRdfQ
+==
 -->
