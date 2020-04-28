@@ -52,13 +52,16 @@ diffidenza dalla scienza
 - Dadaismo
 - Cubismo
 - **Futurismo**
-**Autori** 
+**Autori**
+- Filippo Tommaso Marinetti
+- Giovanni Papini
+- Tristan Tzara 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzA3MTc0NiwxMDAyODk3NTg0LC0xNz
-k3MTU2NDM5LC0yNTkzMzkyNzQsLTY2MDI3OTExNSwyMDAxODk3
-NjEsLTk5OTU2OTQ2NiwxODkzODY1ODUyLDIyMTQ3NTkzMywxNj
-gzODEwNTE0LC01NDEzMTM2MjQsMTMzNDY5NTYzMCwtMTcyODUx
-NjMwMywxNzYwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMj
-EzMDE5NTc4NF19
+eyJoaXN0b3J5IjpbLTE4MDUxNjI5NjAsMTAwMjg5NzU4NCwtMT
+c5NzE1NjQzOSwtMjU5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5
+NzYxLC05OTk1Njk0NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMT
+Y4MzgxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1
+MTYzMDMsMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LD
+IxMzAxOTU3ODRdfQ==
 -->
