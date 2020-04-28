@@ -8,8 +8,11 @@ Cartella contenenete Riassunti e File Utili
 **L'età del Positivismo-Naturalismo-Verismo**
 - Il Naturalismo
 - Il Verismo
-****
-**
+
+**Autori**
+- Fratelli Gouncourt
+	- Esempio è 
+- E'mile Zola
 **Giovanni Verga**
 ****
 ****
@@ -24,6 +27,6 @@ Cartella contenenete Riassunti e File Utili
 ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzE0MzQ5MSwtMjYxMTE1NDksMjEzMD
+eyJoaXN0b3J5IjpbLTExNzQwODYwOCwtMjYxMTE1NDksMjEzMD
 E5NTc4NF19
 -->
