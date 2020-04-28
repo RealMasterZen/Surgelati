@@ -42,7 +42,10 @@ diffidenza dalla scienza
 	- Myricae
 	- Nuovi poemetti
 ### - - - UNITA' 7 - - -
- 
+- **D'Annunzio, il superomismo e le opere **:
+- Laudi
+- Sera Fiesolana
+- Trionfo della morte 
 ****
 ****
 ****
@@ -57,10 +60,10 @@ diffidenza dalla scienza
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTkyODYzNiwxMDAyODk3NTg0LC0xNz
-k3MTU2NDM5LC0yNTkzMzkyNzQsLTY2MDI3OTExNSwyMDAxODk3
-NjEsLTk5OTU2OTQ2NiwxODkzODY1ODUyLDIyMTQ3NTkzMywxNj
-gzODEwNTE0LC01NDEzMTM2MjQsMTMzNDY5NTYzMCwtMTcyODUx
-NjMwMywxNzYwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMj
-EzMDE5NTc4NF19
+eyJoaXN0b3J5IjpbLTIwOTMyNzczNTIsMTAwMjg5NzU4NCwtMT
+c5NzE1NjQzOSwtMjU5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5
+NzYxLC05OTk1Njk0NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMT
+Y4MzgxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1
+MTYzMDMsMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LD
+IxMzAxOTU3ODRdfQ==
 -->
