@@ -16,14 +16,15 @@ Cartella contenenete Riassunti e File Utili
 	- *L'Assormoir*
 
 ### - - - UNITA' 2 - - - 
-- **Giovanni Verga**: il Verismo tipico verghiano
+ **Giovanni Verga**: il Verismo tipico verghiano
 	- Vita dei Campi
 	- Malavoglia
 	- Novelle Rusticane
 	- Mastro don Gesualdo
 ### - - - UNITA' 3	- - -
 - **poesia e prosa in italia nel secondo ottocento**
-- 
+	- Scapigliatura
+	- Il ritorno al classicismo	
 ****
 ****
 ****
@@ -40,7 +41,7 @@ Cartella contenenete Riassunti e File Utili
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDA3Njg2MCwyMDAxODk3NjEsLTk5OT
+eyJoaXN0b3J5IjpbMTgwMzYyNjE2MiwyMDAxODk3NjEsLTk5OT
 U2OTQ2NiwxODkzODY1ODUyLDIyMTQ3NTkzMywxNjgzODEwNTE0
 LC01NDEzMTM2MjQsMTMzNDY5NTYzMCwtMTcyODUxNjMwMywxNz
 YwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMjEzMDE5NTc4
