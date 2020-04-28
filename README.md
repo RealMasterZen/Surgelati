@@ -47,25 +47,18 @@ diffidenza dalla scienza
 - Sera Fiesolana
 - Trionfo della morte
 ### UNITA' 11 - - - 
-**Le avanguardie Storiche** 
-****
-****
-****
-****
-****
-****
-****
-****
-- FileImportanti Didattici
+**Le avanguardie Storiche**:
+- Espressionismo
+- Dadaismo
+- Cubismo
+- **Futurismo**
+**Autori** 
 
-- Riassunti degli argomenti di 5°
-
-- altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYzMDY3NzMsMTAwMjg5NzU4NCwtMT
-c5NzE1NjQzOSwtMjU5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5
-NzYxLC05OTk1Njk0NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMT
-Y4MzgxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1
-MTYzMDMsMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LD
-IxMzAxOTU3ODRdfQ==
+eyJoaXN0b3J5IjpbMTMwMzA3MTc0NiwxMDAyODk3NTg0LC0xNz
+k3MTU2NDM5LC0yNTkzMzkyNzQsLTY2MDI3OTExNSwyMDAxODk3
+NjEsLTk5OTU2OTQ2NiwxODkzODY1ODUyLDIyMTQ3NTkzMywxNj
+gzODEwNTE0LC01NDEzMTM2MjQsMTMzNDY5NTYzMCwtMTcyODUx
+NjMwMywxNzYwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMj
+EzMDE5NTc4NF19
 -->
