@@ -14,8 +14,8 @@ Cartella contenenete Riassunti e File Utili
 	- *Gèrminie Lacertaux*
 - E'mile Zola: il romanzo sperimentale
 	- *L'Assormoir*
-
-**Giovanni Verga**
+- **Giovanni Verga** e il Verismo tipico verghiano
+	-i Malavoglia	
 ****
 ****
 ****
@@ -29,6 +29,6 @@ Cartella contenenete Riassunti e File Utili
 ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MT
-ExNTQ5LDIxMzAxOTU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg1MTYzMDMsMTc2MDYyNDIzNyw0Mj
+c4MTgwOTMsLTI2MTExNTQ5LDIxMzAxOTU3ODRdfQ==
 -->
