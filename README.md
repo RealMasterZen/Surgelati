@@ -25,7 +25,8 @@ Cartella contenenete Riassunti e File Utili
 **poesia e prosa in italia nel secondo ottocento**
 	- Scapigliatura
 	- Il ritorno al classicismo	
-**autori**
+
+**Autori**
 - Emilio Praga
 - Iginio Ugo Tarchetti
 - Giosuè Carducci: ritorno al classicismo
@@ -37,7 +38,7 @@ diffidenza dalla scienza
 - Paul Verlaine
 - nietsche
 ### - - - UNITA' 6 - - -
-- **Giovanni Bascoli**:
+ **Giovanni Bascoli**:
 	- Canti di Castelvecchio
 	- Myricae
 	- Nuovi poemetti
@@ -52,6 +53,7 @@ diffidenza dalla scienza
 - Dadaismo
 - Cubismo
 - **Futurismo**
+
 **Autori**
 - Filippo Tommaso Marinetti
 - Giovanni Papini
@@ -63,10 +65,10 @@ Ermetismo e ricercatezza nell'utilizzo di figure retoriche
 Opere 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NjU5Mjg0LDEwMDI4OTc1ODQsLTE3OT
-cxNTY0MzksLTI1OTMzOTI3NCwtNjYwMjc5MTE1LDIwMDE4OTc2
-MSwtOTk5NTY5NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMzLDE2OD
-M4MTA1MTQsLTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNzI4NTE2
-MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0OSwyMT
-MwMTk1Nzg0XX0=
+eyJoaXN0b3J5IjpbMTA1MTA0MjgxMSw2ODg2NTkyODQsMTAwMj
+g5NzU4NCwtMTc5NzE1NjQzOSwtMjU5MzM5Mjc0LC02NjAyNzkx
+MTUsMjAwMTg5NzYxLC05OTk1Njk0NjYsMTg5Mzg2NTg1MiwyMj
+E0NzU5MzMsMTY4MzgxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2
+MzAsLTE3Mjg1MTYzMDMsMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLT
+I2MTExNTQ5LDIxMzAxOTU3ODRdfQ==
 -->
