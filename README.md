@@ -11,8 +11,9 @@ Cartella contenenete Riassunti e File Utili
 
 **Autori**
 - Fratelli Gouncourt
-	- Esempio è 
-- E'mile Zola
+	- *Gèrminie Lacertaux*
+- E'mile Zola:
+	- **
 **Giovanni Verga**
 ****
 ****
@@ -27,6 +28,6 @@ Cartella contenenete Riassunti e File Utili
 ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQwODYwOCwtMjYxMTE1NDksMjEzMD
-E5NTc4NF19
+eyJoaXN0b3J5IjpbNDI3ODE4MDkzLC0yNjExMTU0OSwyMTMwMT
+k1Nzg0XX0=
 -->
