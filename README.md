@@ -1,7 +1,6 @@
 # Surgelati
 
-- FileImportanti Didattici
-
-- Riassunti degli argomenti di 5°
-
-- altro
+**Robe Italiano**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA0MTU5MDg0NF19
+-->
