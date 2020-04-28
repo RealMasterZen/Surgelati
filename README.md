@@ -36,6 +36,10 @@ diffidenza dalla scienza
 - Charles Boudelaire
 - Paul Verlaine
 - nietsche
+- **Giovanni Bascoli**:
+	- Canti di Castelvecchio
+	- Myricae
+	- Nuovi poemetti
 ****
 ****
 ****
@@ -50,10 +54,10 @@ diffidenza dalla scienza
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjg5NzU4NCwtMTc5NzE1NjQzOSwtMj
-U5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5NzYxLC05OTk1Njk0
-NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMTY4MzgxMDUxNCwtNT
-QxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1MTYzMDMsMTc2MDYy
-NDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LDIxMzAxOTU3ODRdfQ
-==
+eyJoaXN0b3J5IjpbNjE4NzM5OTYxLDEwMDI4OTc1ODQsLTE3OT
+cxNTY0MzksLTI1OTMzOTI3NCwtNjYwMjc5MTE1LDIwMDE4OTc2
+MSwtOTk5NTY5NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMzLDE2OD
+M4MTA1MTQsLTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNzI4NTE2
+MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0OSwyMT
+MwMTk1Nzg0XX0=
 -->
