@@ -45,7 +45,9 @@ diffidenza dalla scienza
 - **D'Annunzio, il superomismo e le opere **:
 - Laudi
 - Sera Fiesolana
-- Trionfo della morte 
+- Trionfo della morte
+### UNITA' 11 - - - 
+**Le avanguardie Storiche** 
 ****
 ****
 ****
@@ -60,7 +62,7 @@ diffidenza dalla scienza
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMyNzczNTIsMTAwMjg5NzU4NCwtMT
+eyJoaXN0b3J5IjpbLTE4MjYzMDY3NzMsMTAwMjg5NzU4NCwtMT
 c5NzE1NjQzOSwtMjU5MzM5Mjc0LC02NjAyNzkxMTUsMjAwMTg5
 NzYxLC05OTk1Njk0NjYsMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMT
 Y4MzgxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1
