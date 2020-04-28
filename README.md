@@ -15,7 +15,7 @@ Cartella contenenete Riassunti e File Utili
 - E'mile Zola: il romanzo sperimentale
 	- *L'Assormoir*
 - **Giovanni Verga** e il Verismo tipico verghiano
-	-i Malavoglia	
+	- Malavoglia	
 ****
 ****
 ****
@@ -29,6 +29,7 @@ Cartella contenenete Riassunti e File Utili
 ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg1MTYzMDMsMTc2MDYyNDIzNyw0Mj
-c4MTgwOTMsLTI2MTExNTQ5LDIxMzAxOTU3ODRdfQ==
+eyJoaXN0b3J5IjpbMTMzNDY5NTYzMCwtMTcyODUxNjMwMywxNz
+YwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMjEzMDE5NTc4
+NF19
 -->
