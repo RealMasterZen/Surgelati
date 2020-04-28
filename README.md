@@ -13,7 +13,8 @@ Cartella contenenete Riassunti e File Utili
 - Fratelli Gouncourt
 	- *Gèrminie Lacertaux*
 - E'mile Zola: il romanzo sperimentale
-	- *L*
+	- *L'Assormoir*
+
 **Giovanni Verga**
 ****
 ****
@@ -28,6 +29,6 @@ Cartella contenenete Riassunti e File Utili
 ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE3NzA5NTMsNDI3ODE4MDkzLC0yNj
-ExMTU0OSwyMTMwMTk1Nzg0XX0=
+eyJoaXN0b3J5IjpbMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MT
+ExNTQ5LDIxMzAxOTU3ODRdfQ==
 -->
