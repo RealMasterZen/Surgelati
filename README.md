@@ -5,6 +5,20 @@ Cartella contenenete Riassunti e File Utili
 ## Argomenti Italiano
 
 **L'età del Positivismo-Naturalismo-Verismo**
+
+**Giovanni Verga**
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyMjI0NTEsMjEzMDE5NTc4NF19
+eyJoaXN0b3J5IjpbLTI2MTExNTQ5LDIxMzAxOTU3ODRdfQ==
 -->
