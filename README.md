@@ -30,7 +30,8 @@ Cartella contenenete Riassunti e File Utili
 - Iginio Ugo Tarchetti
 - Giosuè Carducci: ritorno al classicismo
 ### - - - UNITA' 4 - - -
-****
+**Il Decadentismo**
+
 ****
 ****
 ****
@@ -46,9 +47,9 @@ Cartella contenenete Riassunti e File Utili
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTMzOTI3NCwtNjYwMjc5MTE1LDIwMD
-E4OTc2MSwtOTk5NTY5NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMz
-LDE2ODM4MTA1MTQsLTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNz
-I4NTE2MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0
-OSwyMTMwMTk1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE3OTcxNTY0MzksLTI1OTMzOTI3NCwtNj
+YwMjc5MTE1LDIwMDE4OTc2MSwtOTk5NTY5NDY2LDE4OTM4NjU4
+NTIsMjIxNDc1OTMzLDE2ODM4MTA1MTQsLTU0MTMxMzYyNCwxMz
+M0Njk1NjMwLC0xNzI4NTE2MzAzLDE3NjA2MjQyMzcsNDI3ODE4
+MDkzLC0yNjExMTU0OSwyMTMwMTk1Nzg0XX0=
 -->
