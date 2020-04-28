@@ -29,6 +29,8 @@ Cartella contenenete Riassunti e File Utili
 - Emilio Praga
 - Iginio Ugo Tarchetti
 - Giosuè Carducci: ritorno al classicismo
+### - - - UNITA' 4 - - -
+****
 ****
 ****
 ****
@@ -44,9 +46,9 @@ Cartella contenenete Riassunti e File Utili
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDI3OTExNSwyMDAxODk3NjEsLTk5OT
-U2OTQ2NiwxODkzODY1ODUyLDIyMTQ3NTkzMywxNjgzODEwNTE0
-LC01NDEzMTM2MjQsMTMzNDY5NTYzMCwtMTcyODUxNjMwMywxNz
-YwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMjEzMDE5NTc4
-NF19
+eyJoaXN0b3J5IjpbLTI1OTMzOTI3NCwtNjYwMjc5MTE1LDIwMD
+E4OTc2MSwtOTk5NTY5NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMz
+LDE2ODM4MTA1MTQsLTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNz
+I4NTE2MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0
+OSwyMTMwMTk1Nzg0XX0=
 -->
