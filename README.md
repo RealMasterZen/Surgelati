@@ -18,7 +18,9 @@ Cartella contenenete Riassunti e File Utili
 ### - - - UNITA' 2 - - - 
 - **Giovanni Verga**: il Verismo tipico verghiano
 	- Vita dei Campi
-	- Malavoglia	
+	- Malavoglia
+	- Novelle Rusticane
+	- Mastro don gesualdo	
 - ****
 ****
 ****
@@ -36,8 +38,8 @@ Cartella contenenete Riassunti e File Utili
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzg2NTg1MiwyMjE0NzU5MzMsMTY4Mz
-gxMDUxNCwtNTQxMzEzNjI0LDEzMzQ2OTU2MzAsLTE3Mjg1MTYz
-MDMsMTc2MDYyNDIzNyw0Mjc4MTgwOTMsLTI2MTExNTQ5LDIxMz
-AxOTU3ODRdfQ==
+eyJoaXN0b3J5IjpbMTkxNjI1NjQyLDE4OTM4NjU4NTIsMjIxND
+c1OTMzLDE2ODM4MTA1MTQsLTU0MTMxMzYyNCwxMzM0Njk1NjMw
+LC0xNzI4NTE2MzAzLDE3NjA2MjQyMzcsNDI3ODE4MDkzLC0yNj
+ExMTU0OSwyMTMwMTk1Nzg0XX0=
 -->
