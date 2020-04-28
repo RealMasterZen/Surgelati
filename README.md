@@ -27,7 +27,8 @@ Cartella contenenete Riassunti e File Utili
 	- Il ritorno al classicismo	
 **autori**
 - Emilio Praga
-- 
+- Iginio Ugo Tarchetti
+- Giosuè Carducci: ritorno al classicismo
 ****
 ****
 ****
@@ -43,9 +44,9 @@ Cartella contenenete Riassunti e File Utili
 
 - altro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MDIzMDE5LDIwMDE4OTc2MSwtOTk5NT
-Y5NDY2LDE4OTM4NjU4NTIsMjIxNDc1OTMzLDE2ODM4MTA1MTQs
-LTU0MTMxMzYyNCwxMzM0Njk1NjMwLC0xNzI4NTE2MzAzLDE3Nj
-A2MjQyMzcsNDI3ODE4MDkzLC0yNjExMTU0OSwyMTMwMTk1Nzg0
-XX0=
+eyJoaXN0b3J5IjpbLTY2MDI3OTExNSwyMDAxODk3NjEsLTk5OT
+U2OTQ2NiwxODkzODY1ODUyLDIyMTQ3NTkzMywxNjgzODEwNTE0
+LC01NDEzMTM2MjQsMTMzNDY5NTYzMCwtMTcyODUxNjMwMywxNz
+YwNjI0MjM3LDQyNzgxODA5MywtMjYxMTE1NDksMjEzMDE5NTc4
+NF19
 -->
