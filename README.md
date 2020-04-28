@@ -12,8 +12,8 @@ Cartella contenenete Riassunti e File Utili
 **Autori**
 - Fratelli Gouncourt
 	- *Gèrminie Lacertaux*
-- E'mile Zola:
-	- **
+- E'mile Zola: il romanzo sperimentale
+	- *L*
 **Giovanni Verga**
 ****
 ****
@@ -28,6 +28,6 @@ Cartella contenenete Riassunti e File Utili
 ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3ODE4MDkzLC0yNjExMTU0OSwyMTMwMT
-k1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE1OTE3NzA5NTMsNDI3ODE4MDkzLC0yNj
+ExMTU0OSwyMTMwMTk1Nzg0XX0=
 -->
