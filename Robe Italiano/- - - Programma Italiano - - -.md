@@ -58,8 +58,11 @@ diffidenza dalla scienza
 ### UNITA' 14 - - - 
 **Giuseppe Ungaretti**:
 Ermetismo e ricercatezza nell'utilizzo di figure retoriche
-Opere 
+
+**Opere**:
+L'allegria
+Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDA5Nzc4NF19
+eyJoaXN0b3J5IjpbLTE3OTAzODU2NzksMTU2NDA5Nzc4NF19
 -->
