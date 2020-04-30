@@ -27,9 +27,10 @@ Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferir
 Dopo l'esperienza sul campo egli cambia completamente di ideal e diventa pacifista ripudiando la guerra.
 
 Finita la guerra si stabilì a Parigi dove cominciò a lavorare come corrispondente per il Popolo d'Italia, il giornale fondato da Benito Mussolini.
-Nel 1920 tornò in Italia con la Moglie Jeanne Dupoix,e lì
+Nel 1920 tornò in Italia con la Moglie Jeanne Dupoix,e lì aderì al Fascismo, in cui vederva realizzarsi la possibilità di una coesione naizonale.
+In quegli anni si prestò alla collaborazione con la Rivista **La Ronda**, questa proponeva al ritorno di un nuovo classicismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE3MTg0NzgsLTM1OTczNDE0NiwxMz
-E0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0
-MTgyNDcsLTc0MTQzMjE4XX0=
+eyJoaXN0b3J5IjpbLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMT
+QzNDE1MjQsLTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQx
+ODI0NywtNzQxNDMyMThdfQ==
 -->
