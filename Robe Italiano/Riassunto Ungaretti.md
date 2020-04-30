@@ -10,9 +10,11 @@ nel **1912 si diresse verso a Parigi**, però nel percorso fece una tappa in Ita
 A Parigi segue i corsi universitari al Collegè de Paris e alla Sorbona frequentando con grande 
 attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo:
 - Picasso 
-- - Modigliani 
-- 
+- Modigliani 
+- DeChirico
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjgwMjk0MywtMTA5MTI4MjE4LC0yMD
-k4NDE4MjQ3LC03NDE0MzIxOF19
+eyJoaXN0b3J5IjpbOTgyOTUzOTUwLC0xMDkxMjgyMTgsLTIwOT
+g0MTgyNDcsLTc0MTQzMjE4XX0=
 -->
