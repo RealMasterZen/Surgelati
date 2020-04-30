@@ -16,7 +16,12 @@ attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfond√
 - DeChirico
 
 **Poeti**
+- Papini
+- Soffici
+- Palazzeschi
+
+questi ultimi lo invitarono a collaborare nella rivista lacerba(**1915**), questo successivamente decise di 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjI2NjY5NiwtMTA5MTI4MjE4LC0yMD
+eyJoaXN0b3J5IjpbMTEzMjc2MDY3NywtMTA5MTI4MjE4LC0yMD
 k4NDE4MjQ3LC03NDE0MzIxOF19
 -->
