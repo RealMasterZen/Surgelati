@@ -30,9 +30,14 @@ Finita la guerra si stabilì a Parigi dove cominciò a lavorare come corrisponde
 Nel 1920 tornò in Italia con la Moglie Jeanne Dupoix,e lì aderì al Fascismo, in cui vederva realizzarsi la possibilità di una coesione naizonale.
 In quegli anni si prestò alla collaborazione con la Rivista **La Ronda**, questa proponeva al ritorno di un nuovo classicismo con l'abbandono delle nuove avanguardie e con il ritorno ad una riappacificazione religiosa.
 
-Nel 1936 si trasferì in Brasile dove occupò la cattedra di letteratura Italiana all'università di Roma e pubblicò
+Nel 1936 si trasferì in Brasile dove occupò la cattedra di letteratura Italiana all'università di Roma e pubblicò alcune raccolte poetiche quali il *dolore*.
+Rimasto vedovo nel 1958 continuò la sua attività poetica e di traduttore.
+Nel 1969 mondadori pubblica la raccolta completa delle sue liriche Vita di un Uomo.
+Morì a Milano nel 1970.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMTM3NzIzLC0xNjk1MzIwODMsLTM1OT
-czNDE0NiwxMzE0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMDkxMjgy
-MTgsLTIwOTg0MTgyNDcsLTc0MTQzMjE4XX0=
+eyJoaXN0b3J5IjpbMTM3MTI3OTc4MywtMTY5NTMyMDgzLC0zNT
+k3MzQxNDYsMTMxNDM0MTUyNCwtMTM0OTA0MTUyMywtMTA5MTI4
+MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
 -->
