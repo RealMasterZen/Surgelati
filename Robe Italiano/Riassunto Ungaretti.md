@@ -23,10 +23,11 @@ attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfond�
 questi ultimi lo invitarono a collaborare nella rivista lacerba(**1915**).
 Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *allegria di naufragi.*
 
-Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferirsi a milani, essendo lui un acceso interventista, esso successivamente andò ad autoarruolarsi come soldato semplice.
+Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferirsi a milani, essendo lui un acceso interventista, esso successivamente andò ad autoarruolarsi come soldato semplice, combattè inoltre sull'altopiano del Carso.
 Dopo l'esperienza sul campo egli cambia completamente di ideal e diventa pacifista ripudiando la guerra.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDM0MTUyNCwtMTM0OTA0MTUyMywtMT
-A5MTI4MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
+eyJoaXN0b3J5IjpbLTM1OTczNDE0NiwxMzE0MzQxNTI0LC0xMz
+Q5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLTc0MTQz
+MjE4XX0=
 -->
