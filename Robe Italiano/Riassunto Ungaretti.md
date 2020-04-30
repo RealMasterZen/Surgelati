@@ -21,8 +21,10 @@ attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfond�
 - Palazzeschi
 
 questi ultimi lo invitarono a collaborare nella rivista lacerba(**1915**).
-Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *allegria di naufragi* 
+Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *allegria di naufragi.*
+
+Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferirsi a milani, essendo lui un acceso 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMj
-A5ODQxODI0NywtNzQxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbMzE3Mjc0NzE4LC0xMzQ5MDQxNTIzLC0xMD
+kxMjgyMTgsLTIwOTg0MTgyNDcsLTc0MTQzMjE4XX0=
 -->
