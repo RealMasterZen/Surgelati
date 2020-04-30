@@ -26,9 +26,10 @@ Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *all
 Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferirsi a milani, essendo lui un acceso interventista, esso successivamente andò ad autoarruolarsi come soldato semplice, combattè inoltre sull'altopiano del Carso.
 Dopo l'esperienza sul campo egli cambia completamente di ideal e diventa pacifista ripudiando la guerra.
 
-Finita la guerra 
+Finita la guerra si stabilì a Parigi dove cominciò a lavorare come corrispondente per il Popolo d'Italia, il giornale fondato da Benito Mussolini.
+Nel 1920 tornò in Italia con la Moglie Jeanne Dupoix,e lì
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1ODQ5NTIsLTM1OTczNDE0NiwxMz
+eyJoaXN0b3J5IjpbLTE1MjE3MTg0NzgsLTM1OTczNDE0NiwxMz
 E0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0
 MTgyNDcsLTc0MTQzMjE4XX0=
 -->
