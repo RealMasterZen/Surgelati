@@ -8,8 +8,11 @@ Potè infatti frequentare la scuola superiore ad Alessandria, dove entrò in con
 nel **1912 si diresse verso a Parigi**, però nel percorso fece una tappa in Italia per andare ad incontrare quelli che erano i direttori del giornale per cui faceva il corrispondente.
 
 A Parigi segue i corsi universitari al Collegè de Paris e alla Sorbona frequentando con grande 
-attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo
+attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo:
+- Picasso 
+- - Modigliani 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbMTkwMjgwMjk0MywtMTA5MTI4MjE4LC0yMD
+k4NDE4MjQ3LC03NDE0MzIxOF19
 -->
