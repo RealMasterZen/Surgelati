@@ -20,8 +20,9 @@ attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfond√
 - Soffici
 - Palazzeschi
 
-questi ultimi lo invitarono a collaborare nella rivista lacerba(**1915**), questo successivamente decise di 
+questi ultimi lo invitarono a collaborare nella rivista lacerba(**1915**).
+Ungaretti successivamente sforn√≤ le raccolte poetiche *Il Porto Sepolto* e *allegria di naufragi* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjc2MDY3NywtMTA5MTI4MjE4LC0yMD
-k4NDE4MjQ3LC03NDE0MzIxOF19
+eyJoaXN0b3J5IjpbLTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMj
+A5ODQxODI0NywtNzQxNDMyMThdfQ==
 -->
