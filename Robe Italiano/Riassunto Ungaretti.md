@@ -26,8 +26,9 @@ Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *all
 Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferirsi a milani, essendo lui un acceso interventista, esso successivamente andò ad autoarruolarsi come soldato semplice, combattè inoltre sull'altopiano del Carso.
 Dopo l'esperienza sul campo egli cambia completamente di ideal e diventa pacifista ripudiando la guerra.
 
+Finita la guerra 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTczNDE0NiwxMzE0MzQxNTI0LC0xMz
-Q5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLTc0MTQz
-MjE4XX0=
+eyJoaXN0b3J5IjpbLTE3MzI1ODQ5NTIsLTM1OTczNDE0NiwxMz
+E0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0
+MTgyNDcsLTc0MTQzMjE4XX0=
 -->
