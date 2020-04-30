@@ -5,7 +5,7 @@ Giuseppe Ungaretti nasce ad Alessandria D'Egitto il 10 febbraio del 1888 da emig
 
 Potè infatti frequentare la scuola superiore ad Alessandria, dove entrò in contatto con i fuorisciti anarchici italiani si appassionò alla poesia di Leopardi, Carducci, Pascoli, D'annunzio, Baudelaire, Mallarmè.
 
-nel **1912 si dire**
+nel **1912 si diresse verso a Parigi**, però nel percorso fece una tappa in Italia per andare ad incontrare quelli che erano i direttori del giornale p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTE0NDUyMywtNzQxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbMTk3NDk0MTQyOSwtNzQxNDMyMThdfQ==
 -->
