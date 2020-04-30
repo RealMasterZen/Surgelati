@@ -28,9 +28,11 @@ Dopo l'esperienza sul campo egli cambia completamente di ideal e diventa pacifis
 
 Finita la guerra si stabilì a Parigi dove cominciò a lavorare come corrispondente per il Popolo d'Italia, il giornale fondato da Benito Mussolini.
 Nel 1920 tornò in Italia con la Moglie Jeanne Dupoix,e lì aderì al Fascismo, in cui vederva realizzarsi la possibilità di una coesione naizonale.
-In quegli anni si prestò alla collaborazione con la Rivista **La Ronda**, questa proponeva al ritorno di un nuovo classicismo
+In quegli anni si prestò alla collaborazione con la Rivista **La Ronda**, questa proponeva al ritorno di un nuovo classicismo con l'abbandono delle nuove avanguardie e con il ritorno ad una riappacificazione religiosa.
+
+Nel 1936 si trasferì in Brasile dove occupò la cattedra di letteratura Italiana all'università di Roma e pubblicò
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMT
-QzNDE1MjQsLTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQx
-ODI0NywtNzQxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbNDMxMTM3NzIzLC0xNjk1MzIwODMsLTM1OT
+czNDE0NiwxMzE0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMDkxMjgy
+MTgsLTIwOTg0MTgyNDcsLTc0MTQzMjE4XX0=
 -->
