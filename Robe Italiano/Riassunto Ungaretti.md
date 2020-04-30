@@ -7,7 +7,9 @@ Potè infatti frequentare la scuola superiore ad Alessandria, dove entrò in con
 
 nel **1912 si diresse verso a Parigi**, però nel percorso fece una tappa in Italia per andare ad incontrare quelli che erano i direttori del giornale per cui faceva il corrispondente.
 
-A Parigi segue i corsi universitari al Collegè de Paris e alla Sorbona
+A Parigi segue i corsi universitari al Collegè de Paris e alla Sorbona frequentando con grande 
+attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg0MTgyNDcsLTc0MTQzMjE4XX0=
+eyJoaXN0b3J5IjpbLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
+QxNDMyMThdfQ==
 -->
