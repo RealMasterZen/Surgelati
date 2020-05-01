@@ -82,8 +82,5 @@ le prime stelle!
 > Analisi:
 - La sera indica la fase intermedia tra giorno che è la vita e la notte che è la morte della giornata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDE0MjM5NywtNDMwODM1MDU4LC05Nj
-gwNDg2MTUsMjEzNTExNjIyNywtMTE1Mzc3MDU4MywtNzM4NjU1
-ODEzLC04Mjk1NjIwMTgsMTY0Nzk3NzY4MiwtMjQxNjg2NTAwXX
-0=
+eyJoaXN0b3J5IjpbMTczNDE0MjM5N119
 -->

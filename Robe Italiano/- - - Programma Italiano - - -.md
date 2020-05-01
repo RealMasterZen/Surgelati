@@ -1,7 +1,3 @@
-# Surgelati
-
-Cartella contenenete Riassunti e File Utili
-
 ## Argomenti Italiano
 
 ### - - -  UNITA' 1 - - - 
@@ -30,29 +26,24 @@ Cartella contenenete Riassunti e File Utili
 - Emilio Praga
 - Iginio Ugo Tarchetti
 - Giosuè Carducci: ritorno al classicismo
-
 ### - - - UNITA' 4 - - -
 **Il Decadentismo**
 diffidenza dalla scienza 
-
 **autori**:
 - Charles Boudelaire
 - Paul Verlaine
 - nietsche
-
 ### - - - UNITA' 6 - - -
  **Giovanni Bascoli**:
 	- Canti di Castelvecchio
 	- Myricae
 	- Nuovi poemetti
-
 ### - - - UNITA' 7 - - -
-- **D'Annunzio, il superomismo e le opere**:
+- **D'Annunzio, il superomismo e le opere **:
 - Laudi
 - Sera Fiesolana
 - Trionfo della morte
-
-### - - - UNITA' 11 - - - 
+### UNITA' 11 - - - 
 **Le avanguardie Storiche**:
 - Espressionismo
 - Dadaismo
@@ -67,13 +58,11 @@ diffidenza dalla scienza
 ### UNITA' 14 - - - 
 **Giuseppe Ungaretti**:
 Ermetismo e ricercatezza nell'utilizzo di figure retoriche
-Opere 
+
+**Opere**:
+L'allegria
+Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU5MjM2MjgsMTA1MTA0MjgxMSw2OD
-g2NTkyODQsMTAwMjg5NzU4NCwtMTc5NzE1NjQzOSwtMjU5MzM5
-Mjc0LC02NjAyNzkxMTUsMjAwMTg5NzYxLC05OTk1Njk0NjYsMT
-g5Mzg2NTg1MiwyMjE0NzU5MzMsMTY4MzgxMDUxNCwtNTQxMzEz
-NjI0LDEzMzQ2OTU2MzAsLTE3Mjg1MTYzMDMsMTc2MDYyNDIzNy
-w0Mjc4MTgwOTMsLTI2MTExNTQ5LDIxMzAxOTU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTAzODU2NzksMTU2NDA5Nzc4NF19
 -->
