@@ -49,9 +49,20 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 ### Lezione 6: Pianificazione e controllo della qualità e gestione della documentazione
 
 ## UDA 5
+
+### Lezione 1: 
+### Lezione 2: 
+### Lezione 3: 
+### Lezione 4: 
+### Lezione 5: 
+### Lezione 6: 
+### Lezione 7: 
+### Lezione 8: 
+### Lezione 9: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDQxNzAxNSw1MTMyODU1NjksLTExNT
-M2NTQ1OTAsMTc5NzY3ODQ0NSwxNDM2NDY4Njg4LDQxNDc2ODQ4
-NCwtNjkyOTQ0NDYzLC0xODgxNTAzMzMxLC04NDMxMzM5NzYsMj
-ExNTEyNzYwXX0=
+eyJoaXN0b3J5IjpbNTgyOTczNzE1LDUxMzI4NTU2OSwtMTE1Mz
+Y1NDU5MCwxNzk3Njc4NDQ1LDE0MzY0Njg2ODgsNDE0NzY4NDg0
+LC02OTI5NDQ0NjMsLTE4ODE1MDMzMzEsLTg0MzEzMzk3NiwyMT
+E1MTI3NjBdfQ==
 -->
