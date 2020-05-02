@@ -50,8 +50,8 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 ## UDA 5
 
-### Lezione 1: 
-### Lezione 2: 
+### Lezione 1: I progetti informatici
+### Lezione 2: Il processo di produzione del software	
 ### Lezione 3: 
 ### Lezione 4: 
 ### Lezione 5: 
@@ -61,8 +61,8 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 ### Lezione 9: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyOTczNzE1LDUxMzI4NTU2OSwtMTE1Mz
-Y1NDU5MCwxNzk3Njc4NDQ1LDE0MzY0Njg2ODgsNDE0NzY4NDg0
-LC02OTI5NDQ0NjMsLTE4ODE1MDMzMzEsLTg0MzEzMzk3NiwyMT
-E1MTI3NjBdfQ==
+eyJoaXN0b3J5IjpbLTExNDc5MzE3MCw1ODI5NzM3MTUsNTEzMj
+g1NTY5LC0xMTUzNjU0NTkwLDE3OTc2Nzg0NDUsMTQzNjQ2ODY4
+OCw0MTQ3Njg0ODQsLTY5Mjk0NDQ2MywtMTg4MTUwMzMzMSwtOD
+QzMTMzOTc2LDIxMTUxMjc2MF19
 -->
