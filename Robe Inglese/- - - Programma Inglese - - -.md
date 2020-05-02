@@ -2,7 +2,11 @@
 
 ## Ted Talk
 
+## Stage in Azienda
+
+## Steve Jobs Speech
+
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NTA4ODA0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTkyMDY0NjI2MCwtMjA4ODc0NjYxMl19
 -->
