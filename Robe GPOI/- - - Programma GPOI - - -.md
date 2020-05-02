@@ -6,9 +6,9 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 ### Lezione 1: L'informazione e l'organizzazione
 ### Lezione 2: Micro e Macrostruttura
 
-### Lezione 3: 
+### Lezione 3: Le strutture Organizzative 
 
-### Lezione 4
+### Lezione 4: I costi di un organizzazione aziendale
 
 
 ## UDA 2
@@ -40,6 +40,7 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 ## UDA 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NzY4NDg0LC02OTI5NDQ0NjMsLTE4OD
-E1MDMzMzEsLTg0MzEzMzk3NiwyMTE1MTI3NjBdfQ==
+eyJoaXN0b3J5IjpbMTQzNjQ2ODY4OCw0MTQ3Njg0ODQsLTY5Mj
+k0NDQ2MywtMTg4MTUwMzMzMSwtODQzMTMzOTc2LDIxMTUxMjc2
+MF19
 -->
