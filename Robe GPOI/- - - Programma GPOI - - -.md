@@ -40,18 +40,26 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 ## UDA 5
 
 ### Lezione 1: I progetti informatici
+
 ### Lezione 2: Il processo di produzione del software	
+
 ### Lezione 3: Pre-progetto: fattibilità e analisi dei requisiti 
+
 ### Lezione 4: Pre-progetto: pianificazione del progetto
+
 ### Lezione 5: Le metriche del software 
+
 ### Lezione 6: La valutazione dei costi di un progetto informatico
+
 ### Lezione 7: La valutazione della qualità del software
+
 ### Lezione 8: Modelli classici di sviluppo di sistemi informatici 
+
 ### Lezione 9: La valutazione dei metodi di stima
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTMzNzY4MywtMjA1NjY3OTgwLDU4Mj
-k3MzcxNSw1MTMyODU1NjksLTExNTM2NTQ1OTAsMTc5NzY3ODQ0
-NSwxNDM2NDY4Njg4LDQxNDc2ODQ4NCwtNjkyOTQ0NDYzLC0xOD
-gxNTAzMzMxLC04NDMxMzM5NzYsMjExNTEyNzYwXX0=
+eyJoaXN0b3J5IjpbLTEzMTk1NTkwOTMsLTIwNTY2Nzk4MCw1OD
+I5NzM3MTUsNTEzMjg1NTY5LC0xMTUzNjU0NTkwLDE3OTc2Nzg0
+NDUsMTQzNjQ2ODY4OCw0MTQ3Njg0ODQsLTY5Mjk0NDQ2MywtMT
+g4MTUwMzMzMSwtODQzMTMzOTc2LDIxMTUxMjc2MF19
 -->
