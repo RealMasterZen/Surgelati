@@ -52,17 +52,17 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 ### Lezione 1: I progetti informatici
 ### Lezione 2: Il processo di produzione del software	
-### Lezione 3: 
-### Lezione 4: 
-### Lezione 5: 
-### Lezione 6: 
+### Lezione 3: Pre-progetto: fattibilità e analisi dei requisiti 
+### Lezione 4: Pre-progetto: pianificazione del progetto
+### Lezione 5: Le metriche del software 
+### Lezione 6: La valutazione dei costi di un progetto informatico
 ### Lezione 7: 
 ### Lezione 8: 
 ### Lezione 9: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5MzE3MCw1ODI5NzM3MTUsNTEzMj
-g1NTY5LC0xMTUzNjU0NTkwLDE3OTc2Nzg0NDUsMTQzNjQ2ODY4
-OCw0MTQ3Njg0ODQsLTY5Mjk0NDQ2MywtMTg4MTUwMzMzMSwtOD
-QzMTMzOTc2LDIxMTUxMjc2MF19
+eyJoaXN0b3J5IjpbLTIxMDYyNDQ5OTUsNTgyOTczNzE1LDUxMz
+I4NTU2OSwtMTE1MzY1NDU5MCwxNzk3Njc4NDQ1LDE0MzY0Njg2
+ODgsNDE0NzY4NDg0LC02OTI5NDQ0NjMsLTE4ODE1MDMzMzEsLT
+g0MzEzMzk3NiwyMTE1MTI3NjBdfQ==
 -->
