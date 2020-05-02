@@ -2,11 +2,14 @@
 
 ## Ted Talk
 
-## Stage in Azienda
+## My Internship Experience
 
 ## Steve Jobs Speech
 
+## Applying for a job
+
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDY0NjI2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5ODI0MjQwMTIsMTkyMDY0NjI2MCwtMj
+A4ODc0NjYxMl19
 -->
