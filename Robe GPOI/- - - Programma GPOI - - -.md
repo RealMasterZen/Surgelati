@@ -56,13 +56,13 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 ### Lezione 4: Pre-progetto: pianificazione del progetto
 ### Lezione 5: Le metriche del software 
 ### Lezione 6: La valutazione dei costi di un progetto informatico
-### Lezione 7: 
-### Lezione 8: 
-### Lezione 9: 
+### Lezione 7: La valutazione della qualità del software
+### Lezione 8: Modelli classici di sviluppo di sistemi informatici 
+### Lezione 9: La valutazione dei metodi di stima
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYyNDQ5OTUsNTgyOTczNzE1LDUxMz
-I4NTU2OSwtMTE1MzY1NDU5MCwxNzk3Njc4NDQ1LDE0MzY0Njg2
-ODgsNDE0NzY4NDg0LC02OTI5NDQ0NjMsLTE4ODE1MDMzMzEsLT
-g0MzEzMzk3NiwyMTE1MTI3NjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNTY2Nzk4MCw1ODI5NzM3MTUsNTEzMj
+g1NTY5LC0xMTUzNjU0NTkwLDE3OTc2Nzg0NDUsMTQzNjQ2ODY4
+OCw0MTQ3Njg0ODQsLTY5Mjk0NDQ2MywtMTg4MTUwMzMzMSwtOD
+QzMTMzOTc2LDIxMTUxMjc2MF19
 -->
