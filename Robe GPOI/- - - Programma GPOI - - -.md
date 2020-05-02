@@ -14,6 +14,14 @@ tutta
 1.7
 
 ### Lezione 2
+2.1
+2.2
+
+### Lezione 3
+3.1
+3.2
+3.3
+3.5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDA4OTcwOV19
+eyJoaXN0b3J5IjpbLTE5OTI2NTM4N119
 -->
