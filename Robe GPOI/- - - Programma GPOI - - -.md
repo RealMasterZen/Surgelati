@@ -3,6 +3,7 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 
 ## UDA 1
+
 ### Lezione 1: L'informazione e l'organizzazione
 ### Lezione 2: Micro e Macrostruttura
 
@@ -12,14 +13,14 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 
 ## UDA 2
-### Lezione 1 
+### Lezione 1: Catena del valore, processi primari e processi di supporto
 1.1
 1.2
 1.3
 1.6
 1.7
 
-### Lezione 2
+### Lezione 2: Le prestazioni dei processi aziendali
 2.1
 2.2
 
@@ -40,7 +41,7 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 ## UDA 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjQ2ODY4OCw0MTQ3Njg0ODQsLTY5Mj
-k0NDQ2MywtMTg4MTUwMzMzMSwtODQzMTMzOTc2LDIxMTUxMjc2
-MF19
+eyJoaXN0b3J5IjpbLTEyMDYzOTUzNDIsMTQzNjQ2ODY4OCw0MT
+Q3Njg0ODQsLTY5Mjk0NDQ2MywtMTg4MTUwMzMzMSwtODQzMTMz
+OTc2LDIxMTUxMjc2MF19
 -->
