@@ -24,7 +24,7 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 2.1
 2.2
 
-### Lezione 3
+### Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 3.1
 3.2
 3.3
@@ -41,7 +41,7 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 ## UDA 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYzOTUzNDIsMTQzNjQ2ODY4OCw0MT
-Q3Njg0ODQsLTY5Mjk0NDQ2MywtMTg4MTUwMzMzMSwtODQzMTMz
-OTc2LDIxMTUxMjc2MF19
+eyJoaXN0b3J5IjpbMTc5NzY3ODQ0NSwxNDM2NDY4Njg4LDQxND
+c2ODQ4NCwtNjkyOTQ0NDYzLC0xODgxNTAzMzMxLC04NDMxMzM5
+NzYsMjExNTEyNzYwXX0=
 -->
