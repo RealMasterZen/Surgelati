@@ -10,8 +10,10 @@
 
 ## My video CV
 
-## Safety in the Workplace
+## Safety at the Workplace
+
+## PPE at work
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MTM0MTk4LDE3MjUxNTU5ODgsMTkyMD
-Y0NjI2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTMyNDY3NzA4OSwxNzI1MTU1OTg4LDE5Mj
+A2NDYyNjAsLTIwODg3NDY2MTJdfQ==
 -->
