@@ -37,15 +37,21 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 ## UDA 4
 
 ### Lezione 1: Il progetto e le sue fasi
+
 ### Lezione 2: Il principio chiave nella gestione di un progetto e gli obbiettivi di progetto
+
 ### Lezione 3: L'organizzazione dei progetti
+
 ### Lezione 4: Tecniche di pianificazione e controllo temporale
+
 ### Lezione 5: La programmazione e il controllo dei costi e la gestione delle caree di rischio
-### Lezione 6:
+
+### Lezione 6: Pianificazione e controllo della qualità e gestione della documentazione
 
 ## UDA 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMjg1NTY5LC0xMTUzNjU0NTkwLDE3OT
-c2Nzg0NDUsMTQzNjQ2ODY4OCw0MTQ3Njg0ODQsLTY5Mjk0NDQ2
-MywtMTg4MTUwMzMzMSwtODQzMTMzOTc2LDIxMTUxMjc2MF19
+eyJoaXN0b3J5IjpbMTM0NDQxNzAxNSw1MTMyODU1NjksLTExNT
+M2NTQ1OTAsMTc5NzY3ODQ0NSwxNDM2NDY4Njg4LDQxNDc2ODQ4
+NCwtNjkyOTQ0NDYzLC0xODgxNTAzMzMxLC04NDMxMzM5NzYsMj
+ExNTEyNzYwXX0=
 -->
