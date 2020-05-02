@@ -10,7 +10,10 @@ tutta
 1.1
 1.2
 1.3
+1.6
+1.7
 
+### Lezione 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTQ0MzU5MV19
+eyJoaXN0b3J5IjpbMTA1NDA4OTcwOV19
 -->
