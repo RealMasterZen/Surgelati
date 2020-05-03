@@ -42,7 +42,8 @@ in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella
 
 - Il livello iniziale delle capacità coordinative determina in modo significativo lo sviluppo delle abilità motorie 
 
-##
+## Abilità motorie e tattica
+- Le varie tecniche sono abilità motorie, la lo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcyNzg4MzYsMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbLTExMzM0ODA4MDQsMTg5Mzg1Nzg3M119
 -->
