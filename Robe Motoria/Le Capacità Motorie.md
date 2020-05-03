@@ -17,11 +17,11 @@ azioni motorie o parti di esse automatizzate tramite ripetizioni consapevoli
 
 ## Le abilità Motorie
 
-componenete dell'attività che rimane costante e, con il tempo viene ampiamente automatizzata
+**componente dell'attività** che rimane **costante** e, **con il tempo** viene ampiamente **automatizzata**
 
 comprendono intere azioni motorie o alcune componenti delle azioni
 
-in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella quale viene utilizzata una abilitò motoria di base
+in senso lato **ogni azione motoria che realizza una data tecnica sportiva** o nella quale viene utilizzata una abilitò motoria di base
 
 ## le abilità motorie
 
@@ -127,9 +127,9 @@ Permettono più nello specifico:
 	- **Resistenza Speciale**: si riferisce a una determinata disciplina sportiva e quindi al particolare tipo di resistenza richiesta dal gesto specifico di gara
 
 	Inoltre esiste un altro tipo di classificazione riguardo la resistenza:
-	- Resistenza aerobica: lunga durata temporale ad una potenza ridotta
-	- Resistenza anaerobica lattacida: elevata intensità ad alta potenza
-	- Resistenza anaerobica alattacida: massima potenza ridotta durata
+	- **Resistenza aerobica**: lunga durata temporale ad una potenza ridotta
+	- **Resistenza anaerobica** lattacida: elevata intensità ad alta potenza
+	- **Resistenza anaerobica** alattacida: massima potenza ridotta durata
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 
@@ -138,5 +138,5 @@ Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 - fibre rosse adibilte al movimento lento e resistivo
 - Fibre bianche addette al movimento muscolare istantaneo ma potente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDA0MzI3LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbNjg5MDU1NzcyLDE4OTM4NTc4NzNdfQ==
 -->
