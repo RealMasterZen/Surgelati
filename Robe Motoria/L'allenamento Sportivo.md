@@ -11,6 +11,10 @@ Possiamo categorizzarlo in2 branche:
 - sportivo del benessere
 
 Nell'allenamento sportivo agonistico gli obbiettivi sono a lungo termine ed è regolato da leggi e regini molto rigidi
+
+Nell'allenamento sportivo del benessere il programma è realizzato a misura per consentire alla persona indicata di stare bene.
+
+L'allenabilità: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg2MTExNjhdfQ==
+eyJoaXN0b3J5IjpbMTY1NDEwODU3N119
 -->
