@@ -109,13 +109,15 @@ Permettono più nello specifico:
 - Capcità di controllo e direzione del movimento
 - Capacità di adattamento e trasformazione del movimento
 
-## Capacità condizionali
+## Capacità condizionali(o organico muscolari)
 
 - Forza 
+	- Massimale
+	- Rapida
 - Rapidità
 - Resistenza
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkxMzUwMTksMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbNjM5ODEyOTYzLDE4OTM4NTc4NzNdfQ==
 -->
