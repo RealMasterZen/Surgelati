@@ -112,12 +112,12 @@ Permettono più nello specifico:
 ## Capacità condizionali(o organico muscolari)
 
 - Forza 
-	- Massimale
+	- Massimale: massima c
 	- Rapida
 - Rapidità
 - Resistenza
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5ODEyOTYzLDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbODIyMTUwMDg5LDE4OTM4NTc4NzNdfQ==
 -->
