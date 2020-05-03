@@ -36,7 +36,10 @@ in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella
 - Sono visibili
 
 ## relazione tra capacità e abilità
-- apprendere nyuove abulia0 motorie contribuisc 
+- apprendere nuove abulia' motorie contribuisce a sviluppare le capacitò coordinative
+- 
+- Le abilità motorie si costruiscono sulle capacità coordinative
+- Il livello inziale delle capacità coordinative determina in modo significativo lo sviluppo delle abilità motorie 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDU3ODUwOSwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbLTEwNTcxMjI1MDQsMTg5Mzg1Nzg3M119
 -->
