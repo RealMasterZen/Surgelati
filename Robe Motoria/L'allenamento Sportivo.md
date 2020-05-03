@@ -26,7 +26,9 @@ L'allenamento precisamente è uno stimolo o uno stress che va ad intervenire con
 La conseguenza di questo stimolo p la reazione del nostro corpo per rispristinare nuovamente il suo equilibrio.
 Questo però ad incrementare le abilità motorie per adattarsi allo stimolo.
 
-L
+Lo stimolo per essere allenante deve essere progressivo graduale e continuo, rispettando sempre i tempi di reecupero del corpo che sono molto soggettivi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMzgxMTQzLC0xNTcxODMyOTQ5XX0=
+eyJoaXN0b3J5IjpbLTgzMzg1Mzc1LC0xNTcxODMyOTQ5XX0=
 -->
