@@ -23,7 +23,7 @@ comprendono intere azioni motorie o alcune componenti delle azioni
 
 in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella quale viene utilizzata una abilitò motoria di base
 
-##le abilitò motorie
+## le abilitò motorie
 
 Le abikitòmotorie sono tante quante se ne apprendono
 
@@ -35,5 +35,5 @@ Dipendono dall'esperienza
 
 Sono visibili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbLTg0MzMyNzI3LDE4OTM4NTc4NzNdfQ==
 -->
