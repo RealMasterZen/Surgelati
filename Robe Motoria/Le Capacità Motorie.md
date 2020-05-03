@@ -118,7 +118,7 @@ Permettono più nello specifico:
 	- **Rapida**: capacità di superare resistenze con elevata rapidità di contrazione
 	
 - **Rapidità**:
-	- Rapidità vera e propria: definisce la pura esecuzione del gesto da parte di un singolo segmento del corpo
+	- **Rapidità vera e propria**: definisce la pura esecuzione del gesto da parte di un singolo segmento del corpo
 		- ciclica: successione rapida di azioni motorie uguali
 		- aciclica: basata sul singolo movimento isolato
 	- Velocità: indica lo spostamento dell'intero corpo
@@ -131,5 +131,5 @@ Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 - fibre rosse adibilte al movimento lento e resistivo
 - Fibre bianche addette al movimento muscolare istantaneo ma potente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDM5NjAwMiwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbLTEwMDM2MzExOTgsMTg5Mzg1Nzg3M119
 -->
