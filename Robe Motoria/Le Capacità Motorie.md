@@ -63,6 +63,12 @@ per fasi sensibili intendiamo periodi nei quali l'allenamento di una capacità s
 Preogrammare gli interventi in base alla fasi sensibbili ci permettere di raggiungere risultati eccellenti evitando il rischio di insorgenza di problematiche fisiche
 
 ## Evoluzione delle capacità motorie
+
+Le capacità coordinative si sviluppano tra i 6 e i 12 anni
+
+Le capacità condizionali si sviluppano tra i 12 e i 17 anni
+
+## Evoluzione delle capacità motorie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2ODIwNTc2LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbMTAxMTM1NTMwLDE4OTM4NTc4NzNdfQ==
 -->
