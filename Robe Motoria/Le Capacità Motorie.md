@@ -123,6 +123,8 @@ Permettono più nello specifico:
 		- aciclica: basata sul singolo movimento isolato
 	- Velocità: indica lo spostamento dell'intero corpo
 - **Resistenza**: capacità psico fisica dell'atleta di opporsi all'affaticamento, cioeè la capacità di protrarre nel tempo un esercizio fisico
+	- Resistenza generale: resistenza di base di un individuo
+	- Resistenza Speciale: si riferisce a una determinata disciplina sportiva e quindi al particolare tipo di resistenza richiesta dal festo specifico di gara
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 
@@ -131,5 +133,5 @@ Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 - fibre rosse adibilte al movimento lento e resistivo
 - Fibre bianche addette al movimento muscolare istantaneo ma potente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM2MzExOTgsMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbNzM2OTEwNzk5LDE4OTM4NTc4NzNdfQ==
 -->
