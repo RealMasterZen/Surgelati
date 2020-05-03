@@ -23,7 +23,17 @@ comprendono intere azioni motorie o alcune componenti delle azioni
 
 in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella quale viene utilizzata una abilitò motoria di base
 
-##le avukut
+##le abilitò motorie
+
+Le abikitòmotorie sono tante quante se ne apprendono
+
+Non sono uguali per tutti.
+
+Sono soggette ad apprendimento tramite ripetizioni
+
+Dipendono dall'esperienza
+
+Sono visibili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTI4NDAyN119
+eyJoaXN0b3J5IjpbMTg5Mzg1Nzg3M119
 -->
