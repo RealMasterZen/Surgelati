@@ -2,7 +2,15 @@
 
 quel processo che tende in mistura più o meno espressa al miglioramento del rispettivo settore parziale di obbiettivi.
 
-Un altra definzione caratteristica però solamente dell'allenamento sportivo è quella preparazione fisica , tecnico tattica intelletuale psic
+Un altra definzione caratteristica però solamente dell'allenamento sportivo è quella preparazione fisica , tecnico tattica intelletuale psichica e morale dell'atleta realizzata attraverso esercizi fisici.
+
+Esso tende a mirare a uno sviluppo pianificato e mirato delle capacità che servono per una prestazione fisica.
+
+Possiamo categorizzarlo in2 branche:
+- sportivo agonistico
+- sportivo del benessere
+
+Nell'allenamento sportivo agonistico gli obbiettivi sono a lungo termine ed è regolato da leggi e regini molto rigidi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwOTgyMzIyXX0=
+eyJoaXN0b3J5IjpbLTE5ODg2MTExNjhdfQ==
 -->
