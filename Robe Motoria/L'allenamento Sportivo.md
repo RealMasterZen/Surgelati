@@ -14,7 +14,14 @@ Nell'allenamento sportivo agonistico gli obbiettivi sono a lungo termine ed è r
 
 Nell'allenamento sportivo del benessere il programma è realizzato a misura per consentire alla persona indicata di stare bene.
 
-L'allenabilità: 
+L'allenabilità: il grado di adattamento ai carichi di allenamento
+
+Un allenamento deve avere:
+- Obbiettivi
+- Contenuti
+- Mezzi 
+- Metodi
+L'allenamento precisamente è uno stimolo o uno stress che va ad intervenire con il normale equilibrio fisiologico detto omeostasi in cui si trova il nostro organismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDEwODU3N119
+eyJoaXN0b3J5IjpbLTE1NzE4MzI5NDldfQ==
 -->
