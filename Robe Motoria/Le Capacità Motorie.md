@@ -116,14 +116,18 @@ Permettono più nello specifico:
 - Forza 
 	- Massimale: massima contrazione volontaria
 	- Rapida: capacità di superare resistenze con elevata rapidità di contrazione
-- Rapidità
+	
+- Rapidità:
+	- Rapidità vera e propria
+	- Velocità: indica lo
 - Resistenza
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 
 ## Classificazione delle fibre muscolari
 
-- fibre rosse adibilte 
+- fibre rosse adibilte al movimento lento e resistivo
+- Fibre bianche addette al movimento muscolare istantaneo ma potente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjkzMzE4NCwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbMTA0MzY2NTc4MSwxODkzODU3ODczXX0=
 -->
