@@ -23,17 +23,20 @@ comprendono intere azioni motorie o alcune componenti delle azioni
 
 in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella quale viene utilizzata una abilitò motoria di base
 
-## le abilitò motorie
+## le abilità motorie
 
-Le abikitòmotorie sono tante quante se ne apprendono
+- Le abilità motorie sono tante quante se ne apprendono
 
-Non sono uguali per tutti.
+- Non sono uguali per tutti.
 
-Sono soggette ad apprendimento tramite ripetizioni
+- Sono soggette ad apprendimento tramite ripetizioni
 
-Dipendono dall'esperienza
+- Dipendono dall'esperienza
 
-Sono visibili
+- Sono visibili
+
+## relazione tra capacità e abilità
+- apprendere nyuove abulia0 motorie contribuisc 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzMyNzI3LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbMTE1NDU3ODUwOSwxODkzODU3ODczXX0=
 -->
