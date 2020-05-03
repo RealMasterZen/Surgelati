@@ -98,7 +98,17 @@ Il livello inferiore è formato da:
 
 ## Capcità Coordinative
 
-Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle capacità Percettive ed il Con
+Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle capacità Percettive ed il Controllo dell'esecuzione motoria effettuara attraverso l'evolizione degli Schemi Motori di BAse
+
+Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
+
+## Cpaccità organicao muscolati
+
+- Forza 
+- Rapidità
+- Resistenza
+
+Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzgzNTg2OSwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbOTYzOTAyNDAwLDE4OTM4NTc4NzNdfQ==
 -->
