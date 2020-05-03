@@ -127,8 +127,9 @@ Permettono più nello specifico:
 	- **Resistenza Speciale**: si riferisce a una determinata disciplina sportiva e quindi al particolare tipo di resistenza richiesta dal gesto specifico di gara
 
 	Inoltre esiste un altro tipo di classificazione riguardo la resistenza:
-	- Resistenza aerobica
-	- Res
+	- Resistenza aerobica: lunga durata temporale ad una potenza ridotta
+	- Resistenza anaerobica lattacida: elevata intensità ad alta potenza
+	- Resistenza anaerobica alattacida: massima potenza ridotta durata
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 
@@ -137,5 +138,5 @@ Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 - fibre rosse adibilte al movimento lento e resistivo
 - Fibre bianche addette al movimento muscolare istantaneo ma potente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4OTUxMTg3LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbLTYxNDA0MzI3LDE4OTM4NTc4NzNdfQ==
 -->
