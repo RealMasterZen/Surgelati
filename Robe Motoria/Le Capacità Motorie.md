@@ -98,6 +98,8 @@ Il livello inferiore è formato da:
 
 ## Capcità Coordinative
 
+*Si basano sul controllo del movimento della forza che scorre in te giovane skywalker*
+
 Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle capacità Percettive ed il Controllo dell'esecuzione motoria effettuata attraverso l'evoluzione degli Schemi Motori di base
 
 Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
@@ -110,5 +112,5 @@ Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MjYxMDE1LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbLTgzMDAxMDQ3OCwxODkzODU3ODczXX0=
 -->
