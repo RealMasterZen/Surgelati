@@ -17,8 +17,13 @@ azioni motorie o parti di esse automatizzate tramite ripetizioni consapevoli
 
 ## Le abilità Motorie
 
-componenete dell'attività che rimane costante e, con 
+componenete dell'attività che rimane costante e, con il tempo viene ampiamente automatizzata
 
+comprendono intere azioni motorie o alcune componenti delle azioni
+
+in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella quale viene utilizzata una abilitò motoria di base
+
+##le avukut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjE5NjY0Nl19
+eyJoaXN0b3J5IjpbLTkyOTI4NDAyN119
 -->
