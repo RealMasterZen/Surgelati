@@ -53,7 +53,11 @@ in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella
 - non sono visivili
 
 - elementi essenziali dell'attività motoria e costituiscono i presipposti per l'acquisizione delle abilità motorie
-- lo svilupopo delle capacità motorie presenta delle fasi sensivili, durante le quali si alternano evoluzioni positice a fasi di ral
+
+- lo sviluppo delle capacità motorie presenta delle fasi sensivili, durante le quali si alternano evoluzioni positive a fasi di rallentamento
+
+## Fasi sensibili 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTU1NDQyLDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbLTIxNjMzOTMyMiwxODkzODU3ODczXX0=
 -->
