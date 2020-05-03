@@ -61,6 +61,8 @@ in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella
 per fasi sensibili intendiamo periodi nei quali l'allenamento di una capacità sia essa condizionale o ccordinativa produce effettia altamente allenanti
 
 Preogrammare gli interventi in base alla fasi sensibbili ci permettere di raggiungere risultati eccellenti evitando il rischio di insorgenza di problematiche fisiche
+
+## Evoluzione delle capacità motorie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDY0NDUxMCwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbODQ2ODIwNTc2LDE4OTM4NTc4NzNdfQ==
 -->
