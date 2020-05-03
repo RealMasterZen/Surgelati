@@ -69,6 +69,8 @@ Le capacità coordinative si sviluppano tra i 6 e i 12 anni
 Le capacità condizionali si sviluppano tra i 12 e i 17 anni
 
 ## Evoluzione delle capacità motorie
+
+Nell’apprendimento della tecnica le capacità coordinative svolgono un ruolo primario, ma anche le capacità organico muscolari devono essere allenate per raggiungere una ragionevole azione motoria.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTM1NTMwLDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbMTcwMTU0Nzg0OSwxODkzODU3ODczXX0=
 -->
