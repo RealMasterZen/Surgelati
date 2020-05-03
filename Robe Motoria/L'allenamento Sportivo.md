@@ -21,7 +21,12 @@ Un allenamento deve avere:
 - Contenuti
 - Mezzi 
 - Metodi
-L'allenamento precisamente è uno stimolo o uno stress che va ad intervenire con il normale equilibrio fisiologico detto omeostasi in cui si trova il nostro organismo
+L'allenamento precisamente è uno stimolo o uno stress che va ad intervenire con il normale equilibrio fisiologico detto omeostasi in cui si trova il nostro organismo.
+
+La conseguenza di questo stimolo p la reazione del nostro corpo per rispristinare nuovamente il suo equilibrio.
+Questo però ad incrementare le abilità motorie per adattarsi allo stimolo.
+
+L
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE4MzI5NDldfQ==
+eyJoaXN0b3J5IjpbNjIyMzgxMTQzLC0xNTcxODMyOTQ5XX0=
 -->
