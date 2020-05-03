@@ -104,6 +104,11 @@ Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sv
 
 Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
 
+Permettono più nello specifico:
+- Capcità di apprendimento motorio
+- Capcità di controllo e direzione del movimento
+- Capacità di adattamento e trasformazione del movimento
+
 ## Capacità condizionali
 
 - Forza 
@@ -112,5 +117,5 @@ Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDAxMDQ3OCwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbLTE1NzkxMzUwMTksMTg5Mzg1Nzg3M119
 -->
