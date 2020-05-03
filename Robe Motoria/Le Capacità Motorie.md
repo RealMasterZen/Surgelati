@@ -77,7 +77,12 @@ Nell’apprendimento della tecnica le capacità coordinative svolgono un ruolo p
 Tutte portano a un punto centrale che è rappresentato dalla mobilitò articolare,
 
 Il livello inferiore è formato da:
-
+- Capacità Coordinative
+	- Generali
+	- Speciali
+- Capacità Condizionali:
+	- Forze
+	- Rapidità Resistenza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDkzOTc2MCwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbMTg2NzU1Njc2NiwxODkzODU3ODczXX0=
 -->
