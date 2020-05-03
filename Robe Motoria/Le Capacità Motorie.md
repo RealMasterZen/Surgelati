@@ -79,10 +79,26 @@ Tutte portano a un punto centrale che è rappresentato dalla mobilitò articolar
 Il livello inferiore è formato da:
 - Capacità Coordinative
 	- Generali
+		- Apprendimento
+		- Controllo
+		- Trasformazione
 	- Speciali
+		- Accoppiamento muscolare
+		- Differenziazione
+		- Cinestetica
+		- Equilibrio
+		- Orientamento
+		- Ritmo Reazione
+		- Adattamento
 - Capacità Condizionali:
 	- Forze
-	- Rapidità Resistenza
+	- Rapidità 
+	- Resistenza
+
+
+## Capcità Coordinative
+
+Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle capacità Percettive ed il Con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzU1Njc2NiwxODkzODU3ODczXX0=
+eyJoaXN0b3J5IjpbMTA5MzgzNTg2OSwxODkzODU3ODczXX0=
 -->
