@@ -44,7 +44,11 @@ in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella
 
 ## Abilità motorie e tattica
 - Le varie tecniche sono abilità motorie, la loro combinazione porta alla tattica quando si realizzano in situazioni non prevedibili
+
 - Le abilità tattiche esprimono la possibilità da parte dell' atleta di applicare in modo variabile dal punto di vista energetico le tecniche apprese in base alla situazione di gara e alle possibilità di successo già sperimentate
+
+## Le capacità motorie
+- ubua
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2MTE0Mjg3LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbLTk5OTU3ODA0MiwxODkzODU3ODczXX0=
 -->
