@@ -43,8 +43,8 @@ in senso lato ogni azione motoria che realizza una data tecnica sportiva o nella
 - Il livello iniziale delle capacità coordinative determina in modo significativo lo sviluppo delle abilità motorie 
 
 ## Abilità motorie e tattica
-- Le varie tecniche sono abilità motorie, la loro combvinazione porta alla tattica quando si realizzano in situazioni non prevedibili
-- Le abilità tattiche esprimono la possivilità da parte deòò' atleta di applicare in modo variabilr dal punto di vista energetico le tecniche apprese in base alla situazione di gara e alle possibilità di successo già sperimentate
+- Le varie tecniche sono abilità motorie, la loro combinazione porta alla tattica quando si realizzano in situazioni non prevedibili
+- Le abilità tattiche esprimono la possibilità da parte dell' atleta di applicare in modo variabile dal punto di vista energetico le tecniche apprese in base alla situazione di gara e alle possibilità di successo già sperimentate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY1MjM0MDAsMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbOTU2MTE0Mjg3LDE4OTM4NTc4NzNdfQ==
 -->
