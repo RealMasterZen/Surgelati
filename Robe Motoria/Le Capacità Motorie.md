@@ -74,7 +74,10 @@ Nell’apprendimento della tecnica le capacità coordinative svolgono un ruolo p
 
 ## Sistema delle capacità motorie
 
-Tutte portano a un punto centrale che è rappresentato
+Tutte portano a un punto centrale che è rappresentato dalla mobilitò articolare,
+
+Il livello inferiore è formato da:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYwNjM5NTAsMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbLTk3MDkzOTc2MCwxODkzODU3ODczXX0=
 -->
