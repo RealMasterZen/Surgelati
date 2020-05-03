@@ -77,7 +77,7 @@ Nell’apprendimento della tecnica le capacità coordinative svolgono un ruolo p
 Tutte portano a un punto centrale che è rappresentato dalla mobilitò articolare,
 
 Il livello inferiore è formato da:
-- Capacità Coordinative
+- **Capacità Coordinative**
 	- Generali
 		- Apprendimento
 		- Controllo
@@ -90,7 +90,7 @@ Il livello inferiore è formato da:
 		- Orientamento
 		- Ritmo Reazione
 		- Adattamento
-- Capacità Condizionali:
+- **Capacità Condizionali**:
 	- Forze
 	- Rapidità 
 	- Resistenza
@@ -98,11 +98,11 @@ Il livello inferiore è formato da:
 
 ## Capcità Coordinative
 
-Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle capacità Percettive ed il Controllo dell'esecuzione motoria effettuara attraverso l'evolizione degli Schemi Motori di BAse
+Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle capacità Percettive ed il Controllo dell'esecuzione motoria effettuata attraverso l'evoluzione degli Schemi Motori di base
 
 Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
 
-## Cpaccità organicao muscolati
+## Capacità condizionali
 
 - Forza 
 - Rapidità
@@ -110,5 +110,5 @@ Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzOTAyNDAwLDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbNTY3MjYxMDE1LDE4OTM4NTc4NzNdfQ==
 -->
