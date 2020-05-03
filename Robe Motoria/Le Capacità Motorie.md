@@ -111,6 +111,8 @@ Permettono più nello specifico:
 
 ## Capacità condizionali(o organico muscolari)
 
+*sfibra sto cazzo di petto porcoddio 200 kg in panca piana*
+
 - Forza 
 	- Massimale: massima contrazione volontaria
 	- Rapida: capacità di superare resistenze con elevata rapidità di contrazione
@@ -118,6 +120,10 @@ Permettono più nello specifico:
 - Resistenza
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
+
+## Classificazione delle fibre muscolari
+
+- fibre rosse adibilte 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNTkwMTg0LDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbLTg3NjkzMzE4NCwxODkzODU3ODczXX0=
 -->
