@@ -137,6 +137,9 @@ Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 
 - fibre rosse adibilte al movimento lento e resistivo
 - Fibre bianche addette al movimento muscolare istantaneo ma potente
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MDU1NzcyLDE4OTM4NTc4NzNdfQ==
+eyJoaXN0b3J5IjpbNDA1MDIwMDgsNjg5MDU1NzcyLDE4OTM4NT
+c4NzNdfQ==
 -->
