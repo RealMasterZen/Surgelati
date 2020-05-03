@@ -113,16 +113,16 @@ Permettono più nello specifico:
 
 *sfibra sto cazzo di petto porcoddio 200 kg in panca piana*
 
-- Forza 
-	- Massimale: massima contrazione volontaria
-	- Rapida: capacità di superare resistenze con elevata rapidità di contrazione
+- **Forza**
+	- **Massimale**: massima contrazione volontaria
+	- **Rapida**: capacità di superare resistenze con elevata rapidità di contrazione
 	
-- Rapidità:
+- **Rapidità**:
 	- Rapidità vera e propria: definisce la pura esecuzione del gesto da parte di un singolo segmento del corpo
-		- ciclica: successione rapida di 
-		- aciclica
+		- ciclica: successione rapida di azioni motorie uguali
+		- aciclica: basata sul singolo movimento isolato
 	- Velocità: indica lo spostamento dell'intero corpo
-- Resistenza
+- **Resistenza**: capacità psico fisica dell'atleta di opporsi all'affaticamento, cioeè la capacità di protrarre nel tempo un esercizio fisico
 
 Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 
@@ -131,5 +131,5 @@ Si basano sull'efficienza dei muscoli e dell'apparato cardiocircolatorio
 - fibre rosse adibilte al movimento lento e resistivo
 - Fibre bianche addette al movimento muscolare istantaneo ma potente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMxMTc4OTksMTg5Mzg1Nzg3M119
+eyJoaXN0b3J5IjpbMTgwMDM5NjAwMiwxODkzODU3ODczXX0=
 -->
