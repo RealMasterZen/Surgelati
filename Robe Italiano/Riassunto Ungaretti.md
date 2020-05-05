@@ -39,12 +39,12 @@ Morì a Milano nel 1970.
 
 La raccolta il Porto sepolto fu pubblicata nel 1916; in seguito, fu trasformata nella prima sezione della seconda raccolta, Allegrai di naufragi, a sua volta ampliata e modificata con il titolo L'allegrai.
 
-Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autbiografica: rievocano gli ani 
+Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autbiografica: rievocano gli anni
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NTc0NzE4LDYwNTc4NTMzLDEzNzEyNz
-k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
-LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbLTcwMTg0Mzg3OCw2MDU3ODUzMywxMzcxMj
+c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
+LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
+c0MTQzMjE4XX0=
 -->
