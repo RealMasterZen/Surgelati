@@ -37,13 +37,13 @@ Morì a Milano nel 1970.
 
 ## Opere Ungaretti
 
-La raccolta il Porto sepolto fu pubblicata nel 1916; in seguito, fu trasformata nella prima sezione della seconda raccolta, Allegrai di naufragi, a sua volta ampliata e modificata con il titolo L'allegrai.
+La raccolta il Porto sepolto fu pubblicata nel 1916; in seguito, fu trasformata nella prima sezione della seconda raccolta, Allegria di naufragi, a sua volta ampliata e modificata con il titolo L'allegria.
 
-Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autbiografica: rievocano gli anni
+Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autobiografica: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
 
-
+Sentimento del tempo è la raccolta che coindide con la seconda fase
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTg0Mzg3OCw2MDU3ODUzMywxMzcxMj
+eyJoaXN0b3J5IjpbMTI1NTY4Mjg1MSw2MDU3ODUzMywxMzcxMj
 c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
 LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
 c0MTQzMjE4XX0=
