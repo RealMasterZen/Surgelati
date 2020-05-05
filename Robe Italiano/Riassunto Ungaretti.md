@@ -37,18 +37,18 @@ Morì a Milano nel 1970.
 
 ## Opere Ungaretti
 
-La raccolta il Porto sepolto fu pubblicata nel 1916; in seguito, fu trasformata nella prima sezione della seconda raccolta, Allegria di naufragi, a sua volta ampliata e modificata con il titolo L'allegria.
+La raccolta il **Porto sepolto fu pubblicata nel 1916**; **in seguito**, fu **trasformata nella prima sezione della seconda raccolta**, **Allegria di naufragi, a sua volta ampliata e modificata con il titolo L'allegria.
 
 Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autobiografica: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
 
-Sentimento del tempo è la raccolta che coindide con la seconda fase della produzione poetica ungarettiana.
+Sentimento del tempo (1933) è la raccolta che coindide con la seconda fase della produzione poetica ungarettiana.
 I contenuti testimoniano il recipero di una dimensione religiosa che porta a frequenti riflessioni su temi elevati e profondi, come il tempo e la morte e risentono della teoria bergsoniana del "tempo interiore", che scardina la concezione di tempo oggettivo e misurabile.
 
 La forma è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
 
-Il dolore segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri cari e la sofferenza per le atrocità della guerra. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
+Il dolore (1947) segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri cari e la sofferenza per le atrocità della guerra. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
 
-La terra promessa opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
+La terra promessa (1950) opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
 L'opera presenta non solo la sofferenza di Didone per la perdita dell'amato ma anche la fine di Cartagine perchè
 come ebbe a dire il poeta anche le civiltà nascono crescono e muoiono Esperimento di epica moderna, l'opera voleva essere nelle intenzioni di ungaretti una riflessione metafisica sulle condizioni dell'uomo nell'universo, sulle profonde aspirazioni sulla sostanza di essere universale e sul suo costante fallire che si rinnova ogni giorno una meditazione sul destino dell'umanità intera nutrita dei valori della classicità nel tentativo di offrire un bilancio della propria esperienza poetica ed esistenziale che si avviava ormai al tramonto.
 
@@ -69,8 +69,8 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjc3ODg0NiwtOTg5NDY5NDQyLDYwNT
-c4NTMzLDEzNzEyNzk3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2
-LDEzMTQzNDE1MjQsLTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMj
-A5ODQxODI0NywtNzQxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbMTA0OTEwNTkwOSwxMzM2Nzc4ODQ2LC05OD
+k0Njk0NDIsNjA1Nzg1MzMsMTM3MTI3OTc4MywtMTY5NTMyMDgz
+LC0zNTk3MzQxNDYsMTMxNDM0MTUyNCwtMTM0OTA0MTUyMywtMT
+A5MTI4MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
 -->
