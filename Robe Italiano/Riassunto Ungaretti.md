@@ -55,10 +55,12 @@ come ebbe a dire il poeta anche le civiltà nascono crescono e muoiono Esperimen
 La raccolta Un grido e paesaggi che comprende sette liriche scritte tra il 1939 e il 1951 e ispirate ai viaggi e ai ricordi del periodo brasiliano.
 Alla raccolta Il taccuino del vecchio che comprende poesie composte tra il 1952 e ik 1960 appartengono 27 frammenti dal titolo Ultimi cori per la terra promessa ideale continuazione della raccolta precedente. 
 I temi sono quelli della morte, dell'oblio, del senso di caducità e della fine di ogni cosa.
-Nel primo coro il poeta si  definisce Profugo come gli altri che furono che so
+Nel primo coro il poeta si  definisce Profugo come gli altri che furono che sono e che saranno, impegnato in un viaggio verso la meta a tutti sconosciuta la terra promessa che qua va ad identificarsi con la fine della vita.
+
+Nel 1969 Ungaretti pubblicò la Vita di un uomo una raccolta della sua intera produzione poetica che nelle intenzioni dell'autore doveva costituire una sorta di autobiografia poetica ideale sul modello del Canzioniere di Petrarca. L'idea di un libro che raccogliesse la sua vita interiore dai primi anni della giovinezza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODMyNTU1LDYwNTc4NTMzLDEzNzEyNz
-k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
-LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbMTAzMDgwNTQyNyw2MDU3ODUzMywxMzcxMj
+c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
+LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
+c0MTQzMjE4XX0=
 -->
