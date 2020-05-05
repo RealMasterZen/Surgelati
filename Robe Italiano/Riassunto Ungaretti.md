@@ -67,9 +67,9 @@ Risale agli anni giovanili ad Alessandria la sua prima prova con la traduzione d
 Nel 1936 pubblicò il volume Traduzioni una raccolta di testi di autori stranieri tra cui gongorà e Blake.
 Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di Mallarmè e dell'opera fedra di racine, a testimonianza della varietà delle sue letture e dei suoi interessi culturali.
 
-Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso ra due spiriti un confronto di ispirazione 
+Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTUxMTg2MSwtOTg5NDY5NDQyLDYwNT
+eyJoaXN0b3J5IjpbMTMzNjc3ODg0NiwtOTg5NDY5NDQyLDYwNT
 c4NTMzLDEzNzEyNzk3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2
 LDEzMTQzNDE1MjQsLTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMj
 A5ODQxODI0NywtNzQxNDMyMThdfQ==
