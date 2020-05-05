@@ -35,9 +35,13 @@ Rimasto vedovo nel 1958 continuò la sua attività poetica e di traduttore.
 Nel 1969 mondadori pubblica la raccolta completa delle sue liriche Vita di un Uomo.
 Morì a Milano nel 1970.
 
+## Opere Ungaretti
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTI3OTc4MywtMTY5NTMyMDgzLC0zNT
-k3MzQxNDYsMTMxNDM0MTUyNCwtMTM0OTA0MTUyMywtMTA5MTI4
-MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
+eyJoaXN0b3J5IjpbNjA1Nzg1MzMsMTM3MTI3OTc4MywtMTY5NT
+MyMDgzLC0zNTk3MzQxNDYsMTMxNDM0MTUyNCwtMTM0OTA0MTUy
+MywtMTA5MTI4MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
 -->
