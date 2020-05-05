@@ -50,9 +50,11 @@ Le liriche di questa raccolta che appartengono alla prima fase della produzione 
 
 ### Il dolore
 
-**Il dolore (1947)** segna il passaggio alla **terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri cari e la sofferenza per le atrocità della guerra. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
+**Il dolore (1947)** segna il passaggio alla **terza fase della poesia di Ungaretti**, in cui emerge la **sensazione di vuoto di fronte al dolore per la perdita dei propri cari** e la **sofferenza per le atrocità della guerra**. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
 
-La terra promessa (1950) opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
+### La terra promessa
+
+**La terra promessa (1950)** opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del **progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
 L'opera presenta non solo la sofferenza di Didone per la perdita dell'amato ma anche la fine di Cartagine perchè
 come ebbe a dire il poeta anche le civiltà nascono crescono e muoiono Esperimento di epica moderna, l'opera voleva essere nelle intenzioni di ungaretti una riflessione metafisica sulle condizioni dell'uomo nell'universo, sulle profonde aspirazioni sulla sostanza di essere universale e sul suo costante fallire che si rinnova ogni giorno una meditazione sul destino dell'umanità intera nutrita dei valori della classicità nel tentativo di offrire un bilancio della propria esperienza poetica ed esistenziale che si avviava ormai al tramonto.
 
@@ -73,8 +75,8 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODgyMTUxOCwxMzM2Nzc4ODQ2LC05OD
-k0Njk0NDIsNjA1Nzg1MzMsMTM3MTI3OTc4MywtMTY5NTMyMDgz
-LC0zNTk3MzQxNDYsMTMxNDM0MTUyNCwtMTM0OTA0MTUyMywtMT
-A5MTI4MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
+eyJoaXN0b3J5IjpbMzU1NzQ3NDc0LDEzMzY3Nzg4NDYsLTk4OT
+Q2OTQ0Miw2MDU3ODUzMywxMzcxMjc5NzgzLC0xNjk1MzIwODMs
+LTM1OTczNDE0NiwxMzE0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMD
+kxMjgyMTgsLTIwOTg0MTgyNDcsLTc0MTQzMjE4XX0=
 -->
