@@ -59,9 +59,12 @@ Nel primo coro il poeta si  definisce Profugo come gli altri che furono che sono
 
 Nel 1969 Ungaretti pubblicò la Vita di un uomo una raccolta della sua intera produzione poetica che nelle intenzioni dell'autore doveva costituire una sorta di autobiografia poetica ideale sul modello del Canzioniere di Petrarca. L'idea di un libro che raccogliesse la sua vita interiore dai primi anni della giovinezza fino alla tarda vecchiaia fu motivata dall'esigenza di far condividere la vita e letteratua, di fornire al lettore un immaine unitaria di ungaretti uomo e poeta. Egli stesso spiegò il senso di questo volume con una frase semplice ma estremamente efficace: Volevo lasciare una bella biografia
 
-U  testo in prosa particolarmente significativo è il de
+U  testo in prosa particolarmente significativo è il deseto e il dopo che raccogli alcuni articoli di viaggio composti da Ungaretti come inviato speciale della Gazzetta del popolo. 
+Di notevole interesse per capire i tratti più significativi della poesia ungarettiana sono i saggi raccolti in VIta di un uomo Saggi e interventi del 1974.
+
+Parallelamente all'attivitò poetica Unga 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTM4MjQwNyw2MDU3ODUzMywxMzcxMj
+eyJoaXN0b3J5IjpbMTM0MTE4ODIzMSw2MDU3ODUzMywxMzcxMj
 c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
 LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
 c0MTQzMjE4XX0=
