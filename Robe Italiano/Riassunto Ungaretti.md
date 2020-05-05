@@ -37,7 +37,11 @@ Morì a Milano nel 1970.
 
 ## Opere Ungaretti
 
+### Il porto sepolto poi integrato in Allegria
+
 La raccolta il **Porto sepolto fu pubblicata nel 1916**; **in seguito**, fu **trasformata nella prima sezione della seconda raccolta**, **Allegria di naufragi**, a sua volta ampliata e modificata con il titolo L'allegria.
+
+> Ricordare che il nome dell'opera deriva da un ritrovamento archeologico fatto su un sito greco
 
 Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autobiografica: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
 
@@ -79,9 +83,9 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk3OTUwOTksMzk4MDk0MDY2LDEzMz
-Y3Nzg4NDYsLTk4OTQ2OTQ0Miw2MDU3ODUzMywxMzcxMjc5Nzgz
-LC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0LC0xMz
-Q5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLTc0MTQz
-MjE4XX0=
+eyJoaXN0b3J5IjpbLTE1MDAxOTgwODQsLTE3ODk3OTUwOTksMz
+k4MDk0MDY2LDEzMzY3Nzg4NDYsLTk4OTQ2OTQ0Miw2MDU3ODUz
+MywxMzcxMjc5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMz
+E0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0
+MTgyNDcsLTc0MTQzMjE4XX0=
 -->
