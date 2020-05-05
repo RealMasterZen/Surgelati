@@ -65,11 +65,11 @@ Di notevole interesse per capire i tratti più significativi della poesia ungare
 Parallelamente all'attivitò poetica Ungaretti intraprese quella di traduttore.
 Risale agli anni giovanili ad Alessandria la sua prima prova con la traduzione delle poesie di Edgar Allan Poe, caratterizzate dalla cura formale e dalla brevirà.
 Nel 1936 pubblicò il volume Traduzioni una raccolta di testi di autori stranieri tra cui gongorà e Blake.
-Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di Mallarmè e dell'opera fedra di racine, a testimonianza della varietà delle sue opere.
+Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di Mallarmè e dell'opera fedra di racine, a testimonianza della varietà delle sue letture e dei suoi interessi culturali.
 
-
+Egli selezionava di volta in volta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzA2NDY3NCw2MDU3ODUzMywxMzcxMj
+eyJoaXN0b3J5IjpbLTk4OTQ2OTQ0Miw2MDU3ODUzMywxMzcxMj
 c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
 LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
 c0MTQzMjE4XX0=
