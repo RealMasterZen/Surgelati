@@ -37,14 +37,14 @@ Morì a Milano nel 1970.
 
 ## Opere Ungaretti
 
-La raccolta il **Porto sepolto fu pubblicata nel 1916**; **in seguito**, fu **trasformata nella prima sezione della seconda raccolta**, **Allegria di naufragi, a sua volta ampliata e modificata con il titolo L'allegria.
+La raccolta il **Porto sepolto fu pubblicata nel 1916**; **in seguito**, fu **trasformata nella prima sezione della seconda raccolta**, **Allegria di naufragi**, a sua volta ampliata e modificata con il titolo L'allegria.
 
 Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autobiografica: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
 
-Sentimento del tempo (1933) è la raccolta che coindide con la seconda fase della produzione poetica ungarettiana.
-I contenuti testimoniano il recipero di una dimensione religiosa che porta a frequenti riflessioni su temi elevati e profondi, come il tempo e la morte e risentono della teoria bergsoniana del "tempo interiore", che scardina la concezione di tempo oggettivo e misurabile.
+**Sentimento del tempo (1933)** è la raccolta che **coincide con la seconda fase della produzione poetica Ungarettiana**.
+**I contenuti** testimoniano il **recupero di una dimensione religiosa** che porta a **frequenti riflessioni su temi elevati e profondi**, come il tempo e la morte e **risentono della teoria bergsoniana del "tempo interiore"**, che scardina la concezione di tempo oggettivo e misurabile.
 
-La forma è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
+**La forma** è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
 
 Il dolore (1947) segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri cari e la sofferenza per le atrocità della guerra. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
 
@@ -69,8 +69,8 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTEwNTkwOSwxMzM2Nzc4ODQ2LC05OD
-k0Njk0NDIsNjA1Nzg1MzMsMTM3MTI3OTc4MywtMTY5NTMyMDgz
-LC0zNTk3MzQxNDYsMTMxNDM0MTUyNCwtMTM0OTA0MTUyMywtMT
-A5MTI4MjE4LC0yMDk4NDE4MjQ3LC03NDE0MzIxOF19
+eyJoaXN0b3J5IjpbNzQwMzg3NzU0LDEzMzY3Nzg4NDYsLTk4OT
+Q2OTQ0Miw2MDU3ODUzMywxMzcxMjc5NzgzLC0xNjk1MzIwODMs
+LTM1OTczNDE0NiwxMzE0MzQxNTI0LC0xMzQ5MDQxNTIzLC0xMD
+kxMjgyMTgsLTIwOTg0MTgyNDcsLTc0MTQzMjE4XX0=
 -->
