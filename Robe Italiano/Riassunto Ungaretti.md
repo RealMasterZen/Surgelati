@@ -62,9 +62,11 @@ Nel 1969 Ungaretti pubblicò la Vita di un uomo una raccolta della sua intera pr
 U  testo in prosa particolarmente significativo è il deseto e il dopo che raccogli alcuni articoli di viaggio composti da Ungaretti come inviato speciale della Gazzetta del popolo. 
 Di notevole interesse per capire i tratti più significativi della poesia ungarettiana sono i saggi raccolti in VIta di un uomo Saggi e interventi del 1974.
 
-Parallelamente all'attivitò poetica Unga 
+Parallelamente all'attivitò poetica Ungaretti intraprese quella di traduttore.
+Risale agli anni giovanili ad Alessandria la sua prima prova con la traduzione delle poesie di Edgar Allan Poe, caratterizzate dalla cura formale e dalla brevirà.
+Nel 1936 pubblicò il volume Traduzioni 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTE4ODIzMSw2MDU3ODUzMywxMzcxMj
+eyJoaXN0b3J5IjpbLTM2OTA0MjE3Niw2MDU3ODUzMywxMzcxMj
 c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
 LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
 c0MTQzMjE4XX0=
