@@ -52,10 +52,11 @@ La terra promessa opera in cui il poeta lavoro' già a partire dagli anni Trenta
 L'opera presenta non solo la sofferenza di Didone per la perdita dell'amato ma anche la fine di Cartagine perchè
 come ebbe a dire il poeta anche le civiltà nascono crescono e muoiono Esperimento di epica moderna, l'opera voleva essere nelle intenzioni di ungaretti una riflessione metafisica sulle condizioni dell'uomo nell'universo, sulle profonde aspirazioni sulla sostanza di essere universale e sul suo costante fallire che si rinnova ogni giorno una meditazione sul destino dell'umanità intera nutrita dei valori della classicità nel tentativo di offrire un bilancio della propria esperienza poetica ed esistenziale che si avviava ormai al tramonto.
 
-La raccolta Un grido e paesaggi che comprende sette liriche scritte tra il 1939 e il 1951 e ispirate 
+La raccolta Un grido e paesaggi che comprende sette liriche scritte tra il 1939 e il 1951 e ispirate ai viaggi e ai ricordi del periodo brasiliano.
+Alla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMTg0NTA0LDYwNTc4NTMzLDEzNzEyNz
-k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
-LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbLTE3MTE4MTAxODMsNjA1Nzg1MzMsMTM3MT
+I3OTc4MywtMTY5NTMyMDgzLC0zNTk3MzQxNDYsMTMxNDM0MTUy
+NCwtMTM0OTA0MTUyMywtMTA5MTI4MjE4LC0yMDk4NDE4MjQ3LC
+03NDE0MzIxOF19
 -->
