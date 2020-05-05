@@ -46,10 +46,12 @@ I contenuti testimoniano il recipero di una dimensione religiosa che porta a fre
 
 La forma è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
 
-Il dolore segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri casie la sofferenza per le a
+Il dolore segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri cari e la sofferenza per le atrocità della guerra. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
+
+La terra promessa opera in cui il poeta lavoto' già a partire dagli anni Trenta fu pubblicata inconpiuta negli anni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzYzODcxMSw2MDU3ODUzMywxMzcxMj
-c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
-LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
-c0MTQzMjE4XX0=
+eyJoaXN0b3J5IjpbNzUxNTI2Nzg3LDYwNTc4NTMzLDEzNzEyNz
+k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
+LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
+QxNDMyMThdfQ==
 -->
