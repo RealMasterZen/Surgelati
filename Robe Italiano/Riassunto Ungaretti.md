@@ -50,10 +50,10 @@ Il dolore segna il passaggio alla terza fase della poesia di Ungaretti, in cui e
 
 La terra promessa opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
 L'opera presenta non solo la sofferenza di Didone per la perdita dell'amato ma anche la fine di Cartagine perchè
-come ebbe a dire il poeta anche le civiltà nascono crescono e muoiono Esperimento di epica moderna, l'opera voleva essere nelle intenzioni di ungaretti
+come ebbe a dire il poeta anche le civiltà nascono crescono e muoiono Esperimento di epica moderna, l'opera voleva essere nelle intenzioni di ungaretti una riflessione metagisica sulle condizioni dell'uomo nell'universo, sulle profonde aspirazioni sulla sostanza di essere universale e sul suo costante fallire che si rinnova ogni giorno una meditazione sul destino dell'umanità intera nutrita dei valori della classicità nel tentativo di offrire un bilancio della propria esperienza poetica ed esistenziale che si avviava ormai al tramonto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNjI5MjA2LDYwNTc4NTMzLDEzNzEyNz
-k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
-LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbLTI2MDU0ODY2MSw2MDU3ODUzMywxMzcxMj
+c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
+LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
+c0MTQzMjE4XX0=
 -->
