@@ -44,10 +44,12 @@ Le liriche di questa raccolta che appartengono alla prima fase della produzione 
 Sentimento del tempo è la raccolta che coindide con la seconda fase della produzione poetica ungarettiana.
 I contenuti testimoniano il recipero di una dimensione religiosa che porta a frequenti riflessioni su temi elevati e profondi, come il tempo e la morte e risentono della teoria bergsoniana del "tempo interiore", che scardina la concezione di tempo oggettivo e misurabile.
 
-La forma è caratterizzata dal recuper
+La forma è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
+
+Il dolore segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri casie la sofferenza per le a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTI5Nzk1LDYwNTc4NTMzLDEzNzEyNz
-k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
-LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbLTg3NzYzODcxMSw2MDU3ODUzMywxMzcxMj
+c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
+LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
+c0MTQzMjE4XX0=
 -->
