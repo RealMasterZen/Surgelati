@@ -41,10 +41,13 @@ La raccolta il Porto sepolto fu pubblicata nel 1916; in seguito, fu trasformata 
 
 Le liriche di questa raccolta che appartengono alla prima fase della produzione poetica di Ungaretti, si distinguono per un marcato sperimentalismo sul piano formale e una forte componente autobiografica: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
 
-Sentimento del tempo è la raccolta che coindide con la seconda fase
+Sentimento del tempo è la raccolta che coindide con la seconda fase della produzione poetica ungarettiana.
+I contenuti testimoniano il recipero di una dimensione religiosa che porta a frequenti riflessioni su temi elevati e profondi, come il tempo e la morte e risentono della teoria bergsoniana del "tempo interiore", che scardina la concezione di tempo oggettivo e misurabile.
+
+La forma è caratterizzata dal recuper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTY4Mjg1MSw2MDU3ODUzMywxMzcxMj
-c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
-LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
-c0MTQzMjE4XX0=
+eyJoaXN0b3J5IjpbMTY1OTI5Nzk1LDYwNTc4NTMzLDEzNzEyNz
+k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
+LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
+QxNDMyMThdfQ==
 -->
