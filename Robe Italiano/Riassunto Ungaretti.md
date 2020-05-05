@@ -48,10 +48,11 @@ La forma è caratterizzata dal recupero di moduli espressivi tradizionali, tende
 
 Il dolore segna il passaggio alla terza fase della poesia di Ungaretti, in cui emerge la sensazione di vuoto di fronte al dolore per la perdita dei propri cari e la sofferenza per le atrocità della guerra. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
 
-La terra promessa opera in cui il poeta lavoto' già a partire dagli anni Trenta fu pubblicata inconpiuta negli anni
+La terra promessa opera in cui il poeta lavoto' già a partire dagli anni Trenta fu pubblicata inconpiuta negli anni 50. Si trattava del progetto di un Melodramma con personaggi musicae cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazion alla ricerdca della terra promessa degli dei e dell'incontro con Didone, la regina cartaginese morta suicida dopo esserestata abbandonata dall'eroe troiano.
+L'opera presenta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTI2Nzg3LDYwNTc4NTMzLDEzNzEyNz
-k3ODMsLTE2OTUzMjA4MywtMzU5NzM0MTQ2LDEzMTQzNDE1MjQs
-LTEzNDkwNDE1MjMsLTEwOTEyODIxOCwtMjA5ODQxODI0NywtNz
-QxNDMyMThdfQ==
+eyJoaXN0b3J5IjpbLTEwOTQ0OTA2MzYsNjA1Nzg1MzMsMTM3MT
+I3OTc4MywtMTY5NTMyMDgzLC0zNTk3MzQxNDYsMTMxNDM0MTUy
+NCwtMTM0OTA0MTUyMywtMTA5MTI4MjE4LC0yMDk4NDE4MjQ3LC
+03NDE0MzIxOF19
 -->
