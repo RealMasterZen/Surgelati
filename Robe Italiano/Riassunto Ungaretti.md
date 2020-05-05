@@ -57,9 +57,11 @@ Alla raccolta Il taccuino del vecchio che comprende poesie composte tra il 1952 
 I temi sono quelli della morte, dell'oblio, del senso di caducità e della fine di ogni cosa.
 Nel primo coro il poeta si  definisce Profugo come gli altri che furono che sono e che saranno, impegnato in un viaggio verso la meta a tutti sconosciuta la terra promessa che qua va ad identificarsi con la fine della vita.
 
-Nel 1969 Ungaretti pubblicò la Vita di un uomo una raccolta della sua intera produzione poetica che nelle intenzioni dell'autore doveva costituire una sorta di autobiografia poetica ideale sul modello del Canzioniere di Petrarca. L'idea di un libro che raccogliesse la sua vita interiore dai primi anni della giovinezza 
+Nel 1969 Ungaretti pubblicò la Vita di un uomo una raccolta della sua intera produzione poetica che nelle intenzioni dell'autore doveva costituire una sorta di autobiografia poetica ideale sul modello del Canzioniere di Petrarca. L'idea di un libro che raccogliesse la sua vita interiore dai primi anni della giovinezza fino alla tarda vecchiaia fu motivata dall'esigenza di far condividere la vita e letteratua, di fornire al lettore un immaine unitaria di ungaretti uomo e poeta. Egli stesso spiegò il senso di questo volume con una frase semplice ma estremamente efficace: Volevo lasciare una bella biografia
+
+U  testo in prosa particolarmente significativo è il de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDgwNTQyNyw2MDU3ODUzMywxMzcxMj
+eyJoaXN0b3J5IjpbMTg1NTM4MjQwNyw2MDU3ODUzMywxMzcxMj
 c5NzgzLC0xNjk1MzIwODMsLTM1OTczNDE0NiwxMzE0MzQxNTI0
 LC0xMzQ5MDQxNTIzLC0xMDkxMjgyMTgsLTIwOTg0MTgyNDcsLT
 c0MTQzMjE4XX0=
