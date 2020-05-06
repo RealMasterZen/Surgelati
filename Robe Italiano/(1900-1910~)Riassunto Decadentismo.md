@@ -30,6 +30,10 @@ Tali orientamenti si svilupparono creando quello che fu il movimento poetico Dec
 Termine utilizzato dalla critica per indicare una nuova generazione di poeti che incitavano al rifiuto della morale borghese e si ponevano continuamente al di fuori delle convenzioni.
 
 La percezione (anche secondo Verlain nella lirica Languore) di un epoca ormai al tramonto
+
+- Molti letterati aderirono a movimenti e correnti con proprie sedi, statuti e finanziatori
+- Necessario tenere conto dell'estrema liberà nelle scelte di ciasuno 
+- Si possono individuare alcune rivist
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE2MjU2NDVdfQ==
+eyJoaXN0b3J5IjpbNjg5MzU0MDExLC0xNzMxNjI1NjQ1XX0=
 -->
