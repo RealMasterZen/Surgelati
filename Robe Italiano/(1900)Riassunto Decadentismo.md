@@ -1,4 +1,4 @@
-# Riassunto Decadentismo
+# Presupposti Decadentismo
 
 Già nel 1880-1890 -> il positivismo era in declino a causa dell grande depressione dopo l'età del positivismo, questa era rappresentata da:
 
@@ -24,6 +24,8 @@ Tali orientamenti si svilupparono creando quello che fu il movimento poetico Dec
 - Simbolismo
 
 - Estetismo
+
+# Decadentismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEzODkzNzVdfQ==
+eyJoaXN0b3J5IjpbLTExOTYxNTQ5NjJdfQ==
 -->
