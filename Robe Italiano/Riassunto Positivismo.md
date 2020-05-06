@@ -75,8 +75,17 @@ Contenuto:
 
 - Deve esistere l'esigenza di **Denunciare le situazioni critiche**, le brutture della nuova società, le condizioni di vita del proletario urbano.
 
-# Verismo in Italia
+## Verismo in Italia
+
+Principali Esponenti:
+- Luigi Capuana
+- Giovanni Verga
+
+**Giovanni Verga**
+
+I romanzi che segnano il suo escursus letterario sviante verso il verismo sono Nedda nel 1874 e Vita dei Campi 1880.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyODgxMjg3LDEwNjA0MTQyNTAsLTgwMz
-E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
+eyJoaXN0b3J5IjpbMTI0ODE4NjY4MiwxMDYwNDE0MjUwLC04MD
+MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
