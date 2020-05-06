@@ -34,12 +34,19 @@ i testi sono ispirati da:
 
 ## Esponenti della Scapigliatura
 
-- Emilio Praga: Preludio(1864) manifesto della Scapigliatura:
-- Rifiuto della tradizione
-- Tema della noia -> spleen
-- interesse per la realtà desolata della vita moderna
+- Emilio Praga: Preludio(1864) 
+	- Manifesto della Scapigliatura:
 
+		- Rifiuto della tradizione
+
+		- Tema della noia -> spleen
+
+		- interesse per la realtà desolata della vita moderna
+
+- Arrigo Boito: Re Orso
+	- testi caratterizzati da umorsmo grottesco macabro
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIyNTgxNDYsMTUyNTcyMjY5OV19
+eyJoaXN0b3J5IjpbLTE0MzczNzExNjEsMTUyNTcyMjY5OV19
 -->
