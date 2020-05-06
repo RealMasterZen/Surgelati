@@ -87,8 +87,12 @@ Ricerche sulle scienze umane:
 	- **Super-Io**: regole e insegnamenti che infliggono delle repressioni sull'io
 	- **Io**: Parte cosciente e identità il che rappresenta una mediazione tra Es e super io
 - Analisi dell'inconscio: processi psichici sotto la soglia della coscienza
-	- Essere umano guidato anche da forze profonde e inconscie
+	- Essere umano guidato anche da forze profonde e inconsce 
+
+**- - - Einstein - - -**
+
+1905: Teoria della relatività
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc2ODY4NzQsNTA0NDE1MzA0LC0xNz
-MxNjI1NjQ1XX0=
+eyJoaXN0b3J5IjpbMjQzODM3MzM1LDUwNDQxNTMwNCwtMTczMT
+YyNTY0NV19
 -->
