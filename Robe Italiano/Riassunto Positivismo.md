@@ -92,12 +92,16 @@ I romanzi che segnano il suo escursus letterario sviante verso il verismo sono :
 
 Novella che simboleggia il Verismo:
 Prefazione dell'Amante di Gramigna in cui Verna afferma di stare per narrare una Novella  che è un presa diretta dalla realtà senza l'intervento del poeta narratore.
-Sottoline infatti particolarmente come l'imperonsalità fosse importante nell'opera.
+Sottolinea infatti particolarmente come l'impersonalità fosse importante nell'opera.
+
+Caratteristica Verchiana è la concezione dell'ostrica presente in tutte le sue opere.
 
 ## Differenze tra naturalismo e verismo
 
-La realtà naturalista era molto più legata 
+Naturalismo:
+- realtà descritta è quella delle grandi città francesci nello sviluppo del capitalismo industriale
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDgyOTk4LDEwNjA0MTQyNTAsLTgwMz
-E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
+eyJoaXN0b3J5IjpbLTc4NDUwNTE0MiwxMDYwNDE0MjUwLC04MD
+MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
