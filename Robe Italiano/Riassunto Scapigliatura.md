@@ -18,10 +18,21 @@ il gruppo di artisti era fondamentalmente eterogeneo:
 	
 	- il disagio verso le forme della modernità
 
-il movimento prese esempio da scrittori quali - Hoffman
+il movimento prese esempio da scrittori quali:
+- Hoffman
 - Edgar allan Poe
-Daudelaire
+- Baudelaire
+
+i testi sono ispirati da:
+- Esperienze di vita quotidiana
+
+- Anticonformismo e ribellione contro la società borghese benpensante
+
+- Predilezione per il macabro
+
+- Dualismo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU1MDMxOTEsMTUyNTcyMjY5OV19
+eyJoaXN0b3J5IjpbLTQ3OTI4MTYwNywxNTI1NzIyNjk5XX0=
 -->
