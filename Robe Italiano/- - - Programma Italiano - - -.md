@@ -25,7 +25,7 @@
 
 **Autori**
 - Emilio Praga
-- Iginio Ugo Tarchetti
+- Iginio Ugo Tarchetti **********
 - Giosuè Carducci: ritorno al classicismo
 
 ### - - - UNITA' 4 - - -
@@ -69,6 +69,7 @@ L'allegria
 Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQwNzI1NTksOTg5OTMyNDk4LC0xNT
-k0MzU2NzU3LC0xNzkwMzg1Njc5LDE1NjQwOTc3ODRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTk1MDQzNzUsLTE3NjQwNzI1NTksOT
+g5OTMyNDk4LC0xNTk0MzU2NzU3LC0xNzkwMzg1Njc5LDE1NjQw
+OTc3ODRdfQ==
 -->
