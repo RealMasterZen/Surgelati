@@ -10,7 +10,7 @@ Caratterizzazione del periodo poetico:
 - **irrazionalismo** , quei movimenti poetici dove il poeta non si riconosce più nell'intellettuale, si incarna dunque nel **Decadentismo**
 Esse dunque coesistono nella stessa epoca.
 
-## Naturalismo // Verismo
+## Descrizione generale del movimento Positivista e le derivanti correnti letterarie
 
 rispettivamente in Francia e in Italia vuole solamente scandagliare la realtà senza escludere soggetti meno belli.
 
@@ -95,7 +95,9 @@ Prefazione dell'Amante di Gramigna in cui Verna afferma di stare per narrare una
 Sottoline infatti particolarmente come l'imperonsalità fosse importante nell'opera.
 
 ## Differenze tra naturalismo e verismo
+
+La realtà naturalista era molto più legata 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDYwMTA3OSwxMDYwNDE0MjUwLC04MD
-MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
+eyJoaXN0b3J5IjpbMjA5MDgyOTk4LDEwNjA0MTQyNTAsLTgwMz
+E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
