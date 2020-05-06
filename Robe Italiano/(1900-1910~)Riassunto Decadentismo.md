@@ -41,7 +41,10 @@ Opere Portavoce del movimento:
 - A Ritroso - di Huysman
 	- considerato da molti il simbolo di tutto il decadentismo
 - Il Ritratto di Dorian Gray - Oscar Wilde
+
+## Fondamenti Filosofici del movimento letterario
+
+- Ni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ0ODYyNjgsLTE3MzE2MjU2NDVdfQ
-==
+eyJoaXN0b3J5IjpbOTQ4MzA1ODcwLC0xNzMxNjI1NjQ1XX0=
 -->
