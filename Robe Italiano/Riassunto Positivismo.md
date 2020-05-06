@@ -20,7 +20,15 @@ Gran parte della popolazione si  è riversata dalle campagne alle città e ha ca
 Grande fiducia nei modelli del progresso, della scienza e della razionalità umana.
 
 Nasce quindi il positivismo che ha come centro cardine il Metodo scientifico induttivo dal più generico all'universale.
+
+Nascono in questa età le varie scienze.
+- astronomia 
+- matematica
+- geometria
+- sociologia
+
+ciascuna con un oscopo diverso dalle altre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE4OTM2NjcsLTgwMzE4OTgxOSwxNT
-czODUzODkzLDE5MDU5ODI1NjFdfQ==
+eyJoaXN0b3J5IjpbMTA1NTI3MTEwNCwtODAzMTg5ODE5LDE1Nz
+M4NTM4OTMsMTkwNTk4MjU2MV19
 -->
