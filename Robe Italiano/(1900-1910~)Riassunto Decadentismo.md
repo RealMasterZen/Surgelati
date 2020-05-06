@@ -97,8 +97,14 @@ Ricerche sulle scienze umane:
 
 ## Caratteri del Decadentismo
 
-La 
+I concetti principali sono:
+- Critica del mondo borghese
+- Anticonformismo
+- rifiuto di una matrice positivista
+- rifiuto di un impegno sociale da parte dell'artista
+- arte deve essere un valore assoluto
+- Eccezzionalità dell'art
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTY4NzQ5MSwxNzA5MDk1NjQsNTA0ND
-E1MzA0LC0xNzMxNjI1NjQ1XX0=
+eyJoaXN0b3J5IjpbOTUwMzY3MjMzLDE3MDkwOTU2NCw1MDQ0MT
+UzMDQsLTE3MzE2MjU2NDVdfQ==
 -->
