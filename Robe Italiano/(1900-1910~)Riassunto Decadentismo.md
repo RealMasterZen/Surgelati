@@ -113,8 +113,11 @@ I concetti principali sono:
 - rifiuto dei valori borghesi e delle convenzioni di questi ultimi
 - Malattia e morte sono considerati come stati privilegiati e una sorta di consacrazione alla superiorità e insieme un alterazione della coscienza con una derivante alterazione della coscienza e quindi fuga dal grigiore della realtà
 - Vitalismo: esaltazione di una vita senza frenie vissuta intensamente anche per breve tempo
-- Il Sogno era 
+- Il Sogno era un esperienza privilegiava che ci portava lontani dalla realtà grigia in cui ci trovavamo
+- Vagheggiamento di epoche e paesi lontani -> esotismo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMzEwMjY1LDE3MDkwOTU2NCw1MDQ0MT
-UzMDQsLTE3MzE2MjU2NDVdfQ==
+eyJoaXN0b3J5IjpbMTUzMzUyNTUwMywxNzA5MDk1NjQsNTA0ND
+E1MzA0LC0xNzMxNjI1NjQ1XX0=
 -->
