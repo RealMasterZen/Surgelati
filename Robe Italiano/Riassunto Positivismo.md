@@ -83,13 +83,19 @@ Principali Esponenti:
 
 **Giovanni Verga**
 
-I romanzi che segnano il suo escursus letterario sviante verso il verismo sono Nedda nel 1874 e Vita dei Campi 1880.
+I romanzi che segnano il suo escursus letterario sviante verso il verismo sono :
+- Nedda nel 1874 
+- Vita dei Campi 1880.
+- Ciclo dei Vinti:
+	- I Malavoglia 1881
+	- Mastro don Gesualdo 1889
 
 Novella che simboleggia il Verismo:
 Prefazione dell'Amante di Gramigna in cui Verna afferma di stare per narrare una Novella  che è un presa diretta dalla realtà senza l'intervento del poeta narratore.
-Sottoline infatti particolarmente come l'imperonsalità fosse im
+Sottoline infatti particolarmente come l'imperonsalità fosse importante nell'opera.
 
+## Differenze tra naturalismo e verismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTM1ODM1NCwxMDYwNDE0MjUwLC04MD
+eyJoaXN0b3J5IjpbMTk5NDYwMTA3OSwxMDYwNDE0MjUwLC04MD
 MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
