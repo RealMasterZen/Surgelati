@@ -31,8 +31,8 @@ Nascono in questa età le varie scienze.
 ciascuna con uno scopo diverso dalle altre.
 
 la sociiologià in particolare era la scienza che studiava la relazione che si frapponeva tra l'uomo e la società:
-un esempio di teorico di questo fenomeno gùù Durkenheim
+un esempio di teorico di questo fenomeno fu durkenheim che teorizzò per primo il concetto ci coscienza collettiva 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTQ5OTcxLC04MDMxODk4MTksMTU3Mz
-g1Mzg5MywxOTA1OTgyNTYxXX0=
+eyJoaXN0b3J5IjpbLTIwOTAwNTg5MjYsLTgwMzE4OTgxOSwxNT
+czODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
