@@ -32,7 +32,11 @@ ciascuna con uno scopo diverso dalle altre.
 
 la sociiologià in particolare era la scienza che studiava la relazione che si frapponeva tra l'uomo e la società:
 un esempio di teorico di questo fenomeno fu durkenheim che teorizzò per primo il concetto ci coscienza collettiva 
+
+## Evoluzionismo
+
+Sempre parallelamente a naturalismo, realismo, verismo si sviluppa quello che è il 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAwNTg5MjYsLTgwMzE4OTgxOSwxNT
+eyJoaXN0b3J5IjpbLTE1NTI1NTA2MzQsLTgwMzE4OTgxOSwxNT
 czODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
