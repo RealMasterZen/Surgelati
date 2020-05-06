@@ -62,8 +62,11 @@ Nel 1880 compose il Romanzo Sperimentale:
 Esso era un saggio ed era inoltre considerato il vero e proprio manifesto del Naturalismo.
 
 Contenuto:
-- il romanziere doveva essere come lo scienziato: osservatore e sperimentatore, considera inoltre l'arte con la riproduzioene offettiva del reale governata dalle leggi dellla natura, rivendica l'
+- il romanziere doveva essere come lo scienziato: osservatore e sperimentatore, considera inoltre l'arte con la riproduzioene offettiva del reale governata dalle leggi dellla natura, rivendica l'impegno morale delloo scrittore che mettendo in luce le cause dei fenomeni sociale deve indurre la società stessa ad intervenire per modificarli e miglirarli.
+- Lo scrittore deve situare i personaggi e le loro caratteristiche "genetiche" in un preciso contesto sociale ed osservare gli sviluppi
+- L'arte deve essere Impersonale e ò'opera deve apparire come se fosse stata fatta da se.
+- Deve esistere l'esigenza di Denu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDU3MTk5NCwxMDYwNDE0MjUwLC04MD
+eyJoaXN0b3J5IjpbMTUyNzM2NDYzNywxMDYwNDE0MjUwLC04MD
 MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
