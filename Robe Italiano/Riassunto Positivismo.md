@@ -20,7 +20,7 @@ Gran parte della popolazione si  è riversata dalle campagne alle città e ha ca
 Grande fiducia nei modelli del progresso, della scienza e della razionalità umana.
 
 Nasce quindi il positivismo il cui teorizzatore principale fu August Comte:
-che ha come centro cardine il Metodo scientifico induttivo dal più generico all'universale.
+che aveva  come centro cardine il Metodo scientifico induttivo dal più generico all'universale.
 
 Nascono in questa età le varie scienze.
 - astronomia 
@@ -28,8 +28,11 @@ Nascono in questa età le varie scienze.
 - geometria
 - sociologia
 
-ciascuna con uno scopo diverso dalle altre
+ciascuna con uno scopo diverso dalle altre.
+
+la sociiologià in particolare era la scienza che studiava la relazione che si frapponeva tra l'uomo e la società:
+un esempio di teorico di questo fenomeno gùù Durkenheim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTgxNTAzMywtODAzMTg5ODE5LDE1Nz
-M4NTM4OTMsMTkwNTk4MjU2MV19
+eyJoaXN0b3J5IjpbOTM4MTQ5OTcxLC04MDMxODk4MTksMTU3Mz
+g1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
