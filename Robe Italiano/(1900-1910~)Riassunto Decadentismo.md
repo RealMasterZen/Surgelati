@@ -33,7 +33,14 @@ La percezione (anche secondo Verlain nella lirica Languore) di un epoca ormai al
 
 - Molti letterati aderirono a movimenti e correnti con proprie sedi, statuti e finanziatori
 - Necessario tenere conto dell'estrema liberà nelle scelte di ciasuno 
-- Si possono individuare alcune rivist
+- Si possono individuare alcune riviste con la funzione di portavoce
+
+Opere:
+- Le Decadent - fondata da Verlain (1884)
+- Fiorni del Male - di Baudelaire
+- A Ritroso - di Huysman
+	- considerato da molti il simbolo di tutto il decadentismo
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MzU0MDExLC0xNzMxNjI1NjQ1XX0=
+eyJoaXN0b3J5IjpbMTkyOTAwMzg0NiwtMTczMTYyNTY0NV19
 -->
