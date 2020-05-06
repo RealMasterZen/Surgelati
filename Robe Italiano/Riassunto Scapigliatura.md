@@ -19,9 +19,9 @@ il gruppo di artisti era fondamentalmente eterogeneo:
 	- il disagio verso le forme della modernità
 
 il movimento prese esempio da scrittori quali:
-- Hoffman
-- Edgar allan Poe
-- Baudelaire
+- **Hoffman**
+- **Edgar allan Poe**
+- **Baudelaire**
 
 i testi sono ispirati da:
 - Esperienze di vita quotidiana
@@ -34,7 +34,7 @@ i testi sono ispirati da:
 
 ## Esponenti della Scapigliatura
 
-- Emilio Praga: Preludio(1864) 
+- **Emilio Praga**: Preludio(1864) 
 	- Manifesto della Scapigliatura:
 
 		- Rifiuto della tradizione
@@ -43,10 +43,10 @@ i testi sono ispirati da:
 
 		- interesse per la realtà desolata della vita moderna
 
-- Arrigo Boito: Re Orso
+- **Arrigo Boito**: Re Orso(1870)
 	- testi caratterizzati da umorsmo grottesco macabro
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzczNzExNjEsMTUyNTcyMjY5OV19
+eyJoaXN0b3J5IjpbMTM4ODU2NjE2LDE1MjU3MjI2OTldfQ==
 -->
