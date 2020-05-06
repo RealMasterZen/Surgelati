@@ -18,7 +18,9 @@ Il contesto culturale è quello della massiccia industrializzazione conseguenza 
 Gran parte della popolazione si  è riversata dalle campagne alle città e ha causato un peggiore tenore di vita del proletariato urbano.
 
 Grande fiducia nei modelli del progresso, della scienza e della razionalità umana.
+
+Nasce quindi il positivismo che ha come centro cardine il Metodo scientifico induttivo dal più generico all'universale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIxNDc0NDQsLTgwMzE4OTgxOSwxNT
+eyJoaXN0b3J5IjpbLTEyOTE4OTM2NjcsLTgwMzE4OTgxOSwxNT
 czODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
