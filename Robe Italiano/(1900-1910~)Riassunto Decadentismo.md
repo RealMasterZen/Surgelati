@@ -74,9 +74,10 @@ Ritorno alla metafisica cristiana con la fusione tra le scienze e la religione.
 
 Esistono 2 modi di conoscere:
 - Analisi delle scienze e delle esigenze pratiche
-- Comenetrazione delle cose
-	- Inui
+- Compenetrazione delle cose
+	- Intuizione
+	- Permette di cogliere l'essenza del tutto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU2NDU5MjIsNTA0NDE1MzA0LC0xNz
+eyJoaXN0b3J5IjpbLTEwMDcyOTI2ODgsNTA0NDE1MzA0LC0xNz
 MxNjI1NjQ1XX0=
 -->
