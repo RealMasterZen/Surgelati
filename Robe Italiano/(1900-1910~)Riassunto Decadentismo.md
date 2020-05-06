@@ -68,8 +68,15 @@ In questa Opera vede un uomo libero da ogni condizionamento ed egli è votato al
 
 **- - - Henri Bergson - - -**
 
+Recupero della tradizione spiritualista
 
+Ritorno alla metafisica cristiana con la fusione tra le scienze e la religione.
+
+Esistono 2 modi di conoscere:
+- Analisi delle scienze e delle esigenze pratiche
+- Comenetrazione delle cose
+	- Inui
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MDc4MjQ1LDUwNDQxNTMwNCwtMTczMT
-YyNTY0NV19
+eyJoaXN0b3J5IjpbLTE4NjU2NDU5MjIsNTA0NDE1MzA0LC0xNz
+MxNjI1NjQ1XX0=
 -->
