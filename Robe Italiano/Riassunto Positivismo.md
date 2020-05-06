@@ -10,7 +10,7 @@ Caratterizzazione del periodo poetico:
 - **irrazionalismo** , quei movimenti poetici dove il poeta non si riconosce più nell'intellettuale, si incarna dunque nel **Decadentismo**
 Esse dunque coesistono nella stessa epoca.
 
-## Realismo// Verismo
+## Naturalismo // Verismo
 
 rispettivamente in Francia e in Italia vuole solamente scandagliare la realtà senza escludere soggetti meno belli.
 
@@ -43,8 +43,12 @@ Secondo la sua teoria sopravvivono solo gli individui più adatti caratterizzati
 
 Quelli che sopravvivono quindi trasmettono queste caratteristiche evolutive formando così quel fenomeno che lui stesso definisce come selezione naturale.
 
+## Realismo
 
+La tendenza al realismo si trova anche precendentemente nel romanticismo (prima metà 800), le tendenza al reale era una tendenza nei confronti dell'indagine storica o magari una tendenza nei confronti di meccanisci psicologici.
+
+per esempio Balzac nella commedia umana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ0MzI0OCwtODAzMTg5ODE5LDE1Nz
+eyJoaXN0b3J5IjpbMTczMzMxODk4MywtODAzMTg5ODE5LDE1Nz
 M4NTM4OTMsMTkwNTk4MjU2MV19
 -->
