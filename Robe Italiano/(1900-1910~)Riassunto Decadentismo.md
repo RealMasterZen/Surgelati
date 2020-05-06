@@ -111,8 +111,10 @@ I concetti principali sono:
 ## Temi della Letteratura Decadente
 
 - rifiuto dei valori borghesi e delle convenzioni di questi ultimi
-- Malattia e morte sono consie
+- Malattia e morte sono considerati come stati privilegiati e una sorta di consacrazione alla superiorità e insieme un alterazione della coscienza con una derivante alterazione della coscienza e quindi fuga dal grigiore della realtà
+- Vitalismo: esaltazione di una vita senza frenie vissuta intensamente anche per breve tempo
+- Il Sogno era 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQzNDg4NzQsMTcwOTA5NTY0LDUwND
-QxNTMwNCwtMTczMTYyNTY0NV19
+eyJoaXN0b3J5IjpbNzAzMzEwMjY1LDE3MDkwOTU2NCw1MDQ0MT
+UzMDQsLTE3MzE2MjU2NDVdfQ==
 -->
