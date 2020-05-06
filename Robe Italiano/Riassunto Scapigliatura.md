@@ -32,7 +32,14 @@ i testi sono ispirati da:
 
 - Dualismo
 
+## Esponenti della Scapigliatura
+
+- Emilio Praga: Preludio(1864) manifesto della Scapigliatura:
+- Rifiuto della tradizione
+- Tema della noia -> spleen
+- interesse per la realtà desolata della vita moderna
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTI4MTYwNywxNTI1NzIyNjk5XX0=
+eyJoaXN0b3J5IjpbLTExMDIyNTgxNDYsMTUyNTcyMjY5OV19
 -->
