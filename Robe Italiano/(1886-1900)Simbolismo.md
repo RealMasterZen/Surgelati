@@ -24,8 +24,12 @@ Rifiuto tipico decadente della scienza e della ragione positiviste:
 **I fiori del male**: Di Baudelaire
 - apre la stagione dei poeti maledetti
 Temi:
-
+- Tema dell'alienazione
+- Degradazione Morale
+- Stile allusivo e Musicale
+- Rivendicazione dell'eccezzionalità del poeta
+- Acuto sguardo del poeta sul mondo e sulle varie forme del quotidiano, sordido, vizio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNDUxMDg3LDE3MDEwMzk1MTcsMTk0NT
+eyJoaXN0b3J5IjpbOTQ2NDEwOTQyLDE3MDEwMzk1MTcsMTk0NT
 k2Mzg0MV19
 -->
