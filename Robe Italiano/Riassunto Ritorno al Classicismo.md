@@ -9,7 +9,8 @@ Fuse infatti nella sua opera realismo e rigore formale con grande attenzione non
 
 **Carducci** fu in gioventu un antiromantico, antimanzoniano , repubblicano e anticlericale, ma, col tempo, si fece sostenitore della causa monarchica e **volle assumere il ruolo di poeta vate, interprete dei valori di una lunga tradizione storico culturale italiana**.
 
+## Prati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTY1NjI5MSwtMTk4OTYyMzkwMCwtMT
+eyJoaXN0b3J5IjpbLTMxMDg1NjIyNywtMTk4OTYyMzkwMCwtMT
 U2NTAwMDgzOCw3MzA5OTgxMTZdfQ==
 -->
