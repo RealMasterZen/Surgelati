@@ -107,8 +107,11 @@ Naturalismo:
 
 - l'autore è uno scrittore impegnato che, pur dall'esterno giudica la realtà che descrive
 
-- la tecnica narrativa si basa sull'impersonalità, l'autore come uno sci
+- la tecnica narrativa si basa sull'impersonalità, l'autore come uno scienziato valuta e giudica dall'esterno gli accadimenti ai suoi personaggi
+
+Verismo:
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4ODc2NzAwLDEwNjA0MTQyNTAsLTgwMz
-E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
+eyJoaXN0b3J5IjpbMTc1OTc2NDUzOSwxMDYwNDE0MjUwLC04MD
+MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
