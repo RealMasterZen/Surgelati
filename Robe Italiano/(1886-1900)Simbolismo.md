@@ -62,8 +62,12 @@ nel 1867 Muore di paralisi
 **Fiori del Male**
 Esso è una Raccolta di liriche, molte già presenti in alcune riviste francesi
 
-nel 1861 - Seconda Edizi
+nel 1861 - Seconda Edizione:
+- nuovi testi
+- divide in 6 sezioni
+Le liriche rappresentano una specie di autobiografia ideale - percorso esistenziale 
+caratterizzato dalla noia e il disgusto per la realtà quotidiana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTU3MTk2NiwxNzAxMDM5NTE3LDE5ND
+eyJoaXN0b3J5IjpbLTk5MTQ1Njc2MiwxNzAxMDM5NTE3LDE5ND
 U5NjM4NDFdfQ==
 -->
