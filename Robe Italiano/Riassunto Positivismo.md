@@ -52,8 +52,14 @@ per esempio Balzac nella commedia umana aveva tentato di dare un affresco più c
 Madame Bovary di Flaubert (seconda metà dell'800), in esso Flaubert non cerca di essere presente come narratore e cerca di dare un immagine della realtà dell'ecpoca come se girata in terza persona.
 Madame Bovary rappresenta un prenaturalismo.
 
-La narrativa quindi ome già detto cerca di rappresentare più concreta
+La narrativa quindi ome già detto cerca di rappresentare più concretamente la reltà e di inserire quest'ultima in un contesto sociale e storico il più accurato possibile.
+
+## naturalismo
+
+Il naturalismo è una corrente letteraria che nasce alla fine della seconda metà dell'800 il cui esponente principale fu Emile Zola.
+
+Fu uno scrittore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI2OTc2NzcsLTgwMzE4OTgxOSwxNT
-czODUzODkzLDE5MDU5ODI1NjFdfQ==
+eyJoaXN0b3J5IjpbMjEzODE5NDUxMCwtODAzMTg5ODE5LDE1Nz
+M4NTM4OTMsMTkwNTk4MjU2MV19
 -->
