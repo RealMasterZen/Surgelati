@@ -1,6 +1,6 @@
 # Riassunto Scapigliatura
 
-Movimento italiano influenzato dai *bohemien*
+**Movimento italiano influenzato dai *bohemien** esso è molto breve e da molti viene riconosc
 
 il gruppo di artisti era fondamentalmente eterogeneo:
 - Identificazione tra arte e vita
@@ -48,5 +48,5 @@ i testi sono ispirati da:
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODU2NjE2LDE1MjU3MjI2OTldfQ==
+eyJoaXN0b3J5IjpbMjA3NzcyODEzLDE1MjU3MjI2OTldfQ==
 -->
