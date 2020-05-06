@@ -77,7 +77,13 @@ Esistono 2 modi di conoscere:
 - Compenetrazione delle cose
 	- Intuizione
 	- Permette di cogliere l'essenza del tutto
+
+**- - - Sigmund Freud - - -**
+
+Ricerche sulle scienze umane:
+- Interpretazione dei sogni
+- Psico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyOTI2ODgsNTA0NDE1MzA0LC0xNz
+eyJoaXN0b3J5IjpbLTEwNzEwNDk5MDMsNTA0NDE1MzA0LC0xNz
 MxNjI1NjQ1XX0=
 -->
