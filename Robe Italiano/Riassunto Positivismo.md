@@ -107,7 +107,7 @@ Naturalismo:
 
 - l'autore è uno scrittore impegnato che, pur dall'esterno giudica la realtà che descrive
 
-- la tecnica narrativa si basa sull'impersonalità (artificio della regressione), l'autore come uno scienziato valuta e giudica dall'esterno gli accadimenti ai suoi personaggi, discordo indiretto libero.
+- la tecnica narrativa si basa sull'impersonalità, l'autore come uno scienziato valuta e giudica dall'esterno gli accadimenti ai suoi personaggi.
 
 Verismo:
 - realtà descritta è arretrata e statica del Mezzogiorno d'italia, per questo è presente un Forte Regionalismo
@@ -116,8 +116,10 @@ Verismo:
 
 - la letteratura ha la funzione di far conoscere una realtà che è immodificabile 
 
-- autore è uno scrittore non impegnato e presenta la realtà dal punto di v
+- autore è uno scrittore non impegnato e presenta la realtà dal punto di vista dell'oggetto
+
+- impersonalità intesa come eclissi del narratore, artificio della regressione e del discorso diretto libero.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzU5ODc4MiwxMDYwNDE0MjUwLC04MD
+eyJoaXN0b3J5IjpbLTY4NDcyMjY4NCwxMDYwNDE0MjUwLC04MD
 MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
