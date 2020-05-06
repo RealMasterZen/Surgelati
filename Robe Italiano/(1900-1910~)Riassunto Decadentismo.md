@@ -49,11 +49,11 @@ Opere Portavoce del movimento:
 - **Freud**: Vedere l'io come pensiero e coscienza di una persona a un livello marginale con l'intervento del super io
 - **Einstein**: Questo sconvolge la concezione assoluta di spazio e tempo
 
-**Concetto Principale**
+### Concetto Principale
 
 Messa in discussione del pensiero positivista
 
-Nietzshe:
+**Nietzshe**:
 
 - Nega l'universalità e la certezza di qualsiasi principio
 
@@ -64,8 +64,10 @@ Nietzshe:
 
 > Opera: Così parlò Zarathustra
 
-In questa Opera 
+In questa Opera vede un uomo libero da ogni condizionamento ed egli è votato all'espressione delle proprie infinite possibilità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDA5NDE4MSw1MDQ0MTUzMDQsLTE3Mz
-E2MjU2NDVdfQ==
+eyJoaXN0b3J5IjpbLTExMTg4MDY4OTcsNTA0NDE1MzA0LC0xNz
+MxNjI1NjQ1XX0=
 -->
