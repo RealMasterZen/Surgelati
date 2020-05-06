@@ -6,9 +6,9 @@
 - Il Verismo
 
 **Autori**
-- Fratelli Gouncourt
+- Fratelli Gouncourt()
 	- *Gèrminie Lacertaux*
-- E'mile Zola: il romanzo sperimentale
+- E'mile Zola: il romanzo sperimentale(1880)
 	- *L'Assormoir*
 
 
@@ -65,6 +65,6 @@ L'allegria
 Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkyMjU0NDEsLTE3OTAzODU2NzksMT
-U2NDA5Nzc4NF19
+eyJoaXN0b3J5IjpbLTczNTYwMjY1NCwtMTc5MDM4NTY3OSwxNT
+Y0MDk3Nzg0XX0=
 -->
