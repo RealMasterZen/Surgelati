@@ -85,7 +85,11 @@ Principali Esponenti:
 
 I romanzi che segnano il suo escursus letterario sviante verso il verismo sono Nedda nel 1874 e Vita dei Campi 1880.
 
+Novella che simboleggia il Verismo:
+Prefazione dell'Amante di Gramigna in cui Verna afferma di stare per narrare una Novella  che è un presa diretta dalla realtà senza l'intervento del poeta narratore.
+Sottoline infatti particolarmente come l'imperonsalità fosse im
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODE4NjY4MiwxMDYwNDE0MjUwLC04MD
+eyJoaXN0b3J5IjpbMTQ3MTM1ODM1NCwxMDYwNDE0MjUwLC04MD
 MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
