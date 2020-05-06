@@ -49,8 +49,11 @@ La tendenza al realismo si trova anche precendentemente nel romanticismo (prima 
 
 per esempio Balzac nella commedia umana aveva tentato di dare un affresco più compiuto della realtà nei suoi tempi sociali, ma non era ancora riuscito a concepire un metodo scientifico per strutturare la sua narrativa.
 
-Madame Bovary di Flaubert (seconda metà dell'800)
+Madame Bovary di Flaubert (seconda metà dell'800), in esso Flaubert non cerca di essere presente come narratore e cerca di dare un immagine della realtà dell'ecpoca come se girata in terza persona.
+Madame Bovary rappresenta un prenaturalismo.
+
+La narrativa quindi ome già detto cerca di rappresentare più concreta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMDQ2MiwtODAzMTg5ODE5LDE1NzM4NT
-M4OTMsMTkwNTk4MjU2MV19
+eyJoaXN0b3J5IjpbLTEyNzI2OTc2NzcsLTgwMzE4OTgxOSwxNT
+czODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
