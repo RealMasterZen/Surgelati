@@ -29,7 +29,14 @@ Temi:
 - Stile allusivo e Musicale
 - Rivendicazione dell'eccezzionalità del poeta
 - Acuto sguardo del poeta sul mondo e sulle varie forme del quotidiano, sordido, vizio
+
+**Ballata per i Decadenti**: Di Verlain
+- Linguaggio creativo e musicale
+- versi imparisillabi brevi e fluidi
+- gusto del vago e del malinconico
+- effetti fonici per sensazioni immateriali
+- Il poeta deve trasmettere  impressioni indefinite, suscita emozioni e stati d'an
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NDEwOTQyLDE3MDEwMzk1MTcsMTk0NT
-k2Mzg0MV19
+eyJoaXN0b3J5IjpbLTE1MDkzNzI4MDEsMTcwMTAzOTUxNywxOT
+Q1OTYzODQxXX0=
 -->
