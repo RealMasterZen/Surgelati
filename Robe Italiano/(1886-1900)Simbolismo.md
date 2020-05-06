@@ -14,8 +14,11 @@ Alla base della poetica di Baudelaire c'è la poetica delle corrispondenze
 
 ## Carattere del Simbolismo
 
-
+Rifiuto tipico decadente della scienza e della ragione positiviste:
+- dietro a una realtà se ne nasconde un altra nascosta
+- la parola ha il potere di rivelare la realtà dietro le apparenze
+- la realtà nascosta può essere interpretabile 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQyODM5NSwxNzAxMDM5NTE3LDE5ND
-U5NjM4NDFdfQ==
+eyJoaXN0b3J5IjpbNDE5Nzg4MTY2LDE3MDEwMzk1MTcsMTk0NT
+k2Mzg0MV19
 -->
