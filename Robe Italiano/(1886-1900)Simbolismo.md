@@ -17,8 +17,15 @@ Alla base della poetica di Baudelaire c'è la poetica delle corrispondenze
 Rifiuto tipico decadente della scienza e della ragione positiviste:
 - dietro a una realtà se ne nasconde un altra nascosta
 - la parola ha il potere di rivelare la realtà dietro le apparenze
-- la realtà nascosta può essere interpretabile 
+- la realtà nascosta può essere interpretabile e trascrivibile dal poeta attraverso un linguaggio analogico.
+
+## Artisti e Opere
+
+**I fiori del male**: Di Baudelaire
+- apre la stagione dei poeti maledetti
+Temi:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5Nzg4MTY2LDE3MDEwMzk1MTcsMTk0NT
+eyJoaXN0b3J5IjpbOTEyNDUxMDg3LDE3MDEwMzk1MTcsMTk0NT
 k2Mzg0MV19
 -->
