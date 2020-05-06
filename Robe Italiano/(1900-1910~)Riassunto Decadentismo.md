@@ -49,7 +49,9 @@ Opere Portavoce del movimento:
 - **Freud**: Vedere l'io come pensiero e coscienza di una persona a un livello marginale con l'intervento del super io
 - **Einstein**: Questo sconvolge la concezione assoluta di spazio e tempo
 
+**Concetto Principale**
+
+Messa in discussione del pensiero positivista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI1ODMzMDAsLTE3MzE2MjU2NDVdfQ
-==
+eyJoaXN0b3J5IjpbNTA0NDE1MzA0LC0xNzMxNjI1NjQ1XX0=
 -->
