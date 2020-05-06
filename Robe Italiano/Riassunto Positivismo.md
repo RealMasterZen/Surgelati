@@ -35,7 +35,7 @@ un esempio di teorico di questo fenomeno fu durkenheim che teorizzò per primo i
 
 ## Evoluzionismo
 
-Sempre parallelamente a naturalismo, realismo, verismo si sviluppa quello che è l'evoluzionismo con l'intervento del filosofo e biolo inglese Charles Darwin nelle sue opere l'origine della spacie e L'origine dell'uomo.
+Sempre parallelamente a naturalismo, realismo, verismo si sviluppa quello che è l'evoluzionismo con l'intervento del filosofo e biologo inglese Charles Darwin nelle sue opere l'origine della specie e L'origine dell'uomo.
 
 Quest'ultimo affermò che le specie tendono a modificarsi per variazioni casuali che si producono negli individui.
 
@@ -45,6 +45,6 @@ Quelli che sopravvivono quindi trasmettono queste caratteristiche evolutive form
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Mzk4NzIxNSwtODAzMTg5ODE5LDE1Nz
+eyJoaXN0b3J5IjpbLTY4NDMyNzgyMSwtODAzMTg5ODE5LDE1Nz
 M4NTM4OTMsMTkwNTk4MjU2MV19
 -->
