@@ -27,7 +27,7 @@
 - Emilio Praga
 - Iginio Ugo Tarchetti
 - Giosuè Carducci: ritorno al classicismo
-- 
+
 ### - - - UNITA' 4 - - -
 **Il Decadentismo**
 diffidenza dalla scienza 
@@ -41,11 +41,13 @@ diffidenza dalla scienza
 	- Canti di Castelvecchio
 	- Myricae
 	- Nuovi poemetti
+
 ### - - - UNITA' 7 - - -
 - **D'Annunzio, il superomismo e le opere **:
 - Laudi
 - Sera Fiesolana
 - Trionfo della morte
+
 ### UNITA' 11 - - - 
 **Le avanguardie Storiche**:
 - Espressionismo
@@ -67,6 +69,6 @@ L'allegria
 Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg0MTYyOCw5ODk5MzI0OTgsLTE1OT
-QzNTY3NTcsLTE3OTAzODU2NzksMTU2NDA5Nzc4NF19
+eyJoaXN0b3J5IjpbLTE3NjQwNzI1NTksOTg5OTMyNDk4LC0xNT
+k0MzU2NzU3LC0xNzkwMzg1Njc5LDE1NjQwOTc3ODRdfQ==
 -->
