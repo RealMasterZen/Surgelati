@@ -30,10 +30,10 @@ Nel 1910 sempre per sfuggire ai numerosi creditori decise di fuggire in Francia 
 - beffa di buccari
 - volo sopra vienna 
 
-Nel 1919 finita la guerra infiammava le folle perchè l'italia aveva ottenuto una vittoria mutilata, quindi si apprestò all'occupazione di fiume fino al 1920. 
+Nel 1919 finita la guerra infiammava le folle perchè l'italia aveva ottenuto una vittoria mutilata, quindi si apprestò all'occupazion i fiume fino al 1920. 
 In quell'anno Giovanni giolitti lo cacciò a 
 cannoneggiate da Fiume.
-Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera sul lago di garda con luisa baccara dedicandosi all'allestimento del vittoriale degli italiani e alla scrittura di un autobiografia. Morì il 1° marzo 1938.
+Alla conclusione della realtà per il raggiungimento di un paradiso artificiale.dsu vità egli si pose in autoesilio a gardone Riviera sul lago di garda con luisa baccara dedicandosi all'allestimento el vittoriale degli italiani e alla scrittura di un utobiografia. Morì il 1° marzo 1938.
 
 # Opere di d'annunzio in generale
 
@@ -80,5 +80,5 @@ Alla conclusione della sua vità egli si pose in autoesilio a gardone Riviera su
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA0NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbMTk3MDQ0ODA4NywtMTM2MDQ2MjQ4OF19
 -->
