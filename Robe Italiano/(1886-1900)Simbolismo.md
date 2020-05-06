@@ -67,7 +67,9 @@ nel 1861 - Seconda Edizione:
 - divide in 6 sezioni
 Le liriche rappresentano una specie di autobiografia ideale - percorso esistenziale 
 caratterizzato dalla noia e il disgusto per la realtà quotidiana
+
+**Nuovo Linguaggio**: solo l'arte è in grado di generare 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTQ1Njc2MiwxNzAxMDM5NTE3LDE5ND
+eyJoaXN0b3J5IjpbMTU5NzU0NDUyOSwxNzAxMDM5NTE3LDE5ND
 U5NjM4NDFdfQ==
 -->
