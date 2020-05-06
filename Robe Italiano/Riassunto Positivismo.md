@@ -47,8 +47,10 @@ Quelli che sopravvivono quindi trasmettono queste caratteristiche evolutive form
 
 La tendenza al realismo si trova anche precendentemente nel romanticismo (prima metà 800), le tendenza al reale era una tendenza nei confronti dell'indagine storica o magari una tendenza nei confronti di meccanisci psicologici.
 
-per esempio Balzac nella commedia umana
+per esempio Balzac nella commedia umana aveva tentato di dare un affresco più compiuto della realtà nei suoi tempi sociali, ma non era ancora riuscito a concepire un metodo scientifico per strutturare la sua narrativa.
+
+Madame Bovary di Flaubert (seconda metà dell'800)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzMxODk4MywtODAzMTg5ODE5LDE1Nz
-M4NTM4OTMsMTkwNTk4MjU2MV19
+eyJoaXN0b3J5IjpbNjMxMDQ2MiwtODAzMTg5ODE5LDE1NzM4NT
+M4OTMsMTkwNTk4MjU2MV19
 -->
