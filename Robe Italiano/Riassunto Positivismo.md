@@ -94,14 +94,15 @@ Novella che simboleggia il Verismo:
 Prefazione dell'Amante di Gramigna in cui Verna afferma di stare per narrare una Novella  che è un presa diretta dalla realtà senza l'intervento del poeta narratore.
 Sottolinea infatti particolarmente come l'impersonalità fosse importante nell'opera.
 
-Caratteristica Verchiana è la concezione dell'ostrica presente in tutte le sue opere.
+Caratteristica Verghiana è la concezione dell'ostrica presente in tutte le sue opere.
 
 ## Differenze tra naturalismo e verismo
 
 Naturalismo:
 - realtà descritta è quella delle grandi città francesci nello sviluppo del capitalismo industriale
-- 
+- La società è regolata da leggi scientifiche che determinaono i comportamenti umani
+- la letteratura ha la funzione di far conoscere e denunciare i 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDUwNTE0MiwxMDYwNDE0MjUwLC04MD
-MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
+eyJoaXN0b3J5IjpbLTEwODc5NzEwLDEwNjA0MTQyNTAsLTgwMz
+E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
