@@ -94,8 +94,11 @@ Ricerche sulle scienze umane:
 1905: Teoria della relatività:
 - Effetto immediato sulla cultura popolare e sulla concezione del tempo 
 - Sviluppi diretti nel campo della fisica
-- Equivalenza 
+
+## Caratteri del Decadentismo
+
+La 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTA5NTY0LDUwNDQxNTMwNCwtMTczMT
-YyNTY0NV19
+eyJoaXN0b3J5IjpbLTU4MTY4NzQ5MSwxNzA5MDk1NjQsNTA0ND
+E1MzA0LC0xNzMxNjI1NjQ1XX0=
 -->
