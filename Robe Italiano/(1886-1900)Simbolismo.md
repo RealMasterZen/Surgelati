@@ -11,6 +11,8 @@ Il Precursore del simbolismo fu: **Charles Boudelaire**
 
 Alla base della poetica di Baudelaire c'è la poetica delle corrispondenze 
 > L'uomo deve arrivare a scoprire il significato implicito delle cose
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTk2Mzg0MV19
+eyJoaXN0b3J5IjpbMTcwMTAzOTUxNywxOTQ1OTYzODQxXX0=
 -->
