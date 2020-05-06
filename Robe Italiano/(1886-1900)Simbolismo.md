@@ -43,8 +43,15 @@ Temi:
 **Charles Baudelaire**
 Nasce a parigi nel 1821
 il padre muore nel 1927
-madre si sposa con un u
+madre si sposa con un ufficiale
+a 18 anni riceve il patrimonio del padre ma a causa del suo tenore di vita sperpera molto denato
+
+messo sotto tutela notarile dal padre
+
+Inizia la carriera di giornalista e critico di arte e di musica
+
+Nel 1948 partecipa alla rivoluzione parigina 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc3NjcyMDMsMTcwMTAzOTUxNywxOT
+eyJoaXN0b3J5IjpbLTEyNzIwNjM2MTgsMTcwMTAzOTUxNywxOT
 Q1OTYzODQxXX0=
 -->
