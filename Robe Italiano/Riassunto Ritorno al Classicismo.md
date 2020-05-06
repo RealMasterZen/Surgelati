@@ -5,7 +5,8 @@ Un'altra forma di reazione al secondo Romanticismo fu rappresentata dal ritorno 
 Esso era estraneo all'ansia di anticonformismo e di ribellione dei poeti maledetti.
 Fuse infatti nella sua opera realismo e rigore formale con grande attenzione non solo alla tradizione letterara più illustre ma anche alla moderna poesia europea, sopratutto quella di Victor Hugo e Heinrich Heine.
 
+**Carducci fu in gioventu un antiromantico, antimanzoniano , repubblicano e anticlericale, ma, col tempo, si fece sostenitore della causa monarchica e **volle assumere il ruolo di poeta vate, interprete dei valori di una lunga tradizione storico culturale italiana**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0Mzg4MjAsLTE1NjUwMDA4MzgsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjk3NDg2OTIxLC0xNTY1MDAwODM4LDczMD
+k5ODExNl19
 -->
