@@ -103,8 +103,15 @@ I concetti principali sono:
 - rifiuto di una matrice positivista
 - rifiuto di un impegno sociale da parte dell'artista
 - arte deve essere un valore assoluto
-- Eccezzionalità dell'art
+- Eccezionalità dell'artista:
+	- veggente
+	- esteta: il culto dell'erte portato oltre ogni vincolo
+	- superuomo
+
+## Temi della Letteratura Decadente
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMzY3MjMzLDE3MDkwOTU2NCw1MDQ0MT
-UzMDQsLTE3MzE2MjU2NDVdfQ==
+eyJoaXN0b3J5IjpbOTkwNTMyMDYsMTcwOTA5NTY0LDUwNDQxNT
+MwNCwtMTczMTYyNTY0NV19
 -->
