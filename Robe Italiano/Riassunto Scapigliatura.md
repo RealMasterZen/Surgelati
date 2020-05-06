@@ -1,6 +1,7 @@
 # Riassunto Scapigliatura
 
-**Movimento italiano influenzato dai *bohemien** esso è molto breve e da molti viene riconosc
+**Movimento italiano influenzato dai bohemien** esso è molto breve e da molti viene riconosciuto addirittura come una tendenza poetica.
+Questo vive e muore in Italia esattamente in mezzo alla borghesia cittadina di Milano e Bologna
 
 il gruppo di artisti era fondamentalmente eterogeneo:
 - Identificazione tra arte e vita
@@ -9,7 +10,7 @@ il gruppo di artisti era fondamentalmente eterogeneo:
 
 - forme e contenuti anticonformisti e scandalosi
 
-- contribuirono a sprovincializzare la cultura italiana introducendo temi quali:
+- contribuirono a sprovincializzare la cultura italiana introducendo **temi** quali:
 	- il macabro
 	
 	- l'umorismo nero
@@ -23,7 +24,7 @@ il movimento prese esempio da scrittori quali:
 - **Edgar allan Poe**
 - **Baudelaire**
 
-i testi sono ispirati da:
+i **testi sono ispirati da**:
 - Esperienze di vita quotidiana
 
 - Anticonformismo e ribellione contro la società borghese benpensante
@@ -48,5 +49,5 @@ i testi sono ispirati da:
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzcyODEzLDE1MjU3MjI2OTldfQ==
+eyJoaXN0b3J5IjpbLTE3MzU4MDU2NjQsMTUyNTcyMjY5OV19
 -->
