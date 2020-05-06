@@ -59,8 +59,11 @@ La narrativa quindi ome già detto cerca di rappresentare più concretamente la 
 Il naturalismo è una corrente letteraria che nasce alla fine della seconda metà dell'800 il cui esponente principale fu Emile Zola.
 
 Nel 1880 compose il Romanzo Sperimentale:
+Esso era un saggio ed era inoltre considerato il vero e proprio manifesto del Naturalismo.
 
+Contenuto:
+- il romanziere doveva essere come lo scienziato: osservatore e sperimentatore, considera inoltre l'arte con la riproduzioene offettiva del reale governata dalle leggi dellla natura, rivendica l'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDIxMjMyMiwxMDYwNDE0MjUwLC04MD
+eyJoaXN0b3J5IjpbMjEzNDU3MTk5NCwxMDYwNDE0MjUwLC04MD
 MxODk4MTksMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
 -->
