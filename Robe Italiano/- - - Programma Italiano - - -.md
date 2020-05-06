@@ -12,7 +12,7 @@
 	- *L'Assormoir*
 
 ### - - - UNITA' 2 - - - 
- **Giovanni Verga**: il Verismo tipico Verghiano
+ **Giovanni Verga**(guarda libro p 60): il Verismo tipico Verghiano
 	- Vita dei Campi
 	- Malavoglia
 	- Novelle Rusticane
@@ -66,6 +66,6 @@ L'allegria
 Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQzNTY3NTcsLTE3OTAzODU2NzksMT
-U2NDA5Nzc4NF19
+eyJoaXN0b3J5IjpbOTg5OTMyNDk4LC0xNTk0MzU2NzU3LC0xNz
+kwMzg1Njc5LDE1NjQwOTc3ODRdfQ==
 -->
