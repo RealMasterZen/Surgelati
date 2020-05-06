@@ -11,15 +11,15 @@
 - E'mile Zola: il romanzo sperimentale(1880)
 	- *L'Assormoir*
 
-
 ### - - - UNITA' 2 - - - 
- **Giovanni Verga**: il Verismo tipico verghiano
+ **Giovanni Verga**: il Verismo tipico Verghiano
 	- Vita dei Campi
 	- Malavoglia
 	- Novelle Rusticane
 	- Mastro don Gesualdo
+
 ### - - - UNITA' 3	- - -
-**poesia e prosa in italia nel secondo ottocento**
+**poesia e prosa in Italia nel secondo ottocento**
 	- Scapigliatura
 	- Il ritorno al classicismo	
 
@@ -27,6 +27,7 @@
 - Emilio Praga
 - Iginio Ugo Tarchetti
 - Giosuè Carducci: ritorno al classicismo
+- 
 ### - - - UNITA' 4 - - -
 **Il Decadentismo**
 diffidenza dalla scienza 
@@ -65,6 +66,6 @@ L'allegria
 Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTYwMjY1NCwtMTc5MDM4NTY3OSwxNT
-Y0MDk3Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE1OTQzNTY3NTcsLTE3OTAzODU2NzksMT
+U2NDA5Nzc4NF19
 -->
