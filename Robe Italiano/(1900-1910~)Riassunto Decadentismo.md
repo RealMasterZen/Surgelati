@@ -110,8 +110,9 @@ I concetti principali sono:
 
 ## Temi della Letteratura Decadente
 
-
+- rifiuto dei valori borghesi e delle convenzioni di questi ultimi
+- Malattia e morte sono consie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNTMyMDYsMTcwOTA5NTY0LDUwNDQxNT
-MwNCwtMTczMTYyNTY0NV19
+eyJoaXN0b3J5IjpbLTEzMzQzNDg4NzQsMTcwOTA5NTY0LDUwND
+QxNTMwNCwtMTczMTYyNTY0NV19
 -->
