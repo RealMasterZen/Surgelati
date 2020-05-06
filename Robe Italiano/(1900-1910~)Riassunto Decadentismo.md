@@ -52,6 +52,14 @@ Opere Portavoce del movimento:
 **Concetto Principale**
 
 Messa in discussione del pensiero positivista
+
+- Nietzshe:
+	- Nega l'universalità e la certezza di qualsiasi principio
+	- Crisi nella fiducia nella ragione e nel progresso
+	- Indaga con lo scopo di distruggere le vecchie credenze
+> Opere:
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NDE1MzA0LC0xNzMxNjI1NjQ1XX0=
+eyJoaXN0b3J5IjpbMTg1MzI1MjIxNiw1MDQ0MTUzMDQsLTE3Mz
+E2MjU2NDVdfQ==
 -->
