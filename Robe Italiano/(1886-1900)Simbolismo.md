@@ -38,8 +38,13 @@ Temi:
 - Il poeta deve trasmettere  impressioni indefinite, suscita emozioni e stati d'animo attraverso immagini e parole con molteplici significati
 
 **Rimbaud**: Il poeta deve indagare l'ignoto e penetrare a fondo nelle cose 
-- il poeta è veg
+- il poeta è veggente tramite il proprio disordine dei sensi.
+
+**Charles Baudelaire**
+Nasce a parigi nel 1821
+il padre muore nel 1927
+madre si sposa con un u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NzgyMzQ1LDE3MDEwMzk1MTcsMTk0NT
-k2Mzg0MV19
+eyJoaXN0b3J5IjpbLTEyMzc3NjcyMDMsMTcwMTAzOTUxNywxOT
+Q1OTYzODQxXX0=
 -->
