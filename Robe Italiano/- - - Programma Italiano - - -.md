@@ -35,6 +35,7 @@ diffidenza dalla scienza
 - Charles Boudelaire
 - Paul Verlaine
 - nietsche
+
 ### - - - UNITA' 6 - - -
  **Giovanni Bascoli**:
 	- Canti di Castelvecchio
@@ -66,6 +67,6 @@ L'allegria
 Il porto sepolto 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5OTMyNDk4LC0xNTk0MzU2NzU3LC0xNz
-kwMzg1Njc5LDE1NjQwOTc3ODRdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg0MTYyOCw5ODk5MzI0OTgsLTE1OT
+QzNTY3NTcsLTE3OTAzODU2NzksMTU2NDA5Nzc4NF19
 -->
