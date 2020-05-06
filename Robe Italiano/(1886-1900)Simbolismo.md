@@ -35,8 +35,11 @@ Temi:
 - versi imparisillabi brevi e fluidi
 - gusto del vago e del malinconico
 - effetti fonici per sensazioni immateriali
-- Il poeta deve trasmettere  impressioni indefinite, suscita emozioni e stati d'an
+- Il poeta deve trasmettere  impressioni indefinite, suscita emozioni e stati d'animo attraverso immagini e parole con molteplici significati
+
+**Rimbaud**: Il poeta deve indagare l'ignoto e penetrare a fondo nelle cose 
+- il poeta è veg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkzNzI4MDEsMTcwMTAzOTUxNywxOT
-Q1OTYzODQxXX0=
+eyJoaXN0b3J5IjpbNzc4NzgyMzQ1LDE3MDEwMzk1MTcsMTk0NT
+k2Mzg0MV19
 -->
