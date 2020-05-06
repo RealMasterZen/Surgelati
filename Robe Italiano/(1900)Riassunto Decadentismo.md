@@ -27,7 +27,9 @@ Tali orientamenti si svilupparono creando quello che fu il movimento poetico Dec
 
 # Decadentismo
 
-Termine utilizzato dalla critica per indicare una nuova generazione di poeti che incitavano al rifiuto della morale borghese e si ponevano continuamente al di fuori delle convenzioni
+Termine utilizzato dalla critica per indicare una nuova generazione di poeti che incitavano al rifiuto della morale borghese e si ponevano continuamente al di fuori delle convenzioni.
+
+La percezione (anche secondo Verlain nella lirica Languore) di un epoca ormai al tramonto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTg5MzU0NF19
+eyJoaXN0b3J5IjpbLTE3MzE2MjU2NDVdfQ==
 -->
