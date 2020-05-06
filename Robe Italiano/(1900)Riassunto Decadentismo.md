@@ -9,7 +9,8 @@ Per l'appunto ci fu nell'artista una nuova moralità:
 - Eccezionalità dell'artista
 - Ripiegamento verso una dimensione interiore
 - Disinteressamento vero i temi sociali e politici
-- 
+
+Tutto ciò fece arrivare la società dei poeti a sviluppare una nuova sensibilità basata sul rifiuto della sensibilità Naturalista e Realista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDg2NTk5NF19
+eyJoaXN0b3J5IjpbMTM2NTg3MTQyMF19
 -->
