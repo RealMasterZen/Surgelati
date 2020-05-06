@@ -83,11 +83,12 @@ Esistono 2 modi di conoscere:
 Ricerche sulle scienze umane:
 - Interpretazione dei sogni
 - Psicoanalisi: Cura dei disturbi mentali e delle psicosi a partire dall'inconscio
-	- Es: pulsioni e istinti più profondi
-	- Super-Io
-	- Io: Parte cosciente e identità il che rappresenta una mediazione tra Es e super io
-	- Super-Io
+	- **Es**: pulsioni e istinti più profondi
+	- **Super-Io**: regole e insegnamenti che infliggono delle repressioni sull'io
+	- **Io**: Parte cosciente e identità il che rappresenta una mediazione tra Es e super io
+- Analisi dell'inconscio: processi psichici sotto la soglia della coscienza
+	- Essere umano guidato anche da forze profonde e inconscie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcyNDAyMjUsNTA0NDE1MzA0LC0xNz
+eyJoaXN0b3J5IjpbLTEyMDc2ODY4NzQsNTA0NDE1MzA0LC0xNz
 MxNjI1NjQ1XX0=
 -->
