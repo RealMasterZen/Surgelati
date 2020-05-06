@@ -68,8 +68,17 @@ nel 1861 - Seconda Edizione:
 Le liriche rappresentano una specie di autobiografia ideale - percorso esistenziale 
 caratterizzato dalla noia e il disgusto per la realtà quotidiana
 
-**Nuovo Linguaggio**: solo l'arte è in grado di generare 
+**Nuovo Linguaggio**: solo l'arte è in grado di generare bellezza
+
+il poeta è un angelo caduto, questo infatti intuisce il secondo significato della realtà guardandolo con il filtro del proprio animo
+
+per poter rivelarla agli esseri comuni questo deve provvedere all'utilizzo di un linguaggio artificioso
+
+**Temi**:
+- lessico ricchissimo di 
+	- parole chiave
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzU0NDUyOSwxNzAxMDM5NTE3LDE5ND
-U5NjM4NDFdfQ==
+eyJoaXN0b3J5IjpbNzg0Mzg1MzQ2LDE3MDEwMzk1MTcsMTk0NT
+k2Mzg0MV19
 -->
