@@ -76,9 +76,14 @@ per poter rivelarla agli esseri comuni questo deve provvedere all'utilizzo di un
 
 **Temi**:
 - lessico ricchissimo di 
-	- parole chiave
-	- 
+	- parole chiave capaci di rivelare l'interiorità del poeta:
+		- cielo 
+		- terra 
+		- paradiso
+		- inferno
+		- sogno
+- Evasione della realtà per il raggiungimento di un paradiso artificiale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0Mzg1MzQ2LDE3MDEwMzk1MTcsMTk0NT
+eyJoaXN0b3J5IjpbOTgyNTc3ODI3LDE3MDEwMzk1MTcsMTk0NT
 k2Mzg0MV19
 -->
