@@ -100,9 +100,15 @@ Caratteristica Verghiana è la concezione dell'ostrica presente in tutte le sue 
 
 Naturalismo:
 - realtà descritta è quella delle grandi città francesci nello sviluppo del capitalismo industriale
+
 - La società è regolata da leggi scientifiche che determinaono i comportamenti umani
-- la letteratura ha la funzione di far conoscere e denunciare i 
+
+- la letteratura ha la funzione di far conoscere e denunciare i  fatti critici a scopo di migliorare la realtà analizzata
+
+- l'autore è uno scrittore impegnato che, pur dall'esterno giudica la realtà che descrive
+
+- la tecnica narrativa si basa sull'impersonalità, l'autore come uno sci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc5NzEwLDEwNjA0MTQyNTAsLTgwMz
+eyJoaXN0b3J5IjpbMzY4ODc2NzAwLDEwNjA0MTQyNTAsLTgwMz
 E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
