@@ -26,6 +26,8 @@ Tali orientamenti si svilupparono creando quello che fu il movimento poetico Dec
 - Estetismo
 
 # Decadentismo
+
+Termine utilizzato dalla critica per indicare una nuova generazione di poeti che incitavano al rifiuto della morale borghese e si ponevano continuamente al di fuori delle convenzioni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYxNTQ5NjJdfQ==
+eyJoaXN0b3J5IjpbLTMzNTg5MzU0NF19
 -->
