@@ -9,8 +9,10 @@ Fuse infatti nella sua opera realismo e rigore formale con grande attenzione non
 
 **Carducci** fu in gioventu un antiromantico, antimanzoniano , repubblicano e anticlericale, ma, col tempo, si fece sostenitore della causa monarchica e **volle assumere il ruolo di poeta vate, interprete dei valori di una lunga tradizione storico culturale italiana**.
 
-## Prati
+## Praticamente
+
+Carducci contrariamente agli altri movimenti letterari dell'epoca post unitaria, o comunque dopo la seconda rivoluzione industriale cerca di evadere dalla realtà che gli stava "scomoda" attraverso il ritorno alla realtà dei classici appoggiandosi a queste per evadere dal clima positivista
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDg1NjIyNywtMTk4OTYyMzkwMCwtMT
+eyJoaXN0b3J5IjpbMTU0NTc1Njg2MCwtMTk4OTYyMzkwMCwtMT
 U2NTAwMDgzOCw3MzA5OTgxMTZdfQ==
 -->
