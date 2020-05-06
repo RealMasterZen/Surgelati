@@ -44,7 +44,10 @@ Opere Portavoce del movimento:
 
 ## Fondamenti Filosofici del movimento letterario
 
-- Ni
+- **Nietzshe: il soggetto al centro dell'indagine filosofica
+- Bergson: riflessione sull'intuizione di una persona e sulla concezione del tempo
+- Freud: Vedere l'io come pensiero e coscienza di una persona a un livello marginale con l'intervento del super io
+- Einstein: Questo sconvolge la concezione assoluta di spazio e tempo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzA1ODcwLC0xNzMxNjI1NjQ1XX0=
+eyJoaXN0b3J5IjpbNjIyMTg4MDQ2LC0xNzMxNjI1NjQ1XX0=
 -->
