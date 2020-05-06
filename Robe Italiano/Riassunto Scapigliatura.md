@@ -45,9 +45,8 @@ i **testi sono ispirati da**:
 		- interesse per la realtà desolata della vita moderna
 
 - **Arrigo Boito**: Re Orso(1870)
-	- testi caratterizzati da umorsmo grottesco macabro
-	- 
+	- testi caratterizzati da umorismo grottesco macabro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU4MDU2NjQsMTUyNTcyMjY5OV19
+eyJoaXN0b3J5IjpbLTY4NDcyMTIyMCwxNTI1NzIyNjk5XX0=
 -->
