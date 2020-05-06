@@ -54,7 +54,7 @@ Madame Bovary rappresenta un prenaturalismo.
 
 La narrativa quindi ome già detto cerca di rappresentare più concretamente la reltà e di inserire quest'ultima in un contesto sociale e storico il più accurato possibile.
 
-## naturalismo
+## Naturalismo in Francia
 
 Il naturalismo è una 
 **corrente letteraria che nasce alla fine della seconda metà dell'800**
@@ -67,14 +67,16 @@ Nel **1880 compose il Romanzo Sperimentale**:
 Esso era un saggio ed era inoltre considerato il vero e proprio **manifesto del Naturalismo**.
 
 Contenuto:
-- il **romanziere doveva essere come lo scienziato: osservatore e sperimentatore, considera inoltre l'arte con la riproduzioene offettiva del reale governata dalle leggi dellla natura, rivendica l'impegno morale delloo scrittore che mettendo in luce le cause dei fenomeni sociale deve indurre la società stessa ad intervenire per modificarli e miglirarli.
+- il **romanziere** doveva essere come lo **scienziato**: osservatore e sperimentatore, considera inoltre l'arte con la riproduzione effettiva del reale governata dalle leggi della natura, rivendica l'impegno morale dello scrittore che **mettendo in luce le cause dei fenomeni sociale** deve indurre la società stessa ad intervenire per modificarli e migliorarli.
 
-- Lo scrittore deve situare i personaggi e le loro caratteristiche "genetiche" in un preciso contesto sociale ed osservare gli sviluppi
+- Lo **scrittore deve situare i personaggi e le loro caratteristiche "genetiche" in un preciso contesto sociale** ed osservare gli sviluppi
 
-- L'arte deve essere Impersonale e ò'opera deve apparire come se fosse stata fatta da se.
+- **L'arte deve essere Impersonale** e **l'opera** deve apparire come se fosse stata **fatta da se**.
 
-- Deve esistere l'esigenza di Denunciare le situazioni critiche, le brutture della nuova società, le condizioni di vita del proletario urbano.
+- Deve esistere l'esigenza di **Denunciare le situazioni critiche**, le brutture della nuova società, le condizioni di vita del proletario urbano.
+
+# Verismo in Italia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIxNTIyNzQsMTA2MDQxNDI1MCwtOD
-AzMTg5ODE5LDE1NzM4NTM4OTMsMTkwNTk4MjU2MV19
+eyJoaXN0b3J5IjpbODkyODgxMjg3LDEwNjA0MTQyNTAsLTgwMz
+E4OTgxOSwxNTczODUzODkzLDE5MDU5ODI1NjFdfQ==
 -->
