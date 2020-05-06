@@ -50,8 +50,17 @@ messo sotto tutela notarile dal padre
 
 Inizia la carriera di giornalista e critico di arte e di musica
 
-Nel 1948 partecipa alla rivoluzione parigina 
+Nel 1948 partecipa alla rivoluzione parigina dove fa la vita da Dandy dove è attanagliato dai debiti e quindi si da alla vita metropolitana 
+Evade quindi dai problemi attraverso l'alchol e la droga 
+
+Nel 1857 Scrive i Fiori del Male - una lirica moderna
+
+nel 1862 Pubblic Speel di Parigi
+
+nel 1867 Muore di paralisi
+
+**I**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIwNjM2MTgsMTcwMTAzOTUxNywxOT
+eyJoaXN0b3J5IjpbLTE0MzgwMTIxMDcsMTcwMTAzOTUxNywxOT
 Q1OTYzODQxXX0=
 -->
