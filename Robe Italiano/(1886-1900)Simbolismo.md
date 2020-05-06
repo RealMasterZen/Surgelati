@@ -53,14 +53,17 @@ Inizia la carriera di giornalista e critico di arte e di musica
 Nel 1948 partecipa alla rivoluzione parigina dove fa la vita da Dandy dove è attanagliato dai debiti e quindi si da alla vita metropolitana 
 Evade quindi dai problemi attraverso l'alchol e la droga 
 
-Nel 1857 Scrive i Fiori del Male - una lirica moderna
+Nel 1857 Scrive i **Fiori del Male** - una lirica moderna
 
 nel 1862 Pubblic Speel di Parigi
 
 nel 1867 Muore di paralisi
 
-**I**
+**Fiori del Male**
+Esso è una Raccolta di liriche, molte già presenti in alcune riviste francesi
+
+nel 1861 - Seconda Edizi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgwMTIxMDcsMTcwMTAzOTUxNywxOT
-Q1OTYzODQxXX0=
+eyJoaXN0b3J5IjpbMTE1OTU3MTk2NiwxNzAxMDM5NTE3LDE5ND
+U5NjM4NDFdfQ==
 -->
