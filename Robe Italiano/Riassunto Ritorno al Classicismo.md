@@ -11,8 +11,10 @@ Fuse infatti nella sua opera realismo e rigore formale con grande attenzione non
 
 ## Praticamente
 
-Carducci contrariamente agli altri movimenti letterari dell'epoca post unitaria, o comunque dopo la seconda rivoluzione industriale cerca di evadere dalla realtà che gli stava "scomoda" attraverso il ritorno alla realtà dei classici appoggiandosi a queste per evadere dal clima positivista
+Carducci contrariamente agli altri movimenti letterari dell'epoca post unitaria, o comunque dopo la seconda rivoluzione industriale cerca di evadere dalla realtà che gli stava "scomoda" attraverso il ritorno alla realtà dei classici appoggiandosi a queste per evadere dal clima positivista, per questo motivo da alcuni critici viene caratterizzato come leggermente filo romantico.
+
+Questo era professore di italiano e contemporaneamente poeta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTc1Njg2MCwtMTk4OTYyMzkwMCwtMT
-U2NTAwMDgzOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNzcyOTk0MTEsLTE5ODk2MjM5MDAsLT
+E1NjUwMDA4MzgsNzMwOTk4MTE2XX0=
 -->
