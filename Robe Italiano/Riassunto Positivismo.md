@@ -1,6 +1,8 @@
 # Riassunto Positivismo 
 
-La cultura euro
+Cultura europea della 2nd metà dell 80
+Dominata dal Positivismo, indirizzo di penisero nato in Fran
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzg1Mzg5MywxOTA1OTgyNTYxXX0=
+eyJoaXN0b3J5IjpbMzczNDQ4NjE3LDE1NzM4NTM4OTMsMTkwNT
+k4MjU2MV19
 -->
