@@ -53,7 +53,7 @@ Opere Portavoce del movimento:
 
 Messa in discussione del pensiero positivista
 
-**Nietzshe**:
+**- - - Nietzshe - - -**
 
 - Nega l'universalità e la certezza di qualsiasi principio
 
@@ -66,8 +66,10 @@ Messa in discussione del pensiero positivista
 
 In questa Opera vede un uomo libero da ogni condizionamento ed egli è votato all'espressione delle proprie infinite possibilità
 
+**- - - Henri Bergson - - -**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg4MDY4OTcsNTA0NDE1MzA0LC0xNz
-MxNjI1NjQ1XX0=
+eyJoaXN0b3J5IjpbOTI1MDc4MjQ1LDUwNDQxNTMwNCwtMTczMT
+YyNTY0NV19
 -->
