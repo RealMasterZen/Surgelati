@@ -91,8 +91,11 @@ Ricerche sulle scienze umane:
 
 **- - - Einstein - - -**
 
-1905: Teoria della relatività
+1905: Teoria della relatività:
+- Effetto immediato sulla cultura popolare e sulla concezione del tempo 
+- Sviluppi diretti nel campo della fisica
+- Equivalenza 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzODM3MzM1LDUwNDQxNTMwNCwtMTczMT
+eyJoaXN0b3J5IjpbMTcwOTA5NTY0LDUwNDQxNTMwNCwtMTczMT
 YyNTY0NV19
 -->
