@@ -18,7 +18,8 @@ dopo il *Manifesto del Futurismo* Marinetti e la sua cerchia pubblicarono una 20
 
 Tra i più importanti ricordiamo:
 - Uccidiamo il chiaro di luna(1909) in cui viene teorizzato il ricorso alla guerra come rimedio per la distruzione dei residui del passato 
-- Manifesto tecnico della letteratu
+- Manifesto tecnico della letteratura futurista raccoglieva alcuni degli elementi costitutivi della nuova letteratura.
+- L'imaginazione senza fili e le parole in libertà che 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjA4NjcxM119
+eyJoaXN0b3J5IjpbLTEwMzY3MDQ0OTBdfQ==
 -->
