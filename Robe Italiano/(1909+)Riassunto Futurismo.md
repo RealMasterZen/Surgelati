@@ -5,7 +5,9 @@ nel *1909* **Filippo Tommaso marinetti** pubblica il manifesto del Futurismo, lo
 Nel manifesto erano elencati i motivi fondamentali del gruppo:
 - Rifiuto dei valori e del perbenismo della società borghese
 - Il culto della modernità
-- esaltazione degli ideali eroici, dell'aggressi
+- esaltazione degli ideali eroici, dell'aggressività, della violenza e a partire dal 1914 della guerra, capace di scuotere la società a partire dalle sue fondamenta.
+- gusto della provocazione, della sorpresa, nel dare spettacolo
+- 
 
 Il movimento culturale si basava sul movimento, la velocità, l'aggressività, la violenza e la guerra. Quest'ultima era considerata igene del mondo.
 
@@ -14,5 +16,5 @@ Il movimento culturale si basava sul movimento, la velocità, l'aggressività, l
 Tutta l'arte antica doveva essere svecchiata togliendo il passato e facendo passare solo il futuro, che nel caso erano i mezzi di trasporto ad alta velocità.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE4MjU3MTNdfQ==
+eyJoaXN0b3J5IjpbMjEwMDQ1MzIxNl19
 -->
