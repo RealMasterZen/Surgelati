@@ -39,7 +39,9 @@ Doveva essere distaccata dalla precedente stilizzazione classica della poesia.
 Essa doveva essere caratterizzata da versi liberi , nessuna convenzione che andava a legare le parole a specifiche lettere.
 Inoltre erano permesse e anzi ben accette le  libere associazioni tra immagini e parole.
 
-ll
+I principi furono esposti in modo programmatico nel Manifesto tecnico della letteratura furutirsta del 1912 d essi sono i seguenti:
+- Distruzione della sintassi ponendo i sostanti a caso, predil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODMyNjYxNiwtNzM5NDQ0ODI0XX0=
+eyJoaXN0b3J5IjpbLTIwNDMzNDQ2MzcsLTQ1ODMyNjYxNiwtNz
+M5NDQ0ODI0XX0=
 -->
