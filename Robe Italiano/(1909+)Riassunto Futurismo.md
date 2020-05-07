@@ -35,7 +35,8 @@ La poetica, come scritto nei 2 manifesti:
 - Uccidiamo il chiaro di luna 
 - Parole in libertà
 
-Doveva essere distaccata dalla precedente 
+Doveva essere distaccata dalla precedente stilizzazione classica della poesia.
+Essa doveva essere caratterizzata da versi liberi , nessuna convenzione che andava a legare le parole a specifiche lettere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI2ODU0OTQsLTczOTQ0NDgyNF19
+eyJoaXN0b3J5IjpbNDkwNjEzMTQ1LC03Mzk0NDQ4MjRdfQ==
 -->
