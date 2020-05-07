@@ -21,7 +21,7 @@ Tra i più importanti ricordiamo:
 - **Manifesto tecnico della letteratura futurista** raccoglieva alcuni degli elementi costitutivi della nuova letteratura.
 - **L'immaginazione senza fili e le parole in libertà** che indica il verso verso come la forma espressiva per eccellenza della poesia futurista e teorizza la centralità dell'analogia come fonte generativa della letteratura.
 
-
+La diffusione del futurismo è legata in particolare alle serate futuriste 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzY5OTU3MV19
+eyJoaXN0b3J5IjpbLTE0MTIyNTM3MzVdfQ==
 -->
