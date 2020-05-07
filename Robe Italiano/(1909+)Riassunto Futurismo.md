@@ -52,9 +52,13 @@ I principi furono esposti in modo programmatico nel Manifesto tecnico della lett
 
 Possiamo trovare un esempio di quest'ultima nei calligrammi di Apollineire che erano veri e propri  disegni fatti di parole.
 
+## Autori
 
+Marinetti 
+Palazzeschi 
+Papini 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg0OTc5MDgsLTQ1ODMyNjYxNiwtNz
-M5NDQ0ODI0XX0=
+eyJoaXN0b3J5IjpbLTg5NjY4MjEzNiwtNDU4MzI2NjE2LC03Mz
+k0NDQ4MjRdfQ==
 -->
