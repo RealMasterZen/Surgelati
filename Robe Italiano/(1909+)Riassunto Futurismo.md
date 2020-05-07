@@ -29,7 +29,10 @@ L'acerba conteneva materiale che propagandava per il futurism il manifesto di ma
 ## Carattere della letteratura Futurista 
 
 O futuristi si intraprendevano per andare contro quel movimento di ritorno ai classici tipico carduccian. 
-Essi infatti ripudiavano l'inserimento
+Essi infatti ripudiavano l'inserimento di una soggettività e di una componente intimistica all'interno della poesia e anzi esaltavano il culo del motore e dell'esplosione.
+
+++
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjYyMDcyNl19
+eyJoaXN0b3J5IjpbLTczOTQ0NDgyNF19
 -->
