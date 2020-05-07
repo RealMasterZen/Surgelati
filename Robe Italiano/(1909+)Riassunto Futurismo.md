@@ -54,11 +54,11 @@ Possiamo trovare un esempio di quest'ultima nei calligrammi di Apollineire che e
 
 ## Autori
 
-Marinetti 
-Palazzeschi 
-Papini 
+- Marinetti teorico del movimento, le idee dei suoi manifesti (già precedentemente trattati) trovano attuazione nella composizione ZangTumbTUmb, un poema che racconta in chiave futurista alcuni eventi della guerra tra Turchia e Bulgaria, a cui l'autore aveva assistito in qualità di cor 
+- Palazzeschi 
+- Papini 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjY4MjEzNiwtNDU4MzI2NjE2LC03Mz
+eyJoaXN0b3J5IjpbLTkzODM1MDk2NCwtNDU4MzI2NjE2LC03Mz
 k0NDQ4MjRdfQ==
 -->
