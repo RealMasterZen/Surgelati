@@ -47,8 +47,11 @@ I principi furono esposti in modo programmatico nel Manifesto tecnico della lett
 - Presenza di frasi slegate tra di loro dal punto di vista logico e il ricorso ad accostamenti analogici il più possibile liberi secondo il principio dell'immaginazione senza fili
 - Abbandono della metrica e del ritmo e di tutte le convenzioni linguistiche e stilistiche che caratterizzavano la poesia italiana
 - Adozione del verso libero
-- Ricorso a suoni onomatopeici evocativi di situazioni 
+- Ricorso a suoni onomatopeici evocativi di situazioni particolari
+- sconvolgimento dell'aspetto grafico della pagina mediante l'uso di caratteri topografici diversi e la sostituzione della punteggiatura con segni matematici.
+	- Possiamo trovare un esempio di quest'ultima nei calligrammi di apollineire.
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDU5NDQyMiwtNDU4MzI2NjE2LC03Mz
-k0NDQ4MjRdfQ==
+eyJoaXN0b3J5IjpbNTM3Njg4MzI5LC00NTgzMjY2MTYsLTczOT
+Q0NDgyNF19
 -->
