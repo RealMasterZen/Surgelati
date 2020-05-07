@@ -49,9 +49,12 @@ I principi furono esposti in modo programmatico nel Manifesto tecnico della lett
 - Adozione del verso libero
 - Ricorso a suoni onomatopeici evocativi di situazioni particolari
 - sconvolgimento dell'aspetto grafico della pagina mediante l'uso di caratteri topografici diversi e la sostituzione della punteggiatura con segni matematici.
-	- Possiamo trovare un esempio di quest'ultima nei calligrammi di apollineire.
-	- 
+
+Possiamo trovare un esempio di quest'ultima nei calligrammi di Apollineire che erano veri e propri  disegni fatti di parole.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3Njg4MzI5LC00NTgzMjY2MTYsLTczOT
-Q0NDgyNF19
+eyJoaXN0b3J5IjpbLTEyMzg0OTc5MDgsLTQ1ODMyNjYxNiwtNz
+M5NDQ0ODI0XX0=
 -->
