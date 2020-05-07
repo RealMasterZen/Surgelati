@@ -25,6 +25,11 @@ La diffusione del futurismo è legata in particolare alle serate futuriste che m
 
 Un altro ruolo mportante nella diffusione dei concetti e pensieri del futurismo fu attuata dalla rivista L'Acerba, fondata da Papini, Palazzeschi e Soffici, essa nacque principalemente per contrastare l'azione della rivista antagonista "Voce".
 L'acerba conteneva materiale che propagandava per il futurism il manifesto di marinetti e infine il carattere era quello dell'abbandono dei classici con l'esaltazione della violenza, dell'esplosione e della forza distruttrice.
+
+## Carattere della letteratura Futurista 
+
+O futuristi si intraprendevano per andare contro quel movimento di ritorno ai classici tipico carduccian. 
+Essi infatti ripudiavano l'inserimento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMTA1OTZdfQ==
+eyJoaXN0b3J5IjpbLTU4NjYyMDcyNl19
 -->
