@@ -31,8 +31,11 @@ L'acerba conteneva materiale che propagandava per il futurism il manifesto di ma
 O futuristi si intraprendevano per andare contro quel movimento di ritorno ai classici tipico carduccian. 
 Essi infatti ripudiavano l'inserimento di una soggettività e di una componente intimistica all'interno della poesia e anzi esaltavano il culo del motore e dell'esplosione.
 
-++
+La poetica, come scritto nei 2 manifesti:
+- Uccidiamo il chiaro di luna 
+- Parole in libertà
 
+Doveva essere distaccata dalla precedente 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTQ0NDgyNF19
+eyJoaXN0b3J5IjpbLTEyMTI2ODU0OTQsLTczOTQ0NDgyNF19
 -->
