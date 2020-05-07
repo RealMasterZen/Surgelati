@@ -36,7 +36,10 @@ La poetica, come scritto nei 2 manifesti:
 - Parole in libertà
 
 Doveva essere distaccata dalla precedente stilizzazione classica della poesia.
-Essa doveva essere caratterizzata da versi liberi , nessuna convenzione che andava a legare le parole a specifiche lettere
+Essa doveva essere caratterizzata da versi liberi , nessuna convenzione che andava a legare le parole a specifiche lettere.
+Inoltre erano permesse e anzi ben accette le  libere associazioni tra immagini e parole.
+
+ll
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNjEzMTQ1LC03Mzk0NDQ4MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ1ODMyNjYxNiwtNzM5NDQ0ODI0XX0=
 -->
