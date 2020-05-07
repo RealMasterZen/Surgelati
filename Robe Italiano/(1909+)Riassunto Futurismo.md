@@ -3,12 +3,9 @@
 nel *1909* **Filippo Tommaso marinetti** pubblica il manifesto del Futurismo, lo esegue in francia perchè questa era il loco dove molte culture andavano a scontrarsi e quindi era culturalmente aperto.
 
 Nel manifesto erano elencati i motivi fondamentali del gruppo:
-- culto progresso tecnico
-- culto della macchina
-- culto della velocità
-- culto del prodotto industriale
-- culto dell'aggressività, violenza, guerra
-- rifiuto del passato e della tradizione accademica 
+- Rifiuto dei valori e del perbenismo della società borghese
+- Il culto della modernità
+- esaltazione degli ideali eroici, dell'aggressi
 
 Il movimento culturale si basava sul movimento, la velocità, l'aggressività, la violenza e la guerra. Quest'ultima era considerata igene del mondo.
 
@@ -17,5 +14,5 @@ Il movimento culturale si basava sul movimento, la velocità, l'aggressività, l
 Tutta l'arte antica doveva essere svecchiata togliendo il passato e facendo passare solo il futuro, che nel caso erano i mezzi di trasporto ad alta velocità.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTg5NTI2NF19
+eyJoaXN0b3J5IjpbLTE0MzE4MjU3MTNdfQ==
 -->
