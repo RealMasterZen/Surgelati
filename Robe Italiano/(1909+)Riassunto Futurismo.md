@@ -40,8 +40,12 @@ Essa doveva essere caratterizzata da versi liberi , nessuna convenzione che anda
 Inoltre erano permesse e anzi ben accette le  libere associazioni tra immagini e parole.
 
 I principi furono esposti in modo programmatico nel Manifesto tecnico della letteratura furutirsta del 1912 d essi sono i seguenti:
-- Distruzione della sintassi ponendo i sostanti a caso, predil
+- Distruzione della sintassi ponendo i sostanti a caso, prediligendo l'espressività alla correttezza formale
+- Utilizzo dei verbi all'infinito
+- Abolizione dell'aggettivo e dell'avverbio
+- Abolizione della punteggiatura
+- Presenza di frasi slegate tra di loro dal punto di vista logico e il r
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMzNDQ2MzcsLTQ1ODMyNjYxNiwtNz
+eyJoaXN0b3J5IjpbLTExMjY4MjcxNDAsLTQ1ODMyNjYxNiwtNz
 M5NDQ0ODI0XX0=
 -->
