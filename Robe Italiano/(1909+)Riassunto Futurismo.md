@@ -55,10 +55,11 @@ Possiamo trovare un esempio di quest'ultima nei calligrammi di Apollineire che e
 ## Autori
 
 - Marinetti teorico del movimento, le idee dei suoi manifesti (già precedentemente trattati) trovano attuazione nella composizione ZangTumbTUmb, un poema che racconta in chiave futurista alcuni eventi della guerra tra Turchia e Bulgaria, a cui l'autore aveva assistito in qualità di corrispondente. 
-- Palazzeschi fervido partecipe alle serate futuriste esso declamò in una serata le sue poesie *Fontana malata* e *Orologio* scatenando una violenta reazione da parte del pubblico 
+- Palazzeschi fervido partecipe alle serate futuriste esso declamò in una serata le sue poesie *Fontana malata* e *Orologio* scatenando una violenta reazione da parte del pubblico.
 - Papini 
+- Soffici
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMyMjk0NDEsLTQ1ODMyNjYxNiwtNz
+eyJoaXN0b3J5IjpbLTIwODc5MTE5NDcsLTQ1ODMyNjYxNiwtNz
 M5NDQ0ODI0XX0=
 -->
