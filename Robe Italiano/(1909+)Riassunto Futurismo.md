@@ -14,7 +14,10 @@ Il movimento culturale si basava sul movimento, la velocità, l'aggressività, l
 
 ## Opere del Futurismo
 
-dopo il *Manifesto del Futurismo* 
+dopo il *Manifesto del Futurismo* Marinetti e la sua cerchia pubblicarono una 20 di altri manifesti che reinterpretavano la realtà sotto la chiave di interpretazione futurista.
+
+Tra i più importanti ricordiamo:
+- Uccidiamo il chiaro di luna(1909) in cui viene teorizzato il ricorso alla guerra come rimedio e la ricostruzione del passato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODQzMzAxN119
+eyJoaXN0b3J5IjpbLTIyNTUxODg0Ml19
 -->
