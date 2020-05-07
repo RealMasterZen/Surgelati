@@ -23,7 +23,8 @@ Tra i più importanti ricordiamo:
 
 La diffusione del futurismo è legata in particolare alle serate futuriste che miravano a colpire e scandalizzare il pubblico provocando una reazione da parte dei giornali e comparire in queste suddette testate giornalistiche. Queste azioni e combattimenti tra avversari creavano vero e proprio clamore mediatico.
 
-Un altro ruolo mportante nella diffusione dei concetti e pensieri del futurismo fu attuata dalla rivista L'Acerba, fondata da Papini, Palazzeschi e Soffici
+Un altro ruolo mportante nella diffusione dei concetti e pensieri del futurismo fu attuata dalla rivista L'Acerba, fondata da Papini, Palazzeschi e Soffici, essa nacque principalemente per contrastare l'azione della rivista antagonista "Voce".
+L'acerba conteneva critiche letterearie sulle opere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQzNDY4MjRdfQ==
+eyJoaXN0b3J5IjpbLTg5ODU1NzY1OF19
 -->
