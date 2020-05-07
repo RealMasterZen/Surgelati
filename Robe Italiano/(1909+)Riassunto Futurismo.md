@@ -12,7 +12,9 @@ Nel manifesto erano elencati i motivi fondamentali del gruppo:
 
 Il movimento culturale si basava sul movimento, la velocità, l'aggressività, la violenza e la guerra. Quest'ultima era considerata igene del mondo.
 
+## Opere del Futurismo
 
+dopo il *Manifesto del Futurismo* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDQxNjg3MV19
+eyJoaXN0b3J5IjpbLTkyODQzMzAxN119
 -->
