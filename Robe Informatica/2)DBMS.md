@@ -65,7 +65,10 @@ Questo livello mette a disposizione l'apposito linguaggio
 - **Livello Logico(o concettuale)**
 Che rappresenta la struttura globale del database.
 In questo troviamo il **database logico**, costituito dalla rappresentazione astratta del database.
+il DBMS mette a disposizione di questo livello il linguaggio:
+> **DDL**
+> Che è utilizzato per descrivere le caratteristiche delle categorie di dati presenti nel database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM3MjYwOTIsMTc1MTgwMTg1NiwyMD
+eyJoaXN0b3J5IjpbLTIwMTY0NTQ3NDEsMTc1MTgwMTg1NiwyMD
 I1OTI3NjQwLC0yMzM4OTM2NzMsNjc4NjgxMDUxXX0=
 -->
