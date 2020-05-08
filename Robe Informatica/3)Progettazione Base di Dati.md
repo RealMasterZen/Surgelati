@@ -53,10 +53,10 @@ il valore vero e proprio dell'attributo
 possibilità del valore di non essere sempre valorizzato
 
 Gli attributi possono a loro volta essere:
-- **Semplici** se composti da 
-- **Composti**
-- **Multipli**
+- **Semplici** se composti da un solo dato atomico
+- **Composti** se composti da un insieme di ulteriori attributi o semplici o a loro volta composti
+- **Multi-valore** se consiste in un insieme di informa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2OTQwNjg4LC0xNDExMjIwNTUzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEyOTQ0ODcxMywtMTQxMTIyMDU1MywtMj
+A4ODc0NjYxMl19
 -->
