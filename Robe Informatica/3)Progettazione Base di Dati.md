@@ -41,10 +41,14 @@ Ogni singolo esemplare, o situazione probabile identificata da una certa posizio
 - - - 
 Le caratteristiche delle entità sono descritte attraverso degli **attributi**, ogni attributo è costituito da:
 -  **Nome**
-Nome dell'attributo
+Nome indicativo dell'attributo
 - **Formato//Tipo**
+Il tipo specifico dell'attributo
 - **Dimensione**
+la quantità massima di cifre inseribili
+- **Valore** 
+i valori
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyOTgwNDU3LC0xNDExMjIwNTUzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTcxNDUwMzc3NywtMTQxMTIyMDU1MywtMj
+A4ODc0NjYxMl19
 -->
