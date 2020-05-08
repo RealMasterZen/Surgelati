@@ -72,7 +72,12 @@ Per nominare Entità e Attributi si utilizzano:
 
 - - -
 ### - - - Le associazioni - - -
+
+>**L'Associazione**
+> è un legame logico tra 2 o più entità rilevanti nella realtà che si sta considerando
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODg1NTQzMywtMTQxMTIyMDU1MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTg3NDM4MjgwMCwxMjU4ODU1NDMzLC0xND
+ExMjIwNTUzLC0yMDg4NzQ2NjEyXX0=
 -->
