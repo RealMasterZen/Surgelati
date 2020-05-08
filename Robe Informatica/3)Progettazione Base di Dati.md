@@ -27,10 +27,12 @@ Il **prodotto di tale attività è lo schema concettuale**, che rappresenta il d
 Il **modello Entità/Associazioni** è un modello grafico per la **descrizione dei dati** e delle loro **relazioni** all'interno di una realtà di interesse.
 
 Per la costruzione di uno schema ER si parte dal semplice concetto che la realtà che si dovrà rappresentare sarà composta da:
-- entità ognuna delle quali avrà:
-	- attributi
-- associazioni 
+- **Entità**: ciò che esiste all'interno della realtà e si vuole modellare in modo da rappresenognuna delle quali avrà:
+	- **Attributi** che definiscono le caratteristiche dell'entità presa in esame
+- **Associazioni** che connettono le varie entità
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMDg1MTYsLTE0MTEyMjA1NTMsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDc2MzYwNzMsLTE0MTEyMjA1NTMsLT
+IwODg3NDY2MTJdfQ==
 -->
