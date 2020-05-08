@@ -42,8 +42,14 @@ Una transazione è una sequenza di operazioni effettuate su una base di dati che
 - **Gestione del dizionario dei dati**
 Il dizionario contiene i meta-dati, ossia le informazioni che descrivono gli oggetti nella base di dati.
 
-*Un DBMS deve essere*
+*Un DBMS deve essere:*
+
+**Efficente**: capace di svolgere sempre le operazioni richieste
+
+**Efficace**: capace di rendere produttive e semplici le attività richieste dagli utenti
+
+## Livelli di Astrazione di una DBMS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjY1Njc0NiwxNzUxODAxODU2LDIwMj
+eyJoaXN0b3J5IjpbMTY5MTQyNTg3NCwxNzUxODAxODU2LDIwMj
 U5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEwNTFdfQ==
 -->
