@@ -20,10 +20,11 @@ Il suo scopo è implementare lo schema logico definendo tutti gli aspetti fisici
 
 ## La Progettazione Concettuale
 
-Essa consiste nel riorganizzare tutti gli elementi presenti nella documentazione sulle specifiche per rappresentare la realtà di interesse in termini di una descrizione formale e completa.
+Essa consiste nel **riorganizzare tutti gli elementi presenti nella documentazione** sulle specifiche  per rappresentare la realtà di interesse in termini di una descrizione formale e completa.
 
-Il prodotto di tale arrività è lo schema concettuale, che rappresenta il documento ufficiale di riferimento e di comunicazione per i progettis
+Il **prodotto di tale attività è lo schema concettuale**, che rappresenta il documento ufficiale di riferimento e di comunicazione per i progettisti della successiva fase di progettazione (quella logica).
+
+Il modella Entità/Associazioni è un modello grafico per la descrizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM5MDc0MTYsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMzA3NDkyMiwtMjA4ODc0NjYxMl19
 -->
