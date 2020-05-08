@@ -56,7 +56,7 @@ Gli utenti di un DBMS vedono dall'esterno una macchina *astratta* capace di cons
 Dove interagiscono i singoli utenti del database attraverso specifiche **applicazioni**.
 Compito dell'amministratore di sistema: **DBA(Data Base administrator)** è quello di fornire a ciascun utente un sottoschema del datbase logico, ossia una vista che contenga tutto ciò che l'utente desidera o èabilitato ad utilizzare.
 Questo livello mette a disposizione l'apposito linguaggio 
-> **DML** 
+> **DML** (Data Manipulation Language)
 > che consente all'utente di interagire con il database attraverso:
 > - Interrogazioni
 > - Inserimenti
@@ -66,9 +66,13 @@ Questo livello mette a disposizione l'apposito linguaggio
 Che rappresenta la struttura globale del database.
 In questo troviamo il **database logico**, costituito dalla rappresentazione astratta del database.
 il DBMS mette a disposizione di questo livello il linguaggio:
-> **DDL**
+> **DDL**()
 > Che è utilizzato per descrivere le caratteristiche delle categorie di dati presenti nel database.
+
+>**DCL** (Data Control Language)
+> Che permette operazioni relative 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY0NTQ3NDEsMTc1MTgwMTg1NiwyMD
-I1OTI3NjQwLC0yMzM4OTM2NzMsNjc4NjgxMDUxXX0=
+eyJoaXN0b3J5IjpbMzI4MjE1MzM1LC0yMDE2NDU0NzQxLDE3NT
+E4MDE4NTYsMjAyNTkyNzY0MCwtMjMzODkzNjczLDY3ODY4MTA1
+MV19
 -->
