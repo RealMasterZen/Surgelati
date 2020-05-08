@@ -24,9 +24,15 @@ Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati p
 
 **Dato** - Descrizione elementare di un elemento
 **Informazione** - Elemento di conoscenza che può essere acquisita dai dati.
-**Schema** - Significato che si attri
+**Schema** - Significato che si attribuisce al dato per ricavare l'informazione da esso completata
+
+**Istanza di uno schema** - Insieme dei valori assunti da uno schema in un certo istante di tempo
+
+**Categoria** - gruppo di dati aventi la stessa chiave di interpretazione, ovvero lo stesso schema
+
+**Oc**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTcxODUxOTYsLTE4NTAxODQwNDQsLT
-EwMTgxNzU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTczNDg0ODM1MCwtMTg1MDE4NDA0NCwtMT
+AxODE3NTQxM119
 -->
