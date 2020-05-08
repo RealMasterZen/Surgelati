@@ -92,8 +92,11 @@ Un **associazione è totale** quando *il legame tra le entità deve essere sempr
 
 Un **associazione è parziale** quando *il legame tra le entità può non esserci*
 
-La **molteplicità/cardinalità di un associazione** indica **quante istanze possono trovarsi in relazione tra le 2 entità
+La **molteplicità/cardinalità di un associazione** indica **quante istanze possono trovarsi in relazione tra le 2 entità**.
+- 1:1 o biunivoca quando a 1 Istanza di A corrisponde un istanza di B
+- 1:N o semplice quando a un'istanza di A possono corrispondere una o più istanze di B e a ogni istanza di B solo un istanza di A
+- N:N o complessa quando a ogni istanza di A possono corrispondere una o più istanze di b 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTIzNTUzMjAsMTI1ODg1NTQzMywtMT
+eyJoaXN0b3J5IjpbLTExNDE4Nzg2MTcsMTI1ODg1NTQzMywtMT
 QxMTIyMDU1MywtMjA4ODc0NjYxMl19
 -->
