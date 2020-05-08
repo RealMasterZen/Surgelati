@@ -51,7 +51,12 @@ Il dizionario contiene i meta-dati, ossia le informazioni che descrivono gli ogg
 ## Livelli di Astrazione di una DBMS
 
 Gli utenti di un DBMS vedono dall'esterno una macchina *astratta* capace di consentire loro il compimento di specifiche operazioni per **descrivere** e **manipolare** i dati contenuti nel database **utilizzando degli appositi linguaggi**:
+
+- **Livello Esterno**
+Dove interagiscono i singoli utenti del database attraverso specifiche **applicazioni**.
+Compito dell'
+> amministratore di sistema: **DBA(Data bas)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTUxNTM1OCwxNzUxODAxODU2LDIwMj
-U5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEwNTFdfQ==
+eyJoaXN0b3J5IjpbLTM1MDgyNzIwLDE3NTE4MDE4NTYsMjAyNT
+kyNzY0MCwtMjMzODkzNjczLDY3ODY4MTA1MV19
 -->
