@@ -19,15 +19,15 @@ Il DBMS rappresenta un interfaccia tra:
 > La **Base di dati è l'oggetto passivo su cui esso opera**
 
 Le caratteristiche di un DBMS sono:
-- Gestione della base di dati: il DBMS deve permettere le 4 operazioni di:
+- **Gestione della base di dati**: il DBMS deve permettere le 4 operazioni di:
 	- creazione
 	- inserimento
 	- aggiornamento
 	- interrogazione
-- Persistenza e consistenza dei dati: il DBMS deve essere in grado di conservare intatto il contenuto della base di dati in casi di malfunzionamento del sistema di elaborazione in cui esso è in funzione
-- Privatezza e sicurezza dei dati: Ciascun utente deve essere autorizzato a svolgere solo specificate azioni sui dati, tramite specifici meccanismi di autorizzazione.
-- Integrità dei Dati: L'integrità va intesa sostanzialmente in riferimento ai valori che i dati possono assumere e in relazione alle interdipendenze tra dati appartenenti a differenti tabelle
+- **Persistenza e consistenza dei dati**: il DBMS deve essere in grado di conservare intatto il contenuto della base di dati in casi di malfunzionamento del sistema di elaborazione in cui esso è in funzione
+- **Privatezza e sicurezza dei dati**: Ciascun utente deve essere autorizzato a svolgere solo specificate azioni sui dati, tramite specifici meccanismi di autorizzazione.
+- **Integrità dei Dati**: L'integrità va intesa sostanzialmente in riferimento ai valori che i dati possono assumere e in relazione alle interdipendenze tra dati appartenenti a differenti tabelle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTgwMTg1NiwyMDI1OTI3NjQwLC0yMz
-M4OTM2NzMsNjc4NjgxMDUxXX0=
+eyJoaXN0b3J5IjpbNTgwODUzMzEyLDE3NTE4MDE4NTYsMjAyNT
+kyNzY0MCwtMjMzODkzNjczLDY3ODY4MTA1MV19
 -->
