@@ -84,8 +84,14 @@ L'istanza di un'associazione è una combinazione di istanze delle entità che pr
 - - -
 ### - - - Tipi e Proprietà delle associazioni - - - 
 
-Le associazioni possono avere 2 versi, definendo così le associazioni dirette e le associazioni inverse.
+Le associazioni possono avere 2 versi, definendo così le:
+- Associazioni dirette 
+- Associazioni inverse.
+
+Un **associazione è totale** quando *il legame tra le entità deve essere sempre presente*
+
+Un **associazione è parziale** quando *il legame tra le entità può non es*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyODM1MjgsMTI1ODg1NTQzMywtMT
-QxMTIyMDU1MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTkzMzU0NDU3NCwxMjU4ODU1NDMzLC0xND
+ExMjIwNTUzLC0yMDg4NzQ2NjEyXX0=
 -->
