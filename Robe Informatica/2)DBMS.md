@@ -54,9 +54,9 @@ Gli utenti di un DBMS vedono dall'esterno una macchina *astratta* capace di cons
 
 - **Livello Esterno**
 Dove interagiscono i singoli utenti del database attraverso specifiche **applicazioni**.
-Compito dell'
-> amministratore di sistema: **DBA(Data bas)** 
+Compito dell'amministratore di sistema: **DBA(Data Base administrator)** è quello di fornire a ciascun utente un sottoschema del datbase logico, ossia una vista che contenga tutto ciò che l'utente desidera o èabilitato ad utilizzare.
+Questo livello mette a disposizione l'apposito linguaggio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDgyNzIwLDE3NTE4MDE4NTYsMjAyNT
-kyNzY0MCwtMjMzODkzNjczLDY3ODY4MTA1MV19
+eyJoaXN0b3J5IjpbLTc5MzA0NDU0MSwxNzUxODAxODU2LDIwMj
+U5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEwNTFdfQ==
 -->
