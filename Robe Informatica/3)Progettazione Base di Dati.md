@@ -18,7 +18,12 @@ Il suo scopo è implementare lo schema logico definendo tutti gli aspetti fisici
 
 ---
 
+## La Progettazione Concettuale
 
+Essa consiste nel riorganizzare tutti gli elementi presenti nella documentazione sulle specifiche per rappresentare la realtà di interesse in termini di una descrizione formale e completa.
+
+Il prodotto di tale arrività è lo schema concettuale, che rappresenta il documento ufficiale di riferimento e di comunicazione per i progettis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODc2MTE5MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4MjM5MDc0MTYsLTIwODg3NDY2MTJdfQ
+==
 -->
