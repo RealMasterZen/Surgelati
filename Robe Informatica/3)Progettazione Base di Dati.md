@@ -8,11 +8,11 @@ Il suo scopo è creare e definire una rappresentazione corretta e completa della
 	
 - **Progettazione Logica**
 Il suo scopo è trasformare la rappresentazione ancora astratta della realtà in uno schema logico
->**Input**
->**Output**
+>**Input**: diagramma E-R
+>**Output**: 
 
 - **Progettazione Fisica**
 Il suo scopo è implementare lo schema logico definendo tutti gli aspetti fisici di memorizzazione e rappresentazione in memoria di massa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTQ2ODc0MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDI0NDIyMDIzLC0yMDg4NzQ2NjEyXX0=
 -->
