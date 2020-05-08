@@ -18,9 +18,13 @@ Una base di dati deve essere:
 
 Un **sistema informativo** è l'insieme organizzato di strumenti automatici orientato alla gestione delle informazioni rilevanti per un organizzazione.
 
-Un **sistema informatico**
+Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati per il trattamento automatico delle informazioni, rappresentate mediante dati digitali, al fine di agevolare le funzioni del suo sistema informativo.
+
+## Dati e informazioni: schemi e istanze
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc0ODEyMTIsLTE4NTAxODQwNDQsLT
-EwMTgxNzU0MTNdfQ==
+eyJoaXN0b3J5IjpbODQwODQwMzYwLC0xODUwMTg0MDQ0LC0xMD
+E4MTc1NDEzXX0=
 -->
