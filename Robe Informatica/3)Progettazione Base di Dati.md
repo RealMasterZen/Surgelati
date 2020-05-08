@@ -32,9 +32,11 @@ Per la costruzione di uno schema ER si parte dal semplice concetto che la realt�
 - **Associazioni** che connettono le varie entità
 
 
-**Astrazione**
+>**Astrazione**
 Il procedimento mentale che permette di evidenziare alcune proprietà ritenute significative per gli oggetti osservati escludendone altre giudicate non rilevanti
+
+Ogni singolo esemplare, o 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTA0MjU1MiwtMTQxMTIyMDU1MywtMj
+eyJoaXN0b3J5IjpbMjAzNDEzMjkyNSwtMTQxMTIyMDU1MywtMj
 A4ODc0NjYxMl19
 -->
