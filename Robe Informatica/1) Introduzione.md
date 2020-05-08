@@ -22,17 +22,26 @@ Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati p
 
 ## Dati e informazioni: schemi e istanze
 
-**Dato** - Descrizione elementare di un elemento
-**Informazione** - Elemento di conoscenza che può essere acquisita dai dati.
-**Schema** - Significato che si attribuisce al dato per ricavare l'informazione da esso completata
+**Dato** 
+> Descrizione elementare di un elemento
 
-**Istanza di uno schema** - Insieme dei valori assunti da uno schema in un certo istante di tempo
+**Informazione** 
+> Elemento di conoscenza che può essere acquisita dai dati.
 
-**Categoria** - gruppo di dati aventi la stessa chiave di interpretazione, ovvero lo stesso schema
+**Schema** 
+> Significato che si attribuisce al dato per ricavare l'informazione da esso completata
 
-**Oc**
+**Istanza di uno schema**
+> Insieme dei valori assunti da uno schema in un certo istante di tempo
 
+**Categoria** 
+> Gruppo di dati aventi la stessa chiave di interpretazione, ovvero lo stesso schema
+
+**Occorrenza** 
+> l'insieme delle istanze della categorie in un determinato istante di tempo.
+
+## M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDg0ODM1MCwtMTg1MDE4NDA0NCwtMT
+eyJoaXN0b3J5IjpbMTI4OTAxOTEzNiwtMTg1MDE4NDA0NCwtMT
 AxODE3NTQxM119
 -->
