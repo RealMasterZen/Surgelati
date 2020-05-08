@@ -16,7 +16,9 @@ Il suo scopo è implementare lo schema logico definendo tutti gli aspetti fisici
 	> **Input**: schema e tabelle della progettazione logica
 	> **Output**: implementazione in memoria di massa delle tabelle
 
+---
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNzU4MzQ3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTM0ODc2MTE5MiwtMjA4ODc0NjYxMl19
 -->
