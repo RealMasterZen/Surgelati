@@ -61,8 +61,12 @@ Gli attributi possono a loro volta essere:
 
 Un entità quindi è formata da una serie complessa di attributi e distinta da una **chiave primaria**.
 
-Si definisce chiave candidata una chiave che consente di distinguere un'istanza di entià dall'alt
+Si definisce **chiave candidata** una chiave che consente di distinguere un'istanza di entità dall'altra in modo univoco. 
+
+Prende il nome di **chiave primaria** la chiave candidata con il minor numero di attributi oppure la chiave che il progettista ritiene meglio utilizzare come chiave primaria.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTkxNTg3NSwtMTQxMTIyMDU1MywtMj
+eyJoaXN0b3J5IjpbLTk0ODExOTczOCwtMTQxMTIyMDU1MywtMj
 A4ODc0NjYxMl19
 -->
