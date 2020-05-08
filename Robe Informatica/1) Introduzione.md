@@ -46,13 +46,15 @@ Un **modello di dati** è un insieme di concetti e di costrutti utilizzati per o
 
 I modelli si distinguono in:
 - **Modelli Concettuali**:
-> Permettono di rappresentare i concetti in modo indipendente da ogni sistema cercando di 
+> Permettono di rappresentare i concetti in modo indipendente da ogni sistema cercando di descrivere i concetti del mondo reale.
+> Es **Modello E-R**
 - **Modelli Logici**
-- **Modelli Gerarchici**
-- **Modelli Reticolari**
-- **Modelli Relazionali**
-- **Modelli a Oggetti**
+> Consentono una specifica rappresentazione dei dati
+	- **Modelli Gerarchici**
+	- **Modelli Reticolari**
+	- **Modelli Relazionali**
+	- **Modelli a Oggetti**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1NTA4MjMsLTE3ODEwMjcwMTQsLT
-E4NTAxODQwNDQsLTEwMTgxNzU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTU5NTk2MTU2NSwtMTc4MTAyNzAxNCwtMT
+g1MDE4NDA0NCwtMTAxODE3NTQxM119
 -->
