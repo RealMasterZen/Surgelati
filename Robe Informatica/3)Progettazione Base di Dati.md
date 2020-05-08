@@ -76,8 +76,10 @@ Per nominare Entità e Attributi si utilizzano:
 >**L'Associazione**
 > è un legame logico tra 2 o più entità rilevanti nella realtà che si sta considerando
 
-
+L'istanza di un'associazione è una combinazione di istanze delle entità che prendono parte all'associazione.
+- Grado è il numero di entità che partecipano all'associazione
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDM4MjgwMCwxMjU4ODU1NDMzLC0xND
+eyJoaXN0b3J5IjpbMTM0NjMyNzkyMSwxMjU4ODU1NDMzLC0xND
 ExMjIwNTUzLC0yMDg4NzQ2NjEyXX0=
 -->
