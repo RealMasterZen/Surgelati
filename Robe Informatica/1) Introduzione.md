@@ -22,9 +22,11 @@ Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati p
 
 ## Dati e informazioni: schemi e istanze
 
-
+**Dato** - Descrizione elementare di un elemento
+**Informazione** - Elemento di conoscenza che può essere acquisita dai dati.
+**Schema** - Significato che si attri
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwODQwMzYwLC0xODUwMTg0MDQ0LC0xMD
-E4MTc1NDEzXX0=
+eyJoaXN0b3J5IjpbLTEzNTcxODUxOTYsLTE4NTAxODQwNDQsLT
+EwMTgxNzU0MTNdfQ==
 -->
