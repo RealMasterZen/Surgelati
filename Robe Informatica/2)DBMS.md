@@ -80,10 +80,14 @@ Quello effettivamente utilizzato per la memorizzazione dei dati, troviamo in ess
 - strutture di memorizzazione
 - metodi di accesso
 
-L'efficenza del database dipende molto dal gradi di ottimizzazione raggiunto nell'organizzazione dei dati all'interno di questo livello, operazioni realizzate con il linguaggio
-> **DMCL** (Device Media Control Language)
+	L'efficenza del database dipende molto dal gradi di ottimizzazione raggiunto nell'organizzazione dei dati all'interno di questo livello, operazioni realizzate con il linguaggio
+	> **DMCL** (Device Media Control Language)
+	> Utilizzato appunto per l'organizzazione dei dati all'interno del database
+
+- - -
+Con L'organizzazione di un DBMS attraveer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjI4MzY0MywtMjAxNjQ1NDc0MSwxNz
-UxODAxODU2LDIwMjU5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEw
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTYzNTExOTYsMTk0NjI4MzY0MywtMj
+AxNjQ1NDc0MSwxNzUxODAxODU2LDIwMjU5Mjc2NDAsLTIzMzg5
+MzY3Myw2Nzg2ODEwNTFdfQ==
 -->
