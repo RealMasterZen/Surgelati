@@ -85,9 +85,13 @@ Quello effettivamente utilizzato per la memorizzazione dei dati, troviamo in ess
 	> Utilizzato appunto per l'organizzazione dei dati all'interno del database
 
 - - -
-Con L'organizzazione di un DBMS attraveer
+**Con l'organizzazione di un DBMS attraverso questi 3 livelli** esso permette di ottenere diverse potenzialità:
+- **Indipendenza Fisica dei dati**
+cioè la possibilità di modi
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYzNTExOTYsMTk0NjI4MzY0MywtMj
-AxNjQ1NDc0MSwxNzUxODAxODU2LDIwMjU5Mjc2NDAsLTIzMzg5
-MzY3Myw2Nzg2ODEwNTFdfQ==
+eyJoaXN0b3J5IjpbMTY3MDQxNjg4MywxOTQ2MjgzNjQzLC0yMD
+E2NDU0NzQxLDE3NTE4MDE4NTYsMjAyNTkyNzY0MCwtMjMzODkz
+NjczLDY3ODY4MTA1MV19
 -->
