@@ -7,7 +7,7 @@ Un DBMS è un insieme di strumenti software che è in grado di gestire dati stru
 - interrogati
 - aggiornati
 
-Molto più specificatamente il tipo di architettura utilizzata nelle esercitazioni sarà il RDBMS(DB)
+Molto più specificatamente il tipo di architettura utilizzata nelle esercitazioni sarà il RDBMS(DBMS Relazionale)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzQ2NzU5Nyw2Nzg2ODEwNTFdfQ==
+eyJoaXN0b3J5IjpbLTIzMzg5MzY3Myw2Nzg2ODEwNTFdfQ==
 -->
