@@ -87,11 +87,13 @@ Quello effettivamente utilizzato per la memorizzazione dei dati, troviamo in ess
 - - -
 **Con l'organizzazione di un DBMS attraverso questi 3 livelli** esso permette di ottenere diverse potenzialità:
 - **Indipendenza Fisica dei dati**
-cioè la possibilità di modi
+cioè la possibilità di modificare l'organizzazione fisica dei dati senza dover modificare l'organizzazione logica e i dover modificare i programmi applicativi che agiscono sul database
+- **Indipendenza Logica dei dati**
+Cioè la possibilità
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDQxNjg4MywxOTQ2MjgzNjQzLC0yMD
+eyJoaXN0b3J5IjpbMTU2MDcxNjQyNiwxOTQ2MjgzNjQzLC0yMD
 E2NDU0NzQxLDE3NTE4MDE4NTYsMjAyNTkyNzY0MCwtMjMzODkz
 NjczLDY3ODY4MTA1MV19
 -->
