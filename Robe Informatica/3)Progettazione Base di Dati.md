@@ -28,15 +28,19 @@ Il **modello Entità/Associazioni** è un modello grafico per la **descrizione d
 
 Per la costruzione di uno schema ER si parte dal semplice concetto che la realtà che si dovrà rappresentare sarà composta da:
 - **Entità**: ciò che esiste all'interno della realtà e si vuole modellare in modo da rappresentarne le caratteristiche:
-	- **Attributi** che definiscono le caratteristiche dell'entità presa in esame
+- **Attributi** che definiscono le caratteristiche dell'entità presa in esame
 - **Associazioni** che connettono le varie entità
 
 
 >**Astrazione**
 Il procedimento mentale che permette di evidenziare alcune proprietà ritenute significative per gli oggetti osservati escludendone altre giudicate non rilevanti
 
-Ogni singolo esemplare, o 
+>**Istanza**
+Ogni singolo esemplare, o situazione probabile identificata da una certa posizione aggiunta dai dati relativi ad un entità
+
+- - - 
+Le c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDEzMjkyNSwtMTQxMTIyMDU1MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NTk3NzY0OTAsLTE0MTEyMjA1NTMsLT
+IwODg3NDY2MTJdfQ==
 -->
