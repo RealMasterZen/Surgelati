@@ -12,8 +12,14 @@ Molto più specificatamente il tipo di architettura utilizzata nelle esercitazio
 Il DBMS rappresenta un interfaccia tra:
 - sviluppatori.
 - utenti del database.
-- sistemi di elaborazione.
+- sistema di elaborazione.
+
+> Il DBMS è un sistema attivo
+
+> La Base di dati è l'oggetto passivo su cui esso opera
+
+Le pri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTkyNzY0MCwtMjMzODkzNjczLDY3OD
-Y4MTA1MV19
+eyJoaXN0b3J5IjpbLTM5Mzk3MzMyMSwyMDI1OTI3NjQwLC0yMz
+M4OTM2NzMsNjc4NjgxMDUxXX0=
 -->
