@@ -42,8 +42,8 @@ Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati p
 
 ## Modelli di dati
 
-un modello di dati 
+Un **modello di dati** è un insieme di concetti e di costrutti utilizzati per organizzare i dati di interesse e descriverne la struttura e la dinamica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIzODIwNjQsLTE3ODEwMjcwMTQsLT
-E4NTAxODQwNDQsLTEwMTgxNzU0MTNdfQ==
+eyJoaXN0b3J5IjpbNjE4NjA3MDgwLC0xNzgxMDI3MDE0LC0xOD
+UwMTg0MDQ0LC0xMDE4MTc1NDEzXX0=
 -->
