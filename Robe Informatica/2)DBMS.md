@@ -74,9 +74,15 @@ il DBMS mette a disposizione di questo livello il linguaggio:
 	> Che permette operazioni relative al controllo degli accessi degli utenti
 
 - **Livello Fisico(o interno)**
-Quello effettivamente utilizzato per la memorizza
+Quello effettivamente utilizzato per la memorizzazione dei dati, troviamo in esso il database fisico, che considera:
+- tipi di dati
+- formati
+- strutture di memorizzazione
+- metodi di accesso
+
+L'efficenza del database dipende
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk1MDg0MjYsLTIwMTY0NTQ3NDEsMT
+eyJoaXN0b3J5IjpbLTE0MDQ3MDk0MzAsLTIwMTY0NTQ3NDEsMT
 c1MTgwMTg1NiwyMDI1OTI3NjQwLC0yMzM4OTM2NzMsNjc4Njgx
 MDUxXX0=
 -->
