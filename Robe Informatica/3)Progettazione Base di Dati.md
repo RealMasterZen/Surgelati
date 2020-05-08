@@ -18,7 +18,7 @@ Il suo scopo è implementare lo schema logico definendo tutti gli aspetti fisici
 
 ---
 
-### La Progettazione Concettuale
+### - - - La Progettazione Concettuale - - -
 
 Essa consiste nel **riorganizzare tutti gli elementi presenti nella documentazione** sulle specifiche  per rappresentare la realtà di interesse in termini di una descrizione formale e completa.
 
@@ -39,7 +39,7 @@ Il procedimento mentale che permette di evidenziare alcune proprietà ritenute s
 Ogni singolo esemplare, o situazione probabile identificata da una certa posizione aggiunta dai dati relativi ad un entità
 
 - - - 
-### Gli Attributi
+### - - - Gli Attributi - - - 
 Le caratteristiche delle entità sono descritte attraverso degli **attributi**, ogni attributo è costituito da:
 -  **Nome**
 Nome indicativo dell'attributo
@@ -52,8 +52,11 @@ il valore vero e proprio dell'attributo
 - **Opzionalità**
 possibilità del valore di non essere sempre valorizzato
 
-
+Gli attributi possono a loro volta essere:
+- **Semplici** se composti da 
+- **Composti**
+- **Multipli**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyOTM3MDAzLC0xNDExMjIwNTUzLC0yMD
+eyJoaXN0b3J5IjpbODY2OTQwNjg4LC0xNDExMjIwNTUzLC0yMD
 g4NzQ2NjEyXX0=
 -->
