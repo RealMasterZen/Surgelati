@@ -49,7 +49,9 @@ Il dizionario contiene i meta-dati, ossia le informazioni che descrivono gli ogg
 **Efficace**: capace di rendere produttive e semplici le attività richieste dagli utenti
 
 ## Livelli di Astrazione di una DBMS
+
+Gli utenti di un DBMS vedono dall'esterno una macchina *astratta* capace di consentire loro il compimento di specifiche operazioni per **descrivere** e **manipolare** i dati contenuti nel database **utilizzando degli appositi linguaggi**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTQyNTg3NCwxNzUxODAxODU2LDIwMj
+eyJoaXN0b3J5IjpbMTcxNTUxNTM1OCwxNzUxODAxODU2LDIwMj
 U5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEwNTFdfQ==
 -->
