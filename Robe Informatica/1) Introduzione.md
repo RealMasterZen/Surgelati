@@ -53,12 +53,14 @@ I modelli si distinguono in:
  Consentono una specifica rappresentazione dei dati e si distinguono in
  
 	- **Modelli Gerarchici**:
-	>Dati organizzati in record connessi tra loro secondo strutture ad albero.
-	La manutenzione di un database a modello Gerarchico è molto comple
+	> Dati organizzati in **record connessi tra loro secondo strutture ad albero**.
+	La manutenzione di un database a modello Gerarchico è molto complessa, poichè la cancellazione di un record comporta la cancellazione di tutti i record collegati ad esso.
+	
 	- **Modelli Reticolari**
+	> Evoluzione del modello ad albero esso organizza i record gestendoli e legandoli attraverso un reticolo
 	- **Modelli Relazionali**
 	- **Modelli a Oggetti**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQzMjQ3NDAsLTE3ODEwMjcwMTQsLT
-E4NTAxODQwNDQsLTEwMTgxNzU0MTNdfQ==
+eyJoaXN0b3J5IjpbMTY1MTUyNTMzMSwtMTc4MTAyNzAxNCwtMT
+g1MDE4NDA0NCwtMTAxODE3NTQxM119
 -->
