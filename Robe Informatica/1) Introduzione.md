@@ -40,8 +40,8 @@ Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati p
 **Occorrenza** 
 > l'insieme delle istanze della categorie in un determinato istante di tempo.
 
-## M
+## Modelli di dati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTAxOTEzNiwtMTg1MDE4NDA0NCwtMT
-AxODE3NTQxM119
+eyJoaXN0b3J5IjpbLTE3ODEwMjcwMTQsLTE4NTAxODQwNDQsLT
+EwMTgxNzU0MTNdfQ==
 -->
