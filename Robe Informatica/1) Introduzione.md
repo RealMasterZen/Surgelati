@@ -64,8 +64,8 @@ I modelli si distinguono in:
 	> Basato sul concetto di insiemi e di record le connessioni/corrispondenze/legami derivano da campi di record appartenenti a tabelle diverse
 	
 	- **Modelli a Oggetti**
-	> Nato come evoluzione del modello Relazionale estende alla base di dati il
+> Nato come evoluzione del modello Relazionale estende alla base di dati il concetto di programmazione a oggetti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY1OTkyMTQsLTE3ODEwMjcwMTQsLT
-E4NTAxODQwNDQsLTEwMTgxNzU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTI2ODQzNzQ3MSwtMTc4MTAyNzAxNCwtMT
+g1MDE4NDA0NCwtMTAxODE3NTQxM119
 -->
