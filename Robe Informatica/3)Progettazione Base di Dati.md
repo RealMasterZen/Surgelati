@@ -55,8 +55,9 @@ possibilità del valore di non essere sempre valorizzato
 Gli attributi possono a loro volta essere:
 - **Semplici** se composti da un solo dato atomico
 - **Composti** se composti da un insieme di ulteriori attributi o semplici o a loro volta composti
-- **Multi-valore** se consiste in un insieme di informa
+- **Multi-valore** se consiste in un insieme di informazioni(Esempio attributo numero di telefono che può avere più opzioni)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ0ODcxMywtMTQxMTIyMDU1MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjI0MDk2MTkwLC0xNDExMjIwNTUzLC0yMD
+g4NzQ2NjEyXX0=
 -->
