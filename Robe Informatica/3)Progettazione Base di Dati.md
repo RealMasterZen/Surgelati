@@ -56,8 +56,13 @@ Gli attributi possono a loro volta essere:
 - **Semplici** se composti da un solo dato atomico
 - **Composti** se composti da un insieme di ulteriori attributi o semplici o a loro volta composti
 - **Multi-valore** se consiste in un insieme di informazioni(Esempio attributo numero di telefono che può avere più opzioni)
+ - - -
+### Prima modellazzione di un entità
 
+Un entità quindi è formata da una serie complessa di attributi e distinta da una **chiave primaria**.
+
+Si definisce chiave candidata una chiave che consente di distinguere un'istanza di entià dall'alt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MDk2MTkwLC0xNDExMjIwNTUzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTg0OTkxNTg3NSwtMTQxMTIyMDU1MywtMj
+A4ODc0NjYxMl19
 -->
