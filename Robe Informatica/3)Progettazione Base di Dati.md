@@ -39,8 +39,12 @@ Il procedimento mentale che permette di evidenziare alcune proprietà ritenute s
 Ogni singolo esemplare, o situazione probabile identificata da una certa posizione aggiunta dai dati relativi ad un entità
 
 - - - 
-Le c
+Le caratteristiche delle entità sono descritte attraverso degli **attributi**, ogni attributo è costituito da:
+-  **Nome**
+Nome dell'attributo
+- **Formato//Tipo**
+- **Dimensione**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk3NzY0OTAsLTE0MTEyMjA1NTMsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjUyOTgwNDU3LC0xNDExMjIwNTUzLC0yMD
+g4NzQ2NjEyXX0=
 -->
