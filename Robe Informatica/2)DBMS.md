@@ -14,12 +14,18 @@ Il DBMS rappresenta un interfaccia tra:
 - utenti del database.
 - sistema di elaborazione.
 
-> Il DBMS è un sistema attivo
+> Il **DBMS è un sistema attivo**
 
-> La Base di dati è l'oggetto passivo su cui esso opera
+> La **Base di dati è l'oggetto passivo su cui esso opera**
 
-Le pri
+Le caratteristiche di un DBMS sono:
+- Gestione della base di dati: il DBMS deve permettere le 4 operazioni di:
+	- creazione
+	- inserimento
+	- aggiornamento
+	- interrogazione
+- Persistenza e consistenza dei dati: il DBMS deve essere in grado di conservare intatto il contenut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mzk3MzMyMSwyMDI1OTI3NjQwLC0yMz
-M4OTM2NzMsNjc4NjgxMDUxXX0=
+eyJoaXN0b3J5IjpbNzAyMTgxNjUzLDIwMjU5Mjc2NDAsLTIzMz
+g5MzY3Myw2Nzg2ODEwNTFdfQ==
 -->
