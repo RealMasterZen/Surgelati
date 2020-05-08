@@ -90,8 +90,10 @@ Le associazioni possono avere 2 versi, definendo così le:
 
 Un **associazione è totale** quando *il legame tra le entità deve essere sempre presente*
 
-Un **associazione è parziale** quando *il legame tra le entità può non es*
+Un **associazione è parziale** quando *il legame tra le entità può non esserci*
+
+La **molteplicità/cardinalità di un associazione** indica **quante istanze possono trovarsi in relazione tra le 2 entità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzU0NDU3NCwxMjU4ODU1NDMzLC0xND
-ExMjIwNTUzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3OTIzNTUzMjAsMTI1ODg1NTQzMywtMT
+QxMTIyMDU1MywtMjA4ODc0NjYxMl19
 -->
