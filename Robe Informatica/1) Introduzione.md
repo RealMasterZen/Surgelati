@@ -8,9 +8,9 @@ Una base di dati deve essere:
 - Sicura: progettata un modo da impedire che venga danneggiata da eventi accidentali
 - Integra: deve essere garantito che le operazioni effettuate da utenti autorizzati non provochino una perdita di consistenza dei dati
 - Consistente: i dati devono essere significativi ed effettivamente utilizzabili nelle applicazioni
-- Condivisibile: cioè a
-- Persistente
-- Scalabile
+- Condivisibile: applicazioni e utenti diversi devono poter accedere ai dati comuni
+- Persistente: deve avere un tempo di vita non limitato alle singole esecuzioni dei programmi che le utilizzano
+- Scalabile: deve mantenere intatte le proprie performance all'aumentare della quantità di  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU4ODgwMywtMTAxODE3NTQxM119
+eyJoaXN0b3J5IjpbLTEyNjE2ODk3NCwtMTAxODE3NTQxM119
 -->
