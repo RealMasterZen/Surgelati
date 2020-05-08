@@ -66,10 +66,13 @@ Si definisce **chiave candidata** una chiave che consente di distinguere un'ista
 Prende il nome di **chiave primaria** la chiave candidata con il minor numero di attributi oppure la chiave che il progettista ritiene meglio utilizzare come chiave primaria.
 
 Per nominare Entità e Attributi si utilizzano:
-- **Nomi al singolare per indicare le entità
-- Iniziali Maiuscole per i nomi delle entità e degli attributi
-- Iniziali Maiuscole per i nomi di attributi composti da più parole
+- **Nomi al singolare** per indicare i nomi delle entità
+- **Iniziali Maiuscole** per i nomi delle entità e degli attributi
+- **Iniziali Maiuscole** per i nomi di attributi composti da più parole
+
+- - -
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTgyOTg1MSwtMTQxMTIyMDU1MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzE0NTY1NDc1LC0xNDExMjIwNTUzLC0yMD
+g4NzQ2NjEyXX0=
 -->
