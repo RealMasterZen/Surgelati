@@ -56,7 +56,13 @@ Gli utenti di un DBMS vedono dall'esterno una macchina *astratta* capace di cons
 Dove interagiscono i singoli utenti del database attraverso specifiche **applicazioni**.
 Compito dell'amministratore di sistema: **DBA(Data Base administrator)** è quello di fornire a ciascun utente un sottoschema del datbase logico, ossia una vista che contenga tutto ciò che l'utente desidera o èabilitato ad utilizzare.
 Questo livello mette a disposizione l'apposito linguaggio 
+> **DML** 
+> che consente all'utente di interagire con il database attraverso:
+> - Interrogazioni
+> - Inserimenti
+> - Cancellazioni
+> - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzA0NDU0MSwxNzUxODAxODU2LDIwMj
-U5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEwNTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjM4ODQ4NjEsMTc1MTgwMTg1NiwyMD
+I1OTI3NjQwLC0yMzM4OTM2NzMsNjc4NjgxMDUxXX0=
 -->
