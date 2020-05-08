@@ -45,13 +45,14 @@ Un **sistema informatico** è l'insieme degli strumenti informatici utilizzati p
 Un **modello di dati** è un insieme di concetti e di costrutti utilizzati per organizzare i dati di interesse e descriverne la struttura e la dinamica.
 
 I modelli si distinguono in:
-- **Modelli Concettuali**
+- **Modelli Concettuali**:
+> Permettono di rappresentare i concetti in modo indipendente da ogni sistema cercando di 
 - **Modelli Logici**
 - **Modelli Gerarchici**
 - **Modelli Reticolari**
 - **Modelli Relazionali**
 - **Modelli a Oggetti**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA1OTI5OTYsLTE3ODEwMjcwMTQsLT
+eyJoaXN0b3J5IjpbLTE4Mjg1NTA4MjMsLTE3ODEwMjcwMTQsLT
 E4NTAxODQwNDQsLTEwMTgxNzU0MTNdfQ==
 -->
