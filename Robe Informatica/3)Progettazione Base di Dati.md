@@ -24,7 +24,10 @@ Essa consiste nel **riorganizzare tutti gli elementi presenti nella documentazio
 
 Il **prodotto di tale attività è lo schema concettuale**, che rappresenta il documento ufficiale di riferimento e di comunicazione per i progettisti della successiva fase di progettazione (quella logica).
 
-Il modella Entità/Associazioni è un modello grafico per la descrizione
+Il **modello Entità/Associazioni** è un modello grafico per la **descrizione dei dati** e delle loro **relazioni** all'interno di una realtà di interesse.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NDkyMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0MTEyMjA1NTMsLTIwODg3NDY2MTJdfQ
+==
 -->
