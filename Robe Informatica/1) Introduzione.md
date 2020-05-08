@@ -61,9 +61,11 @@ I modelli si distinguono in:
 	> La gestione delle informazioni è complessa dato che bisognerà utilizzare una struttura a grafo.
 	
 	- **Modelli Relazionali**
-	> Basato sul concen
+	> Basato sul concetto di insiemi e di record le connessioni/corrispondenze/legami derivano da campi di record appartenenti a tabelle diverse
+	
 	- **Modelli a Oggetti**
+	> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjE1NTc5MiwtMTc4MTAyNzAxNCwtMT
+eyJoaXN0b3J5IjpbMTM1NjA2MDcwNiwtMTc4MTAyNzAxNCwtMT
 g1MDE4NDA0NCwtMTAxODE3NTQxM119
 -->
