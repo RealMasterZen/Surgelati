@@ -1,7 +1,7 @@
 # Programma Informatica
 
-## 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTM0MTAzNCwtMjA4ODc0NjYxMiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzE1Mjg2ODQ2LC04MTUzNDEwMzQsLTIwOD
+g3NDY2MTIsLTIwODg3NDY2MTJdfQ==
 -->
