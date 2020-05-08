@@ -24,8 +24,10 @@ Le caratteristiche di un DBMS sono:
 	- inserimento
 	- aggiornamento
 	- interrogazione
-- Persistenza e consistenza dei dati: il DBMS deve essere in grado di conservare intatto il contenut
+- Persistenza e consistenza dei dati: il DBMS deve essere in grado di conservare intatto il contenuto della base di dati in casi di malfunzionamento del sistema di elaborazione in cui esso è in funzione
+- Privatezza e sicurezza dei dati: Ciascun utente deve essere autorizzato a svolgere solo specificate azioni sui dati, tramite specifici meccanismi di autorizzazione.
+- Integrità dei Dati: L'integrità va intesa sostanzialmente in riferiment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMTgxNjUzLDIwMjU5Mjc2NDAsLTIzMz
-g5MzY3Myw2Nzg2ODEwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE4ODc2Mjc1MTYsMjAyNTkyNzY0MCwtMj
+MzODkzNjczLDY3ODY4MTA1MV19
 -->
