@@ -67,7 +67,7 @@ Questo livello mette a disposizione l'apposito linguaggio
 Che rappresenta la struttura globale del database.
 In questo troviamo il **database logico**, costituito dalla rappresentazione astratta del database.
 il DBMS mette a disposizione di questo livello il linguaggio:
-	> **DDL**()
+	> **DDL** (Data Definition Language)
 	> Che è utilizzato per descrivere le caratteristiche 	delle categorie di dati presenti nel database.
 
 	>**DCL** (Data Control Language)
@@ -80,9 +80,10 @@ Quello effettivamente utilizzato per la memorizzazione dei dati, troviamo in ess
 - strutture di memorizzazione
 - metodi di accesso
 
-L'efficenza del database dipende
+L'efficenza del database dipende molto dal gradi di ottimizzazione raggiunto nell'organizzazione dei dati all'interno di questo livello, operazioni realizzate con il linguaggio
+> **DMCL** (Device Media Control Language)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ3MDk0MzAsLTIwMTY0NTQ3NDEsMT
-c1MTgwMTg1NiwyMDI1OTI3NjQwLC0yMzM4OTM2NzMsNjc4Njgx
-MDUxXX0=
+eyJoaXN0b3J5IjpbMTk0NjI4MzY0MywtMjAxNjQ1NDc0MSwxNz
+UxODAxODU2LDIwMjU5Mjc2NDAsLTIzMzg5MzY3Myw2Nzg2ODEw
+NTFdfQ==
 -->
