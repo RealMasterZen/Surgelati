@@ -2,7 +2,7 @@
 
 ## Unità 1
 ### Capitolo 1:Il Primo Novecento
-### Capitolo 2
+### Capitolo 2:
 ### Capitolo 3
 
 
@@ -15,6 +15,6 @@
 ### Capitolo 8
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTI3ODU2LDE5MTYwNzE4NTksLTIwOD
-g3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyNTE0NTcyMDgsMTkxNjA3MTg1OSwtMj
+A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
