@@ -24,19 +24,19 @@
 
 ### Capitolo 4 : Il Comunismo in Unione Sovietica
 4.1 La rivoluzione Russa
-4.2 La guerra civile e la nascita dell'Unione Sov
-4.3
+4.2 La guerra civile e la nascita dell'Unione Sovietica
+4.3 La dittatura di Stalin
 
 ### Capitolo 5 : Il Fascismo in Italia
-5.1
-5.2
-5.3
-5.4
+5.1 Il tormentato dopoguerra Italiano
+5.2 Il fascismo al potere
+5.3 L'Italia sotto il regime fascista
+5.4 La guerra d'Etiopia e le leggi razziali
 
 ### Capitolo 6 : Il Nazismo in Germania
-6.1
-6.2
-6.3
+6.1  La crisi della repubblica di Weimar
+6.2 Hitler al potere in Germania
+6.3 I tedeschi al tempo del fascismo
 
 ### Capitolo 7 : La cristi delle democrazie e delle relazioni internazionali
 7.1
@@ -52,7 +52,7 @@
 8.5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk0NTc5NTksLTg1ODczNzcyMSw1Mj
-kzODQ1MTksMTkxNjA3MTg1OSwtMjA4ODc0NjYxMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTUyMzgwNDE4LC04NTg3Mzc3MjEsNTI5Mz
+g0NTE5LDE5MTYwNzE4NTksLTIwODg3NDY2MTIsNzMwOTk4MTE2
+XX0=
 -->
