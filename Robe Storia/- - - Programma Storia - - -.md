@@ -2,8 +2,8 @@
 
 ## Unità 1
 ### Capitolo 1 : Il Primo Novecento
-### Capitolo 2 : 
-### Capitolo 3
+### Capitolo 2 : L'Italia di Giolitti
+### Capitolo 3 : La Prima Guerra Mondiale
 
 
 
@@ -15,6 +15,6 @@
 ### Capitolo 8
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY4ODYwMDgsMTkxNjA3MTg1OSwtMj
-A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTYwNDQwNzAsMTkxNjA3MTg1OSwtMjA4OD
+c0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
