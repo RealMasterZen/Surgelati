@@ -1,8 +1,8 @@
 # Programma di Storia
 
 ## Unità 1
-### Capitolo 1:Il Primo Novecento
-### Capitolo 2:
+### Capitolo 1 : Il Primo Novecento
+### Capitolo 2 : 
 ### Capitolo 3
 
 
@@ -15,6 +15,6 @@
 ### Capitolo 8
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE0NTcyMDgsMTkxNjA3MTg1OSwtMj
+eyJoaXN0b3J5IjpbLTE0MzY4ODYwMDgsMTkxNjA3MTg1OSwtMj
 A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
