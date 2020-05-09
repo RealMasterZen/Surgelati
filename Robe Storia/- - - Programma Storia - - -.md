@@ -10,10 +10,14 @@
 ### Capitolo 2 : L'Italia di Giolitti
 2.1 Economia e società in Italia tra XIX e XX secolo
 2.2 Giovanni Giolitti alla guida dell'Italia
-2.3 
+2.3 La guerra di Libia e la fine dell'età giolittiana
 
 ### Capitolo 3 : La Prima Guerra Mondiale
-
+3.1 Lo scoppio della guerra
+3.2 L'entrata in
+3.3
+3.4
+3.5
 
 
 ## Unità 2
@@ -29,7 +33,7 @@
 ### Capitolo 8 : La seconda guerra mondiale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU5MTU3OTQsLTg1ODczNzcyMSw1Mj
-kzODQ1MTksMTkxNjA3MTg1OSwtMjA4ODc0NjYxMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMzE2ODI2MzMwLC04NTg3Mzc3MjEsNTI5Mz
+g0NTE5LDE5MTYwNzE4NTksLTIwODg3NDY2MTIsNzMwOTk4MTE2
+XX0=
 -->
