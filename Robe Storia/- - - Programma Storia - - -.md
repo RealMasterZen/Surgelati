@@ -3,6 +3,9 @@
 ## Unità 1
 
 ### Capitolo 1 : Il Primo Novecento
+1.1 L'Europa tra Ottocento e Novecento
+1.2 Il difficile equilibrio tra potenze continentali
+1.3 Oltre l'Europa: Stati Uniti d'America e Giappone
 
 ### Capitolo 2 : L'Italia di Giolitti
 
@@ -23,6 +26,7 @@
 ### Capitolo 8 : La seconda guerra mondiale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODczNzcyMSw1MjkzODQ1MTksMTkxNj
-A3MTg1OSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA5NzE1MDc4NCwtODU4NzM3NzIxLDUyOT
+M4NDUxOSwxOTE2MDcxODU5LC0yMDg4NzQ2NjEyLDczMDk5ODEx
+Nl19
 -->
