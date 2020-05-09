@@ -8,6 +8,9 @@
 1.3 Oltre l'Europa: Stati Uniti d'America e Giappone
 
 ### Capitolo 2 : L'Italia di Giolitti
+2.1 Economia e società in Italia tra XIX e XX secolo
+2.2 Giovanni Giolitti alla guida dell'Italia
+2.3 
 
 ### Capitolo 3 : La Prima Guerra Mondiale
 
@@ -26,7 +29,7 @@
 ### Capitolo 8 : La seconda guerra mondiale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzE1MDc4NCwtODU4NzM3NzIxLDUyOT
-M4NDUxOSwxOTE2MDcxODU5LC0yMDg4NzQ2NjEyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE4NzU5MTU3OTQsLTg1ODczNzcyMSw1Mj
+kzODQ1MTksMTkxNjA3MTg1OSwtMjA4ODc0NjYxMiw3MzA5OTgx
+MTZdfQ==
 -->
