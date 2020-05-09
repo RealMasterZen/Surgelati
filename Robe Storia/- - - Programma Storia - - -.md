@@ -23,17 +23,25 @@
 ## Unità 2
 
 ### Capitolo 4 : Il Comunismo in Unione Sovietica
+4.1
+4.2
+4.3
 
 ### Capitolo 5 : Il Fascismo in Italia
+5.1
+5.2
+5.3
+5.4
 
 ### Capitolo 6 : Il Nazismo in Germania
+6.
 
 ### Capitolo 7 : La cristi delle democrazie e delle relazioni internazionali
 
 ### Capitolo 8 : La seconda guerra mondiale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDMyODYyMSwtODU4NzM3NzIxLDUyOT
-M4NDUxOSwxOTE2MDcxODU5LC0yMDg4NzQ2NjEyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTExNTYzODk4ODksLTg1ODczNzcyMSw1Mj
+kzODQ1MTksMTkxNjA3MTg1OSwtMjA4ODc0NjYxMiw3MzA5OTgx
+MTZdfQ==
 -->
