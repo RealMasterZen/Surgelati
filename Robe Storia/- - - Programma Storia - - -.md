@@ -39,7 +39,7 @@
 6.3 I tedeschi al tempo del fascismo
 
 ### Capitolo 7 : La cristi delle democrazie e delle relazioni internazionali
-7.1
+7.1 Gli Stati Uniti dalla grande crisi al New Deal
 7.2
 7.3
 7.4
@@ -52,7 +52,7 @@
 8.5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzgwNDE4LC04NTg3Mzc3MjEsNTI5Mz
-g0NTE5LDE5MTYwNzE4NTksLTIwODg3NDY2MTIsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTk2OTQ1ODAxNCwtODU4NzM3NzIxLDUyOT
+M4NDUxOSwxOTE2MDcxODU5LC0yMDg4NzQ2NjEyLDczMDk5ODEx
+Nl19
 -->
