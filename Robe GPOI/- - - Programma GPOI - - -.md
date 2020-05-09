@@ -47,10 +47,13 @@ Elenco di tutti gli argomenti trattati durante il 5° anno scolastico
 
 ### Lezione 4: Pre-progetto: pianificazione del progetto
 
+### Lezione +: Metriche del software
+
+### Lezione ++: Valutazione dei costi di un progetto informatico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3MzEwNTYsLTEzMTk1NTkwOTMsLT
-IwNTY2Nzk4MCw1ODI5NzM3MTUsNTEzMjg1NTY5LC0xMTUzNjU0
-NTkwLDE3OTc2Nzg0NDUsMTQzNjQ2ODY4OCw0MTQ3Njg0ODQsLT
-Y5Mjk0NDQ2MywtMTg4MTUwMzMzMSwtODQzMTMzOTc2LDIxMTUx
-Mjc2MF19
+eyJoaXN0b3J5IjpbMTQyMzgxMDgyNSwtMTc3NDczMTA1NiwtMT
+MxOTU1OTA5MywtMjA1NjY3OTgwLDU4Mjk3MzcxNSw1MTMyODU1
+NjksLTExNTM2NTQ1OTAsMTc5NzY3ODQ0NSwxNDM2NDY4Njg4LD
+QxNDc2ODQ4NCwtNjkyOTQ0NDYzLC0xODgxNTAzMzMxLC04NDMx
+MzM5NzYsMjExNTEyNzYwXX0=
 -->
