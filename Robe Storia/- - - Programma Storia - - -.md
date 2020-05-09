@@ -14,10 +14,10 @@
 
 ### Capitolo 3 : La Prima Guerra Mondiale
 3.1 Lo scoppio della guerra
-3.2 L'entrata in
-3.3
-3.4
-3.5
+3.2 L'entrata in guerra dell'Italia
+3.3 Quattro anni di feroci combattimenti
+3.4 Le caratteristiche della nuova guerra
+3.5 La conferenza di Parigi
 
 
 ## Unità 2
@@ -33,7 +33,7 @@
 ### Capitolo 8 : La seconda guerra mondiale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2ODI2MzMwLC04NTg3Mzc3MjEsNTI5Mz
-g0NTE5LDE5MTYwNzE4NTksLTIwODg3NDY2MTIsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTc1NDMyODYyMSwtODU4NzM3NzIxLDUyOT
+M4NDUxOSwxOTE2MDcxODU5LC0yMDg4NzQ2NjEyLDczMDk5ODEx
+Nl19
 -->
