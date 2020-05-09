@@ -11,10 +11,10 @@
 ### Capitolo 4 : Il Comunismo in Unione Sovietica
 ### Capitolo 5 : Il Fascismo in Italia
 ### Capitolo 6 : Il Nazismo in Germania
-### Capitolo 7
-### Capitolo 8
+### Capitolo 7 : La cristi delle democrazie e delle relazioni internazionali
+### Capitolo 8 : La seconda guerra mondiale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzY2OTM1MywxOTE2MDcxODU5LC0yMD
-g4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTI5Mzg0NTE5LDE5MTYwNzE4NTksLTIwOD
+g3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
