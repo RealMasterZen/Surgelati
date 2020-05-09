@@ -8,13 +8,13 @@
 
 
 ## Unità 2
-### Capitolo 4
-### Capitolo 5
-### Capitolo 6
+### Capitolo 4 : Il Comunismo in Unione Sovietica
+### Capitolo 5 : Il Fascismo in Italia
+### Capitolo 6 : Il Nazismo in Germania
 ### Capitolo 7
 ### Capitolo 8
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNDQwNzAsMTkxNjA3MTg1OSwtMjA4OD
-c0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI2NzY2OTM1MywxOTE2MDcxODU5LC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
