@@ -25,6 +25,9 @@ Le **entità e le relazioni di uno schema ER possono essere partizionate o accor
 un partizionamento di questo tipo è un esempio di decomposizione verticale di un entità poiché si suddivide il concetto operando sui suoi attributi.
 Una decomposizione orizzontale viene realizzata invece sulle occorrenze dell'entità.
 Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e presenta lo svantaggio di duplicare tutte le associazioni a cui l'entità originaria è legata.
+
+- **Eliminazione di attributi multivalore**
+La ristrutturazione è molto semplice e consiste nel realizzare un'associazione 1:N tra l'entità originaria e una nuova entità che prende il nome dell'attributo multivalore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njk2NTg5Niw4ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbLTU3NjI1MzQzMyw4ODYyNTMzNjddfQ==
 -->
