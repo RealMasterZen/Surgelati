@@ -50,8 +50,10 @@ Nella rappresentazione tabellare:
 - **Ogni colonna** rappresenta la sequenza dei valori assunti dal corrispondente attributo.
 
 - - - 
-### Le 
+### Chiavi, Schemi e Occorrenze
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ4NTYyODgsMTIwNTE3MTczOCwxND
-k4OTEwNDEsODg2MjUzMzY3XX0=
+eyJoaXN0b3J5IjpbOTkxMDQ2NDAxLDEyMDUxNzE3MzgsMTQ5OD
+kxMDQxLDg4NjI1MzM2N119
 -->
