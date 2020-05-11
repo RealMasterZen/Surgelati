@@ -23,7 +23,7 @@ Le entità e le relazioni di uno schema ER possono essere partizionate o accorpa
 - Partizionamento di entità
 un partizionamento di questo tipo è un esempio di decomposizione verticale di un entità poichè si suddivide il concetto operando sui suoi attributi.
 Una decomposizione orizzontale viene realizzata invece sulle occorrenze dell'entità.
-Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e presenta lo svfantaffio di duplcare tute le associazioni a cui l'
+Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e presenta lo svantaggio di dupilcare tute le associazioni a cui l'entità originaria è legata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDk1NTkyLDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbLTEyNTc1MDQ1ODAsODg2MjUzMzY3XX0=
 -->
