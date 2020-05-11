@@ -56,9 +56,9 @@ Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occor
 ### Classificazione delle ridondanze all'interno di uno schema ER
 - Attributi derivabili all'interno della stessa entità: questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
 - Attributi derivabili da altre entità: l'associazione fra due entità può portare a rendere ridondante qualche attributo; anche in questo caso la stessa informazione può essere dedotta a partire da attributi di altre entità collegate a quella in esame
-- Attributi derivabili da oper
+- Attributi derivabili da operazioni di conteggio di occorrenze: ad esempio un attributo *numeroAbitanti* per un entità *Città* potrebbe essere desunto dal conteggio degli abitanti Residenti.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ4NTc2NTUsMjc0ODU4MjQwLC0xOT
-czMDc4NjcxXX0=
+eyJoaXN0b3J5IjpbODQ3NzczNzkwLDI3NDg1ODI0MCwtMTk3Mz
+A3ODY3MV19
 -->
