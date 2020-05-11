@@ -83,8 +83,12 @@ E' necessario assicurarsi che coesistano questi 3 tipi di integrità:
 
 - (**Integrità referenziale**)le relazioni tra le tabelle non possano essere violate
 
+Inoltre da rispettare sono anche le seguenti regole:
+- Non è possibile immettere un valore nella chiave esterna della tabella associata se tale valore non esiste tra le chiavi della tabella primaria
+- Non è possibile eliminare una tupla dalla tabella primaria se esistono riche legate ad essa.
+- Non si può modificare il valore alla chiave nella tabella primaria, se ad essa corris
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgyNzkxMTMsLTMyMDYzNjY3Nyw1MD
-Q5MDU0MjAsNzQzOTM2OTM1LDEyMDUxNzE3MzgsMTQ5ODkxMDQx
-LDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbMTM3MDc1ODMyNCwtMzIwNjM2Njc3LDUwND
+kwNTQyMCw3NDM5MzY5MzUsMTIwNTE3MTczOCwxNDk4OTEwNDEs
+ODg2MjUzMzY3XX0=
 -->
