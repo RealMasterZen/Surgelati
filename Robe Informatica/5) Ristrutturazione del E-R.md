@@ -75,13 +75,16 @@ Segue la rappresentazione delle associazioni 1:N, 1:1, N:N
 ### - - - Integrità Referenziale - - -
 Il concetto di interità si traduce nel tenere sotto controllo la consistenza dei dati.
 
-E' necessario assicurarsi che:
+E' necessario assicurarsi che coesistano questi 3 tipi di integrità:
+
 - (**Integrità di dominio**)un campo possa accettare un determinato insieme di valori
+
 - (**Integrità di entità**)ogni tabella abbia un insieme di campi
-- (**I**)
+
+- (**Integrità referenziale**)le relazioni tra le tabelle non possano essere violate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAwMzE0MzEsLTMyMDYzNjY3Nyw1MD
+eyJoaXN0b3J5IjpbLTIxMzgyNzkxMTMsLTMyMDYzNjY3Nyw1MD
 Q5MDU0MjAsNzQzOTM2OTM1LDEyMDUxNzE3MzgsMTQ5ODkxMDQx
 LDg4NjI1MzM2N119
 -->
