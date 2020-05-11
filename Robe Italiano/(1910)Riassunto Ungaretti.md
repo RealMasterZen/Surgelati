@@ -74,8 +74,9 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 
 > Riassunto Terza Fase
 > - sensazione di vuoto per la perdita dei propri cari
+> - Sofferenza per le atrocità della guerra 
+> - Poesia come metodo per colmare il vuoto lasciato
 
-> - 
 ### La terra promessa
 
 **La terra promessa (1950)** opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del **progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone**, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
@@ -103,6 +104,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NTUwNjc5LDE4MjkyMzI4ODgsLTQ1MD
-QwODM2LC0xNTAwMTk4MDg0XX0=
+eyJoaXN0b3J5IjpbLTg3NDk3NjgzMiwxODI5MjMyODg4LC00NT
+A0MDgzNiwtMTUwMDE5ODA4NF19
 -->
