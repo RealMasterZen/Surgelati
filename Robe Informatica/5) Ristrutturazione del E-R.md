@@ -51,9 +51,9 @@ Nella rappresentazione tabellare:
 
 - - - 
 ### Chiavi, Schemi e Occorrenze
-
+Una relazione può ammettere diverse
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMDQ2NDAxLDEyMDUxNzE3MzgsMTQ5OD
+eyJoaXN0b3J5IjpbNzQzOTM2OTM1LDEyMDUxNzE3MzgsMTQ5OD
 kxMDQxLDg4NjI1MzM2N119
 -->
