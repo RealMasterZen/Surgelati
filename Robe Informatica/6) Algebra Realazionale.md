@@ -52,10 +52,11 @@ Proiezione(CodCorso, Docente){Corsi}
 
 **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
-
+- - -
+#### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDI1MDkwNywxNzU1MjcwOTkwLC0xMj
-Y0MTg5Njg3LDE2NjQ4NjM0OTksLTY3MTU3OTE1MSwxNDQwNzIy
-MjE2LDE2NjM2NzY3MTMsMTc2ODI4MDM3NywxMTg4Nzk1NTU2LD
-U3MDAzOTQ2LDE2ODk3MzI4MDldfQ==
+eyJoaXN0b3J5IjpbMzkxMzk0NzE4LC03NzQyNTA5MDcsMTc1NT
+I3MDk5MCwtMTI2NDE4OTY4NywxNjY0ODYzNDk5LC02NzE1Nzkx
+NTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3NjgyODAzNzcsMT
+E4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5XX0=
 -->
