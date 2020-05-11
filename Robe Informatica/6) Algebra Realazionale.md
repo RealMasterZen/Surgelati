@@ -12,7 +12,7 @@ Un insieme funzionalmente completo è formato da 5 operatori relazionali.
 
 - **Differenza** di relazioni: **~**
 
-- **Proiezione** di relazioni: **Π**
+- **Proiezione** di relazioni: **Π** (Unaria)
 
 - **Selezione** di relazioni: **σ** (Unaria)
 
@@ -39,6 +39,6 @@ Date 2 relazioni compatibili R e S, l'unione di R con S è la relazione ottenuta
 
 - Data una relazione R e un predicato P (semplice e composto) sui suoi attributi, **la selezione di R o P è la relazione costituita dalle tuple di R che soddisfano P**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDI3MTc0LDExODg3OTU1NTYsNTcwMD
-M5NDYsMTY4OTczMjgwOV19
+eyJoaXN0b3J5IjpbMTc2ODI4MDM3NywxMTg4Nzk1NTU2LDU3MD
+AzOTQ2LDE2ODk3MzI4MDldfQ==
 -->
