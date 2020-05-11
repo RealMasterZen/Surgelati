@@ -42,13 +42,17 @@ Es. Proiezione(Voto=30)E(Lode=NO){Esami}
 - - -
 #### Proiezione (Unaria)
 
+Data una relazione R e un sottoinsieme A dei suoi attributi, si definisce **proiezione di R su A la relazione di grado K che si ottiene considerando solo le colonne di R relative agli attributi contenuti in A ed eliminando le eventuali tuple duplicate**.
+
+Proiezione(CodCorso, Docente){Corsi}
+
 **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
-Data una relazione R e un sottoinsieme A dei suoi attributi, si definisce **proiezione di R su A la relazione di grado K che si ottiene considerando solo le colonne di R relative agli attributi contenuti in A ed eliminando le eventuali tuple duplicate**.
+
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDg2MzQ5OSwtNjcxNTc5MTUxLDE0ND
-A3MjIyMTYsMTY2MzY3NjcxMywxNzY4MjgwMzc3LDExODg3OTU1
-NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
+eyJoaXN0b3J5IjpbMTczNjMxOTIyMiwxNjY0ODYzNDk5LC02Nz
+E1NzkxNTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3NjgyODAz
+NzcsMTE4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5XX0=
 -->
