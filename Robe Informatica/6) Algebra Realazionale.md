@@ -74,12 +74,14 @@ Il risultato sarà una serie di tuple con gli attributi di tutte e 2 che si accu
 - **Inner Join**: fa corrispondere ad un elemento di una tabella un elemento uguale in un'altra tabella
 - **Cross Join**: seleziona tutte le possibili combinazioni di righe e colonne da entrambe le tabelle
 - **Full Join**: unisce tutte le righe di entrambe le tabelle, lasciando nulli i valori che non trovano una corrispondenza
+- **Left Join**: estrae tutti i valori della tabella a sinistra anche se non hanno corrispondenze nella tabella a destra
+- **Right join**: estrae tutti i 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzAwMDYwMCwtOTQ1NTc0MDM1LC03Nz
-QyNTA5MDcsMTc1NTI3MDk5MCwtMTI2NDE4OTY4NywxNjY0ODYz
-NDk5LC02NzE1NzkxNTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLD
-E3NjgyODAzNzcsMTE4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMy
-ODA5XX0=
+eyJoaXN0b3J5IjpbNzMwMjE2NTY3LC05NDU1NzQwMzUsLTc3ND
+I1MDkwNywxNzU1MjcwOTkwLC0xMjY0MTg5Njg3LDE2NjQ4NjM0
+OTksLTY3MTU3OTE1MSwxNDQwNzIyMjE2LDE2NjM2NzY3MTMsMT
+c2ODI4MDM3NywxMTg4Nzk1NTU2LDU3MDAzOTQ2LDE2ODk3MzI4
+MDldfQ==
 -->
