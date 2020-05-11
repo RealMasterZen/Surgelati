@@ -13,7 +13,7 @@ I Vincoli impliciti sono quelli imposti dalla stessa struttura dei dati e si div
 
 Quando delle entità possono avere delle istanze in comune è utile procedere con un organizzazione per gerarchie.
 
-
+Una gerarchia ha una struttura ad albero: la radice rappresenta l'entitòa che contiene le caratteristiche comuni (**entità padre**) mentre i vari nodi (*)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTcxMDQzNiwtMTk3MzA3ODY3MV19
+eyJoaXN0b3J5IjpbOTE2MDcyNDU3LC0xOTczMDc4NjcxXX0=
 -->
