@@ -67,11 +67,11 @@ Il procedimento:
 
 Esami >< Corsi
 
-Il risultato sarà una lista di tutti gli attributi
+Il risultato sarà una serie di tuple con gli attributi di tutte e 2 che si accumunano a una chiave primaria
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTk2NjI0MiwtNzc0MjUwOTA3LDE3NT
+eyJoaXN0b3J5IjpbLTk0NTU3NDAzNSwtNzc0MjUwOTA3LDE3NT
 UyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2MzQ5OSwtNjcxNTc5
 MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4MjgwMzc3LD
 ExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
