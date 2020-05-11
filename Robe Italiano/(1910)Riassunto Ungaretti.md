@@ -85,7 +85,7 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 
 > Riassunto Terra promessa:
 > - Opera di carattere virgiliano che tende a far riflettere sulla condizione dell'uomo nell'universo.
-
+- - - 
 ### Un grido
 
 La raccolta Un grido e paesaggi che **comprende sette liriche scritte tra il 1939 e il 1951** e **ispirate ai viaggi e ai ricordi del periodo brasiliano**.
@@ -93,20 +93,26 @@ Alla raccolta Il taccuino del vecchio che comprende **poesie composte tra il 195
 I **temi** sono quelli della **morte, dell'oblio, del senso di caducità e della fine di ogni cosa.**
 Nel primo coro il poeta si  definisce Profugo come gli altri che furono che sono e che saranno, impegnato in un viaggio verso la meta a tutti sconosciuta la terra promessa che qua va ad identificarsi con la fine della vita.
 
+> Riassunto:
+> - Ancora una volta il poeta tratta il tema della caducità della vita
+> 
+
 ### Vita di un uomo
 
 Nel **1969 Ungaretti pubblicò la Vita di un uomo** una **raccolta della sua intera produzione poetica** che nelle intenzioni dell'autore doveva costituire una sorta di autobiografia poetica ideale sul modello del Canzoniere di Petrarca. L'idea di un **libro che raccogliesse la sua vita interiore dai primi anni della giovinezza fino alla tarda vecchiaia** fu motivata dall'**esigenza di far condividere la vita e letteratura**, di fornire al lettore un immagine unitaria di ungaretti uomo e poeta. Egli stesso spiegò il senso di questo volume con una frase semplice ma estremamente efficace: **Volevo lasciare una bella biografia**
 
 Un  testo in prosa particolarmente significativo è il **deserto** e il dopo che raccogli alcuni articoli di viaggio composti da Ungaretti come inviato speciale della Gazzetta del popolo. 
 Di notevole interesse per capire i tratti più significativi della poesia ungarettiana sono i saggi raccolti in Vita di un uomo Saggi e interventi del 1974.
+ - - - 
+### Parallelamente all'attivitò poetica Ungaretti intraprese quella di traduttore.
 
-**Parallelamente all'attivitò poetica Ungaretti intraprese quella di traduttore**.
 Risale agli anni giovanili ad Alessandria la sua prima prova con la traduzione delle poesie di Edgar Allan Poe, caratterizzate dalla cura formale e dalla brevirà.
 Nel 1936 pubblicò il volume Traduzioni una raccolta di testi di autori stranieri tra cui gongorà e Blake.
 Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di Mallarmè e dell'opera fedra di racine, a testimonianza della varietà delle sue letture e dei suoi interessi culturali.
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMyMDYyMzgsMjgyNzM3NDY1LDE4Mj
-kyMzI4ODgsLTQ1MDQwODM2LC0xNTAwMTk4MDg0XX0=
+eyJoaXN0b3J5IjpbLTE5NDc4NDQ1NDksLTE0OTMyMDYyMzgsMj
+gyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2LC0xNTAwMTk4
+MDg0XX0=
 -->
