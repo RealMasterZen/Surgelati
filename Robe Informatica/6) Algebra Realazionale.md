@@ -24,9 +24,9 @@ Oltre a questi 5 operatori di base è opportuno introdurne ulteriori 2 per opera
 - - - 
 **Due relazioni R e S si dicono compatibili se**:
 - Hanno lo **stesso numero di attributi**
-- Ogni attributo nella stessa posizione all'interno delle 2 relazioni è dello stesso tipo
+- **Ogni attributo nella stessa posizione all'interno delle 2 relazioni è dello stesso tipo**
 
 Date 2 relazioni compatibili R e S, l'unione di R con S è la relazione ottenuta dall'unione insiemistica delle 2 relazioni.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk4NTUyMjJdfQ==
+eyJoaXN0b3J5IjpbLTE2MjYxOTA2Ml19
 -->
