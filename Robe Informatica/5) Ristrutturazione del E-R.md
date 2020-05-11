@@ -56,12 +56,12 @@ Fra queste ne viene scelta una con il minor numero di attributi che viene design
 
 Nello schema di una relazione gli attributi che compongono la chiave primaria sono sottolineati.
 
-Es. **OPSITE(
+Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 
- - idOspite
+Si definisce schema di una base di dati relazionale l'insieme di tutti gli schemi di una relazione.
 
-)**
+Si definisce occorrenza di una base di dati relazion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIyMzE2NjQsNzQzOTM2OTM1LDEyMD
-UxNzE3MzgsMTQ5ODkxMDQxLDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbNTA0OTA1NDIwLDc0MzkzNjkzNSwxMjA1MT
+cxNzM4LDE0OTg5MTA0MSw4ODYyNTMzNjddfQ==
 -->
