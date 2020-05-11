@@ -19,11 +19,12 @@ Tale soluzione **conviene quando la generalizzazione non è totale** e se ci son
 
 ### Partizionamento/accorpamento di entità e associazioni
 
-Le entità e le relazioni di uno schema ER possono essere partizionate o accorpate con lo scopo d ottenere una maggiore efficienza delle operazioni.
-- Partizionamento di entità
-un partizionamento di questo tipo è un esempio di decomposizione verticale di un entità poichè si suddivide il concetto operando sui suoi attributi.
+Le **entità e le relazioni di uno schema ER possono essere partizionate o accorpate con lo scopo di ottenere una maggiore efficienza delle operazioni.**
+
+- **Partizionamento di entità**
+un partizionamento di questo tipo è un esempio di decomposizione verticale di un entità poiché si suddivide il concetto operando sui suoi attributi.
 Una decomposizione orizzontale viene realizzata invece sulle occorrenze dell'entità.
-Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e presenta lo svantaggio di dupilcare tute le associazioni a cui l'entità originaria è legata
+Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e presenta lo svantaggio di duplicare tutte le associazioni a cui l'entità originaria è legata.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc1MDQ1ODAsODg2MjUzMzY3XX0=
+eyJoaXN0b3J5IjpbMTg2Njk2NTg5Niw4ODYyNTMzNjddfQ==
 -->
