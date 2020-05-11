@@ -47,8 +47,8 @@ L'istanza di una relazione sarà l'insieme delle sue tuple in un determinato ist
 Il numero di tuple presenti in un dato istante di tempo in una relazione viene detto cardinalità della relazione.
 Nella rappresentazione tabellare:
 - **Ogni riga** rappresenta una tupla;
-- **Ogni colonna** rappresenta la sequenza dei vaolori assunti dal corrispondente attributo.
+- **Ogni colonna** rappresenta la sequenza dei valori assunti dal corrispondente attributo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMjQwNzI2LDEyMDUxNzE3MzgsMTQ5OD
-kxMDQxLDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbLTE2NTEyNjQ2NDcsMTIwNTE3MTczOCwxND
+k4OTEwNDEsODg2MjUzMzY3XX0=
 -->
