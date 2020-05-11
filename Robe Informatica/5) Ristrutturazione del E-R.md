@@ -63,9 +63,12 @@ Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 - **Occorrenza di una base di dati** relazionale l'insieme delle istanze degli schemi di una relazione.
 - - - 
 
-### Traduzione Verso il modello Logico
+### - - - Traduzione Verso il modello Logico - - -
+
+- Ogni entità diventa una relazione, rappresentabile mediante una tabella
+- Ogni attributo dell'entità diventa un'attributo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTA2ODkzNSwtMzIwNjM2Njc3LDUwND
-kwNTQyMCw3NDM5MzY5MzUsMTIwNTE3MTczOCwxNDk4OTEwNDEs
-ODg2MjUzMzY3XX0=
+eyJoaXN0b3J5IjpbOTc4NTQ4MTU5LC0zMjA2MzY2NzcsNTA0OT
+A1NDIwLDc0MzkzNjkzNSwxMjA1MTcxNzM4LDE0OTg5MTA0MSw4
+ODYyNTMzNjddfQ==
 -->
