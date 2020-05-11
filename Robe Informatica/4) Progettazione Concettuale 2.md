@@ -13,7 +13,11 @@ I Vincoli impliciti sono quelli imposti dalla stessa struttura dei dati e si div
 
 Quando delle entità possono avere delle istanze in comune è utile procedere con un organizzazione per gerarchie.
 
-Una gerarchia ha una struttura ad albero: la radice rappresenta l'entitòa che contiene le caratteristiche comuni (**entità padre**) mentre i vari nodi (*)
+Una gerarchia ha una struttura ad albero: la radice rappresenta l'entitòa che contiene le caratteristiche comuni (**entità padre**) mentre i vari nodi (**entità figlie**) rappresentano le entità contenenti caratteristiche più specifiche.
+
+Per creare una struttura gerarchica si attua un processo detto di specializzazione, cioè si va a specializzare l'entità padre creando entità figlie sempre più specifiche.
+
+Percorrendo il processo inverso passando dalle entità figlie fino all'entità padre il processo viene denominato di generalizzazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MDcyNDU3LC0xOTczMDc4NjcxXX0=
+eyJoaXN0b3J5IjpbLTI1NjA5MjAzNCwtMTk3MzA3ODY3MV19
 -->
