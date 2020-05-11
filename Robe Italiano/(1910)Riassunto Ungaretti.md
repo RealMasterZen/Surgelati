@@ -94,8 +94,8 @@ I **temi** sono quelli della **morte, dell'oblio, del senso di caducità e della
 Nel primo coro il poeta si  definisce Profugo come gli altri che furono che sono e che saranno, impegnato in un viaggio verso la meta a tutti sconosciuta la terra promessa che qua va ad identificarsi con la fine della vita.
 
 > Riassunto:
-> - Ancora una volta il poeta tratta il tema della caducità della vita
-> 
+> - tema della caducità della vita
+> - tema della patria personale non riconosciuta
 
 ### Vita di un uomo
 
@@ -112,7 +112,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc4NDQ1NDksLTE0OTMyMDYyMzgsMj
-gyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2LC0xNTAwMTk4
-MDg0XX0=
+eyJoaXN0b3J5IjpbMjUzNTM4OTE2LC0xNDkzMjA2MjM4LDI4Mj
+czNzQ2NSwxODI5MjMyODg4LC00NTA0MDgzNiwtMTUwMDE5ODA4
+NF19
 -->
