@@ -61,11 +61,14 @@ Il procedimento:
 - Sulla relazione così ottenuta si effettua una selezione sulle tuple aventi attributi A e B dello stesso valore
 - La relazione così ottenuta ha le colonne A e B uguali, per cui si eliminano tali colonne
 
-Lo scopo della join naturale è quello di combinare 2 relazioni aventi uno o più attributi in comune generando una nuova relazione che contiene:
-- Le colonne della prima e della seconda senza duplica
+**Lo scopo della join naturale** è quello di combinare 2 relazioni aventi uno o più attributi in comune generando una nuova relazione che contiene:
+- **Le colonne della prima e della seconda senza duplicazioni**
+- **Le righe della prima concatenate a quelle della seconda , secondo i valori dell'attributo comune**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MDYxNjQ1LC03NzQyNTA5MDcsMTc1NT
-I3MDk5MCwtMTI2NDE4OTY4NywxNjY0ODYzNDk5LC02NzE1Nzkx
-NTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3NjgyODAzNzcsMT
-E4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5XX0=
+eyJoaXN0b3J5IjpbLTExNDQwNjA2NDMsLTc3NDI1MDkwNywxNz
+U1MjcwOTkwLC0xMjY0MTg5Njg3LDE2NjQ4NjM0OTksLTY3MTU3
+OTE1MSwxNDQwNzIyMjE2LDE2NjM2NzY3MTMsMTc2ODI4MDM3Ny
+wxMTg4Nzk1NTU2LDU3MDAzOTQ2LDE2ODk3MzI4MDldfQ==
 -->
