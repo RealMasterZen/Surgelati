@@ -11,19 +11,20 @@ I Vincoli impliciti sono quelli imposti dalla stessa struttura dei dati e si div
 - - - 
 ### - - - Collezione di entità gerarchiche - - -
 
-Quando delle entità possono avere delle istanze in comune è utile procedere con un organizzazione per gerarchie.
+**Quando delle entità possono avere delle istanze in comune** è **utile procedere con un organizzazione per gerarchie**.
 
 Una gerarchia ha una struttura ad albero: la radice rappresenta l'entità che contiene le caratteristiche comuni (**entità padre**) mentre i vari nodi (**entità figlie**) rappresentano le entità contenenti caratteristiche più specifiche.
 
 > **Specializzazione**
-> 
+
 Per creare una struttura gerarchica si attua un processo detto di specializzazione, cioè si va a specializzare l'entità padre creando entità figlie sempre più specifiche.
 
 > **Generalizzazione**
-> 
+
 Percorrendo il processo inverso passando dalle entità figlie fino all'entità padre il processo viene denominato di generalizzazione.
 
 La generalizzazione può essere classificata in:
+
 - **Copertura** :
 	- **Totale** se ogni istanza della classe padre è un istanza di almeno una delle figlie
 	- **Parziale**
@@ -35,15 +36,16 @@ La generalizzazione può essere classificata in:
 - - - 
 ### La progettazione logica
 
-Prima di passare allo schema logico il diagramma E-R deve essere ristrutturato in modo da semplificare la traduzione e ottimizzare il progetto finale.
+**Prima di passare allo schema logico il diagramma E-R deve essere ristrutturato** in modo da semplificare la traduzione e ottimizzare il progetto finale.
 
-La ristrutturazione dello schema è una fase indipendente dal modello logico scelto e si concentra sui criteri di ottimizzazione dello schema e di semplificazione per la fase successiva.
+La **ristrutturazione** dello schema è una fase indipendente dal modello logico scelto e **si concentra sui criteri di ottimizzazione dello schema** e di semplificazione per la fase successiva.
 
 Traduzione verso il modello logico: si tiene conto di uno specifico modello logico all'interno del quale viene tradotta la realtà rappresentata dallo schema E-R
 
 - - - 
 ### Ristrutturazione dello schema E-R
-L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello shcema E-R è la seguente:
+
+L'insieme dei passi da svolgere in sequenza nella fase di ristrutturazione dello schema E-R è la seguente:
 - Analisi delle ridondanze: vengono individuate le ridondanze per stabilire se è necessario eliminarle o mantenerle.
 - Eliminazione delle generalizzazioni: tutte le generalizzazioni vengono sostituite con altri costrutti del modello ER.
 - Partizionamento/Accorpamento di entità e associazioni: si valuta se è opportuno separare o aggregare concetti presenti nello schema.
@@ -67,5 +69,5 @@ Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occor
 un uso eccessivo di associazioni può portare all'apparizione di cicli. cioè percorsi alternativi per raggiungere la stessa informazioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODc2MzU3NF19
+eyJoaXN0b3J5IjpbLTI2NTgxMDQ2N119
 -->
