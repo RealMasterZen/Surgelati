@@ -68,7 +68,7 @@ Il procedimento:
 Esami >< Corsi
 
 Il risultato sarà una serie di tuple con gli attributi di tutte e 2 che si accumunano a una chiave primaria
- 
+ - - - 
  ####  Tipi di Join 
 
 - **Inner Join**: fa corrispondere ad un elemento di una tabella un elemento uguale in un'altra tabella
@@ -76,13 +76,13 @@ Il risultato sarà una serie di tuple con gli attributi di tutte e 2 che si accu
 - **Full Join**: unisce tutte le righe di entrambe le tabelle, lasciando nulli i valori che non trovano una corrispondenza
 - **Left Join**: estrae tutti i valori della tabella a sinistra anche se non hanno corrispondenze nella tabella a destra
 - **Right join**: estrae tutti i valori della tabella a destra anche se non hanno corrispondenze nella tabella di sinistra.
-- **Self Join**: è una particolare congiunzione nella quale le 2 tabelle coinvolte nell'operazione nell'operaz
+- **Self Join**: è una particolare congiunzione nella quale le 2 tabelle coinvolte nell'operazione coincidono, ossia una tabella è messa in relazione con se stesso.
 
-
+- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg3MTc2NDAsLTk0NTU3NDAzNSwtNz
-c0MjUwOTA3LDE3NTUyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2
-MzQ5OSwtNjcxNTc5MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMy
-wxNzY4MjgwMzc3LDExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTcz
-MjgwOV19
+eyJoaXN0b3J5IjpbLTU2MzI5NjIwMiwtOTQ1NTc0MDM1LC03Nz
+QyNTA5MDcsMTc1NTI3MDk5MCwtMTI2NDE4OTY4NywxNjY0ODYz
+NDk5LC02NzE1NzkxNTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLD
+E3NjgyODAzNzcsMTE4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMy
+ODA5XX0=
 -->
