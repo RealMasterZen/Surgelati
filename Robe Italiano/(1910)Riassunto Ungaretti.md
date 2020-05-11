@@ -50,7 +50,11 @@ La raccolta il **Porto sepolto fu pubblicata nel 1916**;
 > **Ricordare** che il nome dell'opera deriva da un ritrovamento archeologico fatto su un sito greco
 
 Le liriche di questa raccolta che appartengono alla **prima fase della produzione poetica di Ungaretti**, si distinguono per un marcato **sperimentalismo sul piano formale** e una **forte componente autobiografica**: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
-> Riassument
+> Riassumendo la prima fase di ungaretti
+> - Forte sperimentalismo sul piano formale
+> - Forte componente autobiografica in cui racconta:
+	> - Gli anni della giovinezza in egitto
+	> - 
 
 ### Sentimento del Tempo
 
@@ -90,6 +94,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDcwNTc0NSwxODI5MjMyODg4LC00NT
+eyJoaXN0b3J5IjpbMjAyNjM3Mjk1OCwxODI5MjMyODg4LC00NT
 A0MDgzNiwtMTUwMDE5ODA4NF19
 -->
