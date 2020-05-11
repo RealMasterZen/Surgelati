@@ -28,6 +28,9 @@ Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e pre
 
 - **Eliminazione di attributi multivalore**
 La ristrutturazione è molto semplice e consiste nel realizzare un'associazione 1:N tra l'entità originaria e una nuova entità che prende il nome dell'attributo multivalore.
+
+- **Accorpamento di entità**
+L'accorpamento è l'operazione inversa del partizionamento e si effettua in genere su associazioni del tipo 1:1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjI1MzQzMyw4ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbMTQ5ODkxMDQxLDg4NjI1MzM2N119
 -->
