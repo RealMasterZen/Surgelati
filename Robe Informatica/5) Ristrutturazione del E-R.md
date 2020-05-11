@@ -42,7 +42,13 @@ La **progettazione logica relazionale** consiste nella:
 Chiameremo schema di una relazione il suo nome e la lista dei suoi attributi(tupla) racchiusi tra parentesi tonde e separati da virgole:
 **Es. Persona(cognome, Nome, Età, Sesso).**
 
+L'istanza di una relazione sarà l'insieme delle sue tuple in un determinato istante di tempo.
+
+Il numero di tuple presenti in un dato istente di empo in una relazione viene detto cardinalità della relazione.
+Nella rappresentazione tabellare:
+- Ogni riga rappresenta una tupla;
+- Ogni colonna rappresenta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTA5MzM2MiwxMjA1MTcxNzM4LDE0OT
-g5MTA0MSw4ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbLTIwMTIxNTMyMTgsMTIwNTE3MTczOCwxND
+k4OTEwNDEsODg2MjUzMzY3XX0=
 -->
