@@ -1,4 +1,7 @@
 # Algebra Relazionale
+Essa è il linguaggio che mi permette di esaminare le query eseguite all'interno di un database.
+
+
 
 ### - - - Le Operazioni relazionali: Unione - - -
 
@@ -11,7 +14,7 @@ Un insieme funzionalmente completo è formato da 5 operatori relazionali.
 
 - **Proiezione** di relazioni: **Π**
 
-- **Selezione** di relazioni: **σ**
+- **Selezione** di relazioni: **σ** (Unaria)
 
 - **Prodotto** di relazioni: **x**
 
@@ -36,6 +39,6 @@ Date 2 relazioni compatibili R e S, l'unione di R con S è la relazione ottenuta
 
 - Data una relazione R e un predicato P (semplice e composto) sui suoi attributi, **la selezione di R o P è la relazione costituita dalle tuple di R che soddisfano P**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODc5NTU1Niw1NzAwMzk0NiwxNjg5Nz
-MyODA5XX0=
+eyJoaXN0b3J5IjpbMTIyMDI3MTc0LDExODg3OTU1NTYsNTcwMD
+M5NDYsMTY4OTczMjgwOV19
 -->
