@@ -51,7 +51,13 @@ L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello
 - I sistemi di basi di dati richiedono di individuare una chiave primaria su cui vengono costruiti gli indici utili per un rapido ed efficiente reperimento dei dati.
 
 Una ridondanza in uno schema ER è un informazione significativa ma derivabile da altre.
-Normalmente infatti in unoschema Er le ridondanze andrebbero eliminate
+Normalmente infatti in unoschema Er le ridondanze andrebbero eliminate.
+
+- - - 
+### - - - Ristrutturazione dello schema E-R - - - 
+L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello schema entità/associazioni è:
+- Analisi delle ridondanze: vengono individuate le ridondanze per stavilire se è necessario elimina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0ODU4MjQwLC0xOTczMDc4NjcxXX0=
+eyJoaXN0b3J5IjpbLTE2NzE4ODQ0OTYsMjc0ODU4MjQwLC0xOT
+czMDc4NjcxXX0=
 -->
