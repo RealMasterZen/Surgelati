@@ -64,7 +64,9 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 **La forma** è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
 
 > Riassunto Seconda Fase:
-> - 
+> - Recupero di una dimensione religiosa
+> - Riflessioni su temi elevati e profondi
+> - Recupero di modelli espressivi tradizionali
 
 ### Il dolore
 
@@ -97,6 +99,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTk2NDEwNCwxODI5MjMyODg4LC00NT
-A0MDgzNiwtMTUwMDE5ODA4NF19
+eyJoaXN0b3J5IjpbMTUyNzg5OTQxLDE4MjkyMzI4ODgsLTQ1MD
+QwODM2LC0xNTAwMTk4MDg0XX0=
 -->
