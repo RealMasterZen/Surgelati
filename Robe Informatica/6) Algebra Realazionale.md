@@ -47,13 +47,15 @@ Data una relazione R e un sottoinsieme A dei suoi attributi, si definisce **proi
 Proiezione(CodCorso, Docente){Corsi}
 -> la soprascritta mostra solo le colonne delle tuple dei seguenti attributi
 
+
 **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
 
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQxODk2ODcsMTY2NDg2MzQ5OSwtNj
-cxNTc5MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4Mjgw
-Mzc3LDExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
+eyJoaXN0b3J5IjpbMTYyNzAxMjc5MSwtMTI2NDE4OTY4NywxNj
+Y0ODYzNDk5LC02NzE1NzkxNTEsMTQ0MDcyMjIxNiwxNjYzNjc2
+NzEzLDE3NjgyODAzNzcsMTE4ODc5NTU1Niw1NzAwMzk0NiwxNj
+g5NzMyODA5XX0=
 -->
