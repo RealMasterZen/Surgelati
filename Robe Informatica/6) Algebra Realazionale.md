@@ -37,7 +37,8 @@ Date 2 relazioni compatibili R e S, l'unione di R con S è la relazione ottenuta
 
 Data una relazione R e un predicato P (semplice e composto) sui suoi attributi, **la selezione di R o P è la relazione costituita dalle tuple di R che soddisfano P**.
 
-Es. Proiezione
+Es. Proiezione(Voto=30)E(Lode=NO){Esami}
+-> la soprascritta estrapola una relazione contenente solo le tuple con la verifica dei campi espressi nel pre
 
 - **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
@@ -45,7 +46,7 @@ Es. Proiezione
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3Nj
-gyODAzNzcsMTE4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5
-XX0=
+eyJoaXN0b3J5IjpbLTkyNTQ4NjQ1OCwxNDQwNzIyMjE2LDE2Nj
+M2NzY3MTMsMTc2ODI4MDM3NywxMTg4Nzk1NTU2LDU3MDAzOTQ2
+LDE2ODk3MzI4MDldfQ==
 -->
