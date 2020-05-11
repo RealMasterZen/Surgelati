@@ -72,6 +72,10 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 
 **Il dolore (1947)** segna il passaggio alla **terza fase della poesia di Ungaretti**, in cui emerge la **sensazione di vuoto di fronte al dolore per la perdita dei propri cari** e la **sofferenza per le atrocità della guerra**. Qui i ricordi del passato affiorano sotto lo sguardo triste e disincantato del poeta nel tentativo di lenire proprio quel vuoto attraverso la poesia.
 
+> Riassunto Terza Fase
+> - sensazione di vuoto per la perdita dei propri cari
+
+> - 
 ### La terra promessa
 
 **La terra promessa (1950)** opera in cui il poeta lavoro' già a partire dagli anni Trenta fu pubblicata incompiuta negli anni 50. Si trattava del **progetto di un Melodramma con personaggi musica e cori ispirato alla vicenda virgiliana del viaggio di Enea verso le coste del Lazio alla ricerca della terra promessa degli dei e dell'incontro con Didone**, la regina cartaginese morta suicida dopo essere stata abbandonata dall'eroe troiano.
@@ -99,6 +103,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg5OTQxLDE4MjkyMzI4ODgsLTQ1MD
+eyJoaXN0b3J5IjpbNzE1NTUwNjc5LDE4MjkyMzI4ODgsLTQ1MD
 QwODM2LC0xNTAwMTk4MDg0XX0=
 -->
