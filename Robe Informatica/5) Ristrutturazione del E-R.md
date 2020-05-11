@@ -37,9 +37,12 @@ La **progettazione logica relazionale** consiste nella:
 - **conversione del diagramma Er in un insieme di tabelle** detto **schema logico relazionale** 
 - **definizione delle operazioni da compiere su di esso**.
 
-Una relazione è un insieme finito del prodotto cartesiano.
-Chiameremo schema di una relazione il suo nome e la lista dei suoi attributi racchiusi tra parentesi tonde e separati da virgole
+> Una relazione è un insieme finito del prodotto cartesiano.
+
+Chiameremo schema di una relazione il suo nome e la lista dei suoi attributi(tupla) racchiusi tra parentesi tonde e separati da virgole:
+**Es. Persona(cognome, Nome, Età, Sesso).**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MzIwMjEzLDEyMDUxNzE3MzgsMTQ5OD
-kxMDQxLDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbLTg1MTA5MzM2MiwxMjA1MTcxNzM4LDE0OT
+g5MTA0MSw4ODYyNTMzNjddfQ==
 -->
