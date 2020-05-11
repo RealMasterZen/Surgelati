@@ -75,13 +75,14 @@ Il risultato sarà una serie di tuple con gli attributi di tutte e 2 che si accu
 - **Cross Join**: seleziona tutte le possibili combinazioni di righe e colonne da entrambe le tabelle
 - **Full Join**: unisce tutte le righe di entrambe le tabelle, lasciando nulli i valori che non trovano una corrispondenza
 - **Left Join**: estrae tutti i valori della tabella a sinistra anche se non hanno corrispondenze nella tabella a destra
-- **Right join**: estrae tutti i 
+- **Right join**: estrae tutti i valori della tabella a destra anche se non hanno corrispondenze nella tabella di sinistra.
+- **Self Join**: è una particolare congiunzione nella quale le 2 tabelle coinvolte nell'operazione nell'operaz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMjE2NTY3LC05NDU1NzQwMzUsLTc3ND
-I1MDkwNywxNzU1MjcwOTkwLC0xMjY0MTg5Njg3LDE2NjQ4NjM0
-OTksLTY3MTU3OTE1MSwxNDQwNzIyMjE2LDE2NjM2NzY3MTMsMT
-c2ODI4MDM3NywxMTg4Nzk1NTU2LDU3MDAzOTQ2LDE2ODk3MzI4
-MDldfQ==
+eyJoaXN0b3J5IjpbLTE2OTg3MTc2NDAsLTk0NTU3NDAzNSwtNz
+c0MjUwOTA3LDE3NTUyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2
+MzQ5OSwtNjcxNTc5MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMy
+wxNzY4MjgwMzc3LDExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTcz
+MjgwOV19
 -->
