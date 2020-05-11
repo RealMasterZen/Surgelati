@@ -64,7 +64,7 @@ Essenziale nella traduzione verso lo schema logico si concentra sulla scelta di 
 >Una **ridondanza in uno schema ER** è un **informazione significativa ma derivabile da altre**.
 Normalmente in uno schema E-R le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
 ---
-### Classificazione delle ridondanze all'interno di uno schema ER
+### - - - Classificazione delle ridondanze all'interno di uno schema ER - - - 
 - **Attributi derivabili all'interno della stessa entità**
  questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
 
@@ -78,5 +78,5 @@ Normalmente in uno schema E-R le ridondanze andrebbero eliminate ma occorre anal
 un uso eccessivo di associazioni può portare all'apparizione di cicli. cioè percorsi alternativi per raggiungere la stessa informazioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI3OTgyOTFdfQ==
+eyJoaXN0b3J5IjpbLTk1NDE2NTg0NV19
 -->
