@@ -53,8 +53,8 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 > Riassumendo la prima fase di ungaretti
 > - Forte sperimentalismo sul piano formale
 > - Forte componente autobiografica in cui racconta:
-	> - Gli anni della giovinezza in egitto
-	> - 
+>	  - Gli anni della giovinezza in egitto
+>	  - L'esperienza vissuta in guerra
 
 ### Sentimento del Tempo
 
@@ -62,6 +62,9 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 **I contenuti** testimoniano il **recupero di una dimensione religiosa** che porta a **frequenti riflessioni su temi elevati e profondi**, come il tempo e la morte e **risentono della teoria bergsoniana del "tempo interiore"**, che scardina la concezione di tempo oggettivo e misurabile.
 
 **La forma** è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
+
+> Riassunto Seconda Fase:
+> - 
 
 ### Il dolore
 
@@ -94,6 +97,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjM3Mjk1OCwxODI5MjMyODg4LC00NT
+eyJoaXN0b3J5IjpbMTUyOTk2NDEwNCwxODI5MjMyODg4LC00NT
 A0MDgzNiwtMTUwMDE5ODA4NF19
 -->
