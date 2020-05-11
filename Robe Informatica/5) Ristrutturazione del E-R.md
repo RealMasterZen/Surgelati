@@ -44,11 +44,11 @@ Chiameremo schema di una relazione il suo nome e la lista dei suoi attributi(tup
 
 L'istanza di una relazione sarà l'insieme delle sue tuple in un determinato istante di tempo.
 
-Il numero di tuple presenti in un dato istente di empo in una relazione viene detto cardinalità della relazione.
+Il numero di tuple presenti in un dato istante di tempo in una relazione viene detto cardinalità della relazione.
 Nella rappresentazione tabellare:
-- Ogni riga rappresenta una tupla;
-- Ogni colonna rappresenta 
+- **Ogni riga** rappresenta una tupla;
+- **Ogni colonna** rappresenta la sequenza dei vaolori assunti dal corrispondente attributo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIxNTMyMTgsMTIwNTE3MTczOCwxND
-k4OTEwNDEsODg2MjUzMzY3XX0=
+eyJoaXN0b3J5IjpbNDkzMjQwNzI2LDEyMDUxNzE3MzgsMTQ5OD
+kxMDQxLDg4NjI1MzM2N119
 -->
