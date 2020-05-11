@@ -28,6 +28,8 @@ La generalizzazione può essere classificata in:
 	- Totale se ogni istanza della classe padre è un istanza di almeno una delle figlie
 	- Parziale se ogni istanza della classe padre 
 - Disgiunzione
+	- Esclusiva se ogni istanza della classe padre è un istanza di al più una delle classi figlie
+	- Sovrapposta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTk5NzczLC0xOTczMDc4NjcxXX0=
+eyJoaXN0b3J5IjpbLTE2MDgyMjQxNCwtMTk3MzA3ODY3MV19
 -->
