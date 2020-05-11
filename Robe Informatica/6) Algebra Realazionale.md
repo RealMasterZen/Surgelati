@@ -33,12 +33,14 @@ Date 2 relazioni compatibili R e S, l'unione di R con S è la relazione ottenuta
 - - - 
 ### - - - Le operazioni Relazioni: differenza, proiezione e selezione - - - 
 
+#### Selezione
+
 - **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
 - Data una relazione R e un sottoinsieme A dei suoi attributi, si definisce **proiezione di R su A la relazione di grado K che si ottiene considerando solo le colonne di R relative agli attributi contenuti in A ed eliminando le eventuali tuple duplicate**.
 
 - Data una relazione R e un predicato P (semplice e composto) sui suoi attributi, **la selezione di R o P è la relazione costituita dalle tuple di R che soddisfano P**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODI4MDM3NywxMTg4Nzk1NTU2LDU3MD
-AzOTQ2LDE2ODk3MzI4MDldfQ==
+eyJoaXN0b3J5IjpbMTY2MzY3NjcxMywxNzY4MjgwMzc3LDExOD
+g3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
 -->
