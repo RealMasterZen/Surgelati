@@ -33,7 +33,7 @@ Dopo l'esperienza sul campo egli cambia completamente di ideali e diventa pacifi
 **Finita la guerra si stabilì a Parigi** dove cominciò a lavorare come corrispondente per il Popolo d'Italia, il giornale fondato da Benito Mussolini.
 Nel **1920 tornò in Italia** con la Moglie Jeanne Dupoix,e **lì aderì al Fascismo**, in cui vedeva realizzarsi la possibilità di una coesione nazionale.
 
-In quegli anni si prestò alla collaborazione con la Rivista **La Ronda**, questa proponeva al ritorno di un nuovo classicismo con l'abbandono delle nuove avanguardie e con il ritorno ad una riappacificazione religiosa.
+In quegli anni si prestò alla **collaborazione con la Rivista La Ronda**, questa proponeva al ritorno di un nuovo classicismo con l'abbandono delle nuove avanguardie e con il ritorno ad una riappacificazione religiosa.
 
 Nel 1936 si trasferì in Brasile dove occupò la cattedra di letteratura Italiana all'università di Roma e pubblicò alcune raccolte poetiche quali il *dolore*.
 Rimasto vedovo nel 1958 continuò la sua attività poetica e di traduttore.
@@ -88,6 +88,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI5NzQzOTgsMTgyOTIzMjg4OCwtND
+eyJoaXN0b3J5IjpbLTIwNTYxNTk4NzAsMTgyOTIzMjg4OCwtND
 UwNDA4MzYsLTE1MDAxOTgwODRdfQ==
 -->
