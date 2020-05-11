@@ -30,7 +30,12 @@ Di fatto una decomposizione orizzontale corrisponde a una generalizzazione e pre
 La ristrutturazione è molto semplice e consiste nel realizzare un'associazione 1:N tra l'entità originaria e una nuova entità che prende il nome dell'attributo multivalore.
 
 - **Accorpamento di entità**
-L'accorpamento è l'operazione inversa del partizionamento e si effettua in genere su associazioni del tipo 1:1
+L'accorpamento è l'operazione inversa del partizionamento e si effettua in genere su associazioni del tipo 1:1.
+- - - 
+### Le Relazioni
+La progettazione logica relazionale consiste nella conversione del diagramma Er in un insieme di tabelle detto schema logico relazionale e nella definizione delle operazioni da compiere su di esso.
+una relazione è un i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODkxMDQxLDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbMTI1OTM4NDU4OCwxNDk4OTEwNDEsODg2Mj
+UzMzY3XX0=
 -->
