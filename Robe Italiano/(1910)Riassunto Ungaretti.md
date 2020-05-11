@@ -3,11 +3,11 @@
 ### VITA DI UNGARETTI
 **Giuseppe Ungaretti nasce ad Alessandria D'Egitto il 10 febbraio del 1888** da emigranti italiani lucani che si dirigono li per il lavoro procurato dal progetto della costruzione del canale di Suez.
 
-Poté infatti frequentare la **scuola superiore ad Alessandria**, dove entrò in contatto con i fuoriusciti anarchici italiani **si appassionò alla poesia di Leopardi, Carducci, Pascoli, D'annunzio, Baudelaire, Mallarmè.
+Poté infatti frequentare la **scuola superiore ad Alessandria**, dove entrò in contatto con i fuoriusciti anarchici italiani **si appassionò alla poesia di Leopardi, Carducci, Pascoli, D'annunzio, Baudelaire, Mallarmè.**
 
-nel **1912 si diresse verso a Parigi**, però nel percorso fece una tappa in Italia per andare ad incontrare quelli che erano i direttori del giornale per cui faceva il corrispondente.
+Nel **1912 si diresse verso Parigi**, però nel percorso fece una tappa in Italia per andare ad incontrare quelli che erano i direttori del giornale per cui faceva il corrispondente.
 
-A Parigi segue i corsi universitari al Collegè de Paris e alla Sorbona frequentando con grande 
+A Parigi segue i corsi universitari al Collegue de Paris e alla Sorbona frequentando con grande 
 attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo:
 
 **pittori**
@@ -83,6 +83,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODgxNjIsLTQ1MDQwODM2LC0xNTAwMT
-k4MDg0XX0=
+eyJoaXN0b3J5IjpbODc1NjYxMTczLC00NTA0MDgzNiwtMTUwMD
+E5ODA4NF19
 -->
