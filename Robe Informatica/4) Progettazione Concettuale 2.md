@@ -44,8 +44,10 @@ Traduzione verso il modello logico: si tiene conto di uno specifico modello logi
 - - - 
 ### Ristrutturazione dello schema E-R
 L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello shcema E-R è la seguente:
-
+- Analisi delle ridondanze: vengono individuate le ridondanze per stabilire se è necessario eliminarle o mantenerle.
+- Eliminazione delle generalizzazioni: tutte le generalizzazioni vengono sostituite con altri costrutti del modello ER.
+- Partizionamento/Accorpamento di entità e associazioni: si valuta se è opportuno separare o aggrefare co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkwNjg5NDUsLTE5NzMwNzg2NzFdfQ
+eyJoaXN0b3J5IjpbLTE5NTkxMjkwNzUsLTE5NzMwNzg2NzFdfQ
 ==
 -->
