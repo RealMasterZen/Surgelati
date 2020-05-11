@@ -34,8 +34,9 @@ L'accorpamento è l'operazione inversa del partizionamento e si effettua in gene
 - - - 
 ### Le Relazioni
 La progettazione logica relazionale consiste nella conversione del diagramma Er in un insieme di tabelle detto schema logico relazionale e nella definizione delle operazioni da compiere su di esso.
-una relazione è un i
+una relazione è un insieme finito del prodotto cartesiano.
+Chiameremo schema di una relazione il suo nome e la lista dei suoi attributi racchiusi tra parentesi tonde e separati da virgole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTM4NDU4OCwxNDk4OTEwNDEsODg2Mj
-UzMzY3XX0=
+eyJoaXN0b3J5IjpbLTg0NTUyNjc4LDE0OTg5MTA0MSw4ODYyNT
+MzNjddfQ==
 -->
