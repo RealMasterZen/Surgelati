@@ -48,7 +48,10 @@ Il numero di tuple presenti in un dato istante di tempo in una relazione viene d
 Nella rappresentazione tabellare:
 - **Ogni riga** rappresenta una tupla;
 - **Ogni colonna** rappresenta la sequenza dei valori assunti dal corrispondente attributo.
+
+- - - 
+### Le 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEyNjQ2NDcsMTIwNTE3MTczOCwxND
+eyJoaXN0b3J5IjpbLTE3MjQ4NTYyODgsMTIwNTE3MTczOCwxND
 k4OTEwNDEsODg2MjUzMzY3XX0=
 -->
