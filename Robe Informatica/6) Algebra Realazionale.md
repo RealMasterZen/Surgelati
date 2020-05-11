@@ -27,6 +27,10 @@ Oltre a questi 5 operatori di base è opportuno introdurne ulteriori 2 per opera
 - **Ogni attributo nella stessa posizione all'interno delle 2 relazioni è dello stesso tipo**
 
 Date 2 relazioni compatibili R e S, l'unione di R con S è la relazione ottenuta dall'unione insiemistica delle 2 relazioni.
+- - - 
+### - - - Le operazioni Relazioni: differenza, proiezione e selezione - - - 
+
+Date
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYxOTA2Ml19
+eyJoaXN0b3J5IjpbMTY4OTczMjgwOV19
 -->
