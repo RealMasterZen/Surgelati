@@ -57,13 +57,13 @@ vengono individuate le ridondanze per stabilire se è necessario eliminarle o ma
  si valuta se è opportuno separare o aggregare concetti presenti nello schema.
 
 - **Scelta delle chiavi primarie**
-Essenziale nella traduzione verso lo schema logico si concentra sulla scelta di esse in base alla.
+Essenziale nella traduzione verso lo schema logico si concentra sulla scelta di esse in base alla loro atomicità. 
+	>I sistemi di basi di dati richiedono di individuare una chiave primaria su cui vengono costruiti gli indici utili per un rapido ed efficiente reperimento dei dati.
 
-- I sistemi di basi di dati richiedono di individuare una chiave primaria su cui vengono costruiti gli indici utili per un rapido ed efficiente reperimento dei dati.
 
-Una **ridondanza in uno schema ER** è un **informazione significativa ma derivabile da altre**.
-Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
-
+>Una **ridondanza in uno schema ER** è un **informazione significativa ma derivabile da altre**.
+Normalmente in uno schema E-R le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
+---
 ### Classificazione delle ridondanze all'interno di uno schema ER
 - **Attributi derivabili all'interno della stessa entità**
  questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
@@ -78,5 +78,5 @@ Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occor
 un uso eccessivo di associazioni può portare all'apparizione di cicli. cioè percorsi alternativi per raggiungere la stessa informazioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTY5NzA2M119
+eyJoaXN0b3J5IjpbLTEzMTI3OTgyOTFdfQ==
 -->
