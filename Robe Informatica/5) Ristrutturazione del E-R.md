@@ -58,11 +58,11 @@ Nello schema di una relazione gli attributi che compongono la chiave primaria so
 
 Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 
-Si definisce schema di una base di dati relazionale l'insieme di tutti gli schemi di una relazione.
+- Schema di una base di dati relazionale l'insieme di tutti gli schemi di una relazione.
 
 Si definisce occorrenza di una base di dati relazionale l'insieme delle istanze degli schemi di una relazione.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDYzNjY3Nyw1MDQ5MDU0MjAsNzQzOT
-M2OTM1LDEyMDUxNzE3MzgsMTQ5ODkxMDQxLDg4NjI1MzM2N119
-
+eyJoaXN0b3J5IjpbLTUxNzIxMDI0OCwtMzIwNjM2Njc3LDUwND
+kwNTQyMCw3NDM5MzY5MzUsMTIwNTE3MTczOCwxNDk4OTEwNDEs
+ODg2MjUzMzY3XX0=
 -->
