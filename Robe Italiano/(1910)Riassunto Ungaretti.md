@@ -83,6 +83,11 @@ Le liriche di questa raccolta che appartengono alla **prima fase della produzion
 **L'opera presenta** non solo la **sofferenza di Didone** per la perdita dell'amato ma anche **la fine di Cartagine** perche'
 **come ebbe a dire il poeta** anche **le civiltà nascono crescono e muoiono** Esperimento di epica moderna, **l'opera voleva essere** nelle intenzioni di Ungaretti una **riflessione metafisica sulle condizioni dell'uomo nell'universo**, **sulle profonde aspirazioni sulla sostanza di essere universale e sul suo costante fallire che si rinnova ogni giorno una meditazione sul destino dell'umanità intera nutrita dei valori della classicità nel tentativo di offrire un bilancio della propria esperienza poetica ed esistenziale che si avviava ormai al tramonto.**
 
+> Riassunto Terra promessa:
+> eronasplf kmasd asd  sdlkasd dkald
+> tentava di boler fareslmasd
+> alksmd aksd asd lmg 
+
 ### Un grido
 
 La raccolta Un grido e paesaggi che **comprende sette liriche scritte tra il 1939 e il 1951** e **ispirate ai viaggi e ai ricordi del periodo brasiliano**.
@@ -104,6 +109,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDk3NjgzMiwxODI5MjMyODg4LC00NT
-A0MDgzNiwtMTUwMDE5ODA4NF19
+eyJoaXN0b3J5IjpbMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MD
+QwODM2LC0xNTAwMTk4MDg0XX0=
 -->
