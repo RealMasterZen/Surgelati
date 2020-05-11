@@ -68,11 +68,14 @@ Il procedimento:
 Esami >< Corsi
 
 Il risultato sarà una serie di tuple con gli attributi di tutte e 2 che si accumunano a una chiave primaria
+ 
+ ####  Tipi di Join 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTU3NDAzNSwtNzc0MjUwOTA3LDE3NT
-UyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2MzQ5OSwtNjcxNTc5
-MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4MjgwMzc3LD
-ExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
+eyJoaXN0b3J5IjpbLTE0ODYyMjU2NDYsLTk0NTU3NDAzNSwtNz
+c0MjUwOTA3LDE3NTUyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2
+MzQ5OSwtNjcxNTc5MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMy
+wxNzY4MjgwMzc3LDExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTcz
+MjgwOV19
 -->
