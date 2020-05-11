@@ -46,13 +46,14 @@ Data una relazione R e un sottoinsieme A dei suoi attributi, si definisce **proi
 
 Proiezione(CodCorso, Docente){Corsi}
 
+
 **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
 
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjMxOTIyMiwxNjY0ODYzNDk5LC02Nz
-E1NzkxNTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3NjgyODAz
-NzcsMTE4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5XX0=
+eyJoaXN0b3J5IjpbLTExMDE5NDg1NzIsMTY2NDg2MzQ5OSwtNj
+cxNTc5MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4Mjgw
+Mzc3LDExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
 -->
