@@ -38,6 +38,14 @@ La generalizzazione può essere classificata in:
 Prima di passare allo schema logico il diagramma E-R deve essere ristrutturato in modo da semplificare la traduzione e ottimizzare il progetto finale.
 
 La ristrutturazione dello schema è una fase indipendente dal modello logico scelto e si concentra sui criteri di ottimizzazione dello schema e di semplificazione per la fase successiva.
+
+Traduzione verso il modello logico: si tiene conto di uno specifico modello logico all'interno del quale viene tradotta la realtà rappresentata dallo schema E-R
+
+- - - 
+### Ristrutturazione dello schema E-R
+L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello shcema E-R è la seguente:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTc4NzEwMCwtMTk3MzA3ODY3MV19
+eyJoaXN0b3J5IjpbLTEwNzkwNjg5NDUsLTE5NzMwNzg2NzFdfQ
+==
 -->
