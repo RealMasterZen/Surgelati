@@ -66,9 +66,11 @@ Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 ### - - - Traduzione Verso il modello Logico - - -
 
 - Ogni entità diventa una relazione, rappresentabile mediante una tabella
-- Ogni attributo dell'entità diventa un'attributo 
+- Ogni attributo dell'entità diventa un'attributo della relazione, rappresentato con una colonna di tabella;
+- L'attributo chiave dell'entità diventa attributo chiave della relazione
+Segue la rappresentazione delle associazioni 1:N, 1:1, N:N
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NTQ4MTU5LC0zMjA2MzY2NzcsNTA0OT
-A1NDIwLDc0MzkzNjkzNSwxMjA1MTcxNzM4LDE0OTg5MTA0MSw4
-ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbMTA5NTU3MTA3NCwtMzIwNjM2Njc3LDUwND
+kwNTQyMCw3NDM5MzY5MzUsMTIwNTE3MTczOCwxNDk4OTEwNDEs
+ODg2MjUzMzY3XX0=
 -->
