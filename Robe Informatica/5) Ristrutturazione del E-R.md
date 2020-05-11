@@ -73,9 +73,15 @@ Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 Segue la rappresentazione delle associazioni 1:N, 1:1, N:N
 - - - 
 ### - - - Integrità Referenziale - - -
-Il concetto di interità si traduce nel tenere sotto contro
+Il concetto di interità si traduce nel tenere sotto controllo la consistenza dei dati.
+
+E' necessario assicurarsi che:
+- (**Integrità di dominio**)un campo possa accettare un determinato insieme di valori
+- (**Integrità di entità**)ogni tabella abbia un insieme di campi
+- (**I**)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDUzNzQ0OCwtMzIwNjM2Njc3LDUwND
-kwNTQyMCw3NDM5MzY5MzUsMTIwNTE3MTczOCwxNDk4OTEwNDEs
-ODg2MjUzMzY3XX0=
+eyJoaXN0b3J5IjpbLTE4NTAwMzE0MzEsLTMyMDYzNjY3Nyw1MD
+Q5MDU0MjAsNzQzOTM2OTM1LDEyMDUxNzE3MzgsMTQ5ODkxMDQx
+LDg4NjI1MzM2N119
 -->
