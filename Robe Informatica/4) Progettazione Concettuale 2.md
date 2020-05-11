@@ -30,7 +30,11 @@ La generalizzazione può essere classificata in:
 
 - **Disgiunzione**
 	- **Esclusiva** se ogni istanza della classe padre è un istanza di al più una delle classi figlie
-	- Sovrapposta 
+	- **Sovrapposta**
+
+- - - 
+### La progettazione logica
+Prima di passare allo schema logico il diagramma E-R deve essere ristrutturato in modo da sempli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzMzMDIxNiwtMTk3MzA3ODY3MV19
+eyJoaXN0b3J5IjpbLTQ5MDExNjM1NCwtMTk3MzA3ODY3MV19
 -->
