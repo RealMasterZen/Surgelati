@@ -7,7 +7,9 @@ Facendo riferimento allo schema ER è possibile risolvere la mia generalizzazion
 Si Aggiunge un attributo che serve a distinguere il tipo.
 	> Soluzione utile quando le operazioni sono molto simili
 
-- ****
+- **Accorpamento del padre della generalizzaizone nelle figlie**
+Tipo di ristrutturazione che può essere impiegato quando la generalizzazione è totale, e conviene quando c'è una netta distinzione tra le entità pèrese in considerazione.
+- **Sostituz**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzU0MDI3MSw4ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbLTE1MTM3OTEzOTUsODg2MjUzMzY3XX0=
 -->
