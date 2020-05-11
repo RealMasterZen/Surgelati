@@ -59,9 +59,13 @@ Si presenta frequentemente la necessità di unire 2 relazioni (o tabelle), accop
 Il procedimento:
 - Si effettua il prodotto cartesiano di R e S
 - Sulla relazione così ottenuta si effettua una selezione sulle tuple aventi attributi A e B dello stesso valore
+- La relazione così ottenuta ha le colonne A e B uguali, per cui si eliminano tali colonne
+
+Lo scopo della join naturale è quello di combinare 2 relazioni aventi uno o più attributi in comune generando una nuova relazione che contiene:
+- Le colonne della prima e della seconda senza duplica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODI1MDM1OSwtNzc0MjUwOTA3LDE3NT
-UyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2MzQ5OSwtNjcxNTc5
-MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4MjgwMzc3LD
-ExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
+eyJoaXN0b3J5IjpbNTA0MDYxNjQ1LC03NzQyNTA5MDcsMTc1NT
+I3MDk5MCwtMTI2NDE4OTY4NywxNjY0ODYzNDk5LC02NzE1Nzkx
+NTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3NjgyODAzNzcsMT
+E4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5XX0=
 -->
