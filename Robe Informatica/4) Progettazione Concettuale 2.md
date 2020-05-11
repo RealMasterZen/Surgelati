@@ -51,11 +51,12 @@ L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello
 - I sistemi di basi di dati richiedono di individuare una chiave primaria su cui vengono costruiti gli indici utili per un rapido ed efficiente reperimento dei dati.
 
 Una ridondanza in uno schema ER è un informazione significativa ma derivabile da altre.
-Normalmente infatti in unoschema Er le ridondanze andrebbero eliminate.
+Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
 
-- - - 
+- Attributi derivabili all'interno della stessa entità: questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono es
+- Attributi derivabili da altre entità
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTE4NDA4NywyNzQ4NTgyNDAsLTE5Nz
+eyJoaXN0b3J5IjpbLTE3NTA2ODQwMywyNzQ4NTgyNDAsLTE5Nz
 MwNzg2NzFdfQ==
 -->
