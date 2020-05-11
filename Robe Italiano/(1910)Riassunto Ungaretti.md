@@ -28,10 +28,11 @@ Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *all
 **Ungaretti all'anno dello scoppio della prima guerra mondiale (1914)decise di trasferirsi a Milano**, essendo lui un acceso interventista, successivamente **andò ad auto-arruolarsi come soldato semplice**, **combatté inoltre sull'altopiano del Carso**.
 Dopo l'esperienza sul campo egli cambia completamente di ideali e diventa pacifista ripudiando la guerra.
 - - -
-### Il rito
+### Il ritorno in francia dopo la guerra
 
 **Finita la guerra si stabilì a Parigi** dove cominciò a lavorare come corrispondente per il Popolo d'Italia, il giornale fondato da Benito Mussolini.
-Nel 1920 tornò in Italia con la Moglie Jeanne Dupoix,e lì aderì al Fascismo, in cui vederva realizzarsi la possibilità di una coesione naizonale.
+Nel **1920 tornò in Italia** con la Moglie Jeanne Dupoix,e **lì aderì al Fascismo**, in cui vedeva realizzarsi la possibilità di una coesione nazionale.
+
 In quegli anni si prestò alla collaborazione con la Rivista **La Ronda**, questa proponeva al ritorno di un nuovo classicismo con l'abbandono delle nuove avanguardie e con il ritorno ad una riappacificazione religiosa.
 
 Nel 1936 si trasferì in Brasile dove occupò la cattedra di letteratura Italiana all'università di Roma e pubblicò alcune raccolte poetiche quali il *dolore*.
@@ -87,6 +88,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjIwNDU5OSwxODI5MjMyODg4LC00NT
-A0MDgzNiwtMTUwMDE5ODA4NF19
+eyJoaXN0b3J5IjpbLTE0MTI5NzQzOTgsMTgyOTIzMjg4OCwtND
+UwNDA4MzYsLTE1MDAxOTgwODRdfQ==
 -->
