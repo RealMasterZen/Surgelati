@@ -24,12 +24,13 @@ Per creare una struttura gerarchica si attua un processo detto di specializzazio
 Percorrendo il processo inverso passando dalle entità figlie fino all'entità padre il processo viene denominato di generalizzazione.
 
 La generalizzazione può essere classificata in:
-- Copertura :
-	- Totale se ogni istanza della classe padre è un istanza di almeno una delle figlie
-	- Parziale se ogni istanza della classe padre 
-- Disgiunzione
-	- Esclusiva se ogni istanza della classe padre è un istanza di al più una delle classi figlie
+- **Copertura** :
+	- **Totale** se ogni istanza della classe padre è un istanza di almeno una delle figlie
+	- **Parziale**
+
+- **Disgiunzione**
+	- **Esclusiva** se ogni istanza della classe padre è un istanza di al più una delle classi figlie
 	- Sovrapposta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgyMjQxNCwtMTk3MzA3ODY3MV19
+eyJoaXN0b3J5IjpbLTQ0NzMzMDIxNiwtMTk3MzA3ODY3MV19
 -->
