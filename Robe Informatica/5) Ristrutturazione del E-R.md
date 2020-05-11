@@ -60,8 +60,9 @@ Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 
 Si definisce schema di una base di dati relazionale l'insieme di tutti gli schemi di una relazione.
 
-Si definisce occorrenza di una base di dati relazion
+Si definisce occorrenza di una base di dati relazionale l'insieme delle istanze degli schemi di una relazione.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0OTA1NDIwLDc0MzkzNjkzNSwxMjA1MT
-cxNzM4LDE0OTg5MTA0MSw4ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbLTMyMDYzNjY3Nyw1MDQ5MDU0MjAsNzQzOT
+M2OTM1LDEyMDUxNzE3MzgsMTQ5ODkxMDQxLDg4NjI1MzM2N119
+
 -->
