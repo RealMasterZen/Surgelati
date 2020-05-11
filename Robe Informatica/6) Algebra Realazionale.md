@@ -55,10 +55,10 @@ Proiezione(CodCorso, Docente){Corsi}
 - - -
 #### Join Naturale
 
-Si presenta frequentemente la necessità di unire 2 relazioni (o tabelle)
+Si presenta frequentemente la necessità di unire 2 relazioni (o tabelle), accoppiando le tuple dove esiste un qualche tipo di corrispondenza espressa dal predicato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg4OTM1NzcsLTc3NDI1MDkwNywxNz
-U1MjcwOTkwLC0xMjY0MTg5Njg3LDE2NjQ4NjM0OTksLTY3MTU3
-OTE1MSwxNDQwNzIyMjE2LDE2NjM2NzY3MTMsMTc2ODI4MDM3Ny
-wxMTg4Nzk1NTU2LDU3MDAzOTQ2LDE2ODk3MzI4MDldfQ==
+eyJoaXN0b3J5IjpbNzgzOTUwNTE0LC03NzQyNTA5MDcsMTc1NT
+I3MDk5MCwtMTI2NDE4OTY4NywxNjY0ODYzNDk5LC02NzE1Nzkx
+NTEsMTQ0MDcyMjIxNiwxNjYzNjc2NzEzLDE3NjgyODAzNzcsMT
+E4ODc5NTU1Niw1NzAwMzk0NiwxNjg5NzMyODA5XX0=
 -->
