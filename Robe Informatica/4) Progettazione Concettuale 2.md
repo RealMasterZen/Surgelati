@@ -46,8 +46,9 @@ Traduzione verso il modello logico: si tiene conto di uno specifico modello logi
 L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello shcema E-R è la seguente:
 - Analisi delle ridondanze: vengono individuate le ridondanze per stabilire se è necessario eliminarle o mantenerle.
 - Eliminazione delle generalizzazioni: tutte le generalizzazioni vengono sostituite con altri costrutti del modello ER.
-- Partizionamento/Accorpamento di entità e associazioni: si valuta se è opportuno separare o aggrefare co
+- Partizionamento/Accorpamento di entità e associazioni: si valuta se è opportuno separare o aggregare concetti presenti nello schema.
+- Scelta delle chiavi primarie: essenziale nella traduzione verso lo schema logico.
+- I sistemi di basi di dati richiedono di individuare una chiave primaria su cui vengono costruiti gli indici utili per un rapido ed efficiente reperimento dei dati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkxMjkwNzUsLTE5NzMwNzg2NzFdfQ
-==
+eyJoaXN0b3J5IjpbMTQ2MTI2MTQwMywtMTk3MzA3ODY3MV19
 -->
