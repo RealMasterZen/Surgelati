@@ -6,7 +6,7 @@ Secondo l'apporccio basato sull'algebra relazionale, il risultato di un'interrog
 Un insieme funzionalmente completo è formato da 5 operatori relazionali.
 - Unione di Relazioni: U
 - Differenza di relazioni: ~
-- Proiezione di relazioni: 
+- Proiezione di relazioni: Π
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODU4ODk3OF19
+eyJoaXN0b3J5IjpbLTE0NTQ3MTQ5NzBdfQ==
 -->
