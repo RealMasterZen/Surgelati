@@ -7,8 +7,8 @@ Poté infatti frequentare la **scuola superiore ad Alessandria**, dove entrò in
 
 Nel **1912 si diresse verso Parigi**, però nel percorso fece una tappa in Italia per andare ad incontrare quelli che erano i direttori del giornale per cui faceva il corrispondente.
 
-A Parigi segue i corsi universitari al Collegue de Paris e alla Sorbona frequentando con grande 
-attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo:
+**A Parigi segue i corsi universitari al *Collegue de Paris* e alla Sorbona frequentando con grande 
+attenzione le lezioni del filosofo *Henri Bergson***, in quel periodo approfondì gli studi nella poetica simbolista e decadente e conobbe alcuni dei più grandi autori avanguardisti del tempo:
 
 **pittori**
 - Picasso 
@@ -20,7 +20,7 @@ attenzione le lezioni del filosofo **Henri Bergson**, in quel periodo approfond�
 - Soffici
 - Palazzeschi
 
-questi ultimi lo invitarono a collaborare nella rivista lacerba(**1915**).
+questi ultimi lo invitarono a collaborare nella rivista **L'Acerba**(**1915**).
 Ungaretti successivamente sfornò le raccolte poetiche *Il Porto Sepolto* e *allegria di naufragi.*
 
 Ungaretti all'anno dello scoppio della prima guerra mondiale decise di trasferirsi a milani, essendo lui un acceso interventista, esso successivamente andò ad autoarruolarsi come soldato semplice, combattè inoltre sull'altopiano del Carso.
@@ -83,6 +83,6 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NjYxMTczLC00NTA0MDgzNiwtMTUwMD
-E5ODA4NF19
+eyJoaXN0b3J5IjpbMTgyOTIzMjg4OCwtNDUwNDA4MzYsLTE1MD
+AxOTgwODRdfQ==
 -->
