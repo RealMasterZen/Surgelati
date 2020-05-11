@@ -20,6 +20,8 @@ Tale soluzione **conviene quando la generalizzazione non è totale** e se ci son
 ### Partizionamento/accorpamento di entità e associazioni
 
 Le entità e le relazioni di uno schema ER possono essere partizionate o accorpate con lo scopo d ottenere una maggiore efficienza delle operazioni.
+- Partizionamento di entità
+un partizionamento di questoti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDA2OTk2Myw4ODYyNTMzNjddfQ==
+eyJoaXN0b3J5IjpbNTQ5MjI1Njg5LDg4NjI1MzM2N119
 -->
