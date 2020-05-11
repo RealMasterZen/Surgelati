@@ -53,10 +53,12 @@ Proiezione(CodCorso, Docente){Corsi}
 **Date due relazioni compatibili R e S**, la differenza di R con S è la relazione data dalla differenza insiemistica delle due relazioni. 
 
 - - -
-#### J
+#### Join Naturale
+
+Si presenta frequentemente la necessità di unire 2 relazioni (o tabelle)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODI1OTA1MiwtNzc0MjUwOTA3LDE3NT
-UyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2MzQ5OSwtNjcxNTc5
-MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4MjgwMzc3LD
-ExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
+eyJoaXN0b3J5IjpbLTE1NDg4OTM1NzcsLTc3NDI1MDkwNywxNz
+U1MjcwOTkwLC0xMjY0MTg5Njg3LDE2NjQ4NjM0OTksLTY3MTU3
+OTE1MSwxNDQwNzIyMjE2LDE2NjM2NzY3MTMsMTc2ODI4MDM3Ny
+wxMTg4Nzk1NTU2LDU3MDAzOTQ2LDE2ODk3MzI4MDldfQ==
 -->
