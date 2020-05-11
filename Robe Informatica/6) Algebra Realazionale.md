@@ -55,7 +55,7 @@ Proiezione(CodCorso, Docente){Corsi}
 - - -
 #### Join Naturale
 
-Si presenta frequentemente la necessità di unire 2 relazioni (o tabelle), accoppiando le tuple dove esiste un qualche tipo di corrispondenza espressa dal predicato.
+Si presenta frequentemente la **necessità di unire 2 relazioni (o tabelle), accoppiando le tuple dove esiste un qualche tipo di corrispondenza** espressa dal predicato.
 Il procedimento:
 - Si effettua il prodotto cartesiano di R e S
 - Sulla relazione così ottenuta si effettua una selezione sulle tuple aventi attributi A e B dello stesso valore
@@ -67,8 +67,8 @@ Il procedimento:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQwNjA2NDMsLTc3NDI1MDkwNywxNz
-U1MjcwOTkwLC0xMjY0MTg5Njg3LDE2NjQ4NjM0OTksLTY3MTU3
-OTE1MSwxNDQwNzIyMjE2LDE2NjM2NzY3MTMsMTc2ODI4MDM3Ny
-wxMTg4Nzk1NTU2LDU3MDAzOTQ2LDE2ODk3MzI4MDldfQ==
+eyJoaXN0b3J5IjpbMTQyMzAwMDkyNSwtNzc0MjUwOTA3LDE3NT
+UyNzA5OTAsLTEyNjQxODk2ODcsMTY2NDg2MzQ5OSwtNjcxNTc5
+MTUxLDE0NDA3MjIyMTYsMTY2MzY3NjcxMywxNzY4MjgwMzc3LD
+ExODg3OTU1NTYsNTcwMDM5NDYsMTY4OTczMjgwOV19
 -->
