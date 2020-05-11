@@ -54,11 +54,16 @@ Una **ridondanza in uno schema ER** è un **informazione significativa ma deriva
 Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
 
 ### Classificazione delle ridondanze all'interno di uno schema ER
-- Attributi derivabili all'interno della stessa entità: questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
-- Attributi derivabili da altre entità: l'associazione fra due entità può portare a rendere ridondante qualche attributo; anche in questo caso la stessa informazione può essere dedotta a partire da attributi di altre entità collegate a quella in esame
-- Attributi derivabili da operazioni di conteggio di occorrenze: ad esempio un attributo *numeroAbitanti* per un entità *Città* potrebbe essere desunto dal conteggio degli abitanti Residenti.
+- **Attributi derivabili all'interno della stessa entità**
+ questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
+
+- **Attributi derivabili da altre entità**
+ l'associazione fra due entità può portare a rendere ridondante qualche attributo; anche in questo caso la stessa informazione può essere dedotta a partire da attributi di altre entità collegate a quella in esame
+
+- **Attributi derivabili da operazioni di conteggio di occorrenze: ad esempio un attributo *numeroAbitanti* per un entità *Città* potrebbe essere desunto dal conteggio degli abitanti Residenti.
+- Ridondanza di associazioni in presenta di cicli: un uso eccessivo di associazioni può portare all'apparizione di cicli. cioè percorsi alternativi per raggiungere la stessa informazioni
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NzczNzkwLDI3NDg1ODI0MCwtMTk3Mz
-A3ODY3MV19
+eyJoaXN0b3J5IjpbMTY5NjEyMDA2NSwyNzQ4NTgyNDAsLTE5Nz
+MwNzg2NzFdfQ==
 -->
