@@ -53,11 +53,12 @@ L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello
 Una **ridondanza in uno schema ER** è un **informazione significativa ma derivabile da altre**.
 Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
 
-### Classificazione delle ridondanze all'interno di u
+### Classificazione delle ridondanze all'interno di uno schema ER
 - Attributi derivabili all'interno della stessa entità: questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
-- Attributi derivabili da altre entità
+- Attributi derivabili da altre entità: l'associazione fra due entità può portare a rendere ridondante qualche attributo; anche in questo caso la stessa informazione può essere dedotta a partire da attributi di altre entità collegate a quella in esame
+- Attributi derivabili da oper
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEwMTQzNzksMjc0ODU4MjQwLC0xOT
+eyJoaXN0b3J5IjpbLTE3NTQ4NTc2NTUsMjc0ODU4MjQwLC0xOT
 czMDc4NjcxXX0=
 -->
