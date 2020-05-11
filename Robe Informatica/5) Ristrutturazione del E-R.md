@@ -51,9 +51,9 @@ Nella rappresentazione tabellare:
 
 - - - 
 ### Chiavi, Schemi e Occorrenze
-Una relazione può ammettere diverse
+Una relazione può ammettere diverse **chiavi candid**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzOTM2OTM1LDEyMDUxNzE3MzgsMTQ5OD
-kxMDQxLDg4NjI1MzM2N119
+eyJoaXN0b3J5IjpbNjQwMDcwMDg4LDc0MzkzNjkzNSwxMjA1MT
+cxNzM4LDE0OTg5MTA0MSw4ODYyNTMzNjddfQ==
 -->
