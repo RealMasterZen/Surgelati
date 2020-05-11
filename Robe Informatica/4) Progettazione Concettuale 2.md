@@ -54,10 +54,8 @@ Una ridondanza in uno schema ER è un informazione significativa ma derivabile d
 Normalmente infatti in unoschema Er le ridondanze andrebbero eliminate.
 
 - - - 
-### - - - Ristrutturazione dello schema E-R - - - 
-L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello schema entità/associazioni è:
-- Analisi delle ridondanze: vengono individuate le ridondanze per stavilire se è necessario elimina
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE4ODQ0OTYsMjc0ODU4MjQwLC0xOT
-czMDc4NjcxXX0=
+eyJoaXN0b3J5IjpbMTkzNTE4NDA4NywyNzQ4NTgyNDAsLTE5Nz
+MwNzg2NzFdfQ==
 -->
