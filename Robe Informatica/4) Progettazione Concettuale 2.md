@@ -50,13 +50,14 @@ L'insieme dei passi da svolfere in sequenza nella fase di ristrutturazione dello
 - Scelta delle chiavi primarie: essenziale nella traduzione verso lo schema logico.
 - I sistemi di basi di dati richiedono di individuare una chiave primaria su cui vengono costruiti gli indici utili per un rapido ed efficiente reperimento dei dati.
 
-Una ridondanza in uno schema ER è un informazione significativa ma derivabile da altre.
+Una **ridondanza in uno schema ER** è un **informazione significativa ma derivabile da altre**.
 Normalmente infatti in uno schema Er le ridondanze andrebbero eliminate ma occorre analizzare una serie di fattori prima di eseguire questo taglio.
 
-- Attributi derivabili all'interno della stessa entità: questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono es
+### Classificazione delle ridondanze all'interno di u
+- Attributi derivabili all'interno della stessa entità: questo tipo di ridondanza deve essere eliminata rimuovendo gli attributi che possono essere dedotti da altri attraverso dei calcoli.
 - Attributi derivabili da altre entità
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2ODQwMywyNzQ4NTgyNDAsLTE5Nz
-MwNzg2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4OTEwMTQzNzksMjc0ODU4MjQwLC0xOT
+czMDc4NjcxXX0=
 -->
