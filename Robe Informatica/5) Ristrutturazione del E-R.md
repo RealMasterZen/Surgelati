@@ -1,6 +1,6 @@
 
 # Ristrutturazione dell'E-R
-### Eliminazione delle generalizzazioni
+### - - - Eliminazione delle generalizzazioni - - - 
 Il modello relazionale non consente di rappresentare direttamente un generalizzazione pertanto è necessario trasformare quest'ultima in altri costrutti del modello ER.
 Facendo riferimento allo schema ER è possibile risolvere la mia generalizzazione attraverso 3 differenti strategie di ristrutturazione:
 
@@ -17,7 +17,7 @@ Tale soluzione **conviene quando la generalizzazione non è totale** e se ci son
 
 ---
 
-### Partizionamento/accorpamento di entità e associazioni
+### - - - Partizionamento/accorpamento di entità e associazioni - - - 
 
 Le **entità e le relazioni di uno schema ER possono essere partizionate o accorpate con lo scopo di ottenere una maggiore efficienza delle operazioni.**
 
@@ -32,7 +32,7 @@ La ristrutturazione è molto semplice e consiste nel realizzare un'associazione 
 - **Accorpamento di entità**
 L'accorpamento è l'operazione inversa del partizionamento e si effettua in genere su associazioni del tipo 1:1.
 - - - 
-### Le Relazioni
+### - - - Le Relazioni - - - 
 La **progettazione logica relazionale** consiste nella:
 - **conversione del diagramma Er in un insieme di tabelle** detto **schema logico relazionale** 
 - **definizione delle operazioni da compiere su di esso**.
@@ -50,7 +50,7 @@ Nella rappresentazione tabellare:
 - **Ogni colonna** rappresenta la sequenza dei valori assunti dal corrispondente attributo.
 
 - - - 
-### Chiavi, Schemi e Occorrenze
+### - - - Chiavi, Schemi e Occorrenze - - - 
 Una relazione può ammettere diverse **chiavi candidate**.
 Fra queste ne viene scelta una con il minor numero di attributi che viene designata come chiave primaria.
 
@@ -60,9 +60,12 @@ Es. **OPSITE(~~idOspite~~, Nome, DataNascita, Luogonascita)**
 
 - **Schema di una base di dati** relazionale l'insieme di tutti gli schemi di una relazione.
 
-Si definisce occorrenza di una base di dati relazionale l'insieme delle istanze degli schemi di una relazione.
+- **Occorrenza di una base di dati** relazionale l'insieme delle istanze degli schemi di una relazione.
+- - - 
+
+### Traduzione Verso il modello Logico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTgyMTA2NCwtMzIwNjM2Njc3LDUwND
+eyJoaXN0b3J5IjpbLTU3MTA2ODkzNSwtMzIwNjM2Njc3LDUwND
 kwNTQyMCw3NDM5MzY5MzUsMTIwNTE3MTczOCwxNDk4OTEwNDEs
 ODg2MjUzMzY3XX0=
 -->
