@@ -40,17 +40,18 @@ Serve quindi a fare:
 **Le istruzioni vengono generalmente separate dal ";".**
 
 **Gli identificatori** utilizzati per i nomi delle tabelle e degli attributi **devono**:
-
 - **Avere una lunghezza massima di 18 caratteri**
 
 - **Iniziare con una lettera**
 
-- **Contenere come unico carattere speciale l'nderscore**
+- **Contenere come unico carattere speciale l'underscore**
 
 Nella terminologia SQL:
-- Le relazioni sono chiamate tabelle
-- Le tuple sono chiamate righe o registrazioni
-- Gli attributi sono le colonne delle tabelle
+- **Le relazioni sono chiamate tabelle**
+
+- **Le tuple sono chiamate righe o registrazioni**
+
+- **Gli attributi sono le colonne delle tabelle**
 
 La sintassi per riferirsi a un attributo di una tabella è. nomeTabella, Nome Attributo
 
@@ -103,5 +104,5 @@ In SQL è possibile utilizzare i vari tipi di join:
 - OUTER JOIN (LEFT JOIN - RIGHT JOIN)
 - SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxOTAyNzc0XX0=
+eyJoaXN0b3J5IjpbMTg3OTk2OTU1XX0=
 -->
