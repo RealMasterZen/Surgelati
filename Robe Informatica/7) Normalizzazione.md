@@ -31,7 +31,9 @@ Una relazione è in seconda forma normale se
 - è in prima forma normale
 - Ogni attributo non chiave dipende funzionalmente e completamente dalla chiave primaria.
 
->
+> **Dipendenza Funzionale**
+Si ha una dipendenza funzionale quando il valore di un insieme di attributi A determina un singolo valore dell'attributo B e si indica A  -> B quindi **B dipende da A**
+
 ## Terza Forma Normale (3NF)
 Una relazione è in terza forma normale se:
 - E' in seconda forma normale 
@@ -51,6 +53,6 @@ il linguaggio SQL assolve alle funzioni di:
 - DML (Data Manipulation Language), che prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare permette inserimenti, cancellazioni e modifiche delle righe delle tabelle, nonché effettuare interrogazioni sulle basi di dati.
 - DCL (Data Control Language), che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIwMTI3NjIsLTExNDE3OTM3NDQsLT
+eyJoaXN0b3J5IjpbLTExNDk0MjY4NjMsLTExNDE3OTM3NDQsLT
 QyNzIzMjQxNCwtOTAzODc0OTA0XX0=
 -->
