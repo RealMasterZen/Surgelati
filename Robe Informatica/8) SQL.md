@@ -44,7 +44,16 @@ Gli identificatori utilizzati per i nomi delle tabelle e degli attributi devono;
 - Contenere come unico carattere speciale l'inderscore
 Nella terminologia SQL:
 - Le relazioni sono chiamate tabelle
-- 
+- Le tuple sono chiamate righe o registrazioni
+- Gli attributi sono le colonne delle tabelle
+
+La sintassi per riferirsi a un attributo di una tabella è. nomeTabella, Nome Attributo
+
+I tipi di dato utilizzabili per gli attributi sono molti; le costanti striga sono rappresentabili utilizzando indifferentemente gli apici o i doppi apici.
+
+## Istruzioni del DDL di SQL
+
+CREATE DATABASE comeDatabase
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjExOTUwNV19
+eyJoaXN0b3J5IjpbLTE2MjkyMDE2OThdfQ==
 -->
