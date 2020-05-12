@@ -24,7 +24,7 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 	- "La terra promessa"
 	- "Un Grido e Paesaggi"
 	- "Il Taccuino di un vecchio"
-- 1969 tutta la produzione raccolta in un vol
+- 1969 tutta la produzione raccolta in un volume Mondadori chiamato "Vita di un uomo"
 - - - 
 ## Per Esteso
 
@@ -139,7 +139,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTUzNzcyNSwyNTM1Mzg5MTYsLTE0OT
+eyJoaXN0b3J5IjpbMTUxMTE3MTkzNSwyNTM1Mzg5MTYsLTE0OT
 MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
 LC0xNTAwMTk4MDg0XX0=
 -->
