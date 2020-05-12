@@ -35,7 +35,16 @@ Serve quindi a fare:
 
 ## Identificatori e tipi di dati
 
-SQL non è un linguaggio case-sensitive, pertanto le istruzioni possono es
+SQL non è un linguaggio case-sensitive, pertanto le istruzioni possono essere scritte utilizzando indifferentemente caratteri maiuscoli o minuscoli.
+le istruzioni vengono generalemnte separate dal ";".
+
+Gli identificatori utilizzati per i nomi delle tabelle e degli attributi devono;
+- Avere una lunghezza massima di 18 caratteri
+- Iniziare con una lettera
+- Contenere come unico carattere speciale l'inderscore
+Nella terminologia SQL:
+- Le relazioni sono chiamate tabelle
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI1Mjk1MjldfQ==
+eyJoaXN0b3J5IjpbLTY3MjExOTUwNV19
 -->
