@@ -19,7 +19,9 @@ Per sapere fino a dove suddividere il campo si deve consultare l'analisi dei req
 Tutti i dati che servono per confronti o ricerche, nel normale utilizzo del database devono essere isolati.
 
 ## Seconda Forma Normale (2NF)
-Una relazione è in seconda forma normale
+Una relazione è in seconda forma normale se
+- è in prima forma normale
+- Ogni attributo non chiave dipende funzionalmente e completamente dalla chiave primaria.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIwODQ2MDZdfQ==
+eyJoaXN0b3J5IjpbNDExMDkwOTY1XX0=
 -->
