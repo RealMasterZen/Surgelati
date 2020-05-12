@@ -91,7 +91,12 @@ SQL prevede il valore NULL, che viene utilizzato per indicare diverse situazioni
 
 Le operazioni di selezione, proiezione e join su una base di dati relazionale vengono realizzate attraverso il comando SELECT.
 La proiezione si realizza indicando accanto alla parola SELECT l'elenco degli attributi richiesti.
-L
+L'operazione di selezione viene realizzata utilizzando la clausola WHERE nel comando SELECT.
+In SQL è possibile utilizzare i vari tipi di join:
+- CROSS JOIN
+- INNER JOIN
+- OUTER JOIN (LEFT JOIN - RIGHT JOIN)
+- SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NzYwNzE5XX0=
+eyJoaXN0b3J5IjpbLTExNDE5MjUzMjJdfQ==
 -->
