@@ -80,7 +80,11 @@ DELETE FROM nomeTabella WHERE condizione;
 ## Reperimento dei dati: SELECT
 
 Per estrarre dei dati dai database, il linguaggio SQL prevede il comndo SELECT.
-Estrarre
+Estrarre dati è sinonimo di effettuare una query o interrogazione sulal base di dati. 
+Il risultato è sempre una tabella.
+Se è assente la clausola WHERE, la condizione si assume sempre vera;
+Se è presente l'opzione DISTINCT, il risultato è fornito privo di righe duplicate.
+Se si vuole assegnare un nome diverso a ogni colonna del risultato, cioè un alias, si deve utilizzare la clausola AS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEwMTc4NTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzcyNTYxXX0=
 -->
