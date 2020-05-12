@@ -84,7 +84,14 @@ Estrarre dati è sinonimo di effettuare una query o interrogazione sulal base di
 Il risultato è sempre una tabella.
 Se è assente la clausola WHERE, la condizione si assume sempre vera;
 Se è presente l'opzione DISTINCT, il risultato è fornito privo di righe duplicate.
-Se si vuole assegnare un nome diverso a ogni colonna del risultato, cioè un alias, si deve utilizzare la clausola AS
+Se si vuole assegnare un nome diverso a ogni colonna del risultato, cioè un alias, si deve utilizzare la clausola AS.
+SQL prevede il valore NULL, che viene utilizzato per indicare diverse situazioni.
+
+## Le operazioni relazionali in SQL
+
+Le operazioni di selezione, proiezione e join su una base di dati relazionale vengono realizzate attraverso il comando SELECT.
+La proiezione si realizza indicando accanto alla parola SELECT l'elenco degli attributi richiesti.
+L
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcyNTYxXX0=
+eyJoaXN0b3J5IjpbOTU5NzYwNzE5XX0=
 -->
