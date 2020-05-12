@@ -98,10 +98,14 @@ Vanno applicate in cancellazione e in aggiornamento:
 
 >Per estrarre dei dati dai database, il linguaggio **SQL** prevede il comndo **SELECT**.
 
-Estrarre dati è sinonimo di effettuare una query o interrogazione sulal base di dati. 
-Il risultato è sempre una tabella.
-Se è assente la clausola WHERE, la condizione si assume sempre vera;
-Se è presente l'opzione DISTINCT, il risultato è fornito privo di righe duplicate.
+**Estrarre dati** è **sinonimo di effettuare una query** o interrogazione sulla base di dati. 
+
+Il risultato è sempre una **tabella**.
+
+**Se è assente la clausola WHERE, la condizione si assume sempre vera;**
+
+**Se è presente l'opzione DISTINCT, il risultato è fornito privo di righe duplicate.**
+
 Se si vuole assegnare un nome diverso a ogni colonna del risultato, cioè un alias, si deve utilizzare la clausola AS.
 SQL prevede il valore NULL, che viene utilizzato per indicare diverse situazioni.
 
@@ -116,5 +120,5 @@ In SQL è possibile utilizzare i vari tipi di join:
 - OUTER JOIN (LEFT JOIN - RIGHT JOIN)
 - SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzOTk5NTAzXX0=
+eyJoaXN0b3J5IjpbLTExMzgzODAyNzVdfQ==
 -->
