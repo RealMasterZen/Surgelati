@@ -53,7 +53,13 @@ I tipi di dato utilizzabili per gli attributi sono molti; le costanti striga son
 
 ## Istruzioni del DDL di SQL
 
-CREATE DATABASE comeDatabase
+CREATE DATABASE nomeDatabase;
+USE nomeDatabase;
+CREATE TABLE nomeTabella (...);
+PRIMARY KEY(nomeAttributo)
+FOREIGN kEY(nomeAttributo) REFERENCES nomeTabella(nomeAttributo)
+
+I tipi di politica da seguire in casi di violazione dei vincoli referenziali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkyMDE2OThdfQ==
+eyJoaXN0b3J5IjpbLTE4OTMzMjQwODhdfQ==
 -->
