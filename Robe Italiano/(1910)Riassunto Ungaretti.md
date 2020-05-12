@@ -43,7 +43,7 @@ Dopo l'esperienza sul campo egli cambia completamente di ideali e diventa pacifi
 ### Il ritorno in francia dopo la guerra
 
 **Finita la guerra si stabilì a Parigi** dove cominciò a lavorare come corrispondente per il Popolo d'Italia, il giornale fondato da Benito Mussolini.
-Nel **1920 tornò in Italia** con la Moglie Jeanne Dupoix,e **lì aderì al Fascismo**, in cui vedeva realizzarsi la possibilità di una coesione nazionale.
+Nel **1921 tornò in Italia** con la Moglie Jeanne Dupoix,e **lì aderì al Fascismo**, in cui vedeva realizzarsi la possibilità di una coesione nazionale.
 
 In quegli anni si prestò alla **collaborazione con la Rivista La Ronda**, questa proponeva il ritorno di un nuovo classicismo con **l'abbandono delle nuove avanguardie** e con il ritorno ad una riappacificazione religiosa.
 
@@ -124,7 +124,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Njg0MTE1OCwyNTM1Mzg5MTYsLTE0OT
+eyJoaXN0b3J5IjpbLTcwMTY0ODY2NywyNTM1Mzg5MTYsLTE0OT
 MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
 LC0xNTAwMTk4MDg0XX0=
 -->
