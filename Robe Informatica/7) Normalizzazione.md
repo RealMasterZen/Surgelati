@@ -32,7 +32,10 @@ Generalmente, uno schema relazionale è normalizzato una volta che le varie rela
 Si può continuare a decomporre lo schema nella forma normale di Boyce-Codd.
 una relazione è in forma normale di Boyce-Codd se:
 - Rispetta le caratteritiche fondamentali del modello relazionale (1FN)
-- 
+- Per ogni dipendenza funzionale X -> Y, X è una chiave candidata, quindi l'insieme di attributi X deve contenere una chiave candidata.
+
+## Un linguaggio per le basi di dati relazionali
+il linguaggio SQL(Structured Query Language), di tipo non procedurale è divenuto il linguaggio standard per creare, manipolare e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzMyODg1OV19
+eyJoaXN0b3J5IjpbMTg2MTM3Nzc3M119
 -->
