@@ -13,6 +13,10 @@ funzioneDiAggregazione(DISTINCT attributo), dove funzioneDiAggregazione può ess
 - COUNT, che conta il numero di elementi della colonna *attributo*, COUNT(*) numero di righe della tabella;
 - MIN, che restituisce il valore minimo della colonna *attributo*
 - MAX, che restituisce il valore massimo della colonna *attributo*
+- SUM, che restituisce la somma degli elementi della colonna *attributo*;
+- AVG, che restituisce la medi aritmetica degli elementi della colonna *attributo*.
+
+In SQL è possibile ordinare la righe di una tabella, risultato di una query, utilizzando la clausola ORDER BY:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNzA5MzE5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
 -->
