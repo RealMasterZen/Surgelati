@@ -69,22 +69,31 @@ il linguaggio SQL assolve alle **funzioni** di:
 Prevede le istruzioni per definire la struttura delle relazioni della base di dati. 
 Serve quindi a:
 	-  **Creare tabelle**
+	
 	-  **Vincoli**
+	
 	-  **Viste**
+	
 	- **Così via.**
 
 - **DML (Data Manipulation Language)**
 Prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare 
 Serve quindi a fare: 
 	- **Inserimenti**
+	
 	- **Cancellazioni**
+	
 	- **Modifiche delle righe delle tabelle**
+	
 	- **Effettuare interrogazioni sulle basi di dati**
 
-- **DCL (Data Control Language)**, che prevede istruzioni per:
-	- **Controllare il modo in cui le operazioni vengono eseguite*
-	-  consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
+- **DCL (Data Control Language)**, Prevede istruzioni per:
+	- **Controllare il modo in cui le operazioni vengono eseguite**
+	
+	-  **Consente di gestire il controllo degli accessi per più utenti**
+	
+	-  **I permessi per gli utenti autorizzati.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MDIyMjgxLC0xMTQxNzkzNzQ0LC00Mj
+eyJoaXN0b3J5IjpbNDgzNTQxMTExLC0xMTQxNzkzNzQ0LC00Mj
 cyMzI0MTQsLTkwMzg3NDkwNF19
 -->
