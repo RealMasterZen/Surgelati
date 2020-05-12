@@ -60,40 +60,9 @@ una relazione è in forma normale di Boyce-Codd se:
 
 - **Per ogni dipendenza funzionale X -> Y, X è una chiave candidata, quindi l'insieme di attributi X deve contenere una chiave candidata.**
 
-## Un linguaggio per le basi di dati relazionali
 
-**Il linguaggio SQL(Structured Query Language)**, di tipo non procedurale è **divenuto il linguaggio standard per creare, manipolare e interrogare database relazionali.**
-il linguaggio SQL assolve alle **funzioni** di:
 
-- **DDL (Data Definition Language)**
-Prevede le istruzioni per definire la struttura delle relazioni della base di dati. 
-Serve quindi a:
-	-  **Creare tabelle**
-	
-	-  **Vincoli**
-	
-	-  **Viste**
-	
-	- **Così via.**
-
-- **DML (Data Manipulation Language)**
-Prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare 
-Serve quindi a fare: 
-	- **Inserimenti**
-	
-	- **Cancellazioni**
-	
-	- **Modifiche delle righe delle tabelle**
-	
-	- **Effettuare interrogazioni sulle basi di dati**
-
-- **DCL (Data Control Language)**, Prevede istruzioni per:
-	- **Controllare il modo in cui le operazioni vengono eseguite**
-	
-	-  **Consente di gestire il controllo degli accessi per più utenti**
-	
-	-  **I permessi per gli utenti autorizzati.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNTQxMTExLC0xMTQxNzkzNzQ0LC00Mj
-cyMzI0MTQsLTkwMzg3NDkwNF19
+eyJoaXN0b3J5IjpbLTIxNDMwNTI2OTAsLTExNDE3OTM3NDQsLT
+QyNzIzMjQxNCwtOTAzODc0OTA0XX0=
 -->
