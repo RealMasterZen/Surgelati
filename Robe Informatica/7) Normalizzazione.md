@@ -10,13 +10,16 @@ Lo scopo delle teoria delle normalizzazione è quello di fornire un metodo per p
 La normalizzazione è un processo di tipo graduale, che realizza un'ottimizzazione progressiva a partire da relazioni non normalizzate fino a raggiungere un certo livello di normalizzazione.
 Una forma normale è una proprietà di uno schema relazionale che ne garantisce la "qualità", cioè l'assenza di determinati difetti.
 
-## Prima FOrma Normale (1NF)
+## Prima Forma Normale (1NF)
 Una relazione si dice in prima forma normale se:
 - Esiste una chiave primaria
 - Ogni attributo è un campo semplice, quindi non composto o non multiplo.
 
 Per sapere fino a dove suddividere il campo si deve consultare l'analisi dei requisiti.
-Tutti i dati che servono per confronti o rice
+Tutti i dati che servono per confronti o ricerche, nel normale utilizzo del database devono essere isolati.
+
+## Seconda Forma Normale (2NF)
+Una relazione è in seconda forma normale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk1MjQ0NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODIwODQ2MDZdfQ==
 -->
