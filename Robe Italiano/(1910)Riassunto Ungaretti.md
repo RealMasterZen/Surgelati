@@ -1,6 +1,11 @@
 # Riassunto Ungaretti
 
-### VITA DI UNGARETTI
+Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
+
+
+
+## VITA DI UNGARETTI
+
 **Giuseppe Ungaretti nasce ad Alessandria D'Egitto il 10 febbraio del 1888** da emigranti italiani lucani che si dirigono li per il lavoro procurato dal progetto della costruzione del canale di Suez.
 
 Poté infatti frequentare la **scuola superiore ad Alessandria**, dove entrò in contatto con i fuoriusciti anarchici italiani **si appassionò alla poesia di Leopardi, Carducci, Pascoli, D'annunzio, Baudelaire, Mallarmè.**
@@ -112,7 +117,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNTM4OTE2LC0xNDkzMjA2MjM4LDI4Mj
-czNzQ2NSwxODI5MjMyODg4LC00NTA0MDgzNiwtMTUwMDE5ODA4
-NF19
+eyJoaXN0b3J5IjpbMTkxMzg2MzczMCwyNTM1Mzg5MTYsLTE0OT
+MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
+LC0xNTAwMTk4MDg0XX0=
 -->
