@@ -66,9 +66,9 @@ le **costanti striga sono rappresentabili utilizzando indifferentemente gli apic
 **USE** nomeDatabase;
 **CREATE TABLE** nomeTabella (...);
 **PRIMARY KEY**(nomeAttributo)
-FOREIGN kEY(nomeAttributo) REFERENCES nomeTabella(nomeAttributo)
+**FOREIGN KEY**(nomeAttributo) **REFERENCES** nomeTabella(nomeAttributo)
 
-I tipi di politica da seguire in casi di violazione dei vincoli referenziali sono:
+I **tipi di politica da seguire in casi di violazione dei vincoli referenziali** sono:
 RESTRICT, CASCADE, SET NULL, SET DEFAULT
 VAnno applicate in cancellazione e in aggiornamento:
 - ON DELETE CASCADE
@@ -107,5 +107,5 @@ In SQL è possibile utilizzare i vari tipi di join:
 - OUTER JOIN (LEFT JOIN - RIGHT JOIN)
 - SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NTE3Njg1XX0=
+eyJoaXN0b3J5IjpbLTE3MTU1MzUzMzldfQ==
 -->
