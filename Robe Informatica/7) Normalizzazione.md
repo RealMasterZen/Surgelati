@@ -28,10 +28,14 @@ Tutti i dati che servono per confronti o ricerche, nel normale utilizzo del data
 ## Seconda Forma Normale (2NF)
 
 Una relazione è in seconda forma normale se
-- è in prima forma normale
-- Ogni attributo non chiave dipende funzionalmente e completamente dalla chiave primaria.
+-  **In prima forma normale**
+- **Ogni attributo non chiave dipende funzionalmente e completamente dalla INTERA chiave primaria.**
 
-> **Dipendenza Funzionale**
+Es. Tabella T(A1,A2,A3,A4,A5) con 
+(A1,A2) -> A3
+(A1)
+
+**Dipendenza Funzionale**
 Si ha una dipendenza funzionale quando il valore di un insieme di attributi A determina un singolo valore dell'attributo B e si indica A  -> B quindi **B dipende da A**
 
 ## Terza Forma Normale (3NF)
@@ -53,6 +57,6 @@ il linguaggio SQL assolve alle funzioni di:
 - DML (Data Manipulation Language), che prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare permette inserimenti, cancellazioni e modifiche delle righe delle tabelle, nonché effettuare interrogazioni sulle basi di dati.
 - DCL (Data Control Language), che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjYyMDgyOSwtMTE0MTc5Mzc0NCwtND
+eyJoaXN0b3J5IjpbMTE2OTgzMjEyMCwtMTE0MTc5Mzc0NCwtND
 I3MjMyNDE0LC05MDM4NzQ5MDRdfQ==
 -->
