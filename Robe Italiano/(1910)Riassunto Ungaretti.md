@@ -20,8 +20,11 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 - 1916 "Porto Sepolto" -> nucleo della raccolta "Allegria di naufragi" e poi trasformata in "Allegria"
 - 1933 raccolta "Il Sentimento del Tempo"
 - 1947 raccolta "Il Dolore"
-- ultime raccolte:
-	- "La te"
+- 1960 ultime raccolte:
+	- "La terra promessa"
+	- "Un Grido e Paesaggi"
+	- "Il Taccuino di un vecchio"
+- 1969 tutta la produzione raccolta in un vol
 - - - 
 ## Per Esteso
 
@@ -136,7 +139,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTIxNDIxMCwyNTM1Mzg5MTYsLTE0OT
+eyJoaXN0b3J5IjpbLTM5MTUzNzcyNSwyNTM1Mzg5MTYsLTE0OT
 MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
 LC0xNTAwMTk4MDg0XX0=
 -->
