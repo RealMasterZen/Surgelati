@@ -74,10 +74,14 @@ Morì a Milano nel 1970.
 La raccolta il **Porto sepolto fu pubblicata nel 1916**;
  **in seguito trasformata nella prima sezione della seconda raccolta**, **Allegria di naufragi**, a sua volta ampliata e modificata con il titolo L'allegria.
 
-> **Ricordare** che il nome dell'opera deriva da un ritrovamento archeologico fatto su un sito greco
+> **Ricordare** che il nome dell'opera deriva da un ritrovamento archeologico fatto sul porto di Alessandria
 
-Le liriche di questa raccolta che appartengono alla **prima fase della produzione poetica di Ungaretti**, si distinguono per un marcato **sperimentalismo sul piano formale** e una **forte componente autobiografica**: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte
+Le liriche di questa raccolta che appartengono alla **prima fase della produzione poetica di Ungaretti**, si distinguono per un marcato **sperimentalismo sul piano formale** e una **forte componente autobiografica**: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte.
+La raccolta di poesie possiede una lingua essenziale, frantumata, con versi di una sola parola.
+
+
 > Riassumendo la prima fase di ungaretti
+> - Lingua Essenziale
 > - Forte sperimentalismo sul piano formale
 > - Forte componente autobiografica in cui racconta:
 >	  - Gli anni della giovinezza in egitto
@@ -139,7 +143,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTYxNTMwOCwxNTExMTcxOTM1LDI1Mz
+eyJoaXN0b3J5IjpbLTUzNzc0NTc5OCwxNTExMTcxOTM1LDI1Mz
 UzODkxNiwtMTQ5MzIwNjIzOCwyODI3Mzc0NjUsMTgyOTIzMjg4
 OCwtNDUwNDA4MzYsLTE1MDAxOTgwODRdfQ==
 -->
