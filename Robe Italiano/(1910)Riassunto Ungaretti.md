@@ -6,16 +6,18 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 
 > Riassunto Date ungaretti
 
-1888 : nasce ad Alessandria d'Egitto
-1912 si Trasferisce a Parigi
-1914 si trasferisce in Italia(Milano) e partecipa alla prima guerra mondiale
-1918 torna a Parigi
-1921 Torna in Italia e si aggrega al fascismo
-1936 Insegna Italiano all'università di San Paolo in Brasile
-1936 Muore il Figlio
-1942 Insegna letteratura italiana all'università di Roma
-1970 muore a Milano
+- 1888 : nasce ad Alessandria d'Egitto
+- 1912 si Trasferisce a Parigi
+- 1914 si trasferisce in Italia(Milano) e partecipa alla prima guerra mondiale
+- 1918 torna a Parigi
+- 1921 Torna in Italia e si aggrega al fascismo
+- 1936 Insegna Italiano all'università di San Paolo in Brasile
+- 1936 Muore il Figlio
+- 1942 Insegna letteratura italiana all'università di Roma
+- 1970 muore a Milano
 
+- - - 
+## Per Esteso
 
 **Giuseppe Ungaretti nasce ad Alessandria D'Egitto il 10 febbraio del 1888** da emigranti italiani lucani che si dirigono li per il lavoro procurato dal progetto della costruzione del canale di Suez.
 
@@ -128,7 +130,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM3MDEwMzEsMjUzNTM4OTE2LC0xND
-kzMjA2MjM4LDI4MjczNzQ2NSwxODI5MjMyODg4LC00NTA0MDgz
-NiwtMTUwMDE5ODA4NF19
+eyJoaXN0b3J5IjpbMTU0ODk4MTU0MSwyNTM1Mzg5MTYsLTE0OT
+MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
+LC0xNTAwMTk4MDg0XX0=
 -->
