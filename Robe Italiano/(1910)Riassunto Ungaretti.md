@@ -26,7 +26,7 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 	- "Il Taccuino di un vecchio"
 - 1969 tutta la produzione raccolta in un volume Mondadori chiamato "Vita di un uomo"
 - - - 
-## Per Esteso
+# Per Esteso
 
 **Giuseppe Ungaretti nasce ad Alessandria D'Egitto il 10 febbraio del 1888** da emigranti italiani lucani che si dirigono li per il lavoro procurato dal progetto della costruzione del canale di Suez.
 
@@ -67,7 +67,7 @@ Rimasto vedovo nel 1958 continuò la sua attività poetica e di traduttore.
 Nel 1969 Mondadori pubblica la raccolta completa delle sue liriche Vita di un Uomo.
 Morì a Milano nel 1970.
 - - -  
-## Opere Ungaretti
+# Opere Ungaretti
 
 ### Il porto sepolto poi integrato in Allegria
 
@@ -139,7 +139,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjkxMTg5NiwxNTExMTcxOTM1LDI1Mz
+eyJoaXN0b3J5IjpbLTM5OTYxNTMwOCwxNTExMTcxOTM1LDI1Mz
 UzODkxNiwtMTQ5MzIwNjIzOCwyODI3Mzc0NjUsMTgyOTIzMjg4
 OCwtNDUwNDA4MzYsLTE1MDAxOTgwODRdfQ==
 -->
