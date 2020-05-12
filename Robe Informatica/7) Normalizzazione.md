@@ -81,8 +81,10 @@ Serve quindi a fare:
 	- **Modifiche delle righe delle tabelle**
 	- **Effettuare interrogazioni sulle basi di dati**
 
-- **DCL (Data Control Language)**, che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
+- **DCL (Data Control Language)**, che prevede istruzioni per:
+	- **Controllare il modo in cui le operazioni vengono eseguite*
+	-  consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI1Mzk3OCwtMTE0MTc5Mzc0NCwtND
-I3MjMyNDE0LC05MDM4NzQ5MDRdfQ==
+eyJoaXN0b3J5IjpbNjA2MDIyMjgxLC0xMTQxNzkzNzQ0LC00Mj
+cyMzI0MTQsLTkwMzg3NDkwNF19
 -->
