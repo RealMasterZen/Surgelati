@@ -78,10 +78,11 @@ La raccolta il **Porto sepolto fu pubblicata nel 1916**;
 
 Le liriche di questa raccolta che appartengono alla **prima fase della produzione poetica di Ungaretti**, si distinguono per un marcato **sperimentalismo sul piano formale** e una **forte componente autobiografica**: rievocano gli anni della giovinezza trascorsa in Egitto, sia la cruda esperienza delle guerra vissuta dal poeta come soldato al fronte.
 La raccolta di poesie possiede una lingua essenziale, frantumata, con versi di una sola parola.
+Versi Brevi che portano al dominio dello spazio bianco, qus
 
 
 > Riassumendo la prima fase di ungaretti
-> - Lingua Essenziale
+i che suggeriscono silenzi
 > - Forte sperimentalismo sul piano formale
 > - Forte componente autobiografica in cui racconta:
 >	  - Gli anni della giovinezza in egitto
@@ -143,7 +144,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzc0NTc5OCwxNTExMTcxOTM1LDI1Mz
+eyJoaXN0b3J5IjpbLTEzODU2MDY4MiwxNTExMTcxOTM1LDI1Mz
 UzODkxNiwtMTQ5MzIwNjIzOCwyODI3Mzc0NjUsMTgyOTIzMjg4
 OCwtNDUwNDA4MzYsLTE1MDAxOTgwODRdfQ==
 -->
