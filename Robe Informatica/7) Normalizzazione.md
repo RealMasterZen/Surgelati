@@ -74,10 +74,15 @@ Serve quindi a:
 	- **Così via.**
 
 - **DML (Data Manipulation Language)**
-Prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare inserimenti, cancellazioni e modifiche delle righe delle tabelle, nonché effettuare interrogazioni sulle basi di dati.
+Prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare 
+Serve quindi a fare: 
+	- **Inserimenti**
+	- **Cancellazioni *
+	- Modifiche delle righe delle tabelle 
+	- Effettuare interrogazioni sulle basi di dati
 
 - **DCL (Data Control Language)**, che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk4MjM2NDQsLTExNDE3OTM3NDQsLT
+eyJoaXN0b3J5IjpbLTE0NzI0ODcyNDIsLTExNDE3OTM3NDQsLT
 QyNzIzMjQxNCwtOTAzODc0OTA0XX0=
 -->
