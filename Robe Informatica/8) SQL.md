@@ -72,6 +72,15 @@ ALTERTABLE nometabella DROP COLUM nomeColonna;
 DROP TABLE NomeTabella;
 
 ## Istruzioni del DML di SQL
+
+INSERT INTO nomeTabella (attributo1, attributo2) VALUES (valore1, valore2);
+UPDATE nomeTabella SET attributo = espressione WHERE condizione;
+DELETE FROM nomeTabella WHERE condizione;
+
+## Reperimento dei dati: SELECT
+
+Per estrarre dei dati dai database, il linguaggio SQL prevede il comndo SELECT.
+Estrarre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MDMzODE2XX0=
+eyJoaXN0b3J5IjpbLTE3NDEwMTc4NTRdfQ==
 -->
