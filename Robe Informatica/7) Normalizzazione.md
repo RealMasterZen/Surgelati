@@ -27,7 +27,12 @@ Una relazione è in terza forma normale se:
 - E' in seconda forma normale 
 - Ogni attributo non chiave dipende direttamente dalla chiave
 
-## Forma Nor
+## Forma Normale di Boyce.Codd (BCNF)
+Generalmente, uno schema relazionale è normalizzato una volta che le varie relazioni sono in 3FN.
+Si può continuare a decomporre lo schema nella forma normale di Boyce-Codd.
+una relazione è in forma normale di Boyce-Codd se:
+- Rispetta le caratteritiche fondamentali del modello relazionale (1FN)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4ODg3MDc3XX0=
+eyJoaXN0b3J5IjpbMTYwNzMyODg1OV19
 -->
