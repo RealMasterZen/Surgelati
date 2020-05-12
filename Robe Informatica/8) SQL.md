@@ -59,7 +59,15 @@ CREATE TABLE nomeTabella (...);
 PRIMARY KEY(nomeAttributo)
 FOREIGN kEY(nomeAttributo) REFERENCES nomeTabella(nomeAttributo)
 
-I tipi di politica da seguire in casi di violazione dei vincoli referenziali
+I tipi di politica da seguire in casi di violazione dei vincoli referenziali sono:
+RESTRICT, CASCADE, SET NULL, SET DEFAULT
+VAnno applicate in cancellazione e in aggiornamento:
+- ON DELETE CASCADE
+- ON UPDATE CASCADE
+
+## Modifica delle Tabelle
+
+ALTER TABLE nomeTabella ADD no
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMzMjQwODhdfQ==
+eyJoaXN0b3J5IjpbMTMxOTQ0MjddfQ==
 -->
