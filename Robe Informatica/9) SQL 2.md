@@ -18,8 +18,10 @@ funzioneDiAggregazione(DISTINCT attributo), dove funzioneDiAggregazione può ess
 
 In SQL è possibile ordinare la righe di una tabella, risultato di una query, utilizzando la clausola ORDER BY:
 
-ORDER BY attributo1 ASC/DESC, dove ASC e DESC
+ORDER BY attributo1 ASC/DESC, dove ASC e DESC stanno per ordine crescente e decrescebbte
+
+Le funzioni di aggregazione sono generalmente abbinate alla cla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5OTMyNDA2LDc3NTM0NDA2NiwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbMTMxNjI0ODE1OCw3NzUzNDQwNjYsLTIwOD
+g3NDY2MTJdfQ==
 -->
