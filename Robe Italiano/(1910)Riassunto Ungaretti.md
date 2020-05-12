@@ -11,7 +11,7 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 1914 si trasferisce in Italia(Milano) e partecipa alla prima guerra mondiale
 1918 torna a Parigi
 1921 Torna in Italia e si aggrega al fascismo
-
+1936 
 
 
 **Giuseppe Ungaretti nasce ad Alessandria D'Egitto il 10 febbraio del 1888** da emigranti italiani lucani che si dirigono li per il lavoro procurato dal progetto della costruzione del canale di Suez.
@@ -125,7 +125,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk5Nzk4NjIsMjUzNTM4OTE2LC0xND
+eyJoaXN0b3J5IjpbLTE5NTYxMzYyNTUsMjUzNTM4OTE2LC0xND
 kzMjA2MjM4LDI4MjczNzQ2NSwxODI5MjMyODg4LC00NTA0MDgz
 NiwtMTUwMDE5ODA4NF19
 -->
