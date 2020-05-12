@@ -50,21 +50,27 @@ Una relazione è in terza forma normale se:
 
 Ossia **non esiste la dipendenza transitiva** degli attributi della chiave.
 
-## Forma Normale di Boyce.Codd (BCNF)
+## Forma Normale di Boyce-Codd (BCNF)
 
-Generalmente, uno schema relazionale è normalizzato una volta che le varie relazioni sono in 3FN.
-Si può continuare a decomporre lo schema nella forma normale di Boyce-Codd.
+Generalmente, uno **schema relazionale è normalizzato una volta che le varie relazioni sono in 3FN**.
+**Si può continuare a decomporre** lo schema **nella forma normale di Boyce-Codd.**
 una relazione è in forma normale di Boyce-Codd se:
-- Rispetta le caratteritiche fondamentali del modello relazionale (1FN)
-- Per ogni dipendenza funzionale X -> Y, X è una chiave candidata, quindi l'insieme di attributi X deve contenere una chiave candidata.
+
+- **Rispetta le caratteritiche fondamentali del modello relazionale (1FN)**
+
+- **Per ogni dipendenza funzionale X -> Y, X è una chiave candidata, quindi l'insieme di attributi X deve contenere una chiave candidata.**
 
 ## Un linguaggio per le basi di dati relazionali
+
 Il linguaggio SQL(Structured Query Language), di tipo non procedurale è divenuto il linguaggio standard per creare, manipolare e interrogare database relazionali.
 il linguaggio SQL assolve alle funzioni di:
+
 - DDL (Data Definition Language), che prevede le istruzioni per definire la struttura delle relazioni della base di dati. Serve quindi a creare tabelle, vincoli, viste e così via.
+
 - DML (Data Manipulation Language), che prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare permette inserimenti, cancellazioni e modifiche delle righe delle tabelle, nonché effettuare interrogazioni sulle basi di dati.
+
 - DCL (Data Control Language), che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDcwODI4OCwtMTE0MTc5Mzc0NCwtND
+eyJoaXN0b3J5IjpbLTM3ODkzODk0NSwtMTE0MTc5Mzc0NCwtND
 I3MjMyNDE0LC05MDM4NzQ5MDRdfQ==
 -->
