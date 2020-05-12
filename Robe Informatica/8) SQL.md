@@ -7,31 +7,23 @@ il linguaggio SQL assolve alle **funzioni** di:
 Prevede le istruzioni per definire la struttura delle relazioni della base di dati. 
 Serve quindi a:
 	-  **Creare tabelle**
-	
 	-  **Vincoli**
-	
 	-  **Viste**
-	
 	- **Così via.**
 
 - **DML (Data Manipulation Language)**
 Prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare 
 Serve quindi a fare: 
 	- **Inserimenti**
-	
 	- **Cancellazioni**
-	
 	- **Modifiche delle righe delle tabelle**
-	
 	- **Effettuare interrogazioni sulle basi di dati**
 
 - **DCL (Data Control Language)**, Prevede istruzioni per controllare le operazioni sulla gestione degli utenti all'interno di una base di dati:
 	- **Controllare il modo in cui le operazioni vengono eseguite**
-	
 	-  **Consente di gestire il controllo degli accessi per più utenti**
-	
 	-  **I permessi per gli utenti autorizzati.**
-- - - 
+
 
 ## Identificatori e tipi di dati
 
@@ -41,16 +33,12 @@ Serve quindi a fare:
 
 **Gli identificatori** utilizzati per i nomi delle tabelle e degli attributi **devono**:
 - **Avere una lunghezza massima di 18 caratteri**
-
 - **Iniziare con una lettera**
-
 - **Contenere come unico carattere speciale l'underscore**
 
 Nella terminologia SQL:
 - **Le relazioni sono chiamate tabelle**
-
 - **Le tuple sono chiamate righe o registrazioni**
-
 - **Gli attributi sono le colonne delle tabelle**
 
 La sintassi per riferirsi a un attributo di una tabella è:
@@ -112,9 +100,11 @@ Il risultato è sempre una **tabella**.
 
 ## Le operazioni relazionali in SQL
 
-Le operazioni di selezione, proiezione e join su una base di dati relazionale vengono realizzate attraverso il comando SELECT.
-La proiezione si realizza indicando accanto alla parola SELECT l'elenco degli attributi richiesti.
-L'operazione di selezione viene realizzata utilizzando la clausola WHERE nel comando SELECT.
+**Le operazioni di selezione, proiezione e join** su una base di dati relazionale vengono **realizzate attraverso il comando SELECT.**
+
+**La proiezione si realizza indicando accanto alla parola SELECT l'elenco degli attributi richiesti.**
+
+**L'operazione di selezione viene realizzata utilizzando la clausola WHERE nel comando SELECT.**
 
 In **SQL è possibile utilizzare i vari tipi di join**:
 - **CROSS JOIN**
@@ -122,5 +112,5 @@ In **SQL è possibile utilizzare i vari tipi di join**:
 - **OUTER JOIN (LEFT JOIN - RIGHT JOIN)**
 - **SELF JOIN**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTQ5MDc3NV19
+eyJoaXN0b3J5IjpbLTM5MzQ4MTQ4Ml19
 -->
