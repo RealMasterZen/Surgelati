@@ -6,7 +6,7 @@
 - **Anomalia in aggiornamento**
 
 **Queste anomalie**, in particolare quelle in cancellazione e in aggiornamento, sono una **diretta conseguenza della ridondanza**.
-> Ridondanza
+> **Ridondanza**
 > Per esempio in una tabella esistono 2 record diversi per lo stipendi di un impiegato
 
 La **normalizzazione** è un processo di tipo graduale, che **realizza un'ottimizzazione progressiva a partire da relazioni non normalizzate** fino a raggiungere un certo livello di normalizzazione.
@@ -15,9 +15,12 @@ Una **forma normale è una proprietà di uno schema relazionale che ne garantisc
 La **Normalizzazione va utilizzata come tecnica di verifica dei risultati della progettazione di una base di dati.**
 
 ## Prima Forma Normale (1NF)
+
 Una relazione si dice in prima forma normale se:
-- Esiste una chiave primaria
-- Ogni attributo è un campo semplice, quindi non composto o non multiplo.
+
+- **Esiste una chiave primaria**
+
+- **Ogni attributo è un campo semplice, quindi non composto o non multiplo**.
 
 Per sapere fino a dove suddividere il campo si deve consultare l'analisi dei requisiti.
 Tutti i dati che servono per confronti o ricerche, nel normale utilizzo del database devono essere isolati.
@@ -45,6 +48,6 @@ il linguaggio SQL assolve alle funzioni di:
 - DML (Data Manipulation Language), che prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare permette inserimenti, cancellazioni e modifiche delle righe delle tabelle, nonché effettuare interrogazioni sulle basi di dati.
 - DCL (Data Control Language), che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Njg2MDQ3NCwtNDI3MjMyNDE0LC05MD
-M4NzQ5MDRdfQ==
+eyJoaXN0b3J5IjpbLTExNDE3OTM3NDQsLTQyNzIzMjQxNCwtOT
+AzODc0OTA0XX0=
 -->
