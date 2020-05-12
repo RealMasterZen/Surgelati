@@ -54,14 +54,15 @@ Nella terminologia SQL:
 - **Gli attributi sono le colonne delle tabelle**
 
 La sintassi per riferirsi a un attributo di una tabella è:
->NomeTabella, Nome Attributo
+> nomeTabella, nomeAttributo
 
 I **tipi di dato utilizzabili per gli attributi sono molti**; 
-le costanti striga sono rappresentabili utilizzando indifferentemente gli apici o i doppi apici.
+
+le **costanti striga sono rappresentabili utilizzando indifferentemente gli apici o i doppi apici.**
 
 ## Istruzioni del DDL di SQL
 
-CREATE DATABASE nomeDatabase;
+**CREATE DATABASE** nomeDatabase;
 USE nomeDatabase;
 CREATE TABLE nomeTabella (...);
 PRIMARY KEY(nomeAttributo)
@@ -106,5 +107,5 @@ In SQL è possibile utilizzare i vari tipi di join:
 - OUTER JOIN (LEFT JOIN - RIGHT JOIN)
 - SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2ODk5MzQxXX0=
+eyJoaXN0b3J5IjpbLTg1MTM4NTkzMV19
 -->
