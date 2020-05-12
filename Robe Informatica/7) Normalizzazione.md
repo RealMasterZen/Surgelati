@@ -22,6 +22,12 @@ Tutti i dati che servono per confronti o ricerche, nel normale utilizzo del data
 Una relazione è in seconda forma normale se
 - è in prima forma normale
 - Ogni attributo non chiave dipende funzionalmente e completamente dalla chiave primaria.
+## Terza Forma Normale (3NF)
+Una relazione è in terza forma normale se:
+- E' in seconda forma normale 
+- Ogni attributo non chiave dipende direttamente dalla chiave
+
+## Forma Nor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMDkwOTY1XX0=
+eyJoaXN0b3J5IjpbNTE4ODg3MDc3XX0=
 -->
