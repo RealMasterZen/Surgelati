@@ -4,10 +4,19 @@ Se lo schema della base di dati nonè costruito correttamente , può accadere ch
 - Anomalia in inserimento
 - Anomalia in cancellazione
 - Anomalia in aggiornamento
+
 Queste anomalie, in particolare quelle in cancellazione e in aggiornamento, sono una diretta conseguenza della ridondanza.
 Lo scopo delle teoria delle normalizzazione è quello di fornire un metodo per progettare basi di dati senza anomalie, ossia per creare tabelle corrette.
-La normalizzazione è un processo di tipo graduale, che realizza un'ottimizzazione progressiva a partire da relazioni non normalizzate fino a raggiungere uncerto livello di normalizzazione.
-Una forma normale è una proprietà di uno schema relazionale che ne garantisce la "qualità", cioè l'assenza di determinati difetti
+La normalizzazione è un processo di tipo graduale, che realizza un'ottimizzazione progressiva a partire da relazioni non normalizzate fino a raggiungere un certo livello di normalizzazione.
+Una forma normale è una proprietà di uno schema relazionale che ne garantisce la "qualità", cioè l'assenza di determinati difetti.
+
+## Prima FOrma Normale (1NF)
+Una relazione si dice in prima forma normale se:
+- Esiste una chiave primaria
+- Ogni attributo è un campo semplice, quindi non composto o non multiplo.
+
+Per sapere fino a dove suddividere il campo si deve consultare l'analisi dei requisiti.
+Tutti i dati che servono per confronti o rice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTA4MDldfQ==
+eyJoaXN0b3J5IjpbLTEyNjk1MjQ0NDVdfQ==
 -->
