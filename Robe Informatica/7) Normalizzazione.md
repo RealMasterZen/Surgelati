@@ -1,6 +1,6 @@
 # La Normalizzazione
 
-Se lo schema della base di dati nonè costruito correttamente , può accadere che si abbiano delle anomalie nel database come la ripetizione dei dati.
+Se lo schema della base di dati non è costruito correttamente , può accadere che si abbiano delle anomalie nel database come la ripetizione dei dati.
 - Anomalia in inserimento
 - Anomalia in cancellazione
 - Anomalia in aggiornamento
@@ -39,7 +39,7 @@ il linguaggio SQL(Structured Query Language), di tipo non procedurale è divenut
 il linguaggio SQL assolve alle funzioni di:
 - DDL (Data Definition Language), che prevede le istruzioni per definire la struttura delle relazioni della base di dati. Serve quindi a creare tabelle, vincoli, viste e così via.
 - DML (Data Manipulation Language), che prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare permette inserimenti, cancellazioni e modifiche delle righe delle tabelle, nonché effettuare interrogazioni sulle basi di dati.
-- DCL (Data Control Language), che prevede istruzioni per controllare il modo in 
+- DCL (Data Control Language), che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTQzNzkwXX0=
+eyJoaXN0b3J5IjpbLTkwMzg3NDkwNF19
 -->
