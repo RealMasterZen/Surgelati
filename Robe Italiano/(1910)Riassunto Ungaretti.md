@@ -66,7 +66,7 @@ In quegli anni si prestò alla **collaborazione con la Rivista La Ronda**, quest
 Rimasto vedovo nel 1958 continuò la sua attività poetica e di traduttore.
 Nel 1969 Mondadori pubblica la raccolta completa delle sue liriche Vita di un Uomo.
 Morì a Milano nel 1970.
-
+- - -  
 ## Opere Ungaretti
 
 ### Il porto sepolto poi integrato in Allegria
@@ -139,7 +139,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTE3MTkzNSwyNTM1Mzg5MTYsLTE0OT
-MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
-LC0xNTAwMTk4MDg0XX0=
+eyJoaXN0b3J5IjpbLTI1MjkxMTg5NiwxNTExMTcxOTM1LDI1Mz
+UzODkxNiwtMTQ5MzIwNjIzOCwyODI3Mzc0NjUsMTgyOTIzMjg4
+OCwtNDUwNDA4MzYsLTE1MDAxOTgwODRdfQ==
 -->
