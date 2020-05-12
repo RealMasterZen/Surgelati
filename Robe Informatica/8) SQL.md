@@ -63,9 +63,9 @@ le **costanti striga sono rappresentabili utilizzando indifferentemente gli apic
 ## Istruzioni del DDL di SQL
 
 **CREATE DATABASE** nomeDatabase;
-USE nomeDatabase;
-CREATE TABLE nomeTabella (...);
-PRIMARY KEY(nomeAttributo)
+**USE** nomeDatabase;
+**CREATE TABLE** nomeTabella (...);
+**PRIMARY KEY**(nomeAttributo)
 FOREIGN kEY(nomeAttributo) REFERENCES nomeTabella(nomeAttributo)
 
 I tipi di politica da seguire in casi di violazione dei vincoli referenziali sono:
@@ -107,5 +107,5 @@ In SQL è possibile utilizzare i vari tipi di join:
 - OUTER JOIN (LEFT JOIN - RIGHT JOIN)
 - SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTM4NTkzMV19
+eyJoaXN0b3J5IjpbODY4NTE3Njg1XX0=
 -->
