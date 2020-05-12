@@ -77,12 +77,12 @@ Serve quindi a:
 Prevede le istruzioni per manipolare i dati contenuti nelle diverse tabelle; in particolare 
 Serve quindi a fare: 
 	- **Inserimenti**
-	- **Cancellazioni *
-	- Modifiche delle righe delle tabelle 
-	- Effettuare interrogazioni sulle basi di dati
+	- **Cancellazioni**
+	- **Modifiche delle righe delle tabelle**
+	- **Effettuare interrogazioni sulle basi di dati**
 
 - **DCL (Data Control Language)**, che prevede istruzioni per controllare il modo in cui le operazioni vengono eseguite; consente di gestire il controllo degli accessi per più utenti e i permessi per gli utenti autorizzati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI0ODcyNDIsLTExNDE3OTM3NDQsLT
-QyNzIzMjQxNCwtOTAzODc0OTA0XX0=
+eyJoaXN0b3J5IjpbLTIxMzI1Mzk3OCwtMTE0MTc5Mzc0NCwtND
+I3MjMyNDE0LC05MDM4NzQ5MDRdfQ==
 -->
