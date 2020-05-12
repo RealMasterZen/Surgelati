@@ -82,18 +82,22 @@ Vanno applicate in cancellazione e in aggiornamento:
 
 **ALTER TABLE** nomeTabella **ADD** nomeColonna tipoDato **BEFORE** nomeColonna2;
 
-**ALTERTABLE** nometabella DROP COLUM nomeColonna;
-DROP TABLE NomeTabella;
+**ALTERTABLE** nometabella **DROP COLUM** nomeColonna;
+
+**DROP TABLE** NomeTabella;
 
 ## Istruzioni del DML di SQL
 
-INSERT INTO nomeTabella (attributo1, attributo2) VALUES (valore1, valore2);
-UPDATE nomeTabella SET attributo = espressione WHERE condizione;
-DELETE FROM nomeTabella WHERE condizione;
+**INSERT INTO** nomeTabella (attributo1, attributo2) **VALUES** (valore1, valore2);
+
+**UPDATE** nomeTabella **SET** attributo = espressione **WHERE** condizione;
+
+**DELETE FROM** nomeTabella **WHERE** condizione;
 
 ## Reperimento dei dati: SELECT
 
-Per estrarre dei dati dai database, il linguaggio SQL prevede il comndo SELECT.
+>Per estrarre dei dati dai database, il linguaggio **SQL** prevede il comndo **SELECT**.
+
 Estrarre dati è sinonimo di effettuare una query o interrogazione sulal base di dati. 
 Il risultato è sempre una tabella.
 Se è assente la clausola WHERE, la condizione si assume sempre vera;
@@ -112,5 +116,5 @@ In SQL è possibile utilizzare i vari tipi di join:
 - OUTER JOIN (LEFT JOIN - RIGHT JOIN)
 - SELF JOIN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjk2ODIyMV19
+eyJoaXN0b3J5IjpbOTQzOTk5NTAzXX0=
 -->
