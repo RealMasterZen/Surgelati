@@ -67,7 +67,11 @@ VAnno applicate in cancellazione e in aggiornamento:
 
 ## Modifica delle Tabelle
 
-ALTER TABLE nomeTabella ADD no
+ALTER TABLE nomeTabella ADD nomeColonna tipoDato BEFORE nomeColonna2;
+ALTERTABLE nometabella DROP COLUM nomeColonna;
+DROP TABLE NomeTabella;
+
+## Istruzioni del DML di SQL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTQ0MjddfQ==
+eyJoaXN0b3J5IjpbOTc2MDMzODE2XX0=
 -->
