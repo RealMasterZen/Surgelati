@@ -17,6 +17,9 @@ funzioneDiAggregazione(DISTINCT attributo), dove funzioneDiAggregazione può ess
 - AVG, che restituisce la medi aritmetica degli elementi della colonna *attributo*.
 
 In SQL è possibile ordinare la righe di una tabella, risultato di una query, utilizzando la clausola ORDER BY:
+
+ORDER BY attributo1 ASC/DESC, dove ASC e DESC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTc5OTMyNDA2LDc3NTM0NDA2NiwtMjA4OD
+c0NjYxMl19
 -->
