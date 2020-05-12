@@ -4,7 +4,7 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 
 ## VITA DI UNGARETTI
 
-> Riassunto Date ungaretti
+> Riassunto Date Ungaretti
 
 - 1888 : nasce ad Alessandria d'Egitto
 - 1912 si Trasferisce a Parigi
@@ -16,6 +16,7 @@ Riassunta di Vita e opere di Ungaretti, il poeta Ermetico
 - 1942 Insegna letteratura italiana all'università di Roma
 - 1970 muore a Milano
 
+> Riassunto Date 
 - - - 
 ## Per Esteso
 
@@ -130,7 +131,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODk4MTU0MSwyNTM1Mzg5MTYsLTE0OT
-MyMDYyMzgsMjgyNzM3NDY1LDE4MjkyMzI4ODgsLTQ1MDQwODM2
-LC0xNTAwMTk4MDg0XX0=
+eyJoaXN0b3J5IjpbNjU2NDA1ODgxLDI1MzUzODkxNiwtMTQ5Mz
+IwNjIzOCwyODI3Mzc0NjUsMTgyOTIzMjg4OCwtNDUwNDA4MzYs
+LTE1MDAxOTgwODRdfQ==
 -->
