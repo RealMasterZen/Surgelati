@@ -106,19 +106,21 @@ Il risultato è sempre una **tabella**.
 
 **Se è presente l'opzione DISTINCT, il risultato è fornito privo di righe duplicate.**
 
-Se si vuole assegnare un nome diverso a ogni colonna del risultato, cioè un alias, si deve utilizzare la clausola AS.
-SQL prevede il valore NULL, che viene utilizzato per indicare diverse situazioni.
+**Se si vuole assegnare un nome diverso a ogni colonna del risultato, cioè un alias, si deve utilizzare la clausola AS.**
+
+**SQL prevede il valore NULL, che viene utilizzato per indicare diverse situazioni.**
 
 ## Le operazioni relazionali in SQL
 
 Le operazioni di selezione, proiezione e join su una base di dati relazionale vengono realizzate attraverso il comando SELECT.
 La proiezione si realizza indicando accanto alla parola SELECT l'elenco degli attributi richiesti.
 L'operazione di selezione viene realizzata utilizzando la clausola WHERE nel comando SELECT.
-In SQL è possibile utilizzare i vari tipi di join:
-- CROSS JOIN
-- INNER JOIN
-- OUTER JOIN (LEFT JOIN - RIGHT JOIN)
-- SELF JOIN
+
+In **SQL è possibile utilizzare i vari tipi di join**:
+- **CROSS JOIN**
+- **INNER JOIN**
+- **OUTER JOIN (LEFT JOIN - RIGHT JOIN)**
+- **SELF JOIN**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgzODAyNzVdfQ==
+eyJoaXN0b3J5IjpbLTUyOTQ5MDc3NV19
 -->
