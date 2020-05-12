@@ -92,7 +92,7 @@ i che suggeriscono silenzi
 ### Sentimento del Tempo
 
 **Sentimento del tempo (1933)** è la raccolta che **coincide con la seconda fase della produzione poetica di Ungaretti**.
-**I contenuti** testimoniano il suo adeguamento al nuovo clima politico e culturale dil **recupero di una dimensione religiosa** che porta a **frequenti riflessioni su temi elevati e profondi**, come il tempo e la morte e **risentono della teoria bergsoniana del "tempo interiore"**, che scardina la concezione di tempo oggettivo e misurabile.
+**I contenuti** testimoniano il suo adeguamento al nuovo clima politico e culturale di ritorno all'ordine e il **recupero di una dimensione religiosa** che porta a **frequenti riflessioni su temi elevati e profondi**, come il tempo e la morte e **risentono della teoria bergsoniana del "tempo interiore"**, che scardina la concezione di tempo oggettivo e misurabile.
 
 **La forma** è caratterizzata dal recupero di moduli espressivi tradizionali, tendenza che, negli anni del primo dopoguerra, era propria della rivista "La Ronda", alla quale Ungaretti collaborò.
 
@@ -145,8 +145,7 @@ Successivamente uscirono tradizioni dei sonetti di Shakespeare, delle poesie di 
 
 Egli selezionava di volta in volta gli autori cui si sentiva vicino per ispirazione poetica nel tentativo di realizzare un compromesso tra due spiriti un confronto di ispirazione nella convinzione che i testi poetici erano intraducibili e che tradurre significava gare opera originale di poesia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg3MDY5NDAsLTk0OTgzNzU3MSwxNT
-ExMTcxOTM1LDI1MzUzODkxNiwtMTQ5MzIwNjIzOCwyODI3Mzc0
-NjUsMTgyOTIzMjg4OCwtNDUwNDA4MzYsLTE1MDAxOTgwODRdfQ
-==
+eyJoaXN0b3J5IjpbODQ3Mjg4MDk0LC05NDk4Mzc1NzEsMTUxMT
+E3MTkzNSwyNTM1Mzg5MTYsLTE0OTMyMDYyMzgsMjgyNzM3NDY1
+LDE4MjkyMzI4ODgsLTQ1MDQwODM2LC0xNTAwMTk4MDg0XX0=
 -->
