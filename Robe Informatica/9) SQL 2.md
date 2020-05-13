@@ -28,7 +28,12 @@ Con questa clausola il risultato del comando SELECT è il seguente:
 - Su tale prodotto si fa una selezione in base alla clausola WHERE
 - La tabella risultante viene logicamente partizionata in gruppi di righe;
 - Tutti i gruppi che non soddisfano la clausola HAVING vengono eliminati
+
+## Query e subquery annidate
+
+Per eseguire query complesse è possibile strutturare opportunamente più comandi SELECT.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzU5NzYwMSwxMzE2MjQ4MTU4LDc3NT
-M0NDA2NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE1NjA3OTg5MTAsMTMxNjI0ODE1OCw3Nz
+UzNDQwNjYsLTIwODg3NDY2MTJdfQ==
 -->
