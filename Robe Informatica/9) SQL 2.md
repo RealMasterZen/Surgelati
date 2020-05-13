@@ -47,12 +47,13 @@ I predicati utilizzabili sono:
 - IN e NOT IN
 - EXISTS e NOT EXISTS
 
-SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANy/ALL subquery
+SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANY/ALL subquery
 
-SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale
-SELECT listaAttributi FROM listaTabelle WHERE
+SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale IN/NOT IN subquery
+
+SELECT listaAttributi FROM listaTabelle WHERE EXISTTS/NOT EXISTS subquery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4Mzc1NDQ3LC05MDY4NDkxODgsMTM2ND
-k3NjU0OSwtOTY2MTA5ODY3LDEzMTYyNDgxNTgsNzc1MzQ0MDY2
-LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTQxODgxNTA5NywtOTA2ODQ5MTg4LDEzNj
+Q5NzY1NDksLTk2NjEwOTg2NywxMzE2MjQ4MTU4LDc3NTM0NDA2
+NiwtMjA4ODc0NjYxMl19
 -->
