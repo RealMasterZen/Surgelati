@@ -41,9 +41,10 @@ La subquery genera una tabella detta tabella derivata che può essere composta d
 
 ## Tipi di subquery: predicati ANY e ALL 
 
-Nelle clausole WHERE delle sottointerrogazioni è possibile utilizzare alcuni predicati per effettuare ricerche sui valori di attributi che soddisfano proprietà di appartenenza e insiemi di valori
+Nelle clausole WHERE delle sottointerrogazioni è possibile utilizzare alcuni predicati per effettuare ricerche sui valori di attributi che soddisfano proprietà di appartenenza e insiemi di valori.
+I predicati utilizzabili sono:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMTIwNTEzLDEzNjQ5NzY1NDksLTk2Nj
-EwOTg2NywxMzE2MjQ4MTU4LDc3NTM0NDA2NiwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbLTkwNjg0OTE4OCwxMzY0OTc2NTQ5LC05Nj
+YxMDk4NjcsMTMxNjI0ODE1OCw3NzUzNDQwNjYsLTIwODg3NDY2
+MTJdfQ==
 -->
