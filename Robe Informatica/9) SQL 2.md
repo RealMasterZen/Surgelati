@@ -32,8 +32,13 @@ Con questa clausola il risultato del comando SELECT è il seguente:
 ## Query e subquery annidate
 
 Per eseguire query complesse è possibile strutturare opportunamente più comandi SELECT.
+Ciò consente di costruire un'interrogazione al cui interno sono presenti altre interrogazioni, dette sottointegrazioni o subquery.
 
+La subquery genera una tabella detta tabella derivata che può essere composta da:
+- Un solo valore: in questo caso si parla di tabella scalare
+- Una sola riga (ma più colonne)
+- Più righe e più colonne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA3OTg5MTAsMTMxNjI0ODE1OCw3Nz
-UzNDQwNjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjk2NDA0NzM5LDEzMTYyNDgxNTgsNzc1Mz
+Q0MDY2LC0yMDg4NzQ2NjEyXX0=
 -->
