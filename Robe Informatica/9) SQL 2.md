@@ -20,8 +20,9 @@ In SQL è possibile ordinare la righe di una tabella, risultato di una query, ut
 
 ORDER BY attributo1 ASC/DESC, dove ASC e DESC stanno per ordine crescente e decrescebbte
 
-Le funzioni di aggregazione sono generalmente abbinate alla cla
+Le funzioni di aggregazione sono generalmente abbinate alla clausola di raggruppamento, la cui sintassi è:
+GROUP BYT attributo 1, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjI0ODE1OCw3NzUzNDQwNjYsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTg4Nzc4OTY1OCwxMzE2MjQ4MTU4LDc3NT
+M0NDA2NiwtMjA4ODc0NjYxMl19
 -->
