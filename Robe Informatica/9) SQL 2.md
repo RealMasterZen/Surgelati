@@ -21,8 +21,12 @@ In SQL è possibile ordinare la righe di una tabella, risultato di una query, ut
 ORDER BY attributo1 ASC/DESC, dove ASC e DESC stanno per ordine crescente e decrescebbte
 
 Le funzioni di aggregazione sono generalmente abbinate alla clausola di raggruppamento, la cui sintassi è:
-GROUP BYT attributo 1, 
+GROUP BYT attributo 1, attributo 2 HAVING condizioneGruppo
+
+Con questa clausola il risultato del comando SELECT è il seguente:
+- Viene eseguito il prodotto delle tabellepresenti nella clausola FROM;
+- Su tale prodotto si fa una selezione in base alla clausola WHERE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzc4OTY1OCwxMzE2MjQ4MTU4LDc3NT
+eyJoaXN0b3J5IjpbMTA1NzA3OTU1NywxMzE2MjQ4MTU4LDc3NT
 M0NDA2NiwtMjA4ODc0NjYxMl19
 -->
