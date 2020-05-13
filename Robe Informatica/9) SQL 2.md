@@ -43,8 +43,16 @@ La subquery genera una tabella detta tabella derivata che può essere composta d
 
 Nelle clausole WHERE delle sottointerrogazioni è possibile utilizzare alcuni predicati per effettuare ricerche sui valori di attributi che soddisfano proprietà di appartenenza e insiemi di valori.
 I predicati utilizzabili sono:
+- ANY e ALL
+- IN e NOT IN
+- EXISTS e NOT EXISTS
+
+SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANy/ALL subquery
+
+SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale
+SELECT listaAttributi FROM listaTabelle WHERE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjg0OTE4OCwxMzY0OTc2NTQ5LC05Nj
-YxMDk4NjcsMTMxNjI0ODE1OCw3NzUzNDQwNjYsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbODg4Mzc1NDQ3LC05MDY4NDkxODgsMTM2ND
+k3NjU0OSwtOTY2MTA5ODY3LDEzMTYyNDgxNTgsNzc1MzQ0MDY2
+LC0yMDg4NzQ2NjEyXX0=
 -->
