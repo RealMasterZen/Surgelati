@@ -38,7 +38,9 @@ La subquery genera una tabella detta tabella derivata che può essere composta d
 - Un solo valore: in questo caso si parla di tabella scalare
 - Una sola riga (ma più colonne)
 - Più righe e più colonne
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NDA0NzM5LDEzMTYyNDgxNTgsNzc1Mz
-Q0MDY2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk2NjEwOTg2NywxMzE2MjQ4MTU4LDc3NT
+M0NDA2NiwtMjA4ODc0NjYxMl19
 -->
