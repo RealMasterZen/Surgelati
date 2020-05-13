@@ -26,7 +26,9 @@ GROUP BYT attributo 1, attributo 2 HAVING condizioneGruppo
 Con questa clausola il risultato del comando SELECT è il seguente:
 - Viene eseguito il prodotto delle tabellepresenti nella clausola FROM;
 - Su tale prodotto si fa una selezione in base alla clausola WHERE
+- La tabella risultante viene logicamente partizionata in gruppi di righe;
+- Tutti i gruppi che non soddisfano la clausola HAVING vengono eliminati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzA3OTU1NywxMzE2MjQ4MTU4LDc3NT
+eyJoaXN0b3J5IjpbMTYyNzU5NzYwMSwxMzE2MjQ4MTU4LDc3NT
 M0NDA2NiwtMjA4ODc0NjYxMl19
 -->
