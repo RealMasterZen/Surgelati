@@ -39,8 +39,8 @@ La subquery genera una tabella detta tabella derivata che può essere composta d
 - Una sola riga (ma più colonne)
 - Più righe e più colonne
 
-## 
+## Tipi di subquery: predicati ANY 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjEwOTg2NywxMzE2MjQ4MTU4LDc3NT
-M0NDA2NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTM2NDk3NjU0OSwtOTY2MTA5ODY3LDEzMT
+YyNDgxNTgsNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
 -->
