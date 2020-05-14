@@ -37,7 +37,17 @@ Si utilizzano gli identificatori OLD e NEW per indicare la tupla prima e dopo l'
 Hanno lo svantaggio di aumentare la complessità del database e di aumentare il carico di lavoro che deve essere sopportato dal DBMS a discapito dell prestazioni
 
 > CREATE TRIGGER Elimina_Impiegato
-> BEFORE DELET
+> BEFORE DELETE
+> ON Personale
+> FOR EACH ROW
+> INSERT INTO CronologiaPersonale VALUES(OLD.Matricola, OLD-idDipendente, CURRENT_DATE());
+
+## Transazioni
+
+Le transazioni sono un insieme di operazioni di interrogazione/modifica del database che devono essere eseguite unitariamente.
+
+Esse godono della proprietà ACID;
+- Atomicity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NjM0MjYzXX0=
+eyJoaXN0b3J5IjpbLTgzNDY1NTg2OF19
 -->
