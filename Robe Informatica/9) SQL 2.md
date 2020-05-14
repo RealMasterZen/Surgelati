@@ -51,9 +51,13 @@ SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANY
 
 SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale IN/NOT IN subquery
 
-SELECT listaAttributi FROM listaTabelle WHERE EXISTTS/NOT EXISTS subquery
+SELECT listaAttributi FROM listaTabelle WHERE EXISTS/NOT EXISTS subquery
+
+## Istruzioni del DCL di SQL: GRANT e REVOKE
+
+Una volta creato lo schema relazionale e una volta popolata la base di dati, tramite appositi comndi ch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODgxNTA5NywtOTA2ODQ5MTg4LDEzNj
-Q5NzY1NDksLTk2NjEwOTg2NywxMzE2MjQ4MTU4LDc3NTM0NDA2
-NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjU4NTgwNDcsMTQxODgxNTA5NywtOTA2OD
+Q5MTg4LDEzNjQ5NzY1NDksLTk2NjEwOTg2NywxMzE2MjQ4MTU4
+LDc3NTM0NDA2NiwtMjA4ODc0NjYxMl19
 -->
