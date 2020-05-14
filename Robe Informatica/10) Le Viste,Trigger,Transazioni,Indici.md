@@ -16,7 +16,12 @@ Per creare una bista si utilizza la seguente sintassi:
 - NomeVista è il nome assegnato alla tabella fittizzia della vista
 - query è una normale quey formulata con il comando SELECT
 
-Per eliminare una vista si utilizza il comando DROP VIEW, la cui sintatt
+Per eliminare una vista si utilizza il comando DROP VIEW, la cui sintatti è. DROP VIEW nomeVista.
+
+## Trigger
+
+I Trigger sono un insieme di comandi SQL che vengono eseguiti automaticamente a causa di eventi che modificano il database.
+I trigger sono regole Evento-Condizione-Azione. Vengono usati per creare file di lo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTY5MzE5NV19
+eyJoaXN0b3J5IjpbLTE3MjY3NjY0MjRdfQ==
 -->
