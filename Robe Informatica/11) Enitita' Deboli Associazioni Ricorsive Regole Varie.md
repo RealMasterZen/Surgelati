@@ -7,7 +7,14 @@ Le entità deboli vengono spesso evitate ponendo un numero progressivo(auto_incr
 
 ## Associazioni Ricorsive
 
-S
+Sono associazioni aventi come partecipanti istanze provenienti dalla stessa entità.
+Servono per fare particolari associazioni senza creare due volte la stessa entità.
+
+``` 
+creare table impiegato(
+id INT NOT NULL AUTO_INCREMENT
+)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEyMzA3NzddfQ==
+eyJoaXN0b3J5IjpbNTI1NTcyMjY1XX0=
 -->
