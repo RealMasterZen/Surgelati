@@ -22,7 +22,14 @@ FOREIGN KEY(manager) REFERENCES impiegato(id)
 
 ## Associazioni Ternarie
 
-Per associazione ternaria si intende un
+Per associazione ternaria si intende un associazione che coinvolge 3 entità
+
+## Regole Varie
+
+- Nel GROUP BY devo inserire tutti i campi che inserisco nel SELECT, tranne le funzioni di aggregazione
+- Le funazioni di aggregazione non si possono fare nel WHERE
+- Con HAVING si possono inserire funzioni di aggregazione
+- WHERE nomeAttributo IN (tra parente)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDIwMzc2OSwtNjE2OTMwMjAxXX0=
+eyJoaXN0b3J5IjpbLTIwNjU3ODYwNiwtNjE2OTMwMjAxXX0=
 -->
