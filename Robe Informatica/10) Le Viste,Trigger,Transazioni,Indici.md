@@ -54,20 +54,21 @@ Esempio di trigger:
 **Le transazioni sono un insieme di operazioni di interrogazione/modifica del database che devono essere eseguite unitariamente.**
 
 Esse godono della proprietà ACID;
-- **Atomicity: la transazione è indivisibile dalla sua esecuzione
-- Consistency: il database deve restare in uno stato coerente anche al termine della transazione;
-- Isolation: ongli transazione deve essere eseguita in modo isolato e indipendente dalle altre transazioni;
-- Durability: i cambiamenti effettuatu non dovreanno mai essere persi, con l'aiuto dei registri di log.
+- **Atomicity**: la transazione è indivisibile dalla sua esecuzione
+- **Consistency**: il database deve restare in uno stato coerente anche al termine della transazione;
+- **Isolation**: ogni transazione deve essere eseguita in modo isolato e indipendente dalle altre transazioni;
+- **Durability**: i cambiamenti effettuatu non dovreanno mai essere persi, con l'aiuto dei registri di log.
 
 I comandi da utilizzare per effettuare una transazione sono sono:
-- START TRANSACTION: inzia una nuova transazione;
-- COMMIT: rende definitivi i cambiamenti apportati e termina la transazione;
-- ROLLBACK: annulla i cambiamenti eseguiti e termina la transazione;
-- SAVEPOINT: serve per definire situazioni intermedie alle quali tornare indietro se necessario
+- **START TRANSACTION**: inizia una nuova transazione;
+- **COMMIT**: rende definitivi i cambiamenti apportati e termina la transazione;
+- **ROLLBACK**: annulla i cambiamenti eseguiti e termina la transazione;
+- **SAVEPOINT**: serve per definire situazioni intermedie alle quali tornare indietro se necessario
 
 ## Indici
 
-Un indice è una struttura dati realizzata per migliorare i tempi di ricerca dei dati, una sorta di schedario o di tabella che tiene traccia di dove sono posizionati i dati all'interno del database.
+**Un indice è una struttura dati realizzata per migliorare i tempi di ricerca dei dati, una sorta di schedario o di tabella che tiene traccia di dove sono posizionati i dati all'interno del database.**
+
 Se una tabella non ha indici, ogni ricerca obbliga il sistema a leggere tutti i dati presenti in essa.
 L0'indice consente invece di ridurre l'insieme dei dati da leggere per completare la ricerca.
 Gli indici velocizzano le query garantendo un accesso più veloce ai dati coinvolti nell'interrogazione, ma occupano molto spazio su disco.
@@ -76,5 +77,5 @@ Gli indici non dovrebbero essere usati su dati che richiedono modifiche frequent
 
 > CREATE INDEX index_nome ON table_name(column1,column2,...);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjA2NzM1NiwtODc5ODIyNzM3XX0=
+eyJoaXN0b3J5IjpbNDg0NTgwODM1LC04Nzk4MjI3MzddfQ==
 -->
