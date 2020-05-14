@@ -55,9 +55,10 @@ SELECT listaAttributi FROM listaTabelle WHERE EXISTS/NOT EXISTS subquery
 
 ## Istruzioni del DCL di SQL: GRANT e REVOKE
 
-Una volta creato lo schema relazionale e una volta popolata la base di dati, tramite appositi comndi ch
+Una volta creato lo schema relazionale e una volta popolata la base di dati, tramite appositi comandi che apprtengono alla parte DCL di SQL, è possibileimpostare le politiche relative al controllo e alla sicurezza dei dati.
+SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati. Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NTgwNDcsMTQxODgxNTA5NywtOTA2OD
-Q5MTg4LDEzNjQ5NzY1NDksLTk2NjEwOTg2NywxMzE2MjQ4MTU4
-LDc3NTM0NDA2NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE4NjE5NTUyNSw2NTg1ODA0NywxNDE4OD
+E1MDk3LC05MDY4NDkxODgsMTM2NDk3NjU0OSwtOTY2MTA5ODY3
+LDEzMTYyNDgxNTgsNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
 -->
