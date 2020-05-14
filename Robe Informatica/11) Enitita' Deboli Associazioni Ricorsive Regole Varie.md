@@ -35,7 +35,10 @@ Per associazione ternaria si intende un associazione che coinvolge 3 entità
 - SELECT SUM(incasso) -> fa la somma
 - AVG(incasso) -> fa la media
 - MAX(incasso), MIN(incasso) -> Valore massimo e minimo
-- SELECT * FROM nomeTabella WHERE name LIKE
+- SELECT * FROM nomeTabella WHERE name LIKE %Matteo% _> per trovare parole
+- ALL -> per indicare tutte le tuple della subquery (va messo dopo il WHERE)
+- EXISTS verifica l'esistenza di almeno una tupla nel risultato della subquery (dopo il WHERE)
+- La negazione NOT EXISTS verifica la condizione opposta a EXISTS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjI0MjY5NSwtNjE2OTMwMjAxXX0=
+eyJoaXN0b3J5IjpbMTgwMTg5NzA3NywtNjE2OTMwMjAxXX0=
 -->
