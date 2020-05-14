@@ -37,23 +37,23 @@ Con questa clausola il risultato del comando SELECT è il seguente:
 
 ## Query e subquery annidate
 
-Per eseguire query complesse è possibile strutturare opportunamente più comandi SELECT.
+**Per eseguire query complesse** è **possibile strutturare opportunamente più comandi SELECT.**
 Ciò consente di costruire un'interrogazione al cui interno sono presenti altre interrogazioni, dette sotto-integrazioni o sub-query.
 
-La subquery genera una tabella detta tabella derivata che può essere composta da:
-- Un solo valore: in questo caso si parla di tabella scalare
-- Una sola riga (ma più colonne)
-- Più righe e più colonne
+**La subquery genera una tabella detta tabella derivata** che può essere **composta da:**
+- **Un solo valore: in questo caso si parla di tabella scalare**
+- **Una sola riga (ma più colonne)**
+- **Più righe e più colonne**
 
 ## Tipi di subquery: predicati ANY e ALL 
 
-Nelle clausole WHERE delle sottointerrogazioni è possibile utilizzare alcuni predicati per effettuare ricerche sui valori di attributi che soddisfano proprietà di appartenenza e insiemi di valori.
+**Nelle clausole WHERE delle sotto-interrogazioni** è **possibile utilizzare alcuni predicati per effettuare ricerche sui valori di attributi che soddisfano proprietà di appartenenza e insiemi di valori.**
 I predicati utilizzabili sono:
-- ANY e ALL
-- IN e NOT IN
-- EXISTS e NOT EXISTS
+- **ANY e ALL**
+- **IN e NOT IN**
+- **EXISTS e NOT EXISTS**
 
-SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANY/ALL subquery
+> SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANY/ALL subquery
 
 SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale IN/NOT IN subquery
 
@@ -65,8 +65,8 @@ Una volta creato lo schema relazionale e una volta popolata la base di dati, tra
 SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati. Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il comando GRANT, la cui sintassi è: GRANT elencoPrivilegi ON nomeDatabase.nomeTabella To user.
 I permessi possono essere revocati tramite REVOKE, la cui sintassi specifica è: REVOKE privileges ON object FROM user.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzA5NzMxNiwxMTg0NDg5ODQ4LDEwNT
-Y1ODM5NDIsLTI0MjU0Mjc5Niw2NTg1ODA0NywxNDE4ODE1MDk3
-LC05MDY4NDkxODgsMTM2NDk3NjU0OSwtOTY2MTA5ODY3LDEzMT
-YyNDgxNTgsNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTc3NTEyMDM3LDExODQ0ODk4NDgsMTA1Nj
+U4Mzk0MiwtMjQyNTQyNzk2LDY1ODU4MDQ3LDE0MTg4MTUwOTcs
+LTkwNjg0OTE4OCwxMzY0OTc2NTQ5LC05NjYxMDk4NjcsMTMxNj
+I0ODE1OCw3NzUzNDQwNjYsLTIwODg3NDY2MTJdfQ==
 -->
