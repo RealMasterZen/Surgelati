@@ -19,6 +19,8 @@ PRIMARY KEY(id),
 FOREIGN KEY(manager) REFERENCES impiegato(id)
 );
 ```
+
+## Associazioni Ternarie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTYwNjQ0LC02MTY5MzAyMDFdfQ==
+eyJoaXN0b3J5IjpbMzI0MjY1NzQwLC02MTY5MzAyMDFdfQ==
 -->
