@@ -21,7 +21,18 @@ Per eliminare una vista si utilizza il comando DROP VIEW, la cui sintatti è. DR
 ## Trigger
 
 I Trigger sono un insieme di comandi SQL che vengono eseguiti automaticamente a causa di eventi che modificano il database.
-I trigger sono regole Evento-Condizione-Azione. Vengono usati per creare file di lo
+I trigger sono regole Evento-Condizione-Azione. Vengono usati per:
+- Creare file di log
+- validare dati inseriti
+- creare tabellae di registrazione delle modifiche apportate al database
+
+La creazione dei trigger fa parte del DDL e possono essere cancellati e attivati7disattivati dinamicamente.
+Gli eventi che si possono utilizzare sono:
+- INSERT
+- DELETE
+- UPDATE
+
+Si utilizza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY3NjY0MjRdfQ==
+eyJoaXN0b3J5IjpbMTkxNDE5MDgxNV19
 -->
