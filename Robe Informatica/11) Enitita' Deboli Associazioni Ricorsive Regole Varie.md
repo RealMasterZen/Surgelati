@@ -21,6 +21,8 @@ FOREIGN KEY(manager) REFERENCES impiegato(id)
 ```
 
 ## Associazioni Ternarie
+
+Per associazione ternaria si intende un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MjY1NzQwLC02MTY5MzAyMDFdfQ==
+eyJoaXN0b3J5IjpbMTI3NDIwMzc2OSwtNjE2OTMwMjAxXX0=
 -->
