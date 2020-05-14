@@ -51,8 +51,12 @@ Esse godono della proprietà ACID;
 - Consistency: il database deve restare in uno stato coerente anche al termine della transazione;
 - Isolation: ongli transazione deve essere eseguita in modo isolato e indipendente dalle altre transazioni;
 - Durability: i cambiamenti effettuatu non dovreanno mai essere persi, con l'aiuto dei registri di log.
-I comandi da utilizzare sono:
-START TRANSACTION
+
+I comandi da utilizzare per effettuare una transazione sono sono:
+- START TRANSACTION: inzia una nuova transazione;
+- COMMIT: rende definitivi i cambiamenti apportati e termina la transazione;
+- ROLLBACK: annulla i cambiamenti eseguiti e termina la transazione;
+- SAVEPOINT: serve per definire situ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NzY3MDE0XX0=
+eyJoaXN0b3J5IjpbLTE5NTg1NTA4MjBdfQ==
 -->
