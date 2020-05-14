@@ -12,9 +12,13 @@ Servono per fare particolari associazioni senza creare due volte la stessa entit
 
 ``` 
 create table impiegato(
-id INT NOT NULL AUTO_INCREMENT
-)
+id INT NOT NULL AUTO_INCREMENT,
+nome VARCHAR(255) NOT NULL,
+menager INT,
+PRIMARY KEY(id),
+FOREIGN KEY(manager) REFERENCES impiegato(id)
+);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjkzMDIwMV19
+eyJoaXN0b3J5IjpbLTI5NTYwNjQ0LC02MTY5MzAyMDFdfQ==
 -->
