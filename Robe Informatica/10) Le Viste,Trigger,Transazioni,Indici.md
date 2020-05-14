@@ -6,7 +6,8 @@ In SQL è possibile definire una vlasse di tabelle, chiamate viste, che non sono
 
 Le viste vengono solitamente utilizzate per:
 - Proteggere i dati: pensiamo a una tabella per cui non vogliamo che un certo tipo di utenza possa accedere indistintamente a tutti i campi. Per questi utenti si potrà creare una vista in cui apparirrano soltanto alcuni dei campi della tabella in questione, ossia quelli consentiti.
-- Convertire le 
+- Convertire le unità di misura: se abbiamo una tabella che contiene il campo importo con valori espressi in dollari e desideriamo visualizzare l'equivalente in euro, possiamo creare una vista per risolvere il problema.
+- Semplificare la costruzione di query complesse: è un modo veloce e semplice per risolvere problemi di interrogazione appraentemente impossivili da risolvere con le normali sintassi del comando SELECT
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA0MDkxMzRdfQ==
+eyJoaXN0b3J5IjpbMTU4NzUxOTI4M119
 -->
