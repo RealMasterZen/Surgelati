@@ -55,18 +55,25 @@ I predicati utilizzabili sono:
 
 > SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale ANY/ALL subquery
 
-SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale IN/NOT IN subquery
+> SELECT listaAttributi FROM listaTabelle WHERE attributo operatoreRelazionale IN/NOT IN subquery
 
-SELECT listaAttributi FROM listaTabelle WHERE EXISTS/NOT EXISTS subquery
+> SELECT listaAttributi FROM listaTabelle WHERE EXISTS/NOT EXISTS subquery
 
 ## Istruzioni del DCL di SQL: GRANT e REVOKE
 
-Una volta creato lo schema relazionale e una volta popolata la base di dati, tramite appositi comandi che apprtengono alla parte DCL di SQL, è possibileimpostare le politiche relative al controllo e alla sicurezza dei dati.
-SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati. Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il comando GRANT, la cui sintassi è: GRANT elencoPrivilegi ON nomeDatabase.nomeTabella To user.
-I permessi possono essere revocati tramite REVOKE, la cui sintassi specifica è: REVOKE privileges ON object FROM user.
+**Una volta creato lo schema relazionale e una volta popolata la base di dati, tramite appositi comandi che apprtengono alla parte DCL di SQL**, è possibile impostare le politiche relative al controllo e alla sicurezza dei dati.
+
+**SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati.**
+
+Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il comando GRANT, la cui sintassi è:
+> GRANT elencoPrivilegi ON nomeDatabase.nomeTabella To user.
+
+I permessi possono essere revocati tramite REVOKE, la cui sintassi specifica è:
+
+> REVOKE privileges ON object FROM user.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NTEyMDM3LDExODQ0ODk4NDgsMTA1Nj
-U4Mzk0MiwtMjQyNTQyNzk2LDY1ODU4MDQ3LDE0MTg4MTUwOTcs
-LTkwNjg0OTE4OCwxMzY0OTc2NTQ5LC05NjYxMDk4NjcsMTMxNj
-I0ODE1OCw3NzUzNDQwNjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU5MDYzNDY2NSwxMTg0NDg5ODQ4LDEwNT
+Y1ODM5NDIsLTI0MjU0Mjc5Niw2NTg1ODA0NywxNDE4ODE1MDk3
+LC05MDY4NDkxODgsMTM2NDk3NjU0OSwtOTY2MTA5ODY3LDEzMT
+YyNDgxNTgsNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
 -->
