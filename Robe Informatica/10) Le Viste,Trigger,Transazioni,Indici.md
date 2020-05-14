@@ -62,7 +62,10 @@ I comandi da utilizzare per effettuare una transazione sono sono:
 
 Un indice è una struttura dati realizzata per migliorare i tempi di ricerca dei dati, una sorta di schedario o di tabella che tiene traccia di dove sono posizionati i dati all'interno del database.
 Se una tabella non ha indici, ogni ricerca obbliga il sistema a leggere tutti i dati presenti in essa.
-L0'indice consente invece di ridurre l'insieme dei dati da leggere
+L0'indice consente invece di ridurre l'insieme dei dati da leggere per completare la ricerca.
+Gli indici velocizzano le query garantendo un accesso più veloce ai dati coinvolti nell'interrogazione, ma occupano molto spazio su disco.
+Gli indici non dovrebbero essere usati su tabelle piccole e con poche tuple, perchè non migliorerebbero i tempi di accesso, ma provocherebbero l'effetto contrario.
+Gli indici non d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxMzM1ODBdfQ==
+eyJoaXN0b3J5IjpbMjQyODk0NzI2XX0=
 -->
