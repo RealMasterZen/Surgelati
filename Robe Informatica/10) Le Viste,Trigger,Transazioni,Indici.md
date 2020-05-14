@@ -32,7 +32,12 @@ Gli eventi che si possono utilizzare sono:
 - DELETE
 - UPDATE
 
-Si utilizza
+Si utilizzano gli identificatori OLD e NEW per indicare la tupla prima e dopo l'evento che ha innescato il trigger, permettendo al programmatore di definire l'azione da intraprendere in seguito a specifici eventi.
+
+Hanno lo svantaggio di aumentare la complessità del database e di aumentare il carico di lavoro che deve essere sopportato dal DBMS a discapito dell prestazioni
+
+> CREATE TRIGGER Elimina_Impiegato
+> BEFORE DELET
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDE5MDgxNV19
+eyJoaXN0b3J5IjpbNDY4NjM0MjYzXX0=
 -->
