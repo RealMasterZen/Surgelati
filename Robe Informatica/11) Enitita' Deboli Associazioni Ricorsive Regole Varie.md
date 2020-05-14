@@ -29,7 +29,13 @@ Per associazione ternaria si intende un associazione che coinvolge 3 entità
 - Nel GROUP BY devo inserire tutti i campi che inserisco nel SELECT, tranne le funzioni di aggregazione
 - Le funazioni di aggregazione non si possono fare nel WHERE
 - Con HAVING si possono inserire funzioni di aggregazione
-- WHERE nomeAttributo IN (tra parente)
+- WHERE nomeAttributo IN (tra parentesi, separate da virgola i parametri)
+- ORDER BY DESC/ASC LIMIT 1
+- COUNT(*) oppure con l'attributo specifico
+- SELECT SUM(incasso) -> fa la somma
+- AVG(incasso) -> fa la media
+- MAX(incasso), MIN(incasso) -> Valore massimo e minimo
+- SELECT * FROM nomeTabella WHERE name LIKE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU3ODYwNiwtNjE2OTMwMjAxXX0=
+eyJoaXN0b3J5IjpbMTcxNjI0MjY5NSwtNjE2OTMwMjAxXX0=
 -->
