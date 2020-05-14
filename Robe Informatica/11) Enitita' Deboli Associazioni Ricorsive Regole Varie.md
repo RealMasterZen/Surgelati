@@ -11,10 +11,10 @@ Sono associazioni aventi come partecipanti istanze provenienti dalla stessa enti
 Servono per fare particolari associazioni senza creare due volte la stessa entità.
 
 ``` 
-creare table impiegato(
+create table impiegato(
 id INT NOT NULL AUTO_INCREMENT
 )
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NTcyMjY1XX0=
+eyJoaXN0b3J5IjpbLTYxNjkzMDIwMV19
 -->
