@@ -14,9 +14,10 @@ Le viste vengono solitamente utilizzate per:
  > CREATE VIEW nomeVista AS query;
 
 - **NomeVista** è il nome assegnato alla tabella fittizzia della vista
-- **query** è una normale quey formulata con il comando SELECT
+- **query** è una normale query formulata con il comando SELECT
 
-Per eliminare una vista si utilizza il comando DROP VIEW, la cui sintatti è. DROP VIEW nomeVista.
+**Per eliminare una vista** si utilizza il comando DROP VIEW, la cui sintatti è: 
+> DROP VIEW nomeVista.
 
 ## Trigger
 
@@ -69,5 +70,5 @@ Gli indici non dovrebbero essere usati su dati che richiedono modifiche frequent
 
 > CREATE INDEX index_nome ON table_name(column1,column2,...);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTgyMjczN119
+eyJoaXN0b3J5IjpbLTU0ODE2NTEwOSwtODc5ODIyNzM3XX0=
 -->
