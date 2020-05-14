@@ -30,15 +30,18 @@ I trigger sono regole Evento-Condizione-Azione. Vengono usati per:
 - **Validare dati inseriti**
 - **Creare tabella di registrazione delle modifiche apportate al database**
 
-La creazione dei trigger fa parte del DDL e possono essere cancellati e attivati7disattivati dinamicamente.
+La creazione dei trigger fa parte del DDL e possono essere cancellati e attivati/disattivati dinamicamente.
+
 Gli eventi che si possono utilizzare sono:
-- INSERT
-- DELETE
-- UPDATE
+- **INSERT**
+- **DELETE**
+- **UPDATE**
 
-Si utilizzano gli identificatori OLD e NEW per indicare la tupla prima e dopo l'evento che ha innescato il trigger, permettendo al programmatore di definire l'azione da intraprendere in seguito a specifici eventi.
+Si utilizzano gli **identificatori OLD e NEW** per **indicare la tupla prima e dopo l'evento che ha innescato il trigger**, permettendo al programmatore di definire l'azione da intraprendere in seguito a specifici eventi.
 
-Hanno lo svantaggio di aumentare la complessità del database e di aumentare il carico di lavoro che deve essere sopportato dal DBMS a discapito dell prestazioni
+- Hanno lo svantaggio di aumentare la complessità del database e di aumentare il carico di lavoro che deve essere sopportato dal DBMS a discapito dell prestazioni
+
+Esempio di trigger:
 
 > CREATE TRIGGER Elimina_Impiegato
 > BEFORE DELETE
@@ -48,10 +51,10 @@ Hanno lo svantaggio di aumentare la complessità del database e di aumentare il 
 
 ## Transazioni
 
-Le transazioni sono un insieme di operazioni di interrogazione/modifica del database che devono essere eseguite unitariamente.
+**Le transazioni sono un insieme di operazioni di interrogazione/modifica del database che devono essere eseguite unitariamente.**
 
 Esse godono della proprietà ACID;
-- Atomicity: la transazione è indivisibile dalla sua esecuzione
+- **Atomicity: la transazione è indivisibile dalla sua esecuzione
 - Consistency: il database deve restare in uno stato coerente anche al termine della transazione;
 - Isolation: ongli transazione deve essere eseguita in modo isolato e indipendente dalle altre transazioni;
 - Durability: i cambiamenti effettuatu non dovreanno mai essere persi, con l'aiuto dei registri di log.
@@ -73,5 +76,5 @@ Gli indici non dovrebbero essere usati su dati che richiedono modifiche frequent
 
 > CREATE INDEX index_nome ON table_name(column1,column2,...);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQyMjcyODIsLTg3OTgyMjczN119
+eyJoaXN0b3J5IjpbMTQ0MjA2NzM1NiwtODc5ODIyNzM3XX0=
 -->
