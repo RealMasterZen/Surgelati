@@ -30,15 +30,15 @@ Per associazione ternaria si intende un associazione che coinvolge 3 entità
 - **Le funzioni di aggregazione non si possono fare nel WHERE**
 - Con **HAVING si possono inserire funzioni di aggregazione**
 - **WHERE nomeAttributo IN (tra parentesi, separate da virgola i parametri)**
-- ORDER BY DESC/ASC LIMIT 1
-- COUNT(*) oppure con l'attributo specifico
-- SELECT SUM(incasso) -> fa la somma
-- AVG(incasso) -> fa la media
-- MAX(incasso), MIN(incasso) -> Valore massimo e minimo
-- SELECT * FROM nomeTabella WHERE name LIKE %Matteo% _> per trovare parole
-- ALL -> per indicare tutte le tuple della subquery (va messo dopo il WHERE)
-- EXISTS verifica l'esistenza di almeno una tupla nel risultato della subquery (dopo il WHERE)
-- La negazione NOT EXISTS verifica la condizione opposta a EXISTS
+- **ORDER BY DESC/ASC LIMIT 1**
+- **COUNT(*) oppure con l'attributo specifico**
+- **SELECT SUM(incasso)** -> fa la somma
+- **AVG(incasso)** -> fa la media
+- **MAX(incasso), MIN(incasso)** -> Valore massimo e minimo
+- **SELECT * FROM nomeTabella WHERE name LIKE %Matteo%** -> per trovare parole
+- **ALL** -> per indicare tutte le tuple della subquery (va messo dopo il WHERE)
+- **EXISTS** verifica l'esistenza di almeno una tupla nel risultato della subquery (dopo il WHERE)
+- **La negazione NOT EXISTS verifica la condizione opposta a EXISTS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzg5NDIyOCwtNjE2OTMwMjAxXX0=
+eyJoaXN0b3J5IjpbLTEwNDg5NzYyODYsLTYxNjkzMDIwMV19
 -->
