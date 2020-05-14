@@ -6,8 +6,9 @@
 
 ## Le funzioni di aggragazione
 
-**SQL possiede alcune funzioni predefinite utilissime in molte circostanze in cui occorre effettuare conteggi, somme, calcoli di medie o altro ancora.
-Tali funzioni si applicano a una colonna di una tabella.
+**SQL possiede alcune funzioni predefinite** utilissime in molte circostanze in cui occorre effettuare **conteggi, somme, calcoli di medie o altro ancora.**
+
+**Tali funzioni si applicano a una colonna di una tabella.**
 
 funzioneDiAggregazione(DISTINCT attributo), dove funzioneDiAggregazione può essere:
 - COUNT, che conta il numero di elementi della colonna *attributo*, COUNT(*) numero di righe della tabella;
@@ -59,7 +60,7 @@ Una volta creato lo schema relazionale e una volta popolata la base di dati, tra
 SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati. Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il comando GRANT, la cui sintassi è: GRANT elencoPrivilegi ON nomeDatabase.nomeTabella To user.
 I permessi possono essere revocati tramite REVOKE, la cui sintassi specifica è: REVOKE privileges ON object FROM user.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzU3NjE4MCwtMjQyNTQyNzk2LDY1OD
+eyJoaXN0b3J5IjpbMTA1NjU4Mzk0MiwtMjQyNTQyNzk2LDY1OD
 U4MDQ3LDE0MTg4MTUwOTcsLTkwNjg0OTE4OCwxMzY0OTc2NTQ5
 LC05NjYxMDk4NjcsMTMxNjI0ODE1OCw3NzUzNDQwNjYsLTIwOD
 g3NDY2MTJdfQ==
