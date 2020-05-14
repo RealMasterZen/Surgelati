@@ -26,10 +26,10 @@ Per associazione ternaria si intende un associazione che coinvolge 3 entità
 
 ## Regole Varie
 
-- Nel GROUP BY devo inserire tutti i campi che inserisco nel SELECT, tranne le funzioni di aggregazione
-- Le funazioni di aggregazione non si possono fare nel WHERE
-- Con HAVING si possono inserire funzioni di aggregazione
-- WHERE nomeAttributo IN (tra parentesi, separate da virgola i parametri)
+- Nel **GROUP BY devo inserire tutti i campi che inserisco nel SELECT**, tranne le funzioni di aggregazione
+- **Le funzioni di aggregazione non si possono fare nel WHERE**
+- Con **HAVING si possono inserire funzioni di aggregazione**
+- **WHERE nomeAttributo IN (tra parentesi, separate da virgola i parametri)**
 - ORDER BY DESC/ASC LIMIT 1
 - COUNT(*) oppure con l'attributo specifico
 - SELECT SUM(incasso) -> fa la somma
@@ -40,5 +40,5 @@ Per associazione ternaria si intende un associazione che coinvolge 3 entità
 - EXISTS verifica l'esistenza di almeno una tupla nel risultato della subquery (dopo il WHERE)
 - La negazione NOT EXISTS verifica la condizione opposta a EXISTS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTg5NzA3NywtNjE2OTMwMjAxXX0=
+eyJoaXN0b3J5IjpbMjA5Mzg5NDIyOCwtNjE2OTMwMjAxXX0=
 -->
