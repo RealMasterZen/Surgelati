@@ -56,7 +56,13 @@ I comandi da utilizzare per effettuare una transazione sono sono:
 - START TRANSACTION: inzia una nuova transazione;
 - COMMIT: rende definitivi i cambiamenti apportati e termina la transazione;
 - ROLLBACK: annulla i cambiamenti eseguiti e termina la transazione;
-- SAVEPOINT: serve per definire situ
+- SAVEPOINT: serve per definire situazioni intermedie alle quali tornare indietro se necessario
+
+## Indici
+
+Un indice è una struttura dati realizzata per migliorare i tempi di ricerca dei dati, una sorta di schedario o di tabella che tiene traccia di dove sono posizionati i dati all'interno del database.
+Se una tabella non ha indici, ogni ricerca obbliga il sistema a leggere tutti i dati presenti in essa.
+L0'indice consente invece di ridurre l'insieme dei dati da leggere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg1NTA4MjBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjkxMzM1ODBdfQ==
 -->
