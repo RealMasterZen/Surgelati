@@ -2,7 +2,7 @@
 
 ## Le Viste
 
-In SQL è possibile definire una vlasse di tabelle, chiamate viste, che non sono fisicamente memorizzate nella base di dati(sono infatti costruite nella memoria RAM), ma possono essere definite solo logicamente.
+**In SQL è possibile definire una classe di tabelle, chiamate viste, che non sono fisicamente memorizzate nella base di dati(sono infatti costruite nella memoria RAM), ma possono essere definite solo logicamente.
 
 Le viste vengono solitamente utilizzate per:
 - Proteggere i dati: pensiamo a una tabella per cui non vogliamo che un certo tipo di utenza possa accedere indistintamente a tutti i campi. Per questi utenti si potrà creare una vista in cui apparirrano soltanto alcuni dei campi della tabella in questione, ossia quelli consentiti.
@@ -65,7 +65,9 @@ Se una tabella non ha indici, ogni ricerca obbliga il sistema a leggere tutti i 
 L0'indice consente invece di ridurre l'insieme dei dati da leggere per completare la ricerca.
 Gli indici velocizzano le query garantendo un accesso più veloce ai dati coinvolti nell'interrogazione, ma occupano molto spazio su disco.
 Gli indici non dovrebbero essere usati su tabelle piccole e con poche tuple, perchè non migliorerebbero i tempi di accesso, ma provocherebbero l'effetto contrario.
-Gli indici non d
+Gli indici non dovrebbero essere usati su dati che richiedono modifiche frequenti, visto che se cambiano i dati cambiano anche gli indici, e di questa regola bisognerebbe tenerne conto quando si effettuano molti aggiornamenti.
+
+> CREATE INDEX index_nome ON table_name(column1,column2,...);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyODk0NzI2XX0=
+eyJoaXN0b3J5IjpbMTI0OTMyNzc3M119
 -->
