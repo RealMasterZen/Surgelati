@@ -2,12 +2,12 @@
 
 ## Le Viste
 
-**In SQL è possibile definire una classe di tabelle, chiamate viste, che non sono fisicamente memorizzate nella base di dati(sono infatti costruite nella memoria RAM), ma possono essere definite solo logicamente.
+**In SQL è possibile definire una classe di tabelle, chiamate viste**, che **non sono fisicamente memorizzate nella base di dati(sono infatti costruite nella memoria RAM), ma possono essere definite solo logicamente.**
 
 Le viste vengono solitamente utilizzate per:
-- Proteggere i dati: pensiamo a una tabella per cui non vogliamo che un certo tipo di utenza possa accedere indistintamente a tutti i campi. Per questi utenti si potrà creare una vista in cui apparirrano soltanto alcuni dei campi della tabella in questione, ossia quelli consentiti.
-- Convertire le unità di misura: se abbiamo una tabella che contiene il campo importo con valori espressi in dollari e desideriamo visualizzare l'equivalente in euro, possiamo creare una vista per risolvere il problema.
-- Semplificare la costruzione di query complesse: è un modo veloce e semplice per risolvere problemi di interrogazione apparentemente impossibili da risolvere con le normali sintassi del comando SELECT.
+- **Proteggere i dati**: pensiamo a una tabella per cui non vogliamo che un certo tipo di utenza possa accedere indistintamente a tutti i campi. Per questi utenti si potrà creare una vista in cui apparirrano soltanto alcuni dei campi della tabella in questione, ossia quelli consentiti.
+- **Convertire le unità di misura**: se abbiamo una tabella che contiene il campo importo con valori espressi in dollari e desideriamo visualizzare l'equivalente in euro, possiamo creare una vista per risolvere il problema.
+- **Semplificare la costruzione di query complesse**: è un modo veloce e semplice per risolvere problemi di interrogazione apparentemente impossibili da risolvere con le normali sintassi del comando SELECT.
 
 Per creare una bista si utilizza la seguente sintassi:
  
@@ -69,5 +69,5 @@ Gli indici non dovrebbero essere usati su dati che richiedono modifiche frequent
 
 > CREATE INDEX index_nome ON table_name(column1,column2,...);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTMyNzc3M119
+eyJoaXN0b3J5IjpbMTcxMDg0MjY1M119
 -->
