@@ -21,15 +21,18 @@ Dove funzioneDiAggregazione può essere:
 
 **In SQL è possibile ordinare la righe di una tabella**, risultato di una query, **utilizzando la clausola ORDER BY:**
 
-ORDER BY attributo1 ASC/DESC, dove ASC e DESC stanno per ordine crescente e decrescebbte
+> ORDER BY attributo1 ASC/DESC
+
+Dove ASC e DESC stanno per ordine crescente e decrescebbte
 
 Le funzioni di aggregazione sono generalmente abbinate alla clausola di raggruppamento, la cui sintassi è:
-GROUP BYT attributo 1, attributo 2 HAVING condizioneGruppo
+
+> GROUP BY attributo 1, attributo 2 HAVING condizioneGruppo
 
 Con questa clausola il risultato del comando SELECT è il seguente:
-- Viene eseguito il prodotto delle tabellepresenti nella clausola FROM;
-- Su tale prodotto si fa una selezione in base alla clausola WHERE
-- La tabella risultante viene logicamente partizionata in gruppi di righe;
+- Viene eseguito il **prodotto delle tabelle presenti nella clausola FROM;**
+- **Su tale prodotto si fa una selezione in base alla clausola WHERE**
+- La **tabella risultante viene logicamente partizionata in gruppi di righe;**
 - Tutti i gruppi che non soddisfano la clausola HAVING vengono eliminati
 
 ## Query e subquery annidate
@@ -62,8 +65,8 @@ Una volta creato lo schema relazionale e una volta popolata la base di dati, tra
 SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati. Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il comando GRANT, la cui sintassi è: GRANT elencoPrivilegi ON nomeDatabase.nomeTabella To user.
 I permessi possono essere revocati tramite REVOKE, la cui sintassi specifica è: REVOKE privileges ON object FROM user.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MDI4MDI0LDExODQ0ODk4NDgsMTA1Nj
-U4Mzk0MiwtMjQyNTQyNzk2LDY1ODU4MDQ3LDE0MTg4MTUwOTcs
-LTkwNjg0OTE4OCwxMzY0OTc2NTQ5LC05NjYxMDk4NjcsMTMxNj
-I0ODE1OCw3NzUzNDQwNjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTkxMzQ3OTc5MiwxMTg0NDg5ODQ4LDEwNT
+Y1ODM5NDIsLTI0MjU0Mjc5Niw2NTg1ODA0NywxNDE4ODE1MDk3
+LC05MDY4NDkxODgsMTM2NDk3NjU0OSwtOTY2MTA5ODY3LDEzMT
+YyNDgxNTgsNzc1MzQ0MDY2LC0yMDg4NzQ2NjEyXX0=
 -->
