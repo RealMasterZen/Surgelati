@@ -15,7 +15,7 @@
 Dove funzioneDiAggregazione può essere:
 - **COUNT, che conta il numero di elementi della colonna *attributo*, COUNT(*) numero di righe della tabella;**
 - **MIN**, che restituisce il valore minimo della colonna *attributo*
-- MAX, che restituisce il valore massimo della colonna *attributo*
+- **MAX**, che restituisce il valore massimo della colonna *attributo*
 - SUM, che restituisce la somma degli elementi della colonna *attributo*;
 - AVG, che restituisce la medi aritmetica degli elementi della colonna *attributo*.
 
@@ -62,7 +62,7 @@ Una volta creato lo schema relazionale e una volta popolata la base di dati, tra
 SQL usa il concetto di privilegio di accesso inteso come autorizzazione a eseguire una data azione su un oggetto della base di dati. Per concedere a gruppi di persone i diritti di accesso necessari a interagire su un determinato insieme di dati, si utilizza il comando GRANT, la cui sintassi è: GRANT elencoPrivilegi ON nomeDatabase.nomeTabella To user.
 I permessi possono essere revocati tramite REVOKE, la cui sintassi specifica è: REVOKE privileges ON object FROM user.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTc1MzMzNiwxMDU2NTgzOTQyLC0yND
+eyJoaXN0b3J5IjpbMTE4NDQ4OTg0OCwxMDU2NTgzOTQyLC0yND
 I1NDI3OTYsNjU4NTgwNDcsMTQxODgxNTA5NywtOTA2ODQ5MTg4
 LDEzNjQ5NzY1NDksLTk2NjEwOTg2NywxMzE2MjQ4MTU4LDc3NT
 M0NDA2NiwtMjA4ODc0NjYxMl19
