@@ -17,15 +17,18 @@ Le viste vengono solitamente utilizzate per:
 - **query** è una normale query formulata con il comando SELECT
 
 **Per eliminare una vista** si utilizza il comando DROP VIEW, la cui sintatti è: 
+
 > DROP VIEW nomeVista.
 
 ## Trigger
 
-I Trigger sono un insieme di comandi SQL che vengono eseguiti automaticamente a causa di eventi che modificano il database.
+**I Trigger sono un insieme di comandi SQL che vengono eseguiti automaticamente a causa di eventi che modificano il database.**
+
+
 I trigger sono regole Evento-Condizione-Azione. Vengono usati per:
-- Creare file di log
-- validare dati inseriti
-- creare tabellae di registrazione delle modifiche apportate al database
+- **Creare file di log**
+- **Validare dati inseriti**
+- **Creare tabella di registrazione delle modifiche apportate al database**
 
 La creazione dei trigger fa parte del DDL e possono essere cancellati e attivati7disattivati dinamicamente.
 Gli eventi che si possono utilizzare sono:
@@ -70,5 +73,5 @@ Gli indici non dovrebbero essere usati su dati che richiedono modifiche frequent
 
 > CREATE INDEX index_nome ON table_name(column1,column2,...);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODE2NTEwOSwtODc5ODIyNzM3XX0=
+eyJoaXN0b3J5IjpbLTEzNDQyMjcyODIsLTg3OTgyMjczN119
 -->
