@@ -116,18 +116,22 @@ Lo strumento che descrive la microstruttura è **il mansionario** e la organizza
  > **Definizione di Ruolo**
  > L'insieme delle aspettative di comportamento che l'organizzazione si attende da una persona che ricopre una certa posizione, in relazione agli obbiettivi dell'organizzazione 
 
-
+le Interdipendenze sono classificate secondo 4 tipologie:
+- Interdipendenze sequenziali
+- Interdipendenze reciproche
+- Interdipendenze di risorsa
+- Interdipendenze
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NTUzODEyLDEwMzg5NTI5ODksLTExND
-M3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUw
-NDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOC
-wxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1
-NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAyNzEzMD
-QwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2Mywx
-NzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwMTgzNjI4MzQsMTAzODk1Mjk4OSwtMT
+E0Mzc0NjI5OSwtMTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAy
+NTA0OTksLTQ0MDY4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3OD
+A4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0
+OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MT
+MwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYz
+LDE3MDU0OTY2MTJdfQ==
 -->
