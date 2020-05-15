@@ -64,7 +64,7 @@ Operatori distinti si occupano di fasi lavorative differenti.
 	> **L'utilizzo intenso di questa modalità può portare a problematiche quali alienazione**
 
 Per affrontare questi approcci sono emerse negli ultimi anni teorie in controtendenza a queste metodologie di spartizione del lavoro:
-- **Job Enlargment**
+- **Job Enlargment**: Aumento dell'autonomia decisionale dei lavoratori
 
 - **Job Enrichment**
 
@@ -75,8 +75,8 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzgzNjEyOCwtMTE0OTU3ODE5MCwtMT
-Y2ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkw
-NDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNj
+Y4Nzg1NjE0LDE0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0
+NjAxMCwtMTc0OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl
+19
 -->
