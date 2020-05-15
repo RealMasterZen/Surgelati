@@ -96,16 +96,20 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 
 Il livello **Micro-Strutturale** dell'organizzazione si focalizzano sugli elementi organizzativi riguardanti:
 - specializzazione orizzontale
-- 
+- specializzazione verticale
+- meccanismi di coordinamento
+- definizione delle mansioni
+
+Strumento che descrive 
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwODk5NzksLTQ0MDY4MDg4MiwyMDIxMD
-AzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0
-LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxND
-AzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4
-MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTUxNjM5MDQsLTQ0MDY4MDg4MiwyMD
+IxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEz
+NDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNC
+wxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3
+NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
