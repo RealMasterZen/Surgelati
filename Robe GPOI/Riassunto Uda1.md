@@ -56,6 +56,7 @@ Le forme di divisione sul lavoro sono:
 - **Specializzazione Verticale**
 Separazione  tra la progettazione del lavoro e la sua organizzazione
 	> Persona che dirige un sottoposto
+	> **L'utilizzo intenso di questa modalità può**
 
 - **Specializzazione Orizzontale**
 Operatori distinti si occupano di fasi lavorative differenti.
@@ -69,7 +70,7 @@ Operatori distinti si occupano di fasi lavorative differenti.
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMDAzOTE5LDE0MDMyNzc1NDYsLTEwMj
-cxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4ODcy
-NjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbMTIxMjYzNjU0MSwxNDAzMjc3NTQ2LC0xMD
+I3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3
+MjYzLDE3MDU0OTY2MTJdfQ==
 -->
