@@ -273,15 +273,15 @@ L'organizzazione a matrice presenta notevoli difficoltà di gestione:
 
 Le unità organizzative sono costituite da un insieme di persone, che svolgono una serie di attività in modo strutturato e coordinato per raggiungere uno scopo comune.
 
-Funzionamento di un organizzazione aziendale è volto alla minimizzazione dei costi e alla massimizzazione dei ricavi
+Funzionamento di un organizzazione aziendale è volto alla minimizzazione dei costi e alla massimizzazione dei ricavi, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MTM1NjA5LC0yMTIwNTA1OTMwLC0xMD
-I5OTUzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEw
-OTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0My
-wtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0x
-MDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNj
-gwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAx
-Niw0NTYzMTM0NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTI3OTk5MzEsLTIxMjA1MDU5MzAsLT
+EwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OTU1
+MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOT
+QzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTks
+LTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00ND
+A2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0
+MDE2LDQ1NjMxMzQ0NF19
 -->
