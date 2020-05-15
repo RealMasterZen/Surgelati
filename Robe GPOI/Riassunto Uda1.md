@@ -100,16 +100,16 @@ Il livello **Micro-Strutturale** dell'organizzazione si focalizzano sugli elemen
 - meccanismi di coordinamento
 - definizione delle mansioni
 
-Strumento che descrive 
+Lo strumento che descrive la microstruttura è **il mansionario**
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUxNjM5MDQsLTQ0MDY4MDg4MiwyMD
-IxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEz
-NDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNC
-wxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3
-NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMj
+EwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0
+NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LD
+E0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0
+OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
 -->
