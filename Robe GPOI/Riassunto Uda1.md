@@ -136,7 +136,10 @@ Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresen
 -  Il responsabile e la loro collocazione gerarchica nell'intera organizzazione.
 - le relazioni di sovra e subordinazione
 
-> **Definizione
+> **Definizione Unità Organizzativa**
+> Un sottoinsieme di posizioni e ruoli a cui è assegnato un insieme di compiti attribuiti in modo relativamente stabile
+
+> **
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -144,11 +147,11 @@ Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresen
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzg4NDE0OCwtMTk5NTUxMDk0OCwtMT
-Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
-Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5Mj
-I5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Miwy
-MDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2Mz
-EzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYx
-NCwxNDAzMjc3NTQ2XX0=
+eyJoaXN0b3J5IjpbLTEzNDA5NjQ1MDgsLTE5OTU1MTA5NDgsLT
+E2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAy
+NzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OT
+IyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIs
+MjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1Nj
+MxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2
+MTQsMTQwMzI3NzU0Nl19
 -->
