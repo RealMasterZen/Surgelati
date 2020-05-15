@@ -157,14 +157,17 @@ Nella creazione e definizione di una struttura organizzativa si deve etenere con
 - - - 
 ### Criteri di raggruppamento e meccanismi di collegamento laterali
 
-Le attività svolte in azienda sono di
+Le attività svolte in azienda sono divise in gruppi e ciascun raggruppamento costituisce un unità organizzativa
+
+l'insieme di unità organizzative formano la macrostruttura
+
 
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2ODQ0OTY2LC0xOTk1NTEwOTQ4LC0xNj
+eyJoaXN0b3J5IjpbMzg2NzAyNjUxLC0xOTk1NTEwOTQ4LC0xNj
 QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
 ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
 kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
