@@ -287,10 +287,10 @@ Le logiche di classificazione dei costi che sono alla base delle principali conf
 
 I costi di prodotto rappresentano il valore delle risorse associabili in modo diretto i indiretto alla realizzazione di un prodotto/servizio
 - **I costi di lavoro diretto**: relativi agli addetti alle operazioni di produzione e assemblaggio
-- **I costi di materiali diretti**: acquisti esterni di materie prime, semilavorati e c
-- **Costi indiretti di produzione**
+- **I costi di materiali diretti**: acquisti esterni di materie prime, semilavorati e componenti associabili direttamente alla realizzazione di un singolo prodotto/servizio
+- **Costi indiretti di produzione**: costi associabili direttamente all'attività produttiva nel suo complesso, ma non alla realizzazione di una singola unità di prodotto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjUxOTA4LC0xMjQyNDQzOSw4MzAwNj
+eyJoaXN0b3J5IjpbODI5MTgyNTQ4LC0xMjQyNDQzOSw4MzAwNj
 Q0NzQsLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0
 LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMT
 Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
