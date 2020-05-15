@@ -205,13 +205,15 @@ Scelte intraprese nella progettazione della micro e macrostruttura portano a tip
 - **collegamenti orizzontali o diagonali esistenti tra posizioni e unità organizzative**
 
 Struttura organizzativa più elementare è la **Struttura Semplice** questa è caratterizzata da:
-- assenza di organigramma
+- **assenza di organigramma**
 - coordinazione effettuata secondo la gerarchia
+- nessun utilizzo di mansionari**
+
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTg0ODI5MSwtNzUzNzE5NTgsLTE5OT
+eyJoaXN0b3J5IjpbLTI5NzEzODg0NCwtNzUzNzE5NTgsLTE5OT
 U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
 OTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOT
 ksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00
