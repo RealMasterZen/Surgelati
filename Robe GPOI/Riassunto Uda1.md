@@ -190,18 +190,19 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 - - - 
 ### Meccanismi di collegamento laterali
 
-Previsione di figure all'interno della strut
+Previsione di figure all'interno della struttura dedicate all'integrazione delle unità organizzative.
+- Product manager ha la responsabilità di coordinare la progettazione, la produzione e la vendita di specifici prodotti.
 
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1OTQ4NTkyLC03NTM3MTk1OCwtMTk5NT
-UxMDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5
-NDMsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OS
-wtMTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0
-MDY4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3Nz
-QwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwt
-MTY2ODc4NTYxNF19
+eyJoaXN0b3J5IjpbMTg2MzIxNTI1MiwtNzUzNzE5NTgsLTE5OT
+U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
+OTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOT
+ksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00
+NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nz
+c0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAs
+LTE2Njg3ODU2MTRdfQ==
 -->
