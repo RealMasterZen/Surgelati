@@ -117,7 +117,9 @@ Lo strumento che descrive la microstruttura è **il mansionario** e la organizza
  > L'insieme delle aspettative di comportamento che l'organizzazione si attende da una persona che ricopre una certa posizione, in relazione agli obbiettivi dell'organizzazione 
 
 le Interdipendenze sono classificate secondo 4 tipologie:
-- **Interdipendenze sequenziali**: il compito A precede il compito B in quanto produce un risultato fisic
+- **Interdipendenze sequenziali**
+	-  Il compito A precede il compito B
+	- Il compito 
 - **Interdipendenze reciproche**
 - **Interdipendenze di risorsa**
 - **Interdipendenze spazio-temporali**
@@ -127,11 +129,11 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMT
-E0Mzc0NjI5OSwtMTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAy
-NTA0OTksLTQ0MDY4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3OD
-A4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0
-OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MT
-MwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYz
-LDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTMyMDQxOTUzNywtMTMwMjc2ODU3MiwxMD
+M4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2
+OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNT
+MsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTky
+NTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNz
+c1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1
+Myw1NzQ4ODcyNjNdfQ==
 -->
