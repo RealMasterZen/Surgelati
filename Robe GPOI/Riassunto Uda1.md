@@ -103,17 +103,20 @@ Il livello **Micro-Strutturale** dell'organizzazione si focalizzano sugli elemen
 Lo strumento che descrive la microstruttura è **il mansionario** e la organizzazione microstrutturale si concentra sulle **posizioni individuali**.
 
 > **Definizione di Mansione**
-> 
+> La mansione è un insieme di compiti che viene attribuito a una posizione individuale
+
+> **Definizione di Compito**
+> Il compito è inteso come un insieme di attività intrinsecamente collegate e inscindibili
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00ND
-A2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0
-MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLT
-E2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAyNzEzMDQwMywxNjk5
-MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2MywxNzA1NDk2Nj
-EyXX0=
+eyJoaXN0b3J5IjpbLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMz
+YwMjUwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAy
+NzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLT
+ExNDk1NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAy
+NzEzMDQwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4Nz
+I2MywxNzA1NDk2NjEyXX0=
 -->
