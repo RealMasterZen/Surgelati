@@ -109,17 +109,19 @@ Lo strumento che descrive la microstruttura è **il mansionario** e la organizza
 > Il compito è inteso come un insieme di attività intrinsecamente collegate e inscindibili
  
 | Posizione Individuale |  Mansione |
-|--		   |	    --|
+|--|--|
 | Insita nella persona all'interno dell'organizzazione | può invece essere assegnata a più lavoratori  |
 
->
+
+ > **Definizione di Ruolo**
+ > L'insieme delle aspettative di comportamento che l'organizzazione si attende da una persona che 
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjY2MjgxMCwxMDM4OTUyOTg5LC0xMT
+eyJoaXN0b3J5IjpbMTA1MzU5MDU5MywxMDM4OTUyOTg5LC0xMT
 QzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1
 MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MD
 gsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5
