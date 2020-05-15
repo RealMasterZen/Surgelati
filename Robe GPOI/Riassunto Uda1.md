@@ -149,6 +149,11 @@ Nella creazione e definizione di una struttura organizzativa si deve etenere con
 > **Definizione principo unicità del comando di Fayol**
 > Ogni unità organizzativa deve prendere ordini da un capo soltanto
 
+### Organi di linea e Ogani di Staff
+
+|Organi di linea| Organi di Staff |
+|--|--|
+| Si collocano lungo la linea gerarchica e si occupano dell'attività centrale dell'azienda | Affiancano gli organi di linea a diversi livelli gerarchici per supportarne le attività |
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -156,7 +161,7 @@ Nella creazione e definizione di una struttura organizzativa si deve etenere con
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI3MDc3NzEsLTE5OTU1MTA5NDgsLT
+eyJoaXN0b3J5IjpbLTEzNzU0Njk3OTAsLTE5OTU1MTA5NDgsLT
 E2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAy
 NzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OT
 IyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIs
