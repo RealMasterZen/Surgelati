@@ -161,13 +161,15 @@ Le attività svolte in azienda sono divise in gruppi e ciascun raggruppamento co
 
 l'insieme di unità organizzative formano la macrostruttura
 
+Il primo passo in merito alla creazione delle unità organizzative riguarda le interdipendenze tra le unità organizzative, infatti bisogna analizzare bene la situazione e vedere l'utilità di unire certe mansioni sotto un unità o se separarle
 
+I criteri
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NzAyNjUxLC0xOTk1NTEwOTQ4LC0xNj
+eyJoaXN0b3J5IjpbNzQ3MTIzODg1LC0xOTk1NTEwOTQ4LC0xNj
 QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
 ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
 kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
