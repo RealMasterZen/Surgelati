@@ -81,7 +81,7 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 		> Meccanismo più informale di tutti consiste nel mutuo adattamento applicato dal gruppo di lavoro 
 	
 	- **Supervisione Diretta**
-	> Una persona assume formalmente il ruolo di capo
+		> Una persona assume formalmente il ruolo di capo e decide cosa gli altri devono fare controllando gli esiti del loro operato
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -91,9 +91,9 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NTU2MTc0LDIwMjEwMDMyNTMsLTExNT
-cwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUx
-LC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1NDYsLT
-EwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4
-ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTE1OTQ4NzE5NTIsMjAyMTAwMzI1MywtMT
+E1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgz
+NTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0Ni
+wtMTAyNzEzMDQwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3
+NDg4NzI2MywxNzA1NDk2NjEyXX0=
 -->
