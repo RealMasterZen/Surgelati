@@ -65,8 +65,9 @@ Operatori distinti si occupano di fasi lavorative differenti.
 
 Per affrontare questi approcci sono emerse negli ultimi anni teorie in controtendenza a queste metodologie di spartizione del lavoro:
 - **Job Enlargment**: Aumento dell'autonomia decisionale dei lavoratori
-
 - **Job Enrichment**: Allargamento delle mansioni 
+- - - 
+### Meccanismi di Coordinamento
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -75,8 +76,8 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDg4Njg4Niw5OTI1NTgzNTEsLTExND
-k1NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAyNzEz
-MDQwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2My
-wxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0OT
+U3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MTMw
+NDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYzLD
+E3MDU0OTY2MTJdfQ==
 -->
