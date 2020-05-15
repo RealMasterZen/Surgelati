@@ -94,15 +94,18 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 
 ### La posizione individuale e la mansione
 
+Il livello **Micro-Strutturale** dell'organizzazione si focalizzano sugli elementi organizzativi riguardanti:
+- specializzazione orizzontale
+- 
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDQ4NzM2MCwtNDQwNjgwODgyLDIwMj
-EwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0
-NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LD
-E0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0
-OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbNzgwODk5NzksLTQ0MDY4MDg4MiwyMDIxMD
+AzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0
+LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxND
+AzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4
+MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
