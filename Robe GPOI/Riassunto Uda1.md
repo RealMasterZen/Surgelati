@@ -30,7 +30,7 @@ L'Organizzazione costituisce a sua volta lo scheletro dell'impresa.
 > **Definizione di Impresa**
 > Organizzazione di persone e di beni economici istituita per il conseguimento di un determinato fine, attraverso il complesso di operazione che vengono eseguite all'interno di essa
 
-
+Primo sviluppo di impresa con l'introduzione di **impresa come sistema aperto**.
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -39,5 +39,5 @@ L'Organizzazione costituisce a sua volta lo scheletro dell'impresa.
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI0NzI2NTAsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbMTQ4NTMxNTM0NywxNzA1NDk2NjEyXX0=
 -->
