@@ -271,9 +271,11 @@ L'organizzazione a matrice presenta notevoli difficoltà di gestione:
 
 ### Tipologie di costo
 
-Le unità organizzative sono costituite da un insieme di persone, che svolgono una serie di atti
+Le unità organizzative sono costituite da un insieme di persone, che svolgono una serie di attività in modo strutturato e coordinato per raggiungere unos copo comune.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTAyMDYyMSwtMjEyMDUwNTkzMCwtMT
+eyJoaXN0b3J5IjpbMTYwNTAwMjAzMiwtMjEyMDUwNTkzMCwtMT
 AyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUx
 MDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5ND
 MsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwt
