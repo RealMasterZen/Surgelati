@@ -38,7 +38,7 @@ In termini brevi l'impresa vista come sistema aperto non è altro che l'impresa 
 - know how 
 - informazioni
 - tecnologia
-che avviene con il sistema economico 
+che avviene con il sistema economico finanziari
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -47,5 +47,5 @@ che avviene con il sistema economico
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTQzNDY2OSwxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbLTg2OTk1ODIxMiwxNzA1NDk2NjEyXX0=
 -->
