@@ -72,7 +72,7 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 La crescita dimensionale dell'impresa richiede maggiore specializzazione e introduce problemi di coordinamento.
 
 Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
-- Meccanismi **ex-ante**: che si applicano 
+- Meccanismi **EX-ANTE**: che si applicano 
 	- **Standardizzazione dei processi**
 		> Un esempio di standardizzazione dei processi può essere fatto riferendosi ai manuali di lavoro che indicano **procedure standard per l'esecuzione di un processo**
 	
@@ -82,7 +82,7 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 	- **Standardizzazione delle competenze**
 		> 
 		
-- Meccanismi **ex-post**: che si applicano nella prassi senza aver applicato eventuali problemi
+- Meccanismi **EX-POST**: che si applicano nella prassi senza aver applicato eventuali problemi
 	- **Adattamento Reciproco**
 		> Meccanismo più informale di tutti consiste nel mutuo adattamento applicato dal gruppo di lavoro 
 	
@@ -97,9 +97,9 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MTAxODM4LDIwMjEwMDMyNTMsLTExNT
-cwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUx
-LC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1NDYsLT
-EwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4
-ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTQ0MDY4MDg4MiwyMDIxMDAzMjUzLC0xMT
+U3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1
+MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC
+0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0
+ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
