@@ -126,17 +126,18 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 	- A e B condividono una risorsa comune, questa condivisione è limitante
 - **Interdipendenze spazio-temporali**
 	- A e B vengono svolti nello stesso luogo e sono reciprocamente limitanti
+- - - 
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkwMzk0MywtMTMwMjc2ODU3MiwxMD
-M4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2
-OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNT
-MsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTky
-NTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNz
-c1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1
-Myw1NzQ4ODcyNjNdfQ==
+eyJoaXN0b3J5IjpbLTg1MjU5MDUyNCwtMTEyOTAzOTQzLC0xMz
+AyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1
+OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4OD
+IsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1
+NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3OD
+U2MTQsMTQwMzI3NzU0NiwtMTAyNzEzMDQwMywxNjk5MDQ2MDEw
+LC0xNzQ5ODIyOTUzXX0=
 -->
