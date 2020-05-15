@@ -74,7 +74,11 @@ La crescita dimensionale dell'impresa richiede maggiore specializzazione e intro
 Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 - Meccanismi **ex-ante**: che si applicano 
 	- **Standardizzazione dei processi**
+		> Un esempio di standardizzazione dei processi può essere fatto riferendosi ai manuali di lavoro che indicano **procedure standard per l'esecuzione di un processo**
+	
 	- **Standardizzazione dei Risultati**
+		> 
+	
 	- **Standardizzazione delle competenze**
 - Meccanismi **ex-post**: che si applicano nella prassi senza aver applicato eventuali problemi
 	- **Adattamento Reciproco**
@@ -91,9 +95,9 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ4NzE5NTIsMjAyMTAwMzI1MywtMT
-E1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgz
-NTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0Ni
-wtMTAyNzEzMDQwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3
-NDg4NzI2MywxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbMTEzOTgwNDA1OCwyMDIxMDAzMjUzLC0xMT
+U3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1
+MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC
+0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0
+ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
