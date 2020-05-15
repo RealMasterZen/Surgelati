@@ -154,6 +154,9 @@ Nella creazione e definizione di una struttura organizzativa si deve etenere con
 |Organi di linea| Organi di Staff |
 |--|--|
 | Si collocano lungo la linea gerarchica e si occupano dell'attività centrale dell'azienda | Affiancano gli organi di linea a diversi livelli gerarchici per supportarne le attività  |
+- - - 
+### Criteri di raggruppamento e meccanismi di collegamento laterali
+
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -161,11 +164,11 @@ Nella creazione e definizione di una struttura organizzativa si deve etenere con
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTY3ODMyNCwtMTk5NTUxMDk0OCwtMT
-Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
-Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5Mj
-I5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Miwy
-MDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2Mz
-EzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYx
-NCwxNDAzMjc3NTQ2XX0=
+eyJoaXN0b3J5IjpbMTc3NzEwOTIsLTE5OTU1MTA5NDgsLTE2ND
+I1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4
+NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOT
+AsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIsMjAy
+MTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMz
+Q0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2MTQs
+MTQwMzI3NzU0Nl19
 -->
