@@ -253,13 +253,15 @@ Struttura divisionale Tipica:
 - - - 
 ### Struttura Organizzativa a Matrice
 
-Struttura organizzativa nella quale convivono sia il criterio funzionale che quello divisionale è la struttura a matrice, alcune parti della struttura sono organizzate secondo gli input altre sono organizzate secondo gli output. Per compiere tutto ciò alcune unità organizzative dovranno essere organizzate da più di un capo facendo venire meno il principio di unicità del comando.
+**Struttura organizzativa nella quale convivono sia il criterio funzionale che quello divisionale** è la struttura a matrice, **alcune parti** della struttura sono **organizzate secondo gli input** altre sono **organizzate secondo gli output**. Per compiere tutto ciò alcune unità organizzative dovranno essere organizzate da più di un capo facendo venire meno il principio di unicità del comando.
 
-Configurazione a matrice è organizzata secondo 2 criteri:
-- risorse strutturate in unità con lo scopo di favorire la specializzazione delle competenze
+**Configurazione a matrice è organizzata secondo 2 criteri:**
+- **risorse strutturate in unità con lo scopo di favorire la specializzazione delle competenze**
 - risorse dedicate alla realizzazione di un output specifico
 
-la Struttura a matrice è tale che il responsabile funzionale ha l'obbiettivo di far crescere le competenze e la specializzazione della sua area, mentre il responsabile di progetto ha l'obbiettivo di ottimizzare il risultato in termini di tempo
+la Struttura a matrice è tale che 
+- il responsabile funzionale ha l'obbiettivo di far crescere le competenze e la specializzazione della sua area
+- il responsabile di progetto ha l'obbiettivo di ottimizzare il risultato in termini di tempo
 
 L'organizzazione a matrice presenta notevoli difficoltà di gestione:
 - duplicità del comando può rendere confusa e conflittuale la gestione delle risorse umane
@@ -270,11 +272,11 @@ L'organizzazione a matrice presenta notevoli difficoltà di gestione:
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMjMzODUyLC0xMDI5OTUzNDQsLTIwMD
-kzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNjQyNTM1
-MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2ODU3Mi
-wxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5
-NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMD
-MyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQs
-OTkyNTU4MzUxXX0=
+eyJoaXN0b3J5IjpbLTk0NzIyNzk3NywtMTAyOTk1MzQ0LC0yMD
+A5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUz
+NTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1Nz
+IsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwx
+OTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMD
+AzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0
+LDk5MjU1ODM1MV19
 -->
