@@ -45,6 +45,9 @@ che avviene con il sistema economico nazionale o mondiale che sia,
 
 > **Definizione di Organizzazione**
 > modalità con le quali il lavoro viene diviso e coordinato tra le persone e , a un livello più aggregato, tra le unità organizzative.
+- - - 
+### Elementi di organizzazione
+
 
 
 
@@ -55,6 +58,6 @@ che avviene con il sistema economico nazionale o mondiale che sia,
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTgxMzM2OSw1NzQ4ODcyNjMsMTcwNT
-Q5NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NDk4MjI5NTMsNTc0ODg3MjYzLDE3MD
+U0OTY2MTJdfQ==
 -->
