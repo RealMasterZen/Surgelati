@@ -282,14 +282,15 @@ Le logiche di classificazione dei costi che sono alla base delle principali conf
 - distinzione tra costi di prodotto e costi di periodo
 - distinzione tra costi fissi e variabili
 - distinzione tra costi evitabili e non evitabili
-
+- - - 
+### Costi di prodotto e di periodo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM0NzU2MTAsODMwMDY0NDc0LC05NT
-kxODU1NjcsLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwtMjAwOTMw
-NTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUyND
-csMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLDEw
-Mzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2Nj
-Y5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1
-MywtMTE1NzAyNzgwOF19
+eyJoaXN0b3J5IjpbLTg1NjQ1NzM3OCw4MzAwNjQ0NzQsLTk1OT
+E4NTU2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0LC0yMDA5MzA1
+MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUzNTI0Ny
+wxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1NzIsMTAz
+ODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwxOTY2Nj
+k1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMDAzMjUz
+LC0xMTU3MDI3ODA4XX0=
 -->
