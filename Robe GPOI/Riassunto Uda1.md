@@ -56,12 +56,14 @@ Le forme di divisione sul lavoro sono:
 - **Specializzazione Verticale**
 Separazione  tra la progettazione del lavoro e la sua organizzazione
 	> Persona che dirige un sottoposto
-	> **L'utilizzo intenso di questa modalità può**
+	> **L'utilizzo intenso di questa modalità può portare ad un distaccamento tra il lavoratore alla base della scala e il direttore del progetto**
 
 - **Specializzazione Orizzontale**
 Operatori distinti si occupano di fasi lavorative differenti.
 	> Tanti lavoratori che si dividono un lavoro
 	> **L'utilizzo intenso di questa modalità può portare a problematiche quali alienazione**
+
+Per a
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -70,7 +72,7 @@ Operatori distinti si occupano di fasi lavorative differenti.
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjYzNjU0MSwxNDAzMjc3NTQ2LC0xMD
+eyJoaXN0b3J5IjpbLTM3MTQyNTk3NCwxNDAzMjc3NTQ2LC0xMD
 I3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3
 MjYzLDE3MDU0OTY2MTJdfQ==
 -->
