@@ -69,6 +69,7 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 - - - 
 ### Meccanismi di Coordinamento
 
+La crescita dimensionale dell'impresa richiede maggiore specializzazione e introduce proble
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -78,8 +79,8 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNT
-U4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1
-NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1My
-w1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbMjA0NTM2MzQ1OCwxMDk3Nzc0MDE2LDQ1Nj
+MxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2
+MTQsMTQwMzI3NzU0NiwtMTAyNzEzMDQwMywxNjk5MDQ2MDEwLC
+0xNzQ5ODIyOTUzLDU3NDg4NzI2MywxNzA1NDk2NjEyXX0=
 -->
