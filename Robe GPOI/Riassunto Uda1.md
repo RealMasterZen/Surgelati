@@ -63,7 +63,9 @@ Operatori distinti si occupano di fasi lavorative differenti.
 	> Tanti lavoratori che si dividono un lavoro
 	> **L'utilizzo intenso di questa modalità può portare a problematiche quali alienazione**
 
-Per a
+Per affrontare questi approcci sono emerse negli ultimi anni teorie in controtendenza a queste metodologie di spartizione del lavoro:
+- Job Enlargment
+- Job Enrichment
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -72,7 +74,7 @@ Per a
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTQyNTk3NCwxNDAzMjc3NTQ2LC0xMD
-I3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3
-MjYzLDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMT
+AyNzEzMDQwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4
+NzI2MywxNzA1NDk2NjEyXX0=
 -->
