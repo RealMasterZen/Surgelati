@@ -171,21 +171,23 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 - i criteri di raggruppamento **Orientati agli input**
 
 	Raggruppano le attività in base ai mezzi utilizzati per svolgerle, in queste è possibile distinguere 2 sottocasi:
-	- Raggruppamento in base alle conoscenze e capacità utilizzate per svolgere le mansioni
+	- **Raggruppamento in base alle conoscenze e capacità utilizzate** per svolgere le mansioni
 		- Ad esempio in un ospedale i dottori sono suddivisi per reparti
-	- Raggruppamento in base alla funzione svolta o alla tecnica o processo di lavoro utilizzati
+	- **Raggruppamento in base alla funzione svolta o alla tecnica o processo di lavoro** utilizzati
 		- Per esempio tornitura fresatura saldatura
 
 - i criteri di raggruppamento **Orientati agli output**
 
-	Fanno riferimento ai prodotti o servizi realizzati dall'organizzazione o al fine al quale è indirizzata l'attività lavorative.
+	Fanno riferimento ai prodotti o servizi realizzati dall'organizzazione  al fine al quale è indirizzata l'attività lavorative.
+	
+	- Raggruppamento in base  al prodotto realizzato
 
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTQ1MzcwNCwtMTk5NTUxMDk0OCwtMT
+eyJoaXN0b3J5IjpbMTg3MzQ2NDg3NSwtMTk5NTUxMDk0OCwtMT
 Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
 Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5Mj
 I5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Miwy
