@@ -164,17 +164,20 @@ l'insieme di unità organizzative formano la macrostruttura
 Il primo passo in merito alla creazione delle unità organizzative riguarda le interdipendenze tra le unità organizzative, infatti bisogna analizzare bene la situazione e vedere l'utilità di unire certe mansioni sotto un unità o se separarle
 
 I **criteri di raggruppamento** delle unità orgazzative appartengono a tre categorie:
+
 - i criteri di raggruppamento **Numerico**
 	- unità organizzative create dividendo i lavoratori in gruppi di dimensione adeguata per essere gestiti e coordinati da un unico capo.
+
 - i criteri di raggruppamento **Orientati agli input**
 
 	Raggruppano le attività in base ai mezzi utilizzati per svolgerle, in queste è possibile distinguere 2 sottocasi:
-		- Raggruppamento in base alle conoscenze e capacità utilizzate per svolgere le mansioni
-			> Ad esempio in un ospedale i dottori sono suddivisi per reparti
-		- Raggruppamento in base alla funzione svolta o alla tecnica o processo di lavoro utilizzati
-			> Per esempio tornitura fresatura saldatura
-	
+	- Raggruppamento in base alle conoscenze e capacità utilizzate per svolgere le mansioni
+		- Ad esempio in un ospedale i dottori sono suddivisi per reparti
+	- Raggruppamento in base alla funzione svolta o alla tecnica o processo di lavoro utilizzati
+		- Per esempio tornitura fresatura saldatura
+
 - i criteri di raggruppamento **Orientati agli output**
+
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -182,7 +185,7 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ0Mjc0NDgsLTE5OTU1MTA5NDgsLT
+eyJoaXN0b3J5IjpbLTIwNzcyOTQ4NDAsLTE5OTU1MTA5NDgsLT
 E2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAy
 NzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OT
 IyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIs
