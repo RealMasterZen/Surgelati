@@ -247,14 +247,14 @@ Struttura divisionale Tipica:
 	- **Business Unit Prodotto A**
 	- **Business Unit Prodotto B**
 
-| V| | 
+| Vantaggi | Svantaggi | 
 |--|--| 
-| | | 
+| Maggiore rapidità e flessibilità di risposta quando le esigenze dei clienti cambiano rapidamente | Inefficenze di scala e specializzazione delle competenze | 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzI0ODAwNSwtNzUzNzE5NTgsLTE5OT
+eyJoaXN0b3J5IjpbMTMwNjQxNzk4OCwtNzUzNzE5NTgsLTE5OT
 U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
 OTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOT
 ksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00
