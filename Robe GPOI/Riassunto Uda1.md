@@ -129,7 +129,7 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 - - - 
 ### Le Unità Organizzative 
 
-La Macrostruttura organizzativa comprende l'aggr
+La Macrostruttura organizzativa comprende l'aggregazione degli individui i quali raggruppati secondo specifici criteri in unità organizzative ovvero strutture relativamente autonome costituite da un insieme di persone che svolgono a
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -137,7 +137,7 @@ La Macrostruttura organizzativa comprende l'aggr
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTY1NzEzOCwtMTEyOTAzOTQzLC0xMz
+eyJoaXN0b3J5IjpbLTM5NzYxMzU4MSwtMTEyOTAzOTQzLC0xMz
 AyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1
 OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4OD
 IsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1
