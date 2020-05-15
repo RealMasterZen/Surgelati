@@ -217,6 +217,7 @@ Evoluzione più comune dell'organizzazione semplice a fronte della crescita dime
 > Le unità organizzative al primo livello gerarchico sono progettate raggruppando le attività in base allo svolgimento di una funzione comune secondo il criterio di raggruppamento orientato agli input
 
 Es. Struttura funzionale tipica:
+- Vertic
 - **funzione commericale**
 - **funzione produzione**
 - **funzione di ricerca e sviluppo**
@@ -234,14 +235,17 @@ Es. Struttura funzionale tipica:
 
 Sfrutta e si basa sui criteri di raggruppamento orientati agli output.
 
+> Definizione Struttura organizzativa divisionale
+> Organizzata in Business Unit la struttura divisionale si basa sul criterio di raggruppamento per output
+
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMzQxNTk3LC03NTM3MTk1OCwtMTk5NT
-UxMDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5
-NDMsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OS
-wtMTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0
-MDY4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3Nz
-QwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwt
-MTY2ODc4NTYxNF19
+eyJoaXN0b3J5IjpbLTE5NDYyNjc2NDksLTc1MzcxOTU4LC0xOT
+k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
+Mzk0MywtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mj
+k5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwt
+NDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nz
+c3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkw
+LC0xNjY4Nzg1NjE0XX0=
 -->
