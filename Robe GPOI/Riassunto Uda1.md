@@ -50,7 +50,8 @@ che avviene con il sistema economico nazionale o mondiale che sia,
 
 Suddivisione del lavoro
 
-All'interno di un impresa la suddivisione del lavoro implica la specializzazione degli operatori effettuando solo parti di attività più complesse. 
+All'interno di un impresa la suddivisione del lavoro implica la specializzazione degli operatori effettuando solo parti di attività più complesse.
+ 
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -60,6 +61,6 @@ All'interno di un impresa la suddivisione del lavoro implica la specializzazione
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzE2NzIxMywtMTc0OTgyMjk1Myw1Nz
-Q4ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTEzOTg4NDYxNzEsLTE3NDk4MjI5NTMsNT
+c0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
