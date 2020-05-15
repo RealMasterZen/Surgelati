@@ -32,6 +32,14 @@ L'Organizzazione costituisce a sua volta lo scheletro dell'impresa.
 
 Primo sviluppo di impresa con l'introduzione di **impresa come sistema aperto**.
 
+In termini brevi l'impresa vista come sistema aperto non è altro che l'impresa vista più ampiamente come lo scambio di :
+- prodotti
+- servizi
+- know how 
+- informazioni
+- tecnologia
+che avviene con il sistema economico 
+
 ### Lezione 2: Micro e Macrostruttura
 
 ### Lezione 3: Le strutture Organizzative 
@@ -39,5 +47,5 @@ Primo sviluppo di impresa con l'introduzione di **impresa come sistema aperto**.
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTMxNTM0NywxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbMTgyOTQzNDY2OSwxNzA1NDk2NjEyXX0=
 -->
