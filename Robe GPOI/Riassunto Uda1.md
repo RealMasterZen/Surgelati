@@ -48,7 +48,9 @@ che avviene con il sistema economico nazionale o mondiale che sia,
 - - - 
 ### Elementi di organizzazione
 
+Suddivisione del lavoro
 
+All'interno di un impresa 
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -58,6 +60,6 @@ che avviene con il sistema economico nazionale o mondiale che sia,
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk4MjI5NTMsNTc0ODg3MjYzLDE3MD
-U0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwOTM4Nzg2MTUsLTE3NDk4MjI5NTMsNT
+c0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
