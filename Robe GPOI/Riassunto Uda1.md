@@ -204,16 +204,18 @@ Scelte intraprese nella progettazione della micro e macrostruttura portano a tip
 - **nome delle persone che ricoprono le diverse posizioni**
 - **collegamenti orizzontali o diagonali esistenti tra posizioni e unità organizzative**
 
-Struttura organizzativa più elementare è la struttura semplice, costituita
+Struttura organizzativa più elementare è la **Struttura Semplice** questa è caratterizzata da:
+- assenza di organigramma
+- coordinazione effettuata secondo la gerarchia
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg4OTEwNTcsLTc1MzcxOTU4LC0xOT
-k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
-Mzk0MywtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mj
-k5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwt
-NDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nz
-c3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkw
-LC0xNjY4Nzg1NjE0XX0=
+eyJoaXN0b3J5IjpbMTkxNTg0ODI5MSwtNzUzNzE5NTgsLTE5OT
+U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
+OTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOT
+ksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00
+NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nz
+c0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAs
+LTE2Njg3ODU2MTRdfQ==
 -->
