@@ -196,16 +196,17 @@ Previsione di figure all'interno della struttura dedicate all'integrazione delle
 
 ## Lezione 3: Le strutture Organizzative 
 
-### 
+### La struttura semplice 
+Scelte intraprese nella progettazione della micro e macrostruttura portano a tipizzare delle strutture organizzativ
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDM4NzA3MCwtNzUzNzE5NTgsLTE5OT
-U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
-OTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOT
-ksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00
-NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nz
-c0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAs
-LTE2Njg3ODU2MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzg2NDUyNjYsLTc1MzcxOTU4LC0xOT
+k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
+Mzk0MywtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mj
+k5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwt
+NDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nz
+c3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkw
+LC0xNjY4Nzg1NjE0XX0=
 -->
