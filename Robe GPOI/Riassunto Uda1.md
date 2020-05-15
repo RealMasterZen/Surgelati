@@ -12,7 +12,10 @@ Tecnologie che sono parte del processo produttivo del prodotto
 	> Robot, macchine a controllo numerico, i bancomat, i registratori di cassa dei punti vendita
 
 - **Tecnologie informatiche di supporto alle decisioni**
-Tecnologie dell'informazione utilizzate per la gestione 
+Tecnologie dell'informazione utilizzate per la gestione in senso lato del processo produttivo
+	> Applicazioni di contabilità, i programmi di gestione del persone, la posta elettronica, teleconferenza
+
+	
 - **Tecnologie Informatiche embedded**
 - **Tecnologie informatiche infrastrutturali**
 
@@ -24,5 +27,5 @@ Tecnologie dell'informazione utilizzate per la gestione
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ4NDMyNTUsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTE5OTkwNTY5MzQsMTcwNTQ5NjYxMl19
 -->
