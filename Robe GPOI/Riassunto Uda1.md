@@ -275,13 +275,16 @@ Le unità organizzative sono costituite da un insieme di persone, che svolgono u
 
 Funzionamento di un organizzazione aziendale è volto alla minimizzazione dei costi e alla massimizzazione dei ricavi, 
 
+>Costo
+>Una configurazione di co
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI3OTk5MzEsLTIxMjA1MDU5MzAsLT
-EwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OTU1
-MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOT
-QzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTks
-LTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00ND
-A2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0
-MDE2LDQ1NjMxMzQ0NF19
+eyJoaXN0b3J5IjpbMjA0Njc5MTQ3MSwtMjEyMDUwNTkzMCwtMT
+AyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUx
+MDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5ND
+MsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwt
+MTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MD
+Y4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQw
+MTYsNDU2MzEzNDQ0XX0=
 -->
