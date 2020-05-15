@@ -114,18 +114,20 @@ Lo strumento che descrive la microstruttura è **il mansionario** e la organizza
 
 
  > **Definizione di Ruolo**
- > L'insieme delle aspettative di comportamento che l'organizzazione si attende da una persona che 
+ > L'insieme delle aspettative di comportamento che l'organizzazione si attende da una persona che ricopre una certa posizione, in relazione agli obbiettivi dell'organizzazione 
+
+
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzU5MDU5MywxMDM4OTUyOTg5LC0xMT
-QzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1
-MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MD
-gsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5
-NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1NDYsLTEwMjcxMz
-A0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4ODcyNjMs
-MTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbMjY3NTUzODEyLDEwMzg5NTI5ODksLTExND
+M3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUw
+NDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOC
+wxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1
+NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAyNzEzMD
+QwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2Mywx
+NzA1NDk2NjEyXX0=
 -->
