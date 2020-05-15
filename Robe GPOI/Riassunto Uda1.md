@@ -253,14 +253,16 @@ Struttura divisionale Tipica:
 - - - 
 ### Struttura Organizzativa a Matrice
 
+Struttura organizzativa nella quale convivono sia il criterio funzionale che quello divisionale è la struttura a matrice 
+
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOT
-k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
-Mzk0MywtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mj
-k5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwt
-NDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nz
-c3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkw
-LC0xNjY4Nzg1NjE0XX0=
+eyJoaXN0b3J5IjpbMTkwNzU1MDQ2MCwtMjAwOTMwNTIxMiwtNz
+UzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMTA5Mzgw
+ODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5OD
+ksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwx
+MzYwMjUwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1Nz
+AyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEs
+LTExNDk1NzgxOTBdfQ==
 -->
