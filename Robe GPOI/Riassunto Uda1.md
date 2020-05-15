@@ -181,17 +181,18 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 	Fanno riferimento ai prodotti o servizi realizzati dall'organizzazione  al fine al quale è indirizzata l'attività lavorative.
 	
 	- Raggruppamento in base  al prodotto realizzato
+		- Azienda 
 
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzQ2NDg3NSwtMTk5NTUxMDk0OCwtMT
-Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
-Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5Mj
-I5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Miwy
-MDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2Mz
-EzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYx
-NCwxNDAzMjc3NTQ2XX0=
+eyJoaXN0b3J5IjpbLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNj
+QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
+ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
+kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
+MjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMT
+M0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0
+LDE0MDMyNzc1NDZdfQ==
 -->
