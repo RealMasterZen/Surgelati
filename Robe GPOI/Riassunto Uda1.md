@@ -131,8 +131,9 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 
 La **Macrostruttura organizzativa** è composta da individui raggruppati secondo criteri specifici in unità organizzative dirette da un unico capo.
 
-Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresentazione grafica delle unità organizzative, che identifica la dimensione di dette unità, il responsabile e la loro collocazione gerarchica nell'intera organizzazione.
-Tale strumento di formalizzazione della macrostruttura illustra la struttura organizzativa mediante schemi a blocchi.
+Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresentazione grafica delle unità organizzative attraverso uno schema a blocchi, essa identifica:
+- La dimensione di dette unità
+-  Il responsabile e la loro collocazione gerarchica nell'intera organizzazione.
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -140,7 +141,7 @@ Tale strumento di formalizzazione della macrostruttura illustra la struttura org
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDE2MDE4NSwtMTEyOTAzOTQzLC0xMz
+eyJoaXN0b3J5IjpbMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMz
 AyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1
 OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4OD
 IsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1
