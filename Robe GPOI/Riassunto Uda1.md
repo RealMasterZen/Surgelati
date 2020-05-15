@@ -269,12 +269,15 @@ L'organizzazione a matrice presenta notevoli difficoltà di gestione:
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
+### Tipologie di costo
+
+Le unità organizzative sono costituite da un insieme di persone, che svolgono una serie di atti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwtMj
-AwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1
-MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NT
-cyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAs
-MTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIsMjAyMT
-AwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0
-NCw5OTI1NTgzNTFdfQ==
+eyJoaXN0b3J5IjpbLTU5OTAyMDYyMSwtMjEyMDUwNTkzMCwtMT
+AyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUx
+MDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5ND
+MsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwt
+MTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MD
+Y4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQw
+MTYsNDU2MzEzNDQ0XX0=
 -->
