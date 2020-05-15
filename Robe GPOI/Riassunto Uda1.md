@@ -100,16 +100,20 @@ Il livello **Micro-Strutturale** dell'organizzazione si focalizzano sugli elemen
 - meccanismi di coordinamento
 - definizione delle mansioni
 
-Lo strumento che descrive la microstruttura è **il mansionario**
+Lo strumento che descrive la microstruttura è **il mansionario** e la organizzazione microstrutturale si concentra sulle **posizioni individuali**.
+
+> **Definizione di Mansione**
+> 
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMj
-EwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0
-NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LD
-E0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0
-OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00ND
+A2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0
+MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLT
+E2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAyNzEzMDQwMywxNjk5
+MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2MywxNzA1NDk2Nj
+EyXX0=
 -->
