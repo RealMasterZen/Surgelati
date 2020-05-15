@@ -130,7 +130,6 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 ### Le Unità Organizzative 
 
 La Macrostruttura organizzativa comprende l'aggregazione degli individui i quali raggruppati secondo specifici criteri in unità organizzative ovvero strutture relativamente autonome costituite da un insieme di persone che svolgono attività tra loro collegate.
-Tali individui rispondono ad un unico capo.
 
 Lo strumento che descrive la macrostruttura è l'organigramma, una rappresentazione grafica delle unità organizzative, che identifica la dimensione di dette unità, il responsabile e la loro collocazione gerarchica nell'intera organizzazione.
 Tale strumento di formalizzazione della macrostruttura illustra la struttura organizzativa mediante schemi a blocchi.
@@ -141,11 +140,11 @@ Tale strumento di formalizzazione della macrostruttura illustra la struttura org
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0ODk1NTMsLTExMjkwMzk0MywtMT
-MwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5
-NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwOD
-gyLDIwMjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0
-NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nz
-g1NjE0LDE0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAx
-MCwtMTc0OTgyMjk1M119
+eyJoaXN0b3J5IjpbMjAwMzI4NTY4LC0xMTI5MDM5NDMsLTEzMD
+I3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5
+MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Mi
+wyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2
+MzEzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NT
+YxNCwxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAs
+LTE3NDk4MjI5NTNdfQ==
 -->
