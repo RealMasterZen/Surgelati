@@ -23,7 +23,12 @@ Tecnologie che sono parte integrante del prodotto
 Tecnologie dell'informazione utilizzate per la gestione e l'organizzazione degli scambi informativi fra organizzazioni diverse
 	> Internet, Extranet, Sistemi di comunicazione via satellite
 - - - 
-### L'orga
+### L'organizzazione come configurazione di impresa
+
+L'Organizzazione costituisce a sua volta lo scheletro dell'impresa.
+
+> **Definizione di Impresa**
+> Organizzazione di persone e di beni economici istituita per il conseguimento di un det
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -32,5 +37,5 @@ Tecnologie dell'informazione utilizzate per la gestione e l'organizzazione degli
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODg2ODc0OSwxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbLTkwOTMxODgwOCwxNzA1NDk2NjEyXX0=
 -->
