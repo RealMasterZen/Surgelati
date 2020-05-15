@@ -278,13 +278,13 @@ Le unità organizzative sono costituite da un insieme di persone, che svolgono u
 >**Costo**
 >Una configurazione di costo può essere definita come un set di risorse il cui valore determina il costo di un prodotto o di una unità organizzativa
 
-Le logiche di classificazione dei costi che sono alla base delle princiapali configurazioni di costo, prevedono:
+Le logiche di classificazione dei costi che sono alla base delle principali configurazioni di costo, prevedono:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwtMT
-AyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUx
-MDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5ND
-MsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwt
-MTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MD
-Y4MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQw
-MTYsNDU2MzEzNDQ0XX0=
+eyJoaXN0b3J5IjpbODMwMDY0NDc0LC05NTkxODU1NjcsLTIxMj
+A1MDU5MzAsLTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5
+NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1My
+wtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTEx
+NDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMj
+UwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAyNzgw
+OCwxMDk3Nzc0MDE2XX0=
 -->
