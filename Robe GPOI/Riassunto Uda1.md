@@ -261,14 +261,20 @@ Configurazione a matrice è organizzata secondo 2 criteri:
 
 la Struttura a matrice è tale che il responsabile funzionale ha l'obbiettivo di far crescere le competenze e la specializzazione della sua area, mentre il responsabile di progetto ha l'obbiettivo di ottimizzare il risultato in termini di tempo
 
+L'organizzazione a matrice presenta notevoli difficoltà di gestione:
+- duplicità del comando può rendere confusa e conflittuale la gestione delle risorse umane
+- Complessità organizzativa comporta conseguenti costi di gestione legate alla molteplicità di risorse
+
+
+
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM0Mzk2MCwtMTAyOTk1MzQ0LC0yMD
-A5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUz
-NTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1Nz
-IsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwx
-OTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMD
-AzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0
-LDk5MjU1ODM1MV19
+eyJoaXN0b3J5IjpbODEwMjMzODUyLC0xMDI5OTUzNDQsLTIwMD
+kzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNjQyNTM1
+MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2ODU3Mi
+wxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5
+NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMD
+MyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQs
+OTkyNTU4MzUxXX0=
 -->
