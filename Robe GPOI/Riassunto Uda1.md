@@ -121,20 +121,22 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 	-  Il compito A precede il compito B
 	- Il compito A produce un input fondamentale per B
 - **Interdipendenze reciproche**
-	- I compiti A e B producono output che cos
+	- I compiti A e B producono output che costituiscono input utili reciprocamente
 - **Interdipendenze di risorsa**
+	- A e B condividono una risorsa comune, questa condivisione è limitante
 - **Interdipendenze spazio-temporali**
+	- A e B vengono svolti nello 
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk4NzA4NDgsLTEzMDI3Njg1NzIsMT
-AzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwxOTY2
-Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMDAzMj
-UzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5
-MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMj
-c3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5
-NTMsNTc0ODg3MjYzXX0=
+eyJoaXN0b3J5IjpbLTE0NzUzODI5OCwtMTMwMjc2ODU3MiwxMD
+M4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2
+OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNT
+MsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTky
+NTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNz
+c1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1
+Myw1NzQ4ODcyNjNdfQ==
 -->
