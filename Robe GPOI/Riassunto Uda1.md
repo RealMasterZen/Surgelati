@@ -139,7 +139,10 @@ Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresen
 > **Definizione Unità Organizzativa**
 > Un sottoinsieme di posizioni e ruoli a cui è assegnato un insieme di compiti attribuiti in modo relativamente stabile
 
-> **
+> **Definzione Span of Control**
+> L'insieme di persone che stanno sotto la guida di un capo
+
+La struttura ad albero che definisce i ruoli e i reparti dell'azienda p 
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -147,11 +150,11 @@ Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresen
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA5NjQ1MDgsLTE5OTU1MTA5NDgsLT
-E2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAy
-NzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OT
-IyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIs
-MjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1Nj
-MxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2
-MTQsMTQwMzI3NzU0Nl19
+eyJoaXN0b3J5IjpbNDc4MjMzMzA1LC0xOTk1NTEwOTQ4LC0xNj
+QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
+ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
+kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
+MjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMT
+M0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0
+LDE0MDMyNzc1NDZdfQ==
 -->
