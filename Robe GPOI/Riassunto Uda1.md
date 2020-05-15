@@ -69,6 +69,8 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 - - - 
 ### Meccanismi di Coordinamento
 
+
+
 ### Lezione 2: Micro e Macrostruttura
 
 ### Lezione 3: Le strutture Organizzative 
@@ -76,8 +78,8 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0OT
-U3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MTMw
-NDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYzLD
-E3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNT
+U4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1
+NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1My
+w1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
 -->
