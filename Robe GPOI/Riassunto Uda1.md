@@ -21,7 +21,9 @@ Tecnologie che sono parte integrante del prodotto
 	
 - **Tecnologie informatiche infrastrutturali**
 Tecnologie dell'informazione utilizzate per la gestione e l'organizzazione degli scambi informativi fra organizzazioni diverse
-
+	> Internet, Extranet, Sistemi di comunicazione via satellite
+- - - 
+### L'orga
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -30,5 +32,5 @@ Tecnologie dell'informazione utilizzate per la gestione e l'organizzazione degli
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NjA4MTYzLDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTc4ODg2ODc0OSwxNzA1NDk2NjEyXX0=
 -->
