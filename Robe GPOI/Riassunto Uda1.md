@@ -7,7 +7,9 @@
 > **L'informazione riveste un ruolo chiave all'interno dell'organizzazione aziendale**. L'informatica, a differenza di altre tecnologie, supporta il ciclo di vita di questa particolare risorsa aziendale.
 
 **Classificazione delle tecnologie dell'informazione**
-- Tecnologie
+- Tecnologie informatiche di automazione
+- Tecnologie informatiche di supporto alle decisioni
+- Tecnologie Informatiche embedded
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -17,5 +19,5 @@
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNDU2MzU3LDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTY2ODQxMzIxNSwxNzA1NDk2NjEyXX0=
 -->
