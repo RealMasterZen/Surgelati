@@ -110,19 +110,20 @@ Lo strumento che descrive la microstruttura è **il mansionario** e la organizza
  
 | Posizione Individuale |  Mansione |
 |--		   |	    --|
-| Insita nella persona all'interno dell'organizzazione | può invece essere asdegnata a più lavoratori  |
+| Insita nella persona all'interno dell'organizzazione | può invece essere assegnata a più lavoratori  |
 
+>
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMT
-AwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4
-MDg4MiwyMDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMT
-YsNDU2MzEzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2
-ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwND
-YwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJd
-fQ==
+eyJoaXN0b3J5IjpbMjEzNjY2MjgxMCwxMDM4OTUyOTg5LC0xMT
+QzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1
+MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNTMsLTExNTcwMjc4MD
+gsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5
+NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1NDYsLTEwMjcxMz
+A0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4ODcyNjMs
+MTcwNTQ5NjYxMl19
 -->
