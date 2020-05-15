@@ -257,12 +257,14 @@ Struttura organizzativa nella quale convivono sia il criterio funzionale che que
 
 Configurazione a matrice è organizzata secondo 2 criteri:
 - risorse strutturate in unità con lo scopo di favorire la specializzazione delle competenze
-- risorse dedicate alla realizzazione di 
+- risorse dedicate alla realizzazione di un output specifico
+
+la Struttura a matrice è tale che il responsabile funzionale ha l'obbiettivo di far crescere le competenze e la specializzazione della sua area, mentre il responsabile di progetto ha l'obbiettivo di ottimizzare il risultato in termini di tempo
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTc1MDkxMiwtMTAyOTk1MzQ0LC0yMD
+eyJoaXN0b3J5IjpbLTE0OTM0Mzk2MCwtMTAyOTk1MzQ0LC0yMD
 A5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUz
 NTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1Nz
 IsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwx
