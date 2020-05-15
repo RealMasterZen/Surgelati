@@ -92,12 +92,15 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 
 ## Lezione 2: Micro e Macrostruttura
 
+### La posizione individuale e la mansione
+
+
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTE2ODMyNCwtNDQwNjgwODgyLDIwMj
+eyJoaXN0b3J5IjpbLTM1NDQ4NzM2MCwtNDQwNjgwODgyLDIwMj
 EwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0
 NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LD
 E0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0
