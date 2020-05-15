@@ -65,6 +65,7 @@ Operatori distinti si occupano di fasi lavorative differenti.
 
 Per affrontare questi approcci sono emerse negli ultimi anni teorie in controtendenza a queste metodologie di spartizione del lavoro:
 - **Job Enlargment**
+
 - **Job Enrichment**
 
 ### Lezione 2: Micro e Macrostruttura
@@ -74,7 +75,8 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk1NzgxOTAsLTE2Njg3ODU2MTQsMT
-QwMzI3NzU0NiwtMTAyNzEzMDQwMywxNjk5MDQ2MDEwLC0xNzQ5
-ODIyOTUzLDU3NDg4NzI2MywxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbMTEyNzgzNjEyOCwtMTE0OTU3ODE5MCwtMT
+Y2ODc4NTYxNCwxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkw
+NDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MT
+JdfQ==
 -->
