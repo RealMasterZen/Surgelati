@@ -80,7 +80,7 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 		> Il processo in se è libero ma è vincolante l'ottenimento di un risultato che è standardizzato
 	
 	- **Standardizzazione delle competenze**
-		> 
+		> Consiste nell'assicurarsi che gli operatori abbiano uno standard di competenze applicabili che gli permettano di in
 		
 - Meccanismi **EX-POST**: che si applicano nella prassi senza aver applicato eventuali problemi
 	- **Adattamento Reciproco**
@@ -97,9 +97,9 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDY4MDg4MiwyMDIxMDAzMjUzLC0xMT
-U3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1
-MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC
-0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0
-ODg3MjYzLDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzQyNjU3MTcsLTQ0MDY4MDg4MiwyMD
+IxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEz
+NDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNC
+wxNDAzMjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3
+NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
