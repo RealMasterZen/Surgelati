@@ -289,12 +289,14 @@ I costi di prodotto rappresentano il valore delle risorse associabili in modo di
 - **I costi di lavoro diretto**: relativi agli addetti alle operazioni di produzione e assemblaggio
 - **I costi di materiali diretti**: acquisti esterni di materie prime, semilavorati e componenti associabili direttamente alla realizzazione di un singolo prodotto/servizio
 - **Costi indiretti di produzione**: costi associabili direttamente all'attività produttiva nel suo complesso, ma non alla realizzazione di una singola unità di prodotto
+
+I costi di periodo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MTgyNTQ4LC0xMjQyNDQzOSw4MzAwNj
-Q0NzQsLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0
-LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMT
-Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
-Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5Mj
-I5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Miwy
-MDIxMDAzMjUzXX0=
+eyJoaXN0b3J5IjpbLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyND
+I0NDM5LDgzMDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMw
+LC0xMDI5OTUzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOT
+k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
+Mzk0MywtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mj
+k5LC0xMDA5NTkyMjkwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwt
+NDQwNjgwODgyXX0=
 -->
