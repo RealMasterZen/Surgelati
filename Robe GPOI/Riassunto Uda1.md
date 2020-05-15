@@ -190,14 +190,14 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 - - - 
 ### Meccanismi di collegamento laterali
 
-
+Previsione di figure all'interno della strut
 
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNzUzNDU2LC03NTM3MTk1OCwtMTk5NT
+eyJoaXN0b3J5IjpbNzY1OTQ4NTkyLC03NTM3MTk1OCwtMTk5NT
 UxMDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5
 NDMsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OS
 wtMTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0
