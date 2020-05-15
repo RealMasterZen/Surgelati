@@ -14,9 +14,10 @@ Tecnologie che sono parte del processo produttivo del prodotto
 - **Tecnologie informatiche di supporto alle decisioni**
 Tecnologie dell'informazione utilizzate per la gestione in senso lato del processo produttivo
 	> Applicazioni di contabilità, i programmi di gestione del persone, la posta elettronica, teleconferenza
-
 	
 - **Tecnologie Informatiche embedded**
+Tecnologie che sono parte integrante del prodotto
+	>
 - **Tecnologie informatiche infrastrutturali**
 
 
@@ -27,5 +28,5 @@ Tecnologie dell'informazione utilizzate per la gestione in senso lato del proces
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkwNTY5MzQsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbOTgzMjE5MDksMTcwNTQ5NjYxMl19
 -->
