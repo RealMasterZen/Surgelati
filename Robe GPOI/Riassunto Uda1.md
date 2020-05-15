@@ -273,14 +273,14 @@ L'organizzazione a matrice presenta notevoli difficoltà di gestione:
 
 Le unità organizzative sono costituite da un insieme di persone, che svolgono una serie di attività in modo strutturato e coordinato per raggiungere uno scopo comune.
 
-Funzionamento di un organizzazione aziendale è volto alla minimizzazione dei costi e alla massimizzazione dei ricavi, 
+**Funzionamento di un organizzazione aziendale è volto alla minimizzazione dei costi e alla massimizzazione dei ricavi.**
 
->Costo
->Una configurazione di co
+>**Costo**
+>Una configurazione di costo può essere definita come un set di risorse il cui valore determina il costo di un prodotto o di una unità organizzativa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njc5MTQ3MSwtMjEyMDUwNTkzMCwtMT
+eyJoaXN0b3J5IjpbLTQwNTgyMDUxOSwtMjEyMDUwNTkzMCwtMT
 AyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUx
 MDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5ND
 MsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwt
