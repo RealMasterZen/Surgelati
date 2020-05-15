@@ -157,18 +157,18 @@ Nella creazione e definizione di una struttura organizzativa si deve etenere con
 - - - 
 ### Criteri di raggruppamento e meccanismi di collegamento laterali
 
-
+Le attività svolte in azienda sono di
 
 ## Lezione 3: Le strutture Organizzative 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzEwOTIsLTE5OTU1MTA5NDgsLTE2ND
-I1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4
-NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOT
-AsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIsMjAy
-MTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMz
-Q0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2MTQs
-MTQwMzI3NzU0Nl19
+eyJoaXN0b3J5IjpbNzM2ODQ0OTY2LC0xOTk1NTEwOTQ4LC0xNj
+QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
+ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
+kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
+MjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMT
+M0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0
+LDE0MDMyNzc1NDZdfQ==
 -->
