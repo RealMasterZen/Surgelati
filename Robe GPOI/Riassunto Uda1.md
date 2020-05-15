@@ -206,14 +206,21 @@ Scelte intraprese nella progettazione della micro e macrostruttura portano a tip
 
 Struttura organizzativa più elementare è la **Struttura Semplice** questa è caratterizzata da:
 - **assenza di organigramma**
-- coordinazione effettuata secondo la gerarchia
-- nessun utilizzo di mansionari**
+- **coordinazione effettuata secondo la gerarchia**
+- **nessun utilizzo di mansionari**
+- - - 
+### Struttura funzionale
+
+Evoluzione più comune dell'organizzazione semplice a fronte della crescita dimensionale e della sepcializzazione del lavoro
+
+> Definizione Struttura funzionale
+> Le unità organizzative al primo livello gerarchico sono progettate raggruppando le attività in base allo svolgimento di una funzione com
 
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzEzODg0NCwtNzUzNzE5NTgsLTE5OT
+eyJoaXN0b3J5IjpbMTEzNjExNTQwOCwtNzUzNzE5NTgsLTE5OT
 U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
 OTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOT
 ksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00
