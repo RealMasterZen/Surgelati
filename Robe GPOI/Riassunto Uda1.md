@@ -127,13 +127,17 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 - **Interdipendenze spazio-temporali**
 	- A e B vengono svolti nello stesso luogo e sono reciprocamente limitanti
 - - - 
+### Le Unità Organizzative 
 
-### Lezione 3: Le strutture Organizzative 
+La Macrostruttura organizzativa comprende l'aggr
 
-### Lezione 4: I costi di un organizzazione aziendale
+
+## Lezione 3: Le strutture Organizzative 
+
+## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjU5MDUyNCwtMTEyOTAzOTQzLC0xMz
+eyJoaXN0b3J5IjpbMTUwNTY1NzEzOCwtMTEyOTAzOTQzLC0xMz
 AyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1
 OTIyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4OD
 IsMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1
