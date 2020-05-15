@@ -77,7 +77,8 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 	- **Standardizzazione dei Risultati**
 	- **Standardizzazione delle competenze**
 - Meccanismi **ex-post**: che si applicano nella prassi senza aver applicato eventuali problemi
-	- *
+	- **Adattamento Reciproco**:
+	- **Supervisione Diretta**
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -87,9 +88,9 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwOTY3NDQ5LDIwMjEwMDMyNTMsLTExNT
-cwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUx
-LC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1NDYsLT
-EwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4
-ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTg1MTQxMjI1NywyMDIxMDAzMjUzLC0xMT
+U3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1
+MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC
+0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0
+ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
