@@ -108,15 +108,21 @@ Lo strumento che descrive la microstruttura è **il mansionario** e la organizza
 > **Definizione di Compito**
 > Il compito è inteso come un insieme di attività intrinsecamente collegate e inscindibili
 
+La **Posizione individuale può essere assegnata ad una sola persona in particolare** 
+|
+|--|--|
+|  |  |
+
+
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwxMz
-YwMjUwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1NzAy
-NzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLT
-ExNDk1NzgxOTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAy
-NzEzMDQwMywxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4Nz
-I2MywxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbLTM5ODYyMzY1OSwtMTAwOTU5MjI5MCwxOT
+Y2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMDAz
+MjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LD
+k5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAz
+Mjc3NTQ2LC0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4Mj
+I5NTMsNTc0ODg3MjYzLDE3MDU0OTY2MTJdfQ==
 -->
