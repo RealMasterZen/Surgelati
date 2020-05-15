@@ -125,14 +125,14 @@ le Interdipendenze sono classificate secondo 4 tipologie:
 - **Interdipendenze di risorsa**
 	- A e B condividono una risorsa comune, questa condivisione è limitante
 - **Interdipendenze spazio-temporali**
-	- A e B vengono svolti nello 
+	- A e B vengono svolti nello stesso luogo e sono reciprocamente limitanti
 
 ### Lezione 3: Le strutture Organizzative 
 
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUzODI5OCwtMTMwMjc2ODU3MiwxMD
+eyJoaXN0b3J5IjpbLTExMjkwMzk0MywtMTMwMjc2ODU3MiwxMD
 M4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2
 OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNT
 MsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTky
