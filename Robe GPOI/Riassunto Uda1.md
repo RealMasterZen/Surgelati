@@ -77,9 +77,11 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 		> Un esempio di standardizzazione dei processi può essere fatto riferendosi ai manuali di lavoro che indicano **procedure standard per l'esecuzione di un processo**
 	
 	- **Standardizzazione dei Risultati**
-		> 
+		> Il processo in se è libero ma è vincolante l'ottenimento di un risultato che è standardizzato
 	
 	- **Standardizzazione delle competenze**
+		> 
+		
 - Meccanismi **ex-post**: che si applicano nella prassi senza aver applicato eventuali problemi
 	- **Adattamento Reciproco**
 		> Meccanismo più informale di tutti consiste nel mutuo adattamento applicato dal gruppo di lavoro 
@@ -95,9 +97,9 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTgwNDA1OCwyMDIxMDAzMjUzLC0xMT
-U3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0LDk5MjU1ODM1
-MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYxNCwxNDAzMjc3NTQ2LC
-0xMDI3MTMwNDAzLDE2OTkwNDYwMTAsLTE3NDk4MjI5NTMsNTc0
-ODg3MjYzLDE3MDU0OTY2MTJdfQ==
+eyJoaXN0b3J5IjpbODE4MTAxODM4LDIwMjEwMDMyNTMsLTExNT
+cwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMTM0NDQsOTkyNTU4MzUx
+LC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0LDE0MDMyNzc1NDYsLT
+EwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4
+ODcyNjMsMTcwNTQ5NjYxMl19
 -->
