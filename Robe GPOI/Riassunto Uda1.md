@@ -255,14 +255,18 @@ Struttura divisionale Tipica:
 
 Struttura organizzativa nella quale convivono sia il criterio funzionale che quello divisionale è la struttura a matrice, alcune parti della struttura sono organizzate secondo gli input altre sono organizzate secondo gli output. Per compiere tutto ciò alcune unità organizzative dovranno essere organizzate da più di un capo facendo venire meno il principio di unicità del comando.
 
+Configurazione a matrice è organizzata secondo 2 criteri:
+- risorse strutturate in unità con lo scopo di favorire la specializzazione delle competenze
+- risorse dedicate alla realizzazione di 
+
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNz
-UzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMTA5Mzgw
-ODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5OD
-ksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwx
-MzYwMjUwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1MywtMTE1Nz
-AyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEs
-LTExNDk1NzgxOTBdfQ==
+eyJoaXN0b3J5IjpbLTg0OTc1MDkxMiwtMTAyOTk1MzQ0LC0yMD
+A5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUz
+NTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1Nz
+IsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwx
+OTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMD
+AzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0
+LDk5MjU1ODM1MV19
 -->
