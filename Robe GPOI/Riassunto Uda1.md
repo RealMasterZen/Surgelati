@@ -20,6 +20,7 @@ Tecnologie che sono parte integrante del prodotto
 	> Strumentazione di bordo di un autovettura, sistemi di Internet Banking all'interno di una Banca
 	
 - **Tecnologie informatiche infrastrutturali**
+Tecnologie dell'informazione utilizzate per la gestione e l'organizzazione degli scambi informativi fra organizzazioni diverse
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -29,5 +30,5 @@ Tecnologie che sono parte integrante del prodotto
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTkzMDA4OSwxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbOTU2NjA4MTYzLDE3MDU0OTY2MTJdfQ==
 -->
