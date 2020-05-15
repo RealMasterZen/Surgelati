@@ -285,16 +285,16 @@ Le logiche di classificazione dei costi che sono alla base delle principali conf
 - - - 
 ### Costi di prodotto e di periodo
 
-I costi di prodotto rappresentano il valore delle risorse associabili in modo diretto i indiretto alla realizzazione di un prodotto/servizio 
+I costi di prodotto rappresentano il valore delle risorse associabili in modo diretto i indiretto alla realizzazione di un prodotto/servizio:
 - I costi di lavoro diretto
 - I costi di materiali diretti
 - Costi indiretti di produzione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjkwNTksODMwMDY0NDc0LC05NTkxOD
-U1NjcsLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwtMjAwOTMwNTIx
-MiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMT
-A5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5
-NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NT
-IyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIsMjAyMTAwMzI1Mywt
-MTE1NzAyNzgwOF19
+eyJoaXN0b3J5IjpbLTEyNDI0NDM5LDgzMDA2NDQ3NCwtOTU5MT
+g1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OTUzNDQsLTIwMDkzMDUy
+MTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNjQyNTM1MjQ3LD
+EwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2ODU3MiwxMDM4
+OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5NjY2OT
+UyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIwMjEwMDMyNTMs
+LTExNTcwMjc4MDhdfQ==
 -->
