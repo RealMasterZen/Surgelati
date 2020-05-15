@@ -54,7 +54,9 @@ All'interno di un impresa la suddivisione del lavoro implica la specializzazione
  
 Le forme di divisione sul lavoro sono:
 - **Specializzazione Verticale**
-	- 
+Separazione  tra la progettazione del lavoro e la sua organizzazione
+> Persona che dirige un sottoposto
+> 
 - **Specializzazione Orizzontale**
 
 ### Lezione 2: Micro e Macrostruttura
@@ -64,6 +66,7 @@ Le forme di divisione sul lavoro sono:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMT
-c0OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTc2NjE0MzI4LC0xMDI3MTMwNDAzLDE2OT
+kwNDYwMTAsLTE3NDk4MjI5NTMsNTc0ODg3MjYzLDE3MDU0OTY2
+MTJdfQ==
 -->
