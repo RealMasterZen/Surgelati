@@ -257,26 +257,24 @@ Struttura divisionale Tipica:
 
 **Configurazione a matrice è organizzata secondo 2 criteri:**
 - **risorse strutturate in unità con lo scopo di favorire la specializzazione delle competenze**
-- risorse dedicate alla realizzazione di un output specifico
+- **risorse dedicate alla realizzazione di un output specifico**
 
-la Struttura a matrice è tale che 
-- il responsabile funzionale ha l'obbiettivo di far crescere le competenze e la specializzazione della sua area
-- il responsabile di progetto ha l'obbiettivo di ottimizzare il risultato in termini di tempo
+**Nella Struttura a matrice**:
+- **il responsabile funzionale ha l'obbiettivo di far crescere le competenze e la specializzazione della sua area**
+- **il responsabile di progetto ha l'obbiettivo di ottimizzare il risultato in termini di tempo**
 
 L'organizzazione a matrice presenta notevoli difficoltà di gestione:
-- duplicità del comando può rendere confusa e conflittuale la gestione delle risorse umane
-- Complessità organizzativa comporta conseguenti costi di gestione legate alla molteplicità di risorse
-
-
+- **duplicità del comando può rendere confusa e conflittuale** la gestione delle risorse umane
+- **Complessità organizzativa comporta conseguenti costi di gestione** legate alla molteplicità di risorse
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzIyNzk3NywtMTAyOTk1MzQ0LC0yMD
-A5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUz
-NTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1Nz
-IsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwx
-OTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4MiwyMDIxMD
-AzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2MzEzNDQ0
-LDk5MjU1ODM1MV19
+eyJoaXN0b3J5IjpbLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwtMj
+AwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1
+MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NT
+cyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAs
+MTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIsMjAyMT
+AwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1NjMxMzQ0
+NCw5OTI1NTgzNTFdfQ==
 -->
