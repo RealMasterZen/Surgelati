@@ -53,8 +53,9 @@ Suddivisione del lavoro
 All'interno di un impresa la suddivisione del lavoro implica la specializzazione degli operatori effettuando solo parti di attività più complesse.
  
 Le forme di divisione sul lavoro sono:
-- Specializzazione Verticale
-- Specializzazione Orizzontale
+- **Specializzazione Verticale**
+	- 
+- **Specializzazione Orizzontale**
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -63,6 +64,6 @@ Le forme di divisione sul lavoro sono:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1Nz
-Q4ODcyNjMsMTcwNTQ5NjYxMl19
+eyJoaXN0b3J5IjpbLTEwMjcxMzA0MDMsMTY5OTA0NjAxMCwtMT
+c0OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
 -->
