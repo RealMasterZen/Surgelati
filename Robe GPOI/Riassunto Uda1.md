@@ -72,10 +72,11 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 La crescita dimensionale dell'impresa richiede maggiore specializzazione e introduce problemi di coordinamento.
 
 Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
-- Meccanismi **ex-ante**: che si applicano nella prassi
-	- Standardizzazione dei processi
-	- Standardizazione dei Risultati
-	- Standardizzazione delle compete
+- Meccanismi **ex-ante**: che si applicano 
+	- **Standardizzazione dei processi**
+	- **Standardizzazione dei Risultati**
+	- **Standardizzazione delle competenze**
+- Meccanismi **ex-post**: che si applicano
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -85,7 +86,7 @@ Il **coordinamento** individua 5 meccanismi suddivisi in 2 gruppi:
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTA2ODQ2NSwtMTE1NzAyNzgwOCwxMD
+eyJoaXN0b3J5IjpbMjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMD
 k3Nzc0MDE2LDQ1NjMxMzQ0NCw5OTI1NTgzNTEsLTExNDk1Nzgx
 OTAsLTE2Njg3ODU2MTQsMTQwMzI3NzU0NiwtMTAyNzEzMDQwMy
 wxNjk5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2MywxNzA1
