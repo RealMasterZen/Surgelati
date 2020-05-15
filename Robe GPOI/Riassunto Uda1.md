@@ -142,7 +142,12 @@ Lo strumento che descrive la macrostruttura è **l'organigramma**, una rappresen
 > **Definzione Span of Control**
 > L'insieme di persone che stanno sotto la guida di un capo
 
-La struttura ad albero che definisce i ruoli e i reparti dell'azienda p 
+La struttura ad albero che definisce i ruoli e i reparti dell'azienda p chiamata struttura organizzativa
+
+Nella creazione e definizione di una struttura organizzativa si deve etenere conto del principio dell'unicità del comando secondo cui 
+
+> **Definizione principo unicità del comando di Fayol**
+> Ogni unità organizzativa deve prendere ordini da un capo soltanto
 
 
 ## Lezione 3: Le strutture Organizzative 
@@ -150,11 +155,11 @@ La struttura ad albero che definisce i ruoli e i reparti dell'azienda p
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MjMzMzA1LC0xOTk1NTEwOTQ4LC0xNj
-QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
-ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
-kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
-MjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMT
-M0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0
-LDE0MDMyNzc1NDZdfQ==
+eyJoaXN0b3J5IjpbLTc1Nzc1Nzc3MywtMTk5NTUxMDk0OCwtMT
+Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
+Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAwOTU5Mj
+I5MCwxOTY2Njk1MjI5LDEzNjAyNTA0OTksLTQ0MDY4MDg4Miwy
+MDIxMDAzMjUzLC0xMTU3MDI3ODA4LDEwOTc3NzQwMTYsNDU2Mz
+EzNDQ0LDk5MjU1ODM1MSwtMTE0OTU3ODE5MCwtMTY2ODc4NTYx
+NCwxNDAzMjc3NTQ2XX0=
 -->
