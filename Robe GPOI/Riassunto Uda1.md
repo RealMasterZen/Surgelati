@@ -60,7 +60,7 @@ Separazione  tra la progettazione del lavoro e la sua organizzazione
 - **Specializzazione Orizzontale**
 Operatori distinti si occupano di fasi lavorative differenti.
 	> Tanti lavoratori che si dividono un lavoro
-	> **L'utilizzo intenso di questa modalità **
+	> **L'utilizzo intenso di questa modalità può portare a problematiche quali alienazione**
 
 ### Lezione 2: Micro e Macrostruttura
 
@@ -69,7 +69,7 @@ Operatori distinti si occupano di fasi lavorative differenti.
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzI3NzU0NiwtMTAyNzEzMDQwMywxNj
-k5MDQ2MDEwLC0xNzQ5ODIyOTUzLDU3NDg4NzI2MywxNzA1NDk2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMjIyMDAzOTE5LDE0MDMyNzc1NDYsLTEwMj
+cxMzA0MDMsMTY5OTA0NjAxMCwtMTc0OTgyMjk1Myw1NzQ4ODcy
+NjMsMTcwNTQ5NjYxMl19
 -->
