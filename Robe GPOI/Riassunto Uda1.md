@@ -69,7 +69,9 @@ Per affrontare questi approcci sono emerse negli ultimi anni teorie in controten
 - - - 
 ### Meccanismi di Coordinamento
 
-La crescita dimensionale dell'impresa richiede maggiore specializzazione e introduce proble
+La crescita dimensionale dell'impresa richiede maggiore specializzazione e introduce problemi di coordinamento.
+
+Il **coordinamento** è stato studiato
 
 
 ### Lezione 2: Micro e Macrostruttura
@@ -79,8 +81,8 @@ La crescita dimensionale dell'impresa richiede maggiore specializzazione e intro
 ### Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTM2MzQ1OCwxMDk3Nzc0MDE2LDQ1Nj
-MxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2
-MTQsMTQwMzI3NzU0NiwtMTAyNzEzMDQwMywxNjk5MDQ2MDEwLC
-0xNzQ5ODIyOTUzLDU3NDg4NzI2MywxNzA1NDk2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NT
+YzMTM0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1
+NjE0LDE0MDMyNzc1NDYsLTEwMjcxMzA0MDMsMTY5OTA0NjAxMC
+wtMTc0OTgyMjk1Myw1NzQ4ODcyNjMsMTcwNTQ5NjYxMl19
 -->
