@@ -253,12 +253,12 @@ Struttura divisionale Tipica:
 - - - 
 ### Struttura Organizzativa a Matrice
 
-Struttura organizzativa nella quale convivono sia il criterio funzionale che quello divisionale è la struttura a matrice 
+Struttura organizzativa nella quale convivono sia il criterio funzionale che quello divisionale è la struttura a matrice, alcune parti della struttura sono organizzate secondo gli input altre sono organizzate secondo gli output. Per compiere tutto ciò alcune unità organizzative dovranno essere organizzate da più di un capo facendo venire meno il principio di unicità del comando.
 
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzU1MDQ2MCwtMjAwOTMwNTIxMiwtNz
+eyJoaXN0b3J5IjpbLTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNz
 UzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMTA5Mzgw
 ODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5OD
 ksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2NjY5NTIyOSwx
