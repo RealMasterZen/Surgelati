@@ -167,7 +167,9 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 - i criteri di raggruppamento **Numerico**
 	- unità organizzative create dividendo i lavoratori in gruppi di dimensione adeguata per essere gestiti e coordinati da un unico capo.
 - i criteri di raggruppamento **Orientati agli input**
-	- raggruppano le attività in base ai mezzi utilizzati per svolgere
+	- raggruppano le attività in base ai mezzi utilizzati per svolgerle, in queste è possibile distinguere 2 sottocasi:
+		- raggruppamento in base alle conoscenze e capacità utilizzate per svolgere le mansioni
+		- 
 - i criteri di raggruppamento **Orientati agli output**
 
 
@@ -176,11 +178,11 @@ I **criteri di raggruppamento** delle unità orgazzative appartengono a tre cate
 ## Lezione 4: I costi di un organizzazione aziendale
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY3ODYzMjUsLTE5OTU1MTA5NDgsLT
-E2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAy
-NzY4NTcyLDEwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OT
-IyOTAsMTk2NjY5NTIyOSwxMzYwMjUwNDk5LC00NDA2ODA4ODIs
-MjAyMTAwMzI1MywtMTE1NzAyNzgwOCwxMDk3Nzc0MDE2LDQ1Nj
-MxMzQ0NCw5OTI1NTgzNTEsLTExNDk1NzgxOTAsLTE2Njg3ODU2
-MTQsMTQwMzI3NzU0Nl19
+eyJoaXN0b3J5IjpbOTkxOTg3MjA0LC0xOTk1NTEwOTQ4LC0xNj
+QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
+ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMj
+kwLDE5NjY2OTUyMjksMTM2MDI1MDQ5OSwtNDQwNjgwODgyLDIw
+MjEwMDMyNTMsLTExNTcwMjc4MDgsMTA5Nzc3NDAxNiw0NTYzMT
+M0NDQsOTkyNTU4MzUxLC0xMTQ5NTc4MTkwLC0xNjY4Nzg1NjE0
+LDE0MDMyNzc1NDZdfQ==
 -->
