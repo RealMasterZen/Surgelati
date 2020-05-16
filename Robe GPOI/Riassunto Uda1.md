@@ -310,7 +310,7 @@ La **somma del costo pieno industriale** e della **quota dei costi di periodo** 
 	- logistica in uscita
 	- marketing e vendite
 	- servizio
-
+- - - 
 ### Costi fissi e variabili
 
 I **costi possono essere classificati in base a comportamento in funzione di una variazione del livello di attività dell'impresa**
@@ -322,12 +322,14 @@ i **costi variabili** sono gli altri costi.
 Una terza categoria di costi intermedia è detta **semi-variabili**, il cui andamento è rappresentato da una curva spezzata, ovvero restano **fissi rispetto a determinati range di variazione del livello di attività di impresa.**
  - - - 
  ### Costi Evitabili e non evitabili
+
+La classificazione dei costi, infine, in evitabili e non evitabili distingue i costi sullabase della loro rilevanza decisionale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3OTE4MTgsLTQwMjA1MzA1MiwtMz
-k5MTY2MjI5LDQ1MjI4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3
-NCw5MDA4NDU0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyND
-I0NDM5LDgzMDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMw
-LC0xMDI5OTUzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOT
-k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
-Mzk0M119
+eyJoaXN0b3J5IjpbMTk0MTcwNjI0LC00MDIwNTMwNTIsLTM5OT
+E2NjIyOSw0NTIyODMxNzksMTM4NDAxMjgyNiw5OTE4NzY3NzQs
+OTAwODQ1NDU4LC0xODc4NDA3OTgsODI5MTgyNTQ4LC0xMjQyND
+QzOSw4MzAwNjQ0NzQsLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwt
+MTAyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NT
+UxMDk0OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5
+NDNdfQ==
 -->
