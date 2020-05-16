@@ -291,13 +291,15 @@ I costi di prodotto rappresentano il valore delle risorse associabili in modo di
 - **Costi indiretti di produzione**: costi associabili direttamente all'attività produttiva nel suo complesso, ma non alla realizzazione di una singola unità di prodotto
 
 I costi di periodo, definiti anche spese discrezionali comprendono attività non direttamente associabili alla realizzazione di un prodotto.
-in questa categoria rientrano i costi di ricerca e sviluppo e le spese amministrative, generali e di vendita
+in questa categoria rientrano i costi di ricerca e sviluppo e le spese amministrative, generali e di vendita, come per esempio gli stipendi dei dirigenti.
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxODc2Nzc0LDkwMDg0NTQ1OCwtMTg3OD
-QwNzk4LDgyOTE4MjU0OCwtMTI0MjQ0MzksODMwMDY0NDc0LC05
-NTkxODU1NjcsLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwtMjAwOT
-MwNTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUy
-NDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4NTcyLD
-EwMzg5NTI5ODksLTExNDM3NDYyOTksLTEwMDk1OTIyOTAsMTk2
-NjY5NTIyOV19
+eyJoaXN0b3J5IjpbODc2ODQzMTY4LDk5MTg3Njc3NCw5MDA4ND
+U0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgz
+MDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OT
+UzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4
+LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMT
+MwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5
+NTkyMjkwXX0=
 -->
