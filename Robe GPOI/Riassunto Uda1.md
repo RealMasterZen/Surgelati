@@ -323,13 +323,13 @@ Una terza categoria di costi intermedia è detta **semi-variabili**, il cui anda
  - - - 
  ### Costi Evitabili e non evitabili
 
-La classificazione dei costi, infine, in evitabili e non evitabili distingue i costi sulla base della loro rilevanza decisionale
+La classificazione dei costi, infine, in evitabili e non evitabili distingue i costi sulla base della loro rilevanza decisionale. Rispetto a una decisione i costi evitabili sono quelli influenzati dalla decisione mentre i costi non evitabili sono quelli che non dipendono da essa e che verranno comunque sostenuti qualunque ne sia l'esito.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkxNzMxNzgsMTk0MTcwNjI0LC00MD
-IwNTMwNTIsLTM5OTE2NjIyOSw0NTIyODMxNzksMTM4NDAxMjgy
-Niw5OTE4NzY3NzQsOTAwODQ1NDU4LC0xODc4NDA3OTgsODI5MT
-gyNTQ4LC0xMjQyNDQzOSw4MzAwNjQ0NzQsLTk1OTE4NTU2Nywt
-MjEyMDUwNTkzMCwtMTAyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NT
-M3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUzNTI0NywxMDkzODA4
-NzUzXX0=
+eyJoaXN0b3J5IjpbLTYzNDM3MTE5NSwxOTQxNzA2MjQsLTQwMj
+A1MzA1MiwtMzk5MTY2MjI5LDQ1MjI4MzE3OSwxMzg0MDEyODI2
+LDk5MTg3Njc3NCw5MDA4NDU0NTgsLTE4Nzg0MDc5OCw4MjkxOD
+I1NDgsLTEyNDI0NDM5LDgzMDA2NDQ3NCwtOTU5MTg1NTY3LC0y
+MTIwNTA1OTMwLC0xMDI5OTUzNDQsLTIwMDkzMDUyMTIsLTc1Mz
+cxOTU4LC0xOTk1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3
+NTNdfQ==
 -->
