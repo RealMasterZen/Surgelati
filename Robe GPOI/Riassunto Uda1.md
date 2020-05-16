@@ -302,9 +302,10 @@ La **somma del costo di lavoro diretto** e **dei costi indiretti di produzione**
 La **somma del costo pieno industriale** e della **quota dei costi di periodo** associati al prodotto fornisce il **costo pieno aziendale.**
 > **Costo pieno industriale + Quota costi di periodo = costo pieno aziendale**
 
-La distinzione tra costi di prodotto 
+La distinzione tra costi di prodotto e costi di periodo non è del tutto univoca,
+Alcune aziende considerano nei costi di prodotto i soli costi connessi con la trasformazione fisica del prodotto, senza includere i csoti legati alla logistica interna all'impresa stessa, altre estendono il concetto di costi di prodotto a quelli legati a tutte le attività primarie(logistica in entrata, operations, logistica in uscita, marketing e vendite, servizio)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDQ5NjczNyw0NTIyODMxNzksMTM4ND
+eyJoaXN0b3J5IjpbLTM5OTE2NjIyOSw0NTIyODMxNzksMTM4ND
 AxMjgyNiw5OTE4NzY3NzQsOTAwODQ1NDU4LC0xODc4NDA3OTgs
 ODI5MTgyNTQ4LC0xMjQyNDQzOSw4MzAwNjQ0NzQsLTk1OTE4NT
 U2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0LC0yMDA5MzA1MjEy
