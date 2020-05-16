@@ -321,12 +321,13 @@ i **costi variabili** sono gli altri costi.
 
 Una terza categoria di costi intermedia è detta **semi-variabili**, il cui andamento è rappresentato da una curva spezzata, ovvero restano **fissi rispetto a determinati range di variazione del livello di attività di impresa.**
  
+ ###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA1MzA1MiwtMzk5MTY2MjI5LDQ1Mj
-I4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3NCw5MDA4NDU0NTgs
-LTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgzMDA2ND
-Q3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OTUzNDQs
-LTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNj
-QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
-ODU3Ml19
+eyJoaXN0b3J5IjpbMjAyNzY2Nzg4NywtNDAyMDUzMDUyLC0zOT
+kxNjYyMjksNDUyMjgzMTc5LDEzODQwMTI4MjYsOTkxODc2Nzc0
+LDkwMDg0NTQ1OCwtMTg3ODQwNzk4LDgyOTE4MjU0OCwtMTI0Mj
+Q0MzksODMwMDY0NDc0LC05NTkxODU1NjcsLTIxMjA1MDU5MzAs
+LTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OT
+U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
+OTQzXX0=
 -->
