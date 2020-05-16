@@ -315,11 +315,14 @@ La **somma del costo pieno industriale** e della **quota dei costi di periodo** 
 
 I **costi possono essere classificati in base a comportamento in funzione di una variazione del livello di attività dell'impresa**
 
-i **costi fissi** sono i costi che nell'ambito di un intervallo significativo di variazione del livello di attività e nel breve periodo, **rimangono inalterati**, variabili gli altri costi.
-Una terza categoria di costi intermedia è detta semi-variabili, il cui andamento è rappresentato da una curva spezzata, ovvero restano fissi rispetto a determinati range di variazione del livello di attività di impresa.
+i **costi fissi** sono i costi che nell'ambito di un intervallo significativo di variazione del livello di attività e nel breve periodo, **rimangono inalterati**
+
+i **costi variabili** sono gli altri costi.
+
+Una terza categoria di costi intermedia è detta **semi-variabili**, il cui andamento è rappresentato da una curva spezzata, ovvero restano **fissi rispetto a determinati range di variazione del livello di attività di impresa.**
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE4Mjc0OCwtMzk5MTY2MjI5LDQ1Mj
+eyJoaXN0b3J5IjpbLTQwMjA1MzA1MiwtMzk5MTY2MjI5LDQ1Mj
 I4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3NCw5MDA4NDU0NTgs
 LTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgzMDA2ND
 Q3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OTUzNDQs
