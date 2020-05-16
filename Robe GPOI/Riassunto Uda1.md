@@ -290,13 +290,14 @@ I costi di prodotto rappresentano il valore delle risorse associabili in modo di
 - **I costi di materiali diretti**: acquisti esterni di materie prime, semilavorati e componenti associabili direttamente alla realizzazione di un singolo prodotto/servizio
 - **Costi indiretti di produzione**: costi associabili direttamente all'attività produttiva nel suo complesso, ma non alla realizzazione di una singola unità di prodotto
 
-I costi di periodo 
+I costi di periodo, definiti anche spese discrezionali comprendono attività non direttamente associabili alla realizzazione di un prodotto.
+in questa categoria rie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwODQ1NDU4LC0xODc4NDA3OTgsODI5MT
-gyNTQ4LC0xMjQyNDQzOSw4MzAwNjQ0NzQsLTk1OTE4NTU2Nywt
-MjEyMDUwNTkzMCwtMTAyOTk1MzQ0LC0yMDA5MzA1MjEyLC03NT
-M3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUzNTI0NywxMDkzODA4
-NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1NzIsMTAzODk1Mjk4OS
-wtMTE0Mzc0NjI5OSwtMTAwOTU5MjI5MCwxOTY2Njk1MjI5LDEz
-NjAyNTA0OTldfQ==
+eyJoaXN0b3J5IjpbMTEzOTEzNDkzMyw5MDA4NDU0NTgsLTE4Nz
+g0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgzMDA2NDQ3NCwt
+OTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OTUzNDQsLTIwMD
+kzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNjQyNTM1
+MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2ODU3Mi
+wxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5NTkyMjkwLDE5
+NjY2OTUyMjldfQ==
 -->
