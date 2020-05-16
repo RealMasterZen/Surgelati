@@ -293,13 +293,15 @@ I costi di prodotto rappresentano il valore delle risorse associabili in modo di
 I costi di periodo, definiti anche spese discrezionali comprendono attività non direttamente associabili alla realizzazione di un prodotto.
 in questa categoria rientrano i costi di ricerca e sviluppo e le spese amministrative, generali e di vendita, come per esempio gli stipendi dei dirigenti.
 
-> 
+la somma del costo di lavoro diretto e dei costi indiretti di produzione attribuiti a un prodotto viene definita costo di conversione;
+Aggiungendo a tale costo quello dei materiali diretti si ottiene il costo pieno industriale.
+La somma del costo pieno industriale e della quota dei costi di periodo associati al prodotto fornisce il costo pieno aziendale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2ODQzMTY4LDk5MTg3Njc3NCw5MDA4ND
-U0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgz
-MDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OT
-UzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4
-LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMT
-MwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQzNzQ2Mjk5LC0xMDA5
-NTkyMjkwXX0=
+eyJoaXN0b3J5IjpbMTE1ODAwOTE5Nyw5OTE4NzY3NzQsOTAwOD
+Q1NDU4LC0xODc4NDA3OTgsODI5MTgyNTQ4LC0xMjQyNDQzOSw4
+MzAwNjQ0NzQsLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwtMTAyOT
+k1MzQ0LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0
+OCwtMTY0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLT
+EzMDI3Njg1NzIsMTAzODk1Mjk4OSwtMTE0Mzc0NjI5OSwtMTAw
+OTU5MjI5MF19
 -->
