@@ -320,14 +320,14 @@ i **costi fissi** sono i costi che nell'ambito di un intervallo significativo di
 i **costi variabili** sono gli altri costi.
 
 Una terza categoria di costi intermedia è detta **semi-variabili**, il cui andamento è rappresentato da una curva spezzata, ovvero restano **fissi rispetto a determinati range di variazione del livello di attività di impresa.**
- 
- ###
+ - - - 
+ ### Costi Evitabili e non evitabili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzY2Nzg4NywtNDAyMDUzMDUyLC0zOT
-kxNjYyMjksNDUyMjgzMTc5LDEzODQwMTI4MjYsOTkxODc2Nzc0
-LDkwMDg0NTQ1OCwtMTg3ODQwNzk4LDgyOTE4MjU0OCwtMTI0Mj
-Q0MzksODMwMDY0NDc0LC05NTkxODU1NjcsLTIxMjA1MDU5MzAs
-LTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OT
-U1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAz
-OTQzXX0=
+eyJoaXN0b3J5IjpbLTEyNjg3OTE4MTgsLTQwMjA1MzA1MiwtMz
+k5MTY2MjI5LDQ1MjI4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3
+NCw5MDA4NDU0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyND
+I0NDM5LDgzMDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMw
+LC0xMDI5OTUzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOT
+k1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkw
+Mzk0M119
 -->
