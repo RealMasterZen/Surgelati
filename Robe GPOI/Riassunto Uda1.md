@@ -301,12 +301,14 @@ La **somma del costo di lavoro diretto** e **dei costi indiretti di produzione**
 
 La **somma del costo pieno industriale** e della **quota dei costi di periodo** associati al prodotto fornisce il **costo pieno aziendale.**
 > **Costo pieno industriale + Quota costi di periodo = costo pieno aziendale**
+
+La distinzione tra costi di prodotto 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMjgzMTc5LDEzODQwMTI4MjYsOTkxOD
-c2Nzc0LDkwMDg0NTQ1OCwtMTg3ODQwNzk4LDgyOTE4MjU0OCwt
-MTI0MjQ0MzksODMwMDY0NDc0LC05NTkxODU1NjcsLTIxMjA1MD
-U5MzAsLTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgs
-LTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMT
-EyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3
-NDYyOTldfQ==
+eyJoaXN0b3J5IjpbLTMxMDQ5NjczNyw0NTIyODMxNzksMTM4ND
+AxMjgyNiw5OTE4NzY3NzQsOTAwODQ1NDU4LC0xODc4NDA3OTgs
+ODI5MTgyNTQ4LC0xMjQyNDQzOSw4MzAwNjQ0NzQsLTk1OTE4NT
+U2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0LC0yMDA5MzA1MjEy
+LC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMTY0MjUzNTI0NywxMD
+kzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3Njg1NzIsMTAzODk1
+Mjk4OV19
 -->
