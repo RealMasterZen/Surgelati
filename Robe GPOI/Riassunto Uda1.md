@@ -304,13 +304,20 @@ La **somma del costo pieno industriale** e della **quota dei costi di periodo** 
 
 **La distinzione tra costi di prodotto e costi di periodo non è del tutto univoca,**
 - Alcune aziende considerano nei costi di prodotto i soli costi connessi con la trasformazione fisica del prodotto, senza includere i costi legati alla logistica interna all'impresa stessa,
-- Altre aziende estendono il concetto di costi di prodotto a quelli legati a tutte le attività primarie(logistica in entrata, operations, logistica in uscita, marketing e vendite, servizio)
+- Altre aziende estendono il concetto di costi di prodotto a quelli legati a tutte le attività primarie:
+	- logistica in entrata
+	- operations
+	- logistica in uscita
+	- marketing e vendite
+	- servizio
+
+### Costi fissi e variabili
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjI1MTY5LC0zOTkxNjYyMjksNDUyMj
-gzMTc5LDEzODQwMTI4MjYsOTkxODc2Nzc0LDkwMDg0NTQ1OCwt
-MTg3ODQwNzk4LDgyOTE4MjU0OCwtMTI0MjQ0MzksODMwMDY0ND
-c0LC05NTkxODU1NjcsLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwt
-MjAwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2ND
-I1MzUyNDcsMTA5MzgwODc1MywtMTEyOTAzOTQzLC0xMzAyNzY4
-NTcyXX0=
+eyJoaXN0b3J5IjpbLTExMTY1NTQ4NjQsLTM5OTE2NjIyOSw0NT
+IyODMxNzksMTM4NDAxMjgyNiw5OTE4NzY3NzQsOTAwODQ1NDU4
+LC0xODc4NDA3OTgsODI5MTgyNTQ4LC0xMjQyNDQzOSw4MzAwNj
+Q0NzQsLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0
+LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMT
+Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
+Njg1NzJdfQ==
 -->
