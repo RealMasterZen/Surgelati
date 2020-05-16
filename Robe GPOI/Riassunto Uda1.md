@@ -296,16 +296,17 @@ in questa categoria rientrano i costi di ricerca e sviluppo e le spese amministr
 La **somma del costo di lavoro diretto** e **dei costi indiretti di produzione** attribuiti a un prodotto viene **definita costo di conversione;**
 > **Costo Lavoro Diretto + Costo indiretto di produzione = Costo di Conversione**
 
-**Aggiungendo a tale costo quello dei materiali diretti** si ottiene il **costo pieno industriale.**+
-> **Costo di Conversione + Costo dei materiali diretti = Cos**
+**Aggiungendo a tale costo quello dei materiali diretti** si ottiene il **costo pieno industriale.**
+> **Costo di Conversione + Costo dei materiali diretti = Costo pieno industriale**
 
-La somma del costo pieno industriale e della quota dei costi di periodo associati al prodotto fornisce il costo pieno aziendale.
+La **somma del costo pieno industriale** e della **quota dei costi di periodo** associati al prodotto fornisce il **costo pieno aziendale.**
+> **Costo pieno industriale + Quota costi di periodo = costo pieno aziendale**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzkwNjAxMCwxMzg0MDEyODI2LDk5MT
-g3Njc3NCw5MDA4NDU0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgs
-LTEyNDI0NDM5LDgzMDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNT
-A1OTMwLC0xMDI5OTUzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4
-LC0xOTk1NTEwOTQ4LC0xNjQyNTM1MjQ3LDEwOTM4MDg3NTMsLT
-ExMjkwMzk0MywtMTMwMjc2ODU3MiwxMDM4OTUyOTg5LC0xMTQz
-NzQ2Mjk5XX0=
+eyJoaXN0b3J5IjpbNDUyMjgzMTc5LDEzODQwMTI4MjYsOTkxOD
+c2Nzc0LDkwMDg0NTQ1OCwtMTg3ODQwNzk4LDgyOTE4MjU0OCwt
+MTI0MjQ0MzksODMwMDY0NDc0LC05NTkxODU1NjcsLTIxMjA1MD
+U5MzAsLTEwMjk5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgs
+LTE5OTU1MTA5NDgsLTE2NDI1MzUyNDcsMTA5MzgwODc1MywtMT
+EyOTAzOTQzLC0xMzAyNzY4NTcyLDEwMzg5NTI5ODksLTExNDM3
+NDYyOTldfQ==
 -->
