@@ -313,13 +313,15 @@ La **somma del costo pieno industriale** e della **quota dei costi di periodo** 
 
 ### Costi fissi e variabili
 
-I costi possono essere classificati in base a comportamento in funzione di una variazione 
+I **costi possono essere classificati in base a comportamento in funzione di una variazione del livello di attività dell'impresa**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzI2OTgxMSwtMzk5MTY2MjI5LDQ1Mj
-I4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3NCw5MDA4NDU0NTgs
-LTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgzMDA2ND
-Q3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OTUzNDQs
-LTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4LC0xNj
-QyNTM1MjQ3LDEwOTM4MDg3NTMsLTExMjkwMzk0MywtMTMwMjc2
-ODU3Ml19
+eyJoaXN0b3J5IjpbLTEyMTIwMDc2NTYsLTM5OTE2NjIyOSw0NT
+IyODMxNzksMTM4NDAxMjgyNiw5OTE4NzY3NzQsOTAwODQ1NDU4
+LC0xODc4NDA3OTgsODI5MTgyNTQ4LC0xMjQyNDQzOSw4MzAwNj
+Q0NzQsLTk1OTE4NTU2NywtMjEyMDUwNTkzMCwtMTAyOTk1MzQ0
+LC0yMDA5MzA1MjEyLC03NTM3MTk1OCwtMTk5NTUxMDk0OCwtMT
+Y0MjUzNTI0NywxMDkzODA4NzUzLC0xMTI5MDM5NDMsLTEzMDI3
+Njg1NzJdfQ==
 -->
