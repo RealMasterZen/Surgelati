@@ -108,7 +108,13 @@
 
 - normativa sulla privacy
 	
-	- normativa sulla 
+	- giurisprudenza informatica
+	- legge 547/ 93
+	- legge 675/96
+	- D.lgs 231/2001
+	- D.lgs 196/2003
+	- articolo 18 D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjM5MDE0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwMTUwNzg0OTEsLTIwODg3NDY2MTJdfQ
+==
 -->
