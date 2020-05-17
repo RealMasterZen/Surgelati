@@ -34,46 +34,41 @@
 	- certification authority
 	- Public Key Infrastructure
 	- richiesta di certificato digitale
-- - - 
-- sicurezza nei sistemi informativi
-	- minaccie naturali
-	- minacce umane
-	- minacce in rete 
-	- breve storia sugli attacchi informatici
-	- sicurezza sistemi informativi
-		- sicurezza informatica
-	- valutazione dei rischi
-	- principali tipologie di minacce
-	- attacchi attivi e attacchi passivi
-	- sicurezza nei sistemi distributivi
-- - -
-- sicurezza connessioni SSL/TLS
-	- protocollo SSL/TLS
-	- HTTPS
-- - -
-- difesa perimetrale con i firewall 
-	- i firewall 
-	- classificazione dei firewall
-		- personal firewall
-		- network firewall 
-		- packet filter firewall
-	- ACL
-	- stateful inspection
-	- application proxy
-	- DMZ
-- - -
-- normativa sulla privacy
-	
-	- giurisprudenza informatica
-	- legge 547/ 93
-	- legge 675/96
-	- D.lgs 231/2001
-	- D.lgs 196/2003
-	- articolo 18 D.lgs 30/2005
-	- legge 48/2008
-- - -
-- reti wireless
-	- tipologie
+
+## sicurezza nei sistemi informativi	- minacce naturali
+- minacce umane
+- minacce in rete 
+- breve storia sugli attacchi informatici
+- sicurezza sistemi informativi
+	- sicurezza informatica
+- valutazione dei rischi
+- principali tipologie di minacce
+- attacchi attivi e attacchi passivi
+- sicurezza nei sistemi distribuiti
+
+## Sicurezza connessioni SSL/TLS	- protocollo SSL/TLS
+- HTTPS
+
+## Difesa perimetrale con i firewall 	- i firewall 
+- classificazione dei firewall
+	- personal firewall
+	- network firewall 
+	- packet filter firewall
+- ACL
+- stateful inspection
+- application proxy
+- DMZ
+
+## Normativa sulla privacy	
+- giurisprudenza informatica
+- legge 547/ 93
+- legge 675/96
+- D.lgs 231/2001
+- D.lgs 196/2003
+- articolo 18 D.lgs 30/2005
+- legge 48/2008
+
+## Reti wireless	- tipologie
 	- standard IEEE 802.11
 	- cenni crittografia e autenticazione
 	- cenni sistema di autenticazione 802.1X
@@ -114,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3OTg5Mjg1LC04MTU5MDU4ODMsODAzNj
-IzNjE1LDE1NjA1ODg3NDEsMjEwMzIxNDU3NCwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbLTkzNTY4ODgzMiwtODE1OTA1ODgzLDgwMz
+YyMzYxNSwxNTYwNTg4NzQxLDIxMDMyMTQ1NzQsLTIwODg3NDY2
+MTJdfQ==
 -->
