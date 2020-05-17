@@ -35,7 +35,7 @@
 	- Public Key Infrastructure
 	- richiesta di certificato digitale
 
-## Sicurezza nei sistemi informativi	- minacce naturali
+## Sicurezza nei sistemi informativi	- minacce naturali (166-181)
 - minacce umane
 - minacce in rete 
 - breve storia sugli attacchi informatici
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUyMTAzNzIsLTIxNDM3MTgzNDksLT
+eyJoaXN0b3J5IjpbLTE5MjcyNDk3MzUsLTIxNDM3MTgzNDksLT
 gxNTkwNTg4Myw4MDM2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0
 NTc0LC0yMDg4NzQ2NjEyXX0=
 -->
