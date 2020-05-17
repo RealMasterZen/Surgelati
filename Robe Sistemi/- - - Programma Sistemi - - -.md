@@ -68,7 +68,7 @@
 - articolo 18 D.lgs 30/2005
 - legge 48/2008
 
-## Reti wireless	- tipologie (242-27)
+## Reti wireless	- tipologie (242-279)
 - standard IEEE 802.11
 - cenni crittografia e autenticazione
 - cenni sistema di autenticazione 802.1X
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4MzQ2NzgsLTIxNDM3MTgzNDksLT
-gxNTkwNTg4Myw4MDM2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0
-NTc0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTUxMzgxMjksLTIxNDM3MTgzNDksLTgxNT
+kwNTg4Myw4MDM2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0NTc0
+LC0yMDg4NzQ2NjEyXX0=
 -->
