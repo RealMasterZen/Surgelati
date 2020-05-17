@@ -87,9 +87,28 @@
 	- HTTPS
 
 - difesa perimetrale con i firewall 
+	
 	- i firewall 
-	- cl
+	
+	- classificazione dei firewall
+		
+		- personal firewall
+		
+		- network firewall 
+		
+		- packet filter firewall
+	
+	- ACL
+	
+	- stateful inspection
+	
+	- application proxy
+	
+	- DMZ
+
+- normativa sulla privacy
+	
+	- normativa sulla 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk1MjY4NjYsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTcxNjM5MDE0MiwtMjA4ODc0NjYxMl19
 -->
