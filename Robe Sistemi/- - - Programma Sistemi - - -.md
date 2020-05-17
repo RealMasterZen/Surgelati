@@ -49,7 +49,7 @@
 ## Sicurezza connessioni SSL/TLS	- protocollo SSL/TLS
 - HTTPS
 
-## Difesa perimetrale con i firewall 	- i firewall 
+## ~~Difesa perimetrale con i firewall 	- i firewall~~ 
 - classificazione dei firewall
 	- personal firewall
 	- network firewall 
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MjE5MTQ0LC04MTU5MDU4ODMsODAzNj
-IzNjE1LDE1NjA1ODg3NDEsMjEwMzIxNDU3NCwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMTg0MzkzMDg4OCwtODE1OTA1ODgzLDgwMz
+YyMzYxNSwxNTYwNTg4NzQxLDIxMDMyMTQ1NzQsLTIwODg3NDY2
+MTJdfQ==
 -->
