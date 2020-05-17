@@ -113,8 +113,8 @@
 	- legge 675/96
 	- D.lgs 231/2001
 	- D.lgs 196/2003
-	- articolo 18 D
+	- articolo 18 D.lgs 30/2005
+	- legge 48/2008
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUwNzg0OTEsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjEwMzIxNDU3NCwtMjA4ODc0NjYxMl19
 -->
