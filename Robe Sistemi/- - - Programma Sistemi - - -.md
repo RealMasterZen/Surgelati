@@ -147,7 +147,14 @@
 - Installazione di m0nowall e configurazione di base
 - riconfigurazione di indirizzi Ip, Dhcp, ip statici
 - regola di DNAT e pubblicazione di servizi in internet
+- messa in sicurezza e regole di firewall
+- attuazzione delle regole di firewall per la configurazione di M0n0wall e servizi web
+- cenni diverse tipologie di raid
+- cenni configurare un raid software
+- vpn, casistiche e implementazioni
+- realizzazione di vpn con openvpn
+- protocollo snmp e app
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDk3NTE4NywyMTAzMjE0NTc0LC0yMD
+eyJoaXN0b3J5IjpbLTYzMTc5MDkyNiwyMTAzMjE0NTc0LC0yMD
 g4NzQ2NjEyXX0=
 -->
