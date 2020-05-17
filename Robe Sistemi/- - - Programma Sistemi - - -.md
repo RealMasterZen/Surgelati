@@ -35,7 +35,7 @@
 	- Public Key Infrastructure
 	- richiesta di certificato digitale
 
-## sicurezza nei sistemi informativi	- minacce naturali
+## Sicurezza nei sistemi informativi	- minacce naturali
 - minacce umane
 - minacce in rete 
 - breve storia sugli attacchi informatici
@@ -69,25 +69,25 @@
 - legge 48/2008
 
 ## Reti wireless	- tipologie
-	- standard IEEE 802.11
-	- cenni crittografia e autenticazione
-	- cenni sistema di autenticazione 802.1X
-	- trasmissione wireless
-		- cenni alle tecnologie trasmissive(FHSS, DSSS, HR DSSS, OFDM)
-		- CDMA CTS/RTS
-		- problemi trasmissioni wireless
-		- cenni struttura frame 802.11
-	- architettura reti wireless
-		- componenti reti wireless
-		- il ruolo dell'AP
-	- la normativa delle reti wireless (dopo il 15/05)
-		- R-LAN
-		- EIRP 
-		- DBM e DBI
-		- le disposizioni legali riguardo le emissioni elettromagnetiche
-			- legge 36/2001
-			- reati informatici connessi al wireless
-			- decreto Pisanu 27/2005 decreto del Fare 21 giugno 2013
+- standard IEEE 802.11
+- cenni crittografia e autenticazione
+- cenni sistema di autenticazione 802.1X
+- trasmissione wireless
+	- cenni alle tecnologie trasmissive(FHSS, DSSS, HR DSSS, OFDM)
+	- CDMA CTS/RTS
+	- problemi trasmissioni wireless
+	- cenni struttura frame 802.11
+- architettura reti wireless
+	- componenti reti wireless
+	- il ruolo dell'AP
+- la normativa delle reti wireless (dopo il 15/05)
+	- R-LAN
+	- EIRP 
+	- DBM e DBI
+	- le disposizioni legali riguardo le emissioni elettromagnetiche
+		- legge 36/2001
+		- reati informatici connessi al wireless
+		- decreto Pisanu 27/2005 decreto del Fare 21 giugno 2013
 
 ## Laboratorio
 
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTY4ODgzMiwtODE1OTA1ODgzLDgwMz
-YyMzYxNSwxNTYwNTg4NzQxLDIxMDMyMTQ1NzQsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbOTI3MjE5MTQ0LC04MTU5MDU4ODMsODAzNj
+IzNjE1LDE1NjA1ODg3NDEsMjEwMzIxNDU3NCwtMjA4ODc0NjYx
+Ml19
 -->
