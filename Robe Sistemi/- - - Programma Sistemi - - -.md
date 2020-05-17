@@ -1,6 +1,6 @@
 # Programam Sistemi e Reti
 
-## Le VLAN
+## Le VLAN (66-70)
 	
 - caratteristiche delle VLAN
 - Differenza tra VLAN port based e port tagged(802.1Q)
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzkzMDg4OCwtODE1OTA1ODgzLDgwMz
-YyMzYxNSwxNTYwNTg4NzQxLDIxMDMyMTQ1NzQsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxNDM3MTgzNDksLTgxNTkwNTg4Myw4MD
+M2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0NTc0LC0yMDg4NzQ2
+NjEyXX0=
 -->
