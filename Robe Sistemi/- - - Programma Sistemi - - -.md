@@ -133,8 +133,15 @@
 		- R-LAN
 		- EIRP 
 		- DBM e DBI
-		- le disposizio
+		- le disposizioni legali riguardo le emissioni elettromagnetiche
+			- legge 36/2001
+			- reati informatici connessi al wireless
+			- decreto Pisanu 27/2005 decreto del Fare 21 giugno 2013
+
+## Laboratorio
+
+- riepilogo sulle funzionali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTUyMTc0MywyMTAzMjE0NTc0LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEyNDYzNzcxODAsMjEwMzIxNDU3NCwtMj
+A4ODc0NjYxMl19
 -->
