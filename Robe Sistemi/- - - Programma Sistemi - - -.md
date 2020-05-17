@@ -140,8 +140,14 @@
 
 ## Laboratorio
 
-- riepilogo sulle funzionali
+- riepilogo sulle funzionalità di rete e pila iso osi
+- topologie di rete tipiche, wan, lan, dmz
+- Installazione di un client e di un server GNu/Linux
+- firewall: funzionalità e compiti
+- Installazione di m0nowall e configurazione di base
+- riconfigurazione di indirizzi Ip, Dhcp, ip statici
+- regola di DNAT e pubblicazione di servizi in internet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDYzNzcxODAsMjEwMzIxNDU3NCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTcwMDk3NTE4NywyMTAzMjE0NTc0LC0yMD
+g4NzQ2NjEyXX0=
 -->
