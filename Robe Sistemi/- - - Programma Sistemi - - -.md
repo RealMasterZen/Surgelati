@@ -34,6 +34,19 @@
 		- certification authority
 		- Public Key Infrastructure
 		- richiesta di certificato digitale
+- sicurezza nei sistemi informativi
+	- minaccie naturali
+	- minacce umane
+	- minacce in rete 
+	- breve storia sugli attacchi informatici
+	- sicurezza sistemi informativi
+		- sicurezza informatica
+	- valutazione dei rischi
+	- principali tipologie di minacce
+	- attacchi attivi e attacchi passivi
+	- sicurezza nei sistemi distributivi
+- sicurezza connessioni SSL/TLS
+	- protocollo SSl/TLS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTg4Mjg5OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3OTEzOTg0NCwtMjA4ODc0NjYxMl19
 -->
