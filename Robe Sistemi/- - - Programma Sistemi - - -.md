@@ -46,7 +46,7 @@
 - attacchi attivi e attacchi passivi
 - sicurezza nei sistemi distribuiti
 
-## Sicurezza connessioni SSL/TLS	- protocollo SSL/TLS
+## Sicurezza connessioni SSL/TLS	- protocollo SSL/TLS (182-188)
 - HTTPS
 
 ## ~~Difesa perimetrale con i firewall 	- i firewall~~ 
@@ -68,7 +68,7 @@
 - articolo 18 D.lgs 30/2005
 - legge 48/2008
 
-## Reti wireless	- tipologie
+## Reti wireless	- tipologie (242-27)
 - standard IEEE 802.11
 - cenni crittografia e autenticazione
 - cenni sistema di autenticazione 802.1X
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcyNDk3MzUsLTIxNDM3MTgzNDksLT
+eyJoaXN0b3J5IjpbLTIwNDY4MzQ2NzgsLTIxNDM3MTgzNDksLT
 gxNTkwNTg4Myw4MDM2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0
 NTc0LC0yMDg4NzQ2NjEyXX0=
 -->
