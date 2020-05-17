@@ -1,8 +1,10 @@
 # Programam Sistemi e Reti
 
 ## Le VLAN
-	- caratteristiche delle VLAN
-	- Differenza tra VLAN port based e port tagged(802.1Q)
+	
+- caratteristiche delle VLAN
+- Differenza tra VLAN port based e port tagged(802.1Q)
+- - - 
 - Tecniche crittografiche per la protezione dei dati
 	- principi della crittografia
 	- sicurezza nelle reti
@@ -19,6 +21,7 @@
 		- algoritmo RSA
 		- numeri coprimi
 		- cifratura ibrida
+- - -
 - certificati e firma digitale
 	- generalità
 	- firme digitali
@@ -30,6 +33,7 @@
 		- certification authority
 		- Public Key Infrastructure
 		- richiesta di certificato digitale
+- - - 
 - sicurezza nei sistemi informativi
 	- minaccie naturali
 	- minacce umane
@@ -41,9 +45,11 @@
 	- principali tipologie di minacce
 	- attacchi attivi e attacchi passivi
 	- sicurezza nei sistemi distributivi
+- - -
 - sicurezza connessioni SSL/TLS
 	- protocollo SSL/TLS
 	- HTTPS
+- - -
 - difesa perimetrale con i firewall 
 	- i firewall 
 	- classificazione dei firewall
@@ -54,7 +60,7 @@
 	- stateful inspection
 	- application proxy
 	- DMZ
-
+- - -
 - normativa sulla privacy
 	
 	- giurisprudenza informatica
@@ -107,7 +113,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0MzgzNjAsLTgxNTkwNTg4Myw4MD
-M2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0NTc0LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMjE0NjM0NTk2NCwtODE1OTA1ODgzLDgwMz
+YyMzYxNSwxNTYwNTg4NzQxLDIxMDMyMTQ1NzQsLTIwODg3NDY2
+MTJdfQ==
 -->
