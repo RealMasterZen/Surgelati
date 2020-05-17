@@ -124,8 +124,17 @@
 	- trasmissione wireless
 		- cenni alle tecnologie trasmissive(FHSS, DSSS, HR DSSS, OFDM)
 		- CDMA CTS/RTS
-		- pr
+		- problemi trasmissioni wireless
+		- cenni struttura frame 802.11
+	- architettura reti wireless
+		- componenti reti wireless
+		- il ruolo dell'AP
+	- la normativa delle reti wireless (dopo il 15/05)
+		- R-LAN
+		- EIRP 
+		- DBM e DBI
+		- le disposizio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzA1MzMxMywyMTAzMjE0NTc0LC0yMD
+eyJoaXN0b3J5IjpbMTg5MTUyMTc0MywyMTAzMjE0NTc0LC0yMD
 g4NzQ2NjEyXX0=
 -->
