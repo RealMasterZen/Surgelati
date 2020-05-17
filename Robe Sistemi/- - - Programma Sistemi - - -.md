@@ -153,8 +153,11 @@
 - cenni configurare un raid software
 - vpn, casistiche e implementazioni
 - realizzazione di vpn con openvpn
-- protocollo snmp e app
+- protocollo snmp e apparati di rete
+- monitoring con mrtg e cacti di apparati snmp
+
+- ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTc5MDkyNiwyMTAzMjE0NTc0LC0yMD
+eyJoaXN0b3J5IjpbMTU2MDU4ODc0MSwyMTAzMjE0NTc0LC0yMD
 g4NzQ2NjEyXX0=
 -->
