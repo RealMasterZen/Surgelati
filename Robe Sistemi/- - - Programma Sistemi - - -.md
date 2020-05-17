@@ -4,35 +4,36 @@
 	
 - caratteristiche delle VLAN
 - Differenza tra VLAN port based e port tagged(802.1Q)
-- - - 
-- Tecniche crittografiche per la protezione dei dati
-	- principi della crittografia
-	- sicurezza nelle reti
-	- crittografia
-	- cifratura
-	- crittoanalisi
-	- crittografia simmetrica
-		- cifrario DES
-		- cifrario 3-DES
-		- cifrario AES
-		- cifrario IDEA
-	-  cifratura asimmetrica
-		- meccanismo a chiave pubblica
-		- algoritmo RSA
-		- numeri coprimi
-		- cifratura ibrida
-- - -
-- certificati e firma digitale
-	- generalità
-	- firme digitali
-	- funzione hash
-		- funzione MD5
-		- funzione SHA
-	- algoritmo PGP
-	- certificati
-		- certification authority
-		- Public Key Infrastructure
-		- richiesta di certificato digitale
+ 
+## Tecniche crittografiche per la protezione dei dati
+- principi della crittografia
+- sicurezza nelle reti
+- crittografia
+- cifratura
+- crittoanalisi
+- crittografia simmetrica
+	- cifrario DES
+	- cifrario 3-DES
+	- cifrario AES
+	- cifrario IDEA
+-  cifratura asimmetrica
+	- meccanismo a chiave pubblica
+	- algoritmo RSA
+	- numeri coprimi
+	- cifratura ibrida
+
+## Certificati e firma digitale
+
+- generalità
+- firme digitali
+- funzione hash
+	- funzione MD5
+	- funzione SHA
+- algoritmo PGP
+- certificati
+	- certification authority
+	- Public Key Infrastructure
+	- richiesta di certificato digitale
 - - - 
 - sicurezza nei sistemi informativi
 	- minaccie naturali
@@ -70,7 +71,7 @@
 	- D.lgs 196/2003
 	- articolo 18 D.lgs 30/2005
 	- legge 48/2008
-
+- - -
 - reti wireless
 	- tipologie
 	- standard IEEE 802.11
@@ -113,7 +114,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjM0NTk2NCwtODE1OTA1ODgzLDgwMz
-YyMzYxNSwxNTYwNTg4NzQxLDIxMDMyMTQ1NzQsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbODQ3OTg5Mjg1LC04MTU5MDU4ODMsODAzNj
+IzNjE1LDE1NjA1ODg3NDEsMjEwMzIxNDU3NCwtMjA4ODc0NjYx
+Ml19
 -->
