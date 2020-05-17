@@ -3,7 +3,7 @@
 - Le VLAN
 	- caratteristiche delle VLAN
 	- Differenza tra VLAN port based e port tagged(802.1Q)
-- Tecniche crittografiche perla protezione dei dati
+- Tecniche crittografiche per la protezione dei dati
 	- principi della crittografia
 	- sicurezza nelle reti
 	- crittografia
@@ -107,6 +107,6 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzNjIzNjE1LDE1NjA1ODg3NDEsMjEwMz
-IxNDU3NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTgxNTkwNTg4Myw4MDM2MjM2MTUsMTU2MD
+U4ODc0MSwyMTAzMjE0NTc0LC0yMDg4NzQ2NjEyXX0=
 -->
