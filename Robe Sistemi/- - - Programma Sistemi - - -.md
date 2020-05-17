@@ -1,6 +1,6 @@
 # Programam Sistemi e Reti
 
-- Le VLAN
+## Le VLAN
 	- caratteristiche delle VLAN
 	- Differenza tra VLAN port based e port tagged(802.1Q)
 - Tecniche crittografiche per la protezione dei dati
@@ -107,6 +107,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTkwNTg4Myw4MDM2MjM2MTUsMTU2MD
-U4ODc0MSwyMTAzMjE0NTc0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2ODE0MzgzNjAsLTgxNTkwNTg4Myw4MD
+M2MjM2MTUsMTU2MDU4ODc0MSwyMTAzMjE0NTc0LC0yMDg4NzQ2
+NjEyXX0=
 -->
