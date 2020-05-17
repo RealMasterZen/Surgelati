@@ -115,8 +115,17 @@
 	- D.lgs 196/2003
 	- articolo 18 D.lgs 30/2005
 	- legge 48/2008
-	- 
+
+- reti wireless
+	- tipologie
+	- standard IEEE 802.11
+	- cenni crittografia e autenticazione
+	- cenni sistema di autenticazione 802.1X
+	- trasmissione wireless
+		- cenni alle tecnologie trasmissive(FHSS, DSSS, HR DSSS, OFDM)
+		- CDMA CTS/RTS
+		- pr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEwNDAzMDMsMjEwMzIxNDU3NCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTIxNzA1MzMxMywyMTAzMjE0NTc0LC0yMD
+g4NzQ2NjEyXX0=
 -->
