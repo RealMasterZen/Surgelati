@@ -20,7 +20,20 @@
 		- cifrario IDEA
 	-  cifratura asimmetrica
 		- meccanismo a chiave pubblica
-		- algoritmo
+		- algoritmo RSA
+		- numeri coprimi
+		- cifratura ibrida
+- certificati e firma digitale
+	- generalità
+	- firme digitali
+	- funzione hash
+		- funzione MD5
+		- funzione SHA
+	- algoritmo PGP
+	- certificati
+		- certification authority
+		- Public Key Infrastructure
+		- richiesta di certificato digitale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTIwNTAyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTUzOTg4Mjg5OCwtMjA4ODc0NjYxMl19
 -->
