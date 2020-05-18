@@ -328,12 +328,14 @@ La classificazione dei costi, infine, in evitabili e non evitabili distingue i c
 Rispetto a una decisione: 
 - i **costi evitabili** sono quelli *influenzati dalla decisione* 
 - i **costi non evitabili** sono quelli che *non dipendono da essa e che verranno comunque sostenuti qualunque ne sia l'esito.*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTQyOTY5OCwtNjM0MzcxMTk1LDE5ND
-E3MDYyNCwtNDAyMDUzMDUyLC0zOTkxNjYyMjksNDUyMjgzMTc5
-LDEzODQwMTI4MjYsOTkxODc2Nzc0LDkwMDg0NTQ1OCwtMTg3OD
-QwNzk4LDgyOTE4MjU0OCwtMTI0MjQ0MzksODMwMDY0NDc0LC05
-NTkxODU1NjcsLTIxMjA1MDU5MzAsLTEwMjk5NTM0NCwtMjAwOT
-MwNTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5NDgsLTE2NDI1MzUy
-NDddfQ==
+eyJoaXN0b3J5IjpbNjUyNjkwOTc0LDEwOTU0Mjk2OTgsLTYzND
+M3MTE5NSwxOTQxNzA2MjQsLTQwMjA1MzA1MiwtMzk5MTY2MjI5
+LDQ1MjI4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3NCw5MDA4ND
+U0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgz
+MDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OT
+UzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4
+XX0=
 -->
