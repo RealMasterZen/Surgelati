@@ -41,10 +41,10 @@ Sempre più vicino all'ideale nazionalista allora pubblica il discorso la grande
 
 ## LE OPERE DI GIOVANNI PASCOLI
 
-1891 esce Myricae : una raccolta poetica di carattere tradizionale che racconta di temi della vita di tutti i giorni 
-guardandole con gli occhi del fanciullino.
+**1891 esce Myricae** : una raccolta poetica di carattere tradizionale che racconta di temi della vita di tutti i giorni 
+guardandole con gli **occhi del fanciullino.**
 Accanto alla quotidianità, sono presenti anche i temi del dolore, del nido, del lutto familiare che ha subito il poeta.
-nnotevole è lo sperimentalismo a livello fonico, sintattico e metrico.
+notevole è lo sperimentalismo a livello fonico, sintattico e metrico.
 
 Pubbicati nel 1897 sono i poemetti, primi pooemetti e nuovi poemetti.
 questi rappresentano uno stile metrico ed artistico più elevato che smorza 
@@ -120,5 +120,5 @@ Questa raccolta può essere interpretata come la continuazione morale della racc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDYzNjczLDIxMzYzMjEwNzZdfQ==
+eyJoaXN0b3J5IjpbMTQ0Mjg2ODM1MywyMTM2MzIxMDc2XX0=
 -->
