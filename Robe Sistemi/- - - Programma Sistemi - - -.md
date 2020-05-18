@@ -42,8 +42,8 @@
 - sicurezza sistemi informativi
 	- sicurezza informatica
 - valutazione dei rischi
-- principali tipologie di minacce
-- attacchi attivi e attacchi passivi
+- ~~principali tipologie di minacce~~
+- ~~attacchi attivi e attacchi passivi~~
 - sicurezza nei sistemi distribuiti
 
 ## Sicurezza connessioni SSL/TLS - protocollo SSL/TLS (182-188)
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3Mjk1ODEsOTYxOTMxNjY3LDE1MT
+eyJoaXN0b3J5IjpbLTE3MDA5MjY3NjUsOTYxOTMxNjY3LDE1MT
 M4MTI5LC0yMTQzNzE4MzQ5LC04MTU5MDU4ODMsODAzNjIzNjE1
 LDE1NjA1ODg3NDEsMjEwMzIxNDU3NCwtMjA4ODc0NjYxMl19
 -->
