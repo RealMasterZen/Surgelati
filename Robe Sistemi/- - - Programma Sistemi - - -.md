@@ -36,9 +36,9 @@
 	- richiesta di certificato digitale
 
 ## Sicurezza nei sistemi informativi	- minacce naturali (166-181)
-- minacce umane
+- ~~minacce umane~~
 - minacce in rete 
-- breve storia sugli attacchi informatici
+- ~~breve storia sugli attacchi informatici~~
 - sicurezza sistemi informativi
 	- sicurezza informatica
 - valutazione dei rischi
@@ -50,14 +50,14 @@
 - HTTPS
 
 ## ~~Difesa perimetrale con i firewall - i firewall~~ 
-- classificazione dei firewall
-	- personal firewall
-	- network firewall 
-	- packet filter firewall
-- ACL
-- stateful inspection
-- application proxy
-- DMZ
+- ~~classificazione dei firewall~~
+	- ~~personal firewall~~
+	- ~~network firewall~~ 
+	- ~~packet filter firewall~~
+- ~~ACL~~
+- ~~stateful inspection~~
+- ~~application proxy~~
+- ~~DMZ~~
 
 ## Normativa sulla privacy	
 - giurisprudenza informatica
@@ -109,7 +109,7 @@
 
 - ? realizzazione di dominio per gestione delle autenticazioni e condivisione di file con zentyal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxOTMxNjY3LDE1MTM4MTI5LC0yMTQzNz
-E4MzQ5LC04MTU5MDU4ODMsODAzNjIzNjE1LDE1NjA1ODg3NDEs
-MjEwMzIxNDU3NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE1Mzg3Mjk1ODEsOTYxOTMxNjY3LDE1MT
+M4MTI5LC0yMTQzNzE4MzQ5LC04MTU5MDU4ODMsODAzNjIzNjE1
+LDE1NjA1ODg3NDEsMjEwMzIxNDU3NCwtMjA4ODc0NjYxMl19
 -->
