@@ -46,7 +46,7 @@ guardandole con gli **occhi del fanciullino.**
 Accanto alla quotidianità, sono presenti anche i temi del dolore, del nido, del lutto familiare che ha subito il poeta.
 notevole è lo sperimentalismo a livello fonico, sintattico e metrico.
 
-Pubbicati nel **1897 sono i poemetti**, primi pooemetti e nuovi poemetti.
+Pubbicati nel **1897 sono i poemetti**, primi poemetti e nuovi poemetti.
 questi rappresentano uno **stile metrico ed artistico più elevato** che smorza 
 il tema delle poesie contadine.
 
@@ -57,8 +57,7 @@ parlino di liriche con un più ampio respiro e una magigore frequenza di studiat
 20 poemetti raccolit nei Poemi conviviali
 
 ## LE POESIE LATINE E I SAGGI
-I carmina, scritti in latino, comprendono 30 poemetti e fondamentalmente erano i poemi utilizzati per il concorso di poesia la
-tina ad amsterdam
+I carmina, scritti in latino, comprendono 30 poemetti e fondamentalmente erano i poemi utilizzati per il concorso di poesia latina ad amsterdam
 
 Il fanciullino, pubblicto per la prima volta nel 1897, in cui pascoli edspone in maniera organica i tratti più originali della sua poetica
 secondo cui all'interno di ogni uomo risiede un fanciullino che vede le cose con sorpresa e occhi ingenui.
@@ -120,6 +119,6 @@ Questa raccolta può essere interpretata come la continuazione morale della racc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQxMjk1OTksMTQ0Mjg2ODM1MywyMT
-M2MzIxMDc2XX0=
+eyJoaXN0b3J5IjpbMTM0MjQ2OTA3OCwtMjAzNDEyOTU5OSwxND
+QyODY4MzUzLDIxMzYzMjEwNzZdfQ==
 -->
