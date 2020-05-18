@@ -1,14 +1,14 @@
 # Riassunto Pascoli
 
-Giovanni pascoli nasce nel 31 dicembre del 1855, 
+**Giovanni pascoli nasce nel 31 dicembre del 1855, **
 figlio di ruggero amministratore della tenuta latorre dei principi di torlonia.
 per questo pascoli visse in un clima borghese.
 
-Dall'età di 7 anni Giovanni frequentò il cllegio dei padri Scolopi di urbino dove compì
+Dall'età di **7 anni Giovanni frequentò il cllegio dei padri Scolopi di urbino** dove compì
 studi classici.
 
-Ben presto, il 10 agosto del 1867 un tragico avvenimento segna la vita di pascoli:
-questo evento è rappresentato dalla morte del padre che fu fucilato tornando 
+Ben presto, il **10 agosto del 1867** un tragico avvenimento segna la vita di pascoli:
+questo evento è rappresentato dalla **morte del padre** che fu fucilato tornando 
 di ritorno dalla fiera di Cesena
 
 a questo doloroso evento seguirono:
@@ -16,14 +16,14 @@ a questo doloroso evento seguirono:
 - nel 1871 la morte del fratello Luigi.
 - Abbandonati gli studi a Urbino per ristrettezze economiche riprese gli studi a Firenze
 
-1873 vince una borsa di studio che lo porta a studiare all'università di bologna, in 
-quella università ebbe come maestro Giosuè Carducci.
-la borsa di studio gli venne però tolta a causa delle sue manifestazioni socialista.
+**1873** vince una borsa di studio che lo porta a studiare all'**università di Bologna,** in 
+quella università ebbe come **maestro Giosuè Carducci.**
+la **borsa di studio gli venne però tolta a causa delle sue manifestazioni socialista.**
 Dopo essere stato incarcerato per 3 anni per la stessa motivazione riprese gli studio 
 e concluse a 27 anni nel 1782.
 
 Dopo esserci laureato prese l'insegnamento partendo da Matera e nel 1884 a massa, 
-in quest'ultimo posto si stbilì con le Sorelle ida e maria formando ciò che
+in quest'ultimo posto si stabilì con le Sorelle ida e maria formando ciò che
 da lui era definito il NIDO
 
 Trasferitosi a insegnare a livorno nel 1887 pubblicò verso l'editore Giusti la 
@@ -120,5 +120,5 @@ Questa raccolta può essere interpretata come la continuazione morale della racc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjMyMTA3Nl19
+eyJoaXN0b3J5IjpbMjAxNDYzNjczLDIxMzYzMjEwNzZdfQ==
 -->
