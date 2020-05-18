@@ -329,13 +329,13 @@ Rispetto a una decisione:
 - i **costi evitabili** sono quelli *influenzati dalla decisione* 
 - i **costi non evitabili** sono quelli che *non dipendono da essa e che verranno comunque sostenuti qualunque ne sia l'esito.*
 
-
+- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNjkwOTc0LDEwOTU0Mjk2OTgsLTYzND
-M3MTE5NSwxOTQxNzA2MjQsLTQwMjA1MzA1MiwtMzk5MTY2MjI5
-LDQ1MjI4MzE3OSwxMzg0MDEyODI2LDk5MTg3Njc3NCw5MDA4ND
-U0NTgsLTE4Nzg0MDc5OCw4MjkxODI1NDgsLTEyNDI0NDM5LDgz
-MDA2NDQ3NCwtOTU5MTg1NTY3LC0yMTIwNTA1OTMwLC0xMDI5OT
-UzNDQsLTIwMDkzMDUyMTIsLTc1MzcxOTU4LC0xOTk1NTEwOTQ4
-XX0=
+eyJoaXN0b3J5IjpbLTExOTYyMTQ3MTUsMTA5NTQyOTY5OCwtNj
+M0MzcxMTk1LDE5NDE3MDYyNCwtNDAyMDUzMDUyLC0zOTkxNjYy
+MjksNDUyMjgzMTc5LDEzODQwMTI4MjYsOTkxODc2Nzc0LDkwMD
+g0NTQ1OCwtMTg3ODQwNzk4LDgyOTE4MjU0OCwtMTI0MjQ0Mzks
+ODMwMDY0NDc0LC05NTkxODU1NjcsLTIxMjA1MDU5MzAsLTEwMj
+k5NTM0NCwtMjAwOTMwNTIxMiwtNzUzNzE5NTgsLTE5OTU1MTA5
+NDhdfQ==
 -->
