@@ -46,11 +46,11 @@ guardandole con gli **occhi del fanciullino.**
 Accanto alla quotidianità, sono presenti anche i temi del dolore, del nido, del lutto familiare che ha subito il poeta.
 notevole è lo sperimentalismo a livello fonico, sintattico e metrico.
 
-Pubbicati nel 1897 sono i poemetti, primi pooemetti e nuovi poemetti.
-questi rappresentano uno stile metrico ed artistico più elevato che smorza 
+Pubbicati nel **1897 sono i poemetti**, primi pooemetti e nuovi poemetti.
+questi rappresentano uno **stile metrico ed artistico più elevato** che smorza 
 il tema delle poesie contadine.
 
-nel 1903 Pascoli lavorando ai poemetti inizia una nuova raccolta chiamata canti di castelvecchio, nome ispirato alla località in
+nel **1903 Pascoli lavorando ai poemetti** inizia una nuova raccolta chiamata **canti di castelvecchio**, nome ispirato alla località in
 cui si era trasferito con la sorella maria, questo solitamente sono giudicati come seguito ala raccolta myricae sebbene
 parlino di liriche con un più ampio respiro e una magigore frequenza di studiati giochi fonici con una maggiore musicalità
 
@@ -120,5 +120,6 @@ Questa raccolta può essere interpretata come la continuazione morale della racc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjg2ODM1MywyMTM2MzIxMDc2XX0=
+eyJoaXN0b3J5IjpbLTIwMzQxMjk1OTksMTQ0Mjg2ODM1MywyMT
+M2MzIxMDc2XX0=
 -->
