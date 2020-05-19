@@ -41,28 +41,30 @@ Temi:
 - il poeta è veggente tramite il proprio disordine dei sensi.
 
 **Charles Baudelaire**
-Nasce a parigi nel 1821
-il padre muore nel 1927
-madre si sposa con un ufficiale
-a 18 anni riceve il patrimonio del padre ma a causa del suo tenore di vita sperpera molto denato
 
-messo sotto tutela notarile dal padre
+- Nasce a parigi nel 1821
 
-Inizia la carriera di giornalista e critico di arte e di musica
+- il padre muore nel 1927
 
-Nel 1948 partecipa alla rivoluzione parigina dove fa la vita da Dandy dove è attanagliato dai debiti e quindi si da alla vita metropolitana 
-Evade quindi dai problemi attraverso l'alchol e la droga 
+- madre si sposa con un ufficiale
+- 18 anni riceve il patrimonio del padre ma a causa del suo tenore di vita sperpera molto denaro
+- messo sotto tutela notarile dal padre
 
-Nel 1857 Scrive i **Fiori del Male** - una lirica moderna
+- Inizia la carriera di giornalista e critico di arte e di musica
 
-nel 1862 Pubblic Speel di Parigi
+- Nel 1948 partecipa alla rivoluzione parigina dove fa la vita da Dandy dove è attanagliato dai debiti e quindi si da alla vita metropolitana 
+- Evade quindi dai problemi attraverso l'alchol e la droga 
 
-nel 1867 Muore di paralisi
+- Nel 1857 Scrive i **Fiori del Male** - una lirica moderna
+
+- nel 1862 Pubblic Spleen di Parigi
+
+- nel 1867 Muore di paralisi
 
 **Fiori del Male**
-Esso è una Raccolta di liriche, molte già presenti in alcune riviste francesi
+- Esso è una Raccolta di liriche, molte già presenti in alcune riviste francesi
 
-nel 1861 - Seconda Edizione:
+Nel 1861 - Seconda Edizione:
 - nuovi testi
 - divide in 6 sezioni
 Le liriche rappresentano una specie di autobiografia ideale - percorso esistenziale 
@@ -84,5 +86,5 @@ per poter rivelarla agli esseri comuni questo deve provvedere all'utilizzo di un
 		- sogno
 - Evasione della realtà per il raggiungimento di un paradiso artificiale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNTc3ODI3XX0=
+eyJoaXN0b3J5IjpbLTMwNjYzMzY2LDk4MjU3NzgyN119
 -->
