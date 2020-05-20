@@ -168,10 +168,12 @@ Crittografia che Utilizza 2 chiavi differenti:
 - Pubblica(per la Criptazione)
 - Privata(per la Decriptazione)
 
-
+Con questa metodologia crittografica si sono risolti 2 problemi:
+- Problema legato alla riservatezza di una informazione
+- Problema legato all'autenticità del mittente
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNDMwNjA0LC0yMDc1MzEwNjYyLDE0OT
+eyJoaXN0b3J5IjpbMzY4NzE1MTQ1LC0yMDc1MzEwNjYyLDE0OT
 MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
 NzQsLTE4NTYzNjUxNDRdfQ==
 -->
