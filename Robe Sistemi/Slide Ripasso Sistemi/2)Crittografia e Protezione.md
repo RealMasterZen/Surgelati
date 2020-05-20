@@ -64,10 +64,10 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 | Pro | Contro  |
 |--|--|
-|  Molto Veloce | Difficoltà nella distribuaizone della chiave |
+|  Molto Veloce | Difficoltà nella distribuzione della chiave |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1ODY0MTMyLDIxMzA0MDc1NzQsLTE4NT
-YzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbMTQ3NjAwMDM1NSwyMTMwNDA3NTc0LC0xOD
+U2MzY1MTQ0XX0=
 -->
