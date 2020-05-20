@@ -84,7 +84,14 @@ Crittografia dei dati fatta attraverso:
 ## Trasmissione Wireless
 
 WALN Utilizza 2 tecnologie:
-	
+- Tecnologie Radio: norme precise per le interferenze
+- Tecnologie ottiche: risentono delel condizioni atmosferiche
+
+Tecniche di modulazione d'onda:
+- FHSS: Frequency Hopp Spread Spectrum
+- DSSS: Direct Sequence Spread Spectrum 
+- HR DSSS:
+- OFDM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjYzNDU0MiwtOTc4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbLTE3NjAyOTY1NTIsLTk3ODk4NjU0N119
 -->
