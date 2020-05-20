@@ -113,16 +113,16 @@ Possiede quindi 3 chiavi:
 - - - 
 ### IDEA
 
- Internetional Data Encryption Algorithm
- - Cifrario a blocchi
- - Sistituì DES
+ **Internetional Data Encryption Algorithm**
+ - **Cifrario a blocchi**
+ - -**Sostituì DES**
 
-Chiave:  128 bit divisa in 8 blocchi da 16 bit
-Messaggio: blocchi da 64 bit divisi in 4 blocchi da 16 bit
+**Chiave:**  128 bit divisa in 8 blocchi da 16 bit
+**Messaggio:** blocchi da 64 bit divisi in 4 blocchi da 16 bit
 
 **Questo è il cifrario più utilizzato commercialmente per velocità e sicurezza**
 
-Struttura:
+**Struttura:**
  - Serie di 8 round
 - Combinazioni di operazioni su numeri a 16 bit
 - Operazioni:
@@ -149,9 +149,15 @@ Advanced Encryption Standard
 
 - Struttura dell'algoritmo:
 	- Matrici 4x4: "Stati"
-	- 
+	- Passaggio Iniziale : Add Round Key
+	- 10 round con 4 operazioni:
+		- Substitute Bytes
+		- Shift rows
+		- Mix columns
+		- Addo Round Key
+	- Ultimo Pssaggio senza Mix columns
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzU5Nzg2OSwtMjA3NTMxMDY2MiwxND
+eyJoaXN0b3J5IjpbLTcwNTI0MTAyNSwtMjA3NTMxMDY2MiwxND
 kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
 NTc0LC0xODU2MzY1MTQ0XX0=
 -->
