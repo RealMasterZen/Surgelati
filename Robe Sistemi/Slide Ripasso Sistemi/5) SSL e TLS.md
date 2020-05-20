@@ -6,9 +6,13 @@ per questo è necessario introdurre protocolli di protezione a livello di:
 - Rete (3)
 - Sessione (4)
 
-## SSL
+## SSL / TLS
 
-o Secure
+o rispettivamente:
+- Secure Socket Layer
+- Transport layer security
+
+Sono un insieme di protocolli crittografici
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTUyODIwXX0=
+eyJoaXN0b3J5IjpbNzc3ODIzMjk4XX0=
 -->
