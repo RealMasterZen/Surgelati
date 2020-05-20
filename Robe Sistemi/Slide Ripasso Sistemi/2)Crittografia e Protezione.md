@@ -81,10 +81,14 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 - Data Encryption Standard
 - Cifrario a blocchi -> chiave blocco di 64 bit
 
-- Chiave 64 bit ;
-	- 
+- Chiave 64 bit:
+	- 8 sono di controllo
+	- 56 sono utili
+> 16 Trasformazioni successive applicate a ogni blocco del messaggio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzM3NzE3OSwtMjA3NTMxMDY2MiwxND
+eyJoaXN0b3J5IjpbMjAxODQ3NTg5NSwtMjA3NTMxMDY2MiwxND
 kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
 NTc0LC0xODU2MzY1MTQ0XX0=
 -->
