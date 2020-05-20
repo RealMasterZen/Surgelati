@@ -160,12 +160,12 @@ Questo può essere suddiviso in 3 tipi:
 
 >Entità che permette la distribuzione dei servizi MAC via wireless medium per le stazioni associate
 
-Esso rappresenta una sorta di bridge locale tra la rete wireless e quella cablata
+Esso rappresenta una sorta di **bridge locale tra la rete wireless e quella cablata**
 
 Per impostarlo esistono 2 modalità:
 - Root Access Point
 - Repeater Access Point(Ripetitore del Wi-Fi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTMxNDM0MiwtMTIxNjQ0ODQ4OCwtOT
-c4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbMjU3ODEyMzE0LC0xMjE2NDQ4NDg4LC05Nz
+g5ODY1NDddfQ==
 -->
