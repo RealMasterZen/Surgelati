@@ -18,8 +18,16 @@ Rete dell'ufficio - Bluetooth
 - WLAN (Wireless Local Area Network)
 100-500 metri / STA + Access point
 - WWAN (Wireless Wide Area Network)
-()
+(2G/3G/4G)
  
+ ## Standard IEEE 802.11
+- Protocollo IEEE 802.11 Legacy
+	- Specifiche a livello fisico e data Link per le WLan
+	- Velocità. 1/2 Mbps
+	- mezzo: raggi infrarossi a 2.4 Ghz(radio successivamente)
+- 802.11 b
+	- Wi-Fi : Wireless Fidelity
+	- Data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTgyMDEwN119
+eyJoaXN0b3J5IjpbLTEwNDAxMDI3OTNdfQ==
 -->
