@@ -1,10 +1,15 @@
 # Firewall e VPN
 
-Questo è il meccanismo per controllare il traffico in transito all'interno della nostra rete
+> meccanismo per controllare il traffico in transito all'interno della nostra rete e per bloccare l'accesso indesiderato dall'esterno
 
 Esso è:
-- Un sistema Sia Hardware che Software dedicato alla difesa perimetrale di una rete
-- Difesa sia per i pacchetti entranti che uscenti attraverso il filtraggio che viene regolato da apposite liste: le ACL
+- Un **sistema Sia Hardware che Software** dedicato alla **difesa perimetrale di una rete**
+- Difesa sia per i pacchetti entranti che uscenti attraverso il **filtraggio che viene regolato da apposite liste:** le **ACL**
+
+Nella progettazione di un Firewall bisogna tenere conto di 3 principi fondamentali:
+- Il firewall è l'unico punto di contatto della rete interna con quella esterna
+- Solo il traffico autorizzato può attraversare il firewall
+- Il fir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg0Njc0NTRdfQ==
+eyJoaXN0b3J5IjpbMTExMzU4OTY1XX0=
 -->
