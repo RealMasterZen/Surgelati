@@ -35,8 +35,13 @@ Problemi nelle reti:
 	- regola (algoritmo utilizzato)
 	- uno  più parametri
 
-Schema crittografico si Chiave cifratura = Chiave decifratura
-- Chiave cifratura != Chiave decifratura
+**Schema crittografico simmetrico:** Chiave cifratura = Chiave decifratura
+
+**Schema Crittografico asimmetrico:** Chiave cifratura != Chiave decifratura
+
+## Crittoanalisi
+
+> E' l'attacco di un critto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzMxODY2NiwtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbMTg4MjMyOTY5OCwtMTg1NjM2NTE0NF19
 -->
