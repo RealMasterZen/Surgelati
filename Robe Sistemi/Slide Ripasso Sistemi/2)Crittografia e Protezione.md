@@ -200,9 +200,12 @@ Generazione Chiavi:
 
 - Numeri coprimi: 
 	- a è coprimo di b se MCD è 1
-	- a è  
+	- a è coprimo di qualsiasi numero non divisibile da a 
+- Espressione RSA -> d*e = 1 mod m
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMTc0NTIxLC0xMDc1NDY2NDExLDExMj
+eyJoaXN0b3J5IjpbODU3MDQ2MDc4LC0xMDc1NDY2NDExLDExMj
 I3NTIwMjYsLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMzQ2MDY2
 NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF
 19
