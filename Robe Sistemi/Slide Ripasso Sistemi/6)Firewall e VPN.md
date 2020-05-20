@@ -41,10 +41,10 @@ Programma installato sul pC che lo proteffe da eventuali attacchi esterni
 
 ## Network Firewall 
 
-Firewall aziendali: con una o più macchine dedicate al filtraggio di apcchetti
+**Firewall aziendali**: con una o più macchine dedicate al filtraggio di apcchetti
 
 Classificazione:
-- Packet filtering router
+- **Packet filtering router**
 - Circuit gateway 
 - Proxy Server
 
@@ -68,21 +68,25 @@ Cisco router ACL/ Linux Netfilter
 
 Esso effettua un filtraggio in base alla connessione
 
-utilizza quindi una tabella di stato:
--identificatore univoco di sessione
-Ip Sorgente e destinatario
-interfacce di rete
-Stato della connessione
+utilizza quindi una **tabella di stato**:
+- identificatore univoco di sessione
+- Ip Sorgente e destinatario
+- interfacce di rete
+- Stato della connessione
 
-Vantaggi:
+**Vantaggi:**
 - rapporto prestazionei/Sicurezza
 - Protezione dall'Ip spoofing/ session hijacking
 - Vantaggi packet filtering(trasparenza-velocità-gateway only)
 
-Svantaggi:
--protocollo unico
-auditing
+**Svantaggi:**
+- protocollo unico
+- auditing limitato
+- Mancanza di servizi aggiuntivi 
+- Testing Complesso
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNDM1ODI1LDE1ODk3MTYwNjMsNjQyMj
-E4Mjg0LDE0NDcwNzMwNjldfQ==
+eyJoaXN0b3J5IjpbMTc1NTAwMjU5OCwxNTg5NzE2MDYzLDY0Mj
+IxODI4NCwxNDQ3MDczMDY5XX0=
 -->
