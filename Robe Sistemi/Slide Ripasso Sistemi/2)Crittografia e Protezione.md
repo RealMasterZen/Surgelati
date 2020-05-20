@@ -69,13 +69,13 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 **Chiave Asimmetrica o chiave pubblica:**
 
-|  |  |
+| Pro | Contro |
 |--|--|
-|  |  |
+| Lenta Nell | |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDA1NTEzMSwxNDkzMzk4MzksLTEzND
-YwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3NTc0LC0xODU2MzY1
-MTQ0XX0=
+eyJoaXN0b3J5IjpbLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMz
+Q2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2
+NTE0NF19
 -->
