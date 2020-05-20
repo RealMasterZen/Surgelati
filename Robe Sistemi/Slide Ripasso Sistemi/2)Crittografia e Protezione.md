@@ -203,10 +203,15 @@ Generazione Chiavi:
 	- a è coprimo di qualsiasi numero non divisibile da a 
 - Espressione RSA -> d*e = 1 mod m
 
+- Algoritmo Crittografico:
+	- Cifratura del messaggio 
+		- Calcolo crittogramma C
+			- m^a mod n
+			- 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MDQ2MDc4LC0xMDc1NDY2NDExLDExMj
-I3NTIwMjYsLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMzQ2MDY2
-NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF
-19
+eyJoaXN0b3J5IjpbMTEyNjgzOTU0NCwtMTA3NTQ2NjQxMSwxMT
+IyNzUyMDI2LC0yMDc1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2
+NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxND
+RdfQ==
 -->
