@@ -42,6 +42,18 @@ Risultato:
  - SHA1(violato)
  - SHA2(in uso)
  - SHA3(annunciato)
+
+Struttura:
+	- aggiunta bit di riempimento nel messaggio
+	- aggiunta della lunghezza del messaggio
+	- schema a 8 registri 
+	- 80 cicli di operazioni su blocchi da 512 o 1024 bit
+
+## Certificati Digitali
+
+Documento informatico contenuto nella smart card del titolare firmato digitalmente da un ente certificatore
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzODU1NTQyXX0=
+eyJoaXN0b3J5IjpbMTM3NDE0ODQxM119
 -->
