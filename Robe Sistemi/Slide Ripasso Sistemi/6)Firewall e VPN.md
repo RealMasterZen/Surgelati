@@ -23,8 +23,14 @@ Collegamenti che avvengono da dentro per l'esterno della rete
 
 ### Per il Numero di host gestiti
 
-- ****
+- **Personal firewall**
+protezione di un singolo host(genericamente un software installato sul pc del soprascritto host)
+- **Network Firewall**
+Tutto il traffico di una rete aziendale gestito e protetto
 
+### Per il livello di intervento
+
+- ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTE4NzgyLDE0NDcwNzMwNjldfQ==
+eyJoaXN0b3J5IjpbLTE0MjEzOTgyMjEsMTQ0NzA3MzA2OV19
 -->
