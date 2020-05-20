@@ -50,7 +50,11 @@ Prblemi di una WLAN:
 - Controllo di accesso
 - integrità dei dati
 
-
+Tipologie di attacchi a una WLAN
+- Waves Dropping(intercettazione)
+- Accessi non autorizzati
+- interferenze e jamming
+- Danni Materiali all'apparecchiatura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDk4MTA3NSwtOTc4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbLTE0MTM1ODcwNjgsLTk3ODk4NjU0N119
 -->
