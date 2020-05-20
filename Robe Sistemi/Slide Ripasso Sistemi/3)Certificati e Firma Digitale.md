@@ -68,7 +68,14 @@ Public Key Infrastructure
 
 Infrastruttura tecnica organizzativa preposta alla creazione, distribuzione e revoca del certificato di chiave pubblica
 
-- Gestiscono 
+- Gestiscono una repository dei certificati attivi e revocati(CRL -> Certificate revocation List)
+
+Richiesta di un certificato:
+- generazione delle chiavi asimmetriche
+- informazioni del richiedente alla C.A
+- verifica dei dati ricevuti
+- generazione del certificato
+- certificato al richiedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU2Mzk5MzBdfQ==
+eyJoaXN0b3J5IjpbNjM2MzUzNjY1XX0=
 -->
