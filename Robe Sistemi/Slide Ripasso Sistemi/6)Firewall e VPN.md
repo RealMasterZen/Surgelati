@@ -13,7 +13,9 @@ Nella progettazione di un Firewall bisogna tenere conto di 3 principi fondamenta
 
 - **Il firewall deve essere un sistema altamente sicuro esso stesso**
 
+## Classificazione Firewall 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbLTE2MTAzNzQ3NDgsMTQ0NzA3MzA2OV19
 -->
