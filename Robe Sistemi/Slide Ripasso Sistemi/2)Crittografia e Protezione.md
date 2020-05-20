@@ -210,10 +210,12 @@ Generazione Chiavi:
 	- Decifratura del messaggio
 		- Calcolo c^d mod n
 
-
+## Crittografia Ibrida
+Unisce i due sistemi per unirne i vantaggi
+- 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODc0Mjc5NSwtMTA3NTQ2NjQxMSwxMT
+eyJoaXN0b3J5IjpbMjAxMTgyNzY3NiwtMTA3NTQ2NjQxMSwxMT
 IyNzUyMDI2LC0yMDc1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2
 NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxND
 RdfQ==
