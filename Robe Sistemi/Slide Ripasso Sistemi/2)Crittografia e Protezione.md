@@ -212,11 +212,12 @@ Generazione Chiavi:
 
 ## Crittografia Ibrida
 Unisce i due sistemi per unirne i vantaggi
-- 
+- Uniscono i due sistemi per unirne i vantaggi 
+- Chiave pubblica per comunicare la chiave privata 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTgyNzY3NiwtMTA3NTQ2NjQxMSwxMT
-IyNzUyMDI2LC0yMDc1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2
-NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxND
-RdfQ==
+eyJoaXN0b3J5IjpbMzcyMzA0MzE3LC0xMDc1NDY2NDExLDExMj
+I3NTIwMjYsLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMzQ2MDY2
+NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF
+19
 -->
