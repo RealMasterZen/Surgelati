@@ -92,7 +92,12 @@ Due fasi:
 		- Dos/ DDos
 	- Eventi accidentali:
 		- errata gestione della infrastruttura e degli assett
+		- non adeguatezza della situazione
+
+## Tipologie di minacce
+
+Attacchi Passi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUwMzU5ODIsLTE4MjQ5NzQ5MTYsOD
-E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
+eyJoaXN0b3J5IjpbMTg5Njc5OTkyMCwtMTgyNDk3NDkxNiw4MT
+k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
 -->
