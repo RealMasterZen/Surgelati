@@ -7,9 +7,13 @@ Esso è:
 - Difesa sia per i pacchetti entranti che uscenti attraverso il **filtraggio che viene regolato da apposite liste:** le **ACL**
 
 Nella progettazione di un Firewall bisogna tenere conto di 3 principi fondamentali:
-- Il firewall è l'unico punto di contatto della rete interna con quella esterna
-- Solo il traffico autorizzato può attraversare il firewall
-- Il fir
+- Il **firewall è l'unico punto di contatto della rete interna con quella esterna**
+
+- **Solo il traffico autorizzato può attraversare il firewall**
+
+- **Il firewall deve essere un sistema altamente sicuro esso stesso**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzU4OTY1XX0=
+eyJoaXN0b3J5IjpbMTQ0NzA3MzA2OV19
 -->
