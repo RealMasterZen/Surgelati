@@ -181,8 +181,9 @@ Esistono 2 modalità di utilizzo di questo algoritmo:
 - **Autenticazione** dove:
 	- Con la chiave **Privata Crypto** il contenuto del messaggio
 	- con la Chiave **Pubblica Decrypto** il contenuto del messaggio
+	> Questa metodologia garantisce inegrità del messaggio ma non riservatezza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NDk0MjQ3LC0yMDc1MzEwNjYyLDE0OT
-MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
-NzQsLTE4NTYzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbMTEyMjc1MjAyNiwtMjA3NTMxMDY2MiwxND
+kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
+NTc0LC0xODU2MzY1MTQ0XX0=
 -->
