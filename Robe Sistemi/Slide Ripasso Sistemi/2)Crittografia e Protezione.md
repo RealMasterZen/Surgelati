@@ -211,13 +211,18 @@ Generazione Chiavi:
 		- Calcolo c^d mod n
 
 ## Crittografia Ibrida
+
 Unisce i due sistemi per unirne i vantaggi
 - Uniscono i due sistemi per unirne i vantaggi 
-- Chiave pubblica per comunicare la chiave privata 
+- Chiave pubblica per comunicare la chiave segreta
+- Asimmetrica -> comunicazione chiave
+- Simmetrica -> Comunicazione Messaggio
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMzA0MzE3LC0xMDc1NDY2NDExLDExMj
-I3NTIwMjYsLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMzQ2MDY2
-NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF
-19
+eyJoaXN0b3J5IjpbLTExNzIwNDQ1MDUsLTEwNzU0NjY0MTEsMT
+EyMjc1MjAyNiwtMjA3NTMxMDY2MiwxNDkzMzk4MzksLTEzNDYw
+NjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3NTc0LC0xODU2MzY1MT
+Q0XX0=
 -->
