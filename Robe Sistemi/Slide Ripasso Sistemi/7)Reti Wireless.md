@@ -132,7 +132,13 @@ A e C non si vedono ma creano interferenze
 
 A e B comunicano
 C deve trasmettere a D (che è fuori dal campo segnale di trasmissione di B)
+C sente la trasmissione di B e aspetta solo il via libera per comunicare con D
+
+# Frame 802.11
+
+Questo può essere suddiviso in 3 tipi:
+	- Dati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzY2NTksLTEyMTY0NDg0ODgsLTk3OD
-k4NjU0N119
+eyJoaXN0b3J5IjpbLTE1MDYzNjU3MywtMTIxNjQ0ODQ4OCwtOT
+c4OTg2NTQ3XX0=
 -->
