@@ -73,9 +73,9 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 |--|--|
 | Nessuna distribuzione della chiave |Lenta Nella comunicazione|
 
-## Algortimi a Chiave Simmetrica
+## Crittografia Simmetrica
 
-
+Sono tutti quegli algoritmi che condividono una chiave comune e segreta per criptare e decriptare il messaggio
 
 ### DES
 > Il Des è un cifrario Misto: 
@@ -185,9 +185,13 @@ Esistono 2 modalità di utilizzo di questo algoritmo:
 	- con la Chiave **Pubblica Decrypto** il contenuto del messaggio
 	> Questa metodologia garantisce inegrità del messaggio ma non riservatezza
 
-###
+### RSA
+
+Rivest-Shawn-Adleman
+
+Struttura 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDMyMzgwNywxMTIyNzUyMDI2LC0yMD
-c1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYx
-OTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzU0NjY0MTEsMTEyMjc1MjAyNiwtMj
+A3NTMxMDY2MiwxNDkzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2
+MTkzNSwyMTMwNDA3NTc0LC0xODU2MzY1MTQ0XX0=
 -->
