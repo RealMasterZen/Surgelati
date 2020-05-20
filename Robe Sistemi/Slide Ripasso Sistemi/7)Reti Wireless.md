@@ -45,12 +45,12 @@ Rete dell'ufficio - Bluetooth
 
 # Autenticazione Nelle reti Wireless
 
-Prblemi di una WLAN:
-- Riservatezza
-- Controllo di accesso
-- integrità dei dati
+**Problemi di una WLAN:**
+- **Riservatezza**
+- **Controllo di accesso**
+- **integrità dei dati**
 
-Tipologie di attacchi a una WLAN
+**Tipologie di attacchi a una WLAN**
 - Waves Dropping(intercettazione)
 - Accessi non autorizzati
 - interferenze e jamming
@@ -83,11 +83,11 @@ Crittografia dei dati fatta attraverso:
 
 ## Trasmissione Wireless
 
-WALN Utilizza 2 tecnologie:
-- Tecnologie Radio: norme precise per le interferenze
-- Tecnologie ottiche: risentono delel condizioni atmosferiche
+**WLAN Utilizza 2 tecnologie:**
+- **Tecnologie Radio**: norme precise per le interferenze
+- **Tecnologie ottiche**: risentono delel condizioni atmosferiche
 
-Tecniche di modulazione d'onda:
+**Tecniche di modulazione** d'onda:
 - FHSS: Frequency Hopp Spread Spectrum
 - DSSS: Direct Sequence Spread Spectrum 
 - HR DSSS: High Rate DSSS
@@ -107,9 +107,9 @@ Due Modalità:
 ## Prblemi nelle trasmissioni wireless
 
 - **Trasmissione delle onde in etere**
-	- Attenuzaione del segnale con ostacoli e indebolimento
-	- Interferenze da altre sorgenti saturazione di dispositivi a 2,4 Ghz
-	- Propagazione su più cammini:
+	- **Attenuazione del segnale** con ostacoli e indebolimento
+	- **Interferenze da altre sorgenti** saturazione di dispositivi a 2,4 Ghz
+	- **Propagazione su più cammini:**
 		- riflessione
 		- rifrazione
 		- diffrazione
@@ -166,6 +166,6 @@ Per impostarlo esistono 2 modalità:
 - Root Access Point
 - Repeater Access Point(Ripetitore del Wi-Fi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1Nzg5NTkxLC0xMjE2NDQ4NDg4LC05Nz
-g5ODY1NDddfQ==
+eyJoaXN0b3J5IjpbMTYzOTY3ODA0MiwtMTIxNjQ0ODQ4OCwtOT
+c4OTg2NTQ3XX0=
 -->
