@@ -129,11 +129,12 @@ SSTP - protocollo buono e affidabile basato su Windows
 ## I Vari tipi di Connessione in VPN
 
 Le connessioni in Vpn si raggruppano sotto 2 principali tipi di accesso :
-- Connessioni VPN ad accesso remoto:
+- **Connessioni VPN ad accesso remoto:**
 Consentono di entrare in un server di una rete privata attraverso la rete internet
 
-- Connessioni VPN site-to-site permette di connettersi ad una rete privata attraverso un router privato e personalizzato
+- **Connessioni VPN site-to-site:**
+Permette di connettersi ad una rete privata attraverso un router privato e personalizzato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDE5MzE4MiwzOTg0NTc2MDMsMTU4OT
+eyJoaXN0b3J5IjpbMTQ1MTc4NDU1NCwzOTg0NTc2MDMsMTU4OT
 cxNjA2Myw2NDIyMTgyODQsMTQ0NzA3MzA2OV19
 -->
