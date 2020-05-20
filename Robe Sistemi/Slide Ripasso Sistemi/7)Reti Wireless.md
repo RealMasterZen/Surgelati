@@ -34,6 +34,9 @@ Rete dell'ufficio - Bluetooth
 - 802.11 f
 	- IAPP (INTERNET ACCESS POINT PROCOTOL)
 	- handover di terminali
+- 802.11 g
+	- frequenza come 802.11b
+	- velocit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODk4NjU0N119
+eyJoaXN0b3J5IjpbLTE0NjkzNDg3MCwtOTc4OTg2NTQ3XX0=
 -->
