@@ -32,7 +32,11 @@ Procedura:
 Struttura:
 	- aggiunta bit di riempimento nel messaggio
 	- aggiunta della lunghezza del messaggio
-	- inizializzazione del buffer  
+	- inizializzazione del buffer MessageDigest
+	- Elaborazione del Messaggio
+
+Risultato:
+- Stringa di 128 bit (MD5 checksum) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4OTUxNjAyXX0=
+eyJoaXN0b3J5IjpbMTUyOTk0NzIxMF19
 -->
