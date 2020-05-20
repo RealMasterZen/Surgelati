@@ -137,8 +137,12 @@ C sente la trasmissione di B e aspetta solo il via libera per comunicare con D
 # Frame 802.11
 
 Questo può essere suddiviso in 3 tipi:
-	- Dati
+	- Dati - Controllo - Gestione
+	- header - body - Frame Check Sequence 32 bit
+
+# Architettura delle reti wireless
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYzNjU3MywtMTIxNjQ0ODQ4OCwtOT
-c4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbLTEyNDcyMzk2NDgsLTEyMTY0NDg0ODgsLT
+k3ODk4NjU0N119
 -->
