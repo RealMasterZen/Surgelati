@@ -16,8 +16,11 @@ Problemi nelle reti:
 
 ## Crittografia
 
-- Insieme delle tecniche che consentono di realizzare la cifratura di un testo e la decifratura di un crittogramma
-- Cifratura: processo attraverso il quale un 
+> **Insieme delle tecniche che consentono di realizzare la cifratura di un testo e la decifratura di un crittogramma**
+- Cifratura: 
+	- processo attraverso il quale un messaggio viene reso incomprensibile per gli estranei
+	- utilizzo di un algoritmo di cifratura
+	- testo criptato -> cipher text 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTQ2ODg1Nl19
+eyJoaXN0b3J5IjpbLTE4NTYzNjUxNDRdfQ==
 -->
