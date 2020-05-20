@@ -69,8 +69,20 @@ Cisco router ACL/ Linux Netfilter
 Esso effettua un filtraggio in base alla connessione
 
 utilizza quindi una tabella di stato:
--identificatore u
+-identificatore univoco di sessione
+Ip Sorgente e destinatario
+interfacce di rete
+Stato della connessione
+
+Vantaggi:
+- rapporto prestazionei/Sicurezza
+- Protezione dall'Ip spoofing/ session hijacking
+- Vantaggi packet filtering(trasparenza-velocità-gateway only)
+
+Svantaggi:
+-protocollo unico
+auditing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NDg0MTYyLDE1ODk3MTYwNjMsNjQyMj
+eyJoaXN0b3J5IjpbNDUxNDM1ODI1LDE1ODk3MTYwNjMsNjQyMj
 E4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
