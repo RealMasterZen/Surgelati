@@ -98,8 +98,12 @@ Tecniche di modulazione d'onda:
 	- Protocollo di accesso al canale
 
 Due Modalità:
-	- DCF: gestione da parte delle stazioni
-	- PCF: gestione da parte dei AP
+	- **DCF:** gestione da parte delle stazioni
+	- **PCF:** gestione da parte dei AP
+
+**RTS: Request To send**
+**CTS: Clear to send**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0NDg0ODgsLTk3ODk4NjU0N119
+eyJoaXN0b3J5IjpbMTQ1MDEzMDA5MSwtMTIxNjQ0ODQ4OCwtOT
+c4OTg2NTQ3XX0=
 -->
