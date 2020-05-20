@@ -13,6 +13,13 @@ Rete Cellulare:
 Topologia:
 - BAN (Body Area Network)
 Reti Wearable(auricolari, lettori Mp3)
+- PAN (Personal Area Network)
+Rete dell'ufficio - Bluetooth
+- WLAN (Wireless Local Area Network)
+100-500 metri / STA + Access point
+- WWAN (Wireless Wide Area Network)
+()
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MjU4MjgxXX0=
+eyJoaXN0b3J5IjpbMTk5NTgyMDEwN119
 -->
