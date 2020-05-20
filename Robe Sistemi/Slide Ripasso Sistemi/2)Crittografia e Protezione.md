@@ -30,6 +30,13 @@ Problemi nelle reti:
 
 **Cifratura:** sostituzione di lettere o caratteri
 **Codifica:** sostituzione di parole
+
+- Regola di cifratura:
+	- regola (algoritmo utilizzato)
+	- uno  più parametri
+
+Schema crittografico si Chiave cifratura = Chiave decifratura
+- Chiave cifratura != Chiave decifratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzUxNTkwMSwtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbMTE5NzMxODY2NiwtMTg1NjM2NTE0NF19
 -->
