@@ -34,7 +34,11 @@ Esterno: comunicazione livello 3 -> routing
 
 
 ## VLAN tagged
+- 802.1Q vero e proprio
+- utilizza gli indirizzi di rete degli host
+- Porta tagged -> Porta di Trunk -> trunk link
+- Standard 802.1Q: agg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTExNDQxNiwtMTU5NDEyMDk2LC0yMj
+eyJoaXN0b3J5IjpbMTg1Njg1NDA1OSwtMTU5NDEyMDk2LC0yMj
 Y1MzgyOTRdfQ==
 -->
