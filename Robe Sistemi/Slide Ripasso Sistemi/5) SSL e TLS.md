@@ -29,7 +29,12 @@ Attraverso dei meccanismi di Hashing
 Questo protocollo solitamente viene accoppiato ad altri protocolli:
 - HTTPS -> HTTP + SSL/TLS
 - S-HTTP 
+- SMTPS
+- POPS
+- IMAPS
+
+>Gli indirizzi dei siti protetti con SSL iniziano per https:// e hanno alla loro sinistra l'immagine di un lucchetto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzY4MjA1OF19
+eyJoaXN0b3J5IjpbOTAzMDkzMjgwXX0=
 -->
