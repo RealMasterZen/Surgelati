@@ -42,7 +42,7 @@ Problemi nelle reti:
 
 ## Crittoanalisi
 
-> E' l'attacco di un crittoanalista mirato a violare il crittosistema
+> **E' l'attacco di un crittoanalista mirato a violare il crittosistema**
 
 **Principio di Kerchoffs** -> chiave elemento fondamentale
 
@@ -69,6 +69,6 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODg2MTkzNSwyMTMwNDA3NTc0LC0xOD
-U2MzY1MTQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMT
+MwNDA3NTc0LC0xODU2MzY1MTQ0XX0=
 -->
