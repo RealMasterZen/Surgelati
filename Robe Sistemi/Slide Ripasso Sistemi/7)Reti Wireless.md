@@ -128,8 +128,11 @@ A e B comunicano
 B e C comunicano 
 A e C non si vedono ma creano interferenze
 
+## Problema della stazione esposta
 
+A e B comunicano
+C deve trasmettere a D (che è fuori dal campo segnale di trasmissione di B)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE5NzAxNjQsLTEyMTY0NDg0ODgsLT
-k3ODk4NjU0N119
+eyJoaXN0b3J5IjpbNjQxNzY2NTksLTEyMTY0NDg0ODgsLTk3OD
+k4NjU0N119
 -->
