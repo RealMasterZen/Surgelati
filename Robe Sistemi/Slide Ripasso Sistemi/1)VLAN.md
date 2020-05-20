@@ -44,7 +44,8 @@ TAG:
 - primi 2 byte
 	- Tag protocol Identifier
 	- contengono il tag Ether type
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTY0MjM1MiwtMTU5NDEyMDk2LC0yMj
-Y1MzgyOTRdfQ==
+eyJoaXN0b3J5IjpbMjA3MzM5MDA5MSwtMzQ1NjQyMzUyLC0xNT
+k0MTIwOTYsLTIyNjUzODI5NF19
 -->
