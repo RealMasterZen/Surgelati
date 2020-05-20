@@ -118,8 +118,18 @@ Due Modalità:
 
 - Problemi di Posizionamento degli host
 	- HandOff
-	Situazione in cui l'host 
+	Situazione in cui l'host si sposta tra due aree di copertura
+		- Handoff orizzontale -> AP stessa tecnologia
+		- Handoff verticale -> AP tecnologia diversa
+
+## Problema della stazione Nascosta
+
+A e B comunicano
+B e C comunicano 
+A e C non si vedono ma creano interferenze
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4NTY1ODQsLTEyMTY0NDg0ODgsLT
+eyJoaXN0b3J5IjpbLTE4NjE5NzAxNjQsLTEyMTY0NDg0ODgsLT
 k3ODk4NjU0N119
 -->
