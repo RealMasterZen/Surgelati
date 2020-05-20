@@ -101,10 +101,14 @@ Proxy: programma eseguito sul gateway che funge da intermediario a livello di ap
 
 Demilitarized Zone
 
-E' Una porzioen di rete che separa la rete interna dalla rete esterna
+E' Una porzione di rete che separa la rete interna dalla rete esterna
 
 Essa garantisce Sicurezza perimetrale  lasciando l'accesso al sistema ad una sola porta 
+
+# VPN
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY3MTQ0NzMsMTU4OTcxNjA2Myw2ND
-IyMTgyODQsMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbODUxODc3Njg0LDE1ODk3MTYwNjMsNjQyMj
+E4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
