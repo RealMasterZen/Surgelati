@@ -37,10 +37,21 @@ Attacchi Interni:
 Attacchi Esterni:
 	- sniffers
 
+## Minacce in rete
+
+BroadCast: punto debole di molte reti
+
+Packet Sniffer:
+- Programmi di diagnostica
+- Catturano, analizzano e decodificano tutti i pacchetti in transito
+- Strumento diventato molto utile per i malintenzionati
+
+## Sicurezza sistema informatico 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ5NzQ5MTYsODE5NTI0OTAzLC0xMD
-Y3NjI2NDE0XX0=
+eyJoaXN0b3J5IjpbMTMwNjg4NjA2OCwtMTgyNDk3NDkxNiw4MT
+k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
 -->
