@@ -96,7 +96,15 @@ Proxy: programma eseguito sul gateway che funge da intermediario a livello di ap
 | Supporto connessioni multiple | | 
 | User-friendly | | 
 | Autenticazione Contenuti | | 
+
+## DMZ 
+
+Demilitarized Zone
+
+E' Una porzioen di rete che separa la rete interna dalla rete esterna
+
+Essa garantisce Sicurezza perimetrale  lasciando l'accesso al sistema 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc3NTkxNDgsMTU4OTcxNjA2Myw2ND
+eyJoaXN0b3J5IjpbLTE4NjY2NDU0NTUsMTU4OTcxNjA2Myw2ND
 IyMTgyODQsMTQ0NzA3MzA2OV19
 -->
