@@ -107,8 +107,12 @@ Essa garantisce Sicurezza perimetrale  lasciando l'accesso al sistema ad una sol
 
 # VPN
 
+è una rete personale capace di mascherare il proprio indirizzo Ip e criptare la comunicazione una volta che si effettua l'accesosa Internet
 
+Ciò implica che il traffico sarà protetto da eventuali attacchi dall'esterno
+
+Sfruttando il sistema di tunneling, una rete VPN ha caratteristiche particolari e diversificate a seconda della tipologia, sso in ogni caso non necessita di cavi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxODc3Njg0LDE1ODk3MTYwNjMsNjQyMj
-E4Mjg0LDE0NDcwNzMwNjldfQ==
+eyJoaXN0b3J5IjpbLTEyNjYyNjUxODUsMTU4OTcxNjA2Myw2ND
+IyMTgyODQsMTQ0NzA3MzA2OV19
 -->
