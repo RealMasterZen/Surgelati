@@ -24,13 +24,17 @@ Esterno: comunicazione livello 3 -> routing
 - Possibilità di estensione oltre i limiti di uno switch
 
 ## VLAN port-based
-- untagged LAN o private VLAN
-- utilizza i numeri delle porte dello switch
-- Porta -> Accesso
+- Untagged LAN o private VLAN
+- Utilizza i numeri delle porte dello switch
+- Porta -> Access Port -> Access link
+- Switch -> 3 operazioni:
+	- ingress
+	- forwarding
+	- egress
 
 
 ## VLAN tagged
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcyOTk5OTAsLTE1OTQxMjA5NiwtMj
-I2NTM4Mjk0XX0=
+eyJoaXN0b3J5IjpbMjA1OTExNDQxNiwtMTU5NDEyMDk2LC0yMj
+Y1MzgyOTRdfQ==
 -->
