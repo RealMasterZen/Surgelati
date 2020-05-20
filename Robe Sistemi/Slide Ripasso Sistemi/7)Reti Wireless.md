@@ -72,8 +72,19 @@ Crittografia dei dati fatta attraverso:
 		- sequenziamento dei pacchetti
 		- rimescolamento delle chiavi
 		- rigenerazione delle chiavi
+
 - **WPA 2 (AES)**
-	- Advan
+	- Advanced Encryption Standard
+		- Chiavi 128 - 192 . 252 bit 
+	- Modalità operative:
+		- Electronic CodeBook(ECB)
+		- Counter(CTR)
+		- Cipher-Block Chaining(CBC)
+
+## Trasmissione Wireless
+
+WALN Utilizza 2 tecnologie:
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDU0NzE3NCwtOTc4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbMTQyMjYzNDU0MiwtOTc4OTg2NTQ3XX0=
 -->
