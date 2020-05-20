@@ -90,8 +90,8 @@ WALN Utilizza 2 tecnologie:
 Tecniche di modulazione d'onda:
 - FHSS: Frequency Hopp Spread Spectrum
 - DSSS: Direct Sequence Spread Spectrum 
-- HR DSSS:
+- HR DSSS: High Rate DSSS
 - OFDM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAyOTY1NTIsLTk3ODk4NjU0N119
+eyJoaXN0b3J5IjpbMTYxNzUwMzg0MSwtOTc4OTg2NTQ3XX0=
 -->
