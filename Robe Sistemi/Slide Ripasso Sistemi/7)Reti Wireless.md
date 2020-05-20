@@ -148,8 +148,13 @@ Componenti di una rete wireless
 - Collegamenti(etere)
 - Stazione base(cell tower/Access Point)
 
-Tassonomia delle reti wireless ()
+Tassonomia delle reti wireless (classificazione)
+- Hop Singolo, no infrastruttura(no stazione base)
+> Bluetooth
+- Hop Singolo, con infrastruttura(stazione su rete cablata)
+> Rete di Casa
+- Hop Multi, no Infrastruttura()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjc3NTcxOSwtMTIxNjQ0ODQ4OCwtOT
-c4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbNzY3Mjc1MzE5LC0xMjE2NDQ4NDg4LC05Nz
+g5ODY1NDddfQ==
 -->
