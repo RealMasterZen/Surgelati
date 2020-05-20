@@ -18,6 +18,10 @@ Interno: comunicazione livello 2
 Esterno: comunicazione livello 3 -> routing 
 
 Vantaggi delle VLAN:
+- Economicità
+- Scalabilità
+- Ottimizzazione del'uso delle infrastr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQxMjA5NiwtMjI2NTM4Mjk0XX0=
+eyJoaXN0b3J5IjpbMjA4ODExNDkzMSwtMTU5NDEyMDk2LC0yMj
+Y1MzgyOTRdfQ==
 -->
