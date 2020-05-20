@@ -148,9 +148,10 @@ Advanced Encryption Standard
 - Chiave fatto da 128, 192 o 256 bit
 
 - Struttura dell'algoritmo:
-	- Metrici 4x4: 
+	- Matrici 4x4: "Stati"
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NDUxODY1LC0yMDc1MzEwNjYyLDE0OT
-MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
-NzQsLTE4NTYzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbMTIzNzU5Nzg2OSwtMjA3NTMxMDY2MiwxND
+kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
+NTc0LC0xODU2MzY1MTQ0XX0=
 -->
