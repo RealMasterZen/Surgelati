@@ -139,10 +139,17 @@ Monitoraggio e controllo degli accessi
 Analisi dei dati raccolti
 
 **Garantire la sicurezza attraverso la prevenzione**:
-- Utilizzo della crittografica 
+- Utilizzo della crittografia
+- Autenticazione degli utenti
+- Firma elettronica
+- Connessioni TCP sono sicure con SSl
+- Firewall 
+- Reti Private e VPN
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODgwNzgwOCwzNDk3NDcyODUsLTEyMj
+eyJoaXN0b3J5IjpbMjA2NjQyNTM3OSwzNDk3NDcyODUsLTEyMj
 Y3NjU1MjksLTE4MjQ5NzQ5MTYsODE5NTI0OTAzLC0xMDY3NjI2
 NDE0XX0=
 -->
