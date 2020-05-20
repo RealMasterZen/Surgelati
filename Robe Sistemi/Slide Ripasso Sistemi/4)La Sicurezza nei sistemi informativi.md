@@ -51,11 +51,15 @@ Packet Sniffer:
 Impedire a potenziali soggetti attaccanti, l'uso o l'accesso a informazioni e risorse
 
 CIA(Confidentiality-Integrity-Availability)
+- **Data confidentiality:** mantere la segretezza
+- **Data Integrity:** evitare che i dati vengano alterati
+- **Sistem Availability:** garantire che il sistema continuerà ad operare
 
+Aspetti dellAnalisi dei rischi
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzA1MjIwNiwtMTgyNDk3NDkxNiw4MT
+eyJoaXN0b3J5IjpbMTU1ODE3ODMwMCwtMTgyNDk3NDkxNiw4MT
 k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
 -->
