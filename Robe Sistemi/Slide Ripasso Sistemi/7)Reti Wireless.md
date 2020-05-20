@@ -145,10 +145,10 @@ Questo può essere suddiviso in 3 tipi:
 **Componenti di una rete wireless**
 - **Infrastruttura di rete(rete)**
 - **Host** Wireless(laptop. smartphone)
-- Collegamenti(etere)
-- Stazione base(cell tower/Access Point)
+- **Collegamenti(etere)**
+- **Stazione base(cell tower/Access Point)**
 
-Tassonomia delle reti wireless (classificazione)
+**Tassonomia delle reti wireless (classificazione)**
 - Hop Singolo, no infrastruttura(no stazione base)
 > Bluetooth
 - Hop Singolo, con infrastruttura(stazione su rete cablata)
@@ -166,6 +166,6 @@ Per impostarlo esistono 2 modalità:
 - Root Access Point
 - Repeater Access Point(Ripetitore del Wi-Fi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTk5NDc3OCwtMTIxNjQ0ODQ4OCwtOT
+eyJoaXN0b3J5IjpbLTU2OTMxNDM0MiwtMTIxNjQ0ODQ4OCwtOT
 c4OTg2NTQ3XX0=
 -->
