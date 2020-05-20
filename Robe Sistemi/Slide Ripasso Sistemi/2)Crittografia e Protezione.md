@@ -157,12 +157,14 @@ Advanced Encryption Standard
 		- Add Round Key
 	- Ultimo Passaggio senza Mix columns
 
-I Metodi di valutazione dell'Algoritmo AES furono:
+**I Metodi di valutazione dell'Algoritmo AES furono:**
 - sicurezza 
 - costo
-- caratteristiche dell'algoritmo e dell'implement
+- caratteristiche dell'algoritmo e dell'implementazione
+
+## Algoritmi Asimmetri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTI4MjgyNywtMjA3NTMxMDY2MiwxND
+eyJoaXN0b3J5IjpbLTMwMzgwNTE3MCwtMjA3NTMxMDY2MiwxND
 kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
 NTc0LC0xODU2MzY1MTQ0XX0=
 -->
