@@ -110,8 +110,18 @@ Attacchi attivi:
 - Produzione:
 	- Attacchi virus
 	- Attacchi worm
-	- Attacchi Dos
+	- Attacchi Dos:
+		- Ping flooding
+		- SYN attack
+		- DDos
+- Phishing:
+	- shadow server
+	- plugin: troyan horse
+	- spear phishing
+- Intrusione:
+	- Accesso non autorizzato a uno o più host
+	- risultato delle tecniche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY3NjU1MjksLTE4MjQ5NzQ5MTYsOD
-E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
+eyJoaXN0b3J5IjpbLTM3MjEyNTQ3OCwtMTIyNjc2NTUyOSwtMT
+gyNDk3NDkxNiw4MTk1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
 -->
