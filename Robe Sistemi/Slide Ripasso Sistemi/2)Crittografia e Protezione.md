@@ -27,6 +27,9 @@ Problemi nelle reti:
 	- processo attraverso il quale un messaggio viene reso comprensibile ha chi ne ha il diritto
 	- algoritmo di decifratura
 	- testo in chiaro -> plain text
+
+**Cifratura:** sostituzione di lettere o caratteri
+**Codifica:** sostituzione di parole
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODA4NTI5NiwtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbLTQ1MzUxNTkwMSwtMTg1NjM2NTE0NF19
 -->
