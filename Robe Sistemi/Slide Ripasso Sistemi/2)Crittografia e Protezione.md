@@ -116,9 +116,16 @@ Possiede quindi 3 chiavi:
  - Cifrario a blocchi
  - Sistituì DES
 
--Chiave 128 bit divisa
+Chiave:  128 bit divisa in 8 blocchi da 16 bit
+Messaggio: blocchi da 64 bit divisi in 4 blocchi da 16 bit
+
+Questo è il cifrario più utilizzato coimmercialmente per velocità e sicurezza
+
+Struttura: - Serie di 8 round
+combinazioni di operazioni su numeri a 16 bit
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNDE1NzM0LC0yMDc1MzEwNjYyLDE0OT
-MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
-NzQsLTE4NTYzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbMTU4Mjk1NDA1MCwtMjA3NTMxMDY2MiwxND
+kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
+NTc0LC0xODU2MzY1MTQ0XX0=
 -->
