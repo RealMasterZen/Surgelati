@@ -120,8 +120,12 @@ Per questi motivi una rete VPN sarà sempre riservata, anonima e accessibile.
 La VPN fa uso di differenti protocolli di cifratura, alcuni molto comuni, altri più particolari.
 Generalmente i maggiori protocolli di una VPN si individuano in:
 
+PPTP - proprietario di microsoft è il più conosciuto ma al giorno d'oggi si conoscono alternative molto migliori
 
+OPENVPN - un protocollo open source tra i più complessi , ma al contempo tra i più sicuri 
+
+SSTP - protocollo buono e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4NDU3NjAzLDE1ODk3MTYwNjMsNjQyMj
-E4Mjg0LDE0NDcwNzMwNjldfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc2NzIwMjUsMzk4NDU3NjAzLDE1OD
+k3MTYwNjMsNjQyMjE4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
