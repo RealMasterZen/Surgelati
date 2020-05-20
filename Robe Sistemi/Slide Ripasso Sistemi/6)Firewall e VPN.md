@@ -89,14 +89,14 @@ Proxy: programma eseguito sul gateway che funge da intermediario a livello di ap
 
 |Vantaggi | Svantaggi |
 |--|--|
-| Controllo Completo | Autenticazione Contenuti |
-| Log Dettagliati | Cache  | 
-| No Connessione Diretta | | 
-| Sicurezza in caso di crash | | 
+| Controllo Completo |  |
+| Log Dettagliati | Cache occupata | 
+| No Connessione Diretta | Poco trasparente | 
+| Sicurezza in caso di crash | Basse performance | 
 | Supporto connessioni multiple | | 
 | User-friendly | | 
-
+| Autenticazione Contenuti | | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDY2MDMxNCwxNTg5NzE2MDYzLDY0Mj
-IxODI4NCwxNDQ3MDczMDY5XX0=
+eyJoaXN0b3J5IjpbLTE2OTAyNTU3NjYsMTU4OTcxNjA2Myw2ND
+IyMTgyODQsMTQ0NzA3MzA2OV19
 -->
