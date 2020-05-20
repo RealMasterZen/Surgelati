@@ -9,9 +9,9 @@ Problemi nelle reti:
 - autenticazione
 	> processo di riconoscimento delle credenziali dell'utente
 - affidabilità dei documenti
-	> garanzia e certezza dell'originalitò di un documento
+	> garanzia e certezza dell'originalità di un documento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTI0NzU2OF19
+eyJoaXN0b3J5IjpbMTU3MDQwMTI4Ml19
 -->
