@@ -56,8 +56,14 @@ Tipologie di attacchi a una WLAN
 - interferenze e jamming
 - Danni Materiali all'apparecchiatura
 
-Crittografia dei dati 
-- WEP -> Wired E
+Crittografia dei dati fatta attraverso: 
+- **WEP ( Wired Equivalent Privacy)**
+	- protocollo a livello Data-Link
+		- Algoritmo RC4
+		- Sistema di controllo a CRC 32
+	- Basato sul modello a chiave simmetrica
+	- rilasciato prematuramente -> sicurezza non sufficiente
+- **WPA ()**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTczMzk3MywtOTc4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbNTM0MjcwNTM5LC05Nzg5ODY1NDddfQ==
 -->
