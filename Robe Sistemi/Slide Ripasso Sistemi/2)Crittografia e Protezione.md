@@ -174,10 +174,12 @@ Con questa metodologia crittografica si sono risolti 2 problemi:
 
 Esistono 2 modalità di utilizzo di questo algoritmo:
 - **Confidenziale** dove:
-	- 
+	- Con la chiave Pubblica Crypto il contenuto del messaggio
+	- con la Chiave Privata Decrypto il contenuto del messaggio
+> Questa metodologia garantisce riservatez
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDMyNTI5NSwtMjA3NTMxMDY2MiwxND
+eyJoaXN0b3J5IjpbLTIyMDkyNTI3OSwtMjA3NTMxMDY2MiwxND
 kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
 NTc0LC0xODU2MzY1MTQ0XX0=
 -->
