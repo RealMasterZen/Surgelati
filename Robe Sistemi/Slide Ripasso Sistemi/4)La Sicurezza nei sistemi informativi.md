@@ -48,10 +48,14 @@ Packet Sniffer:
 
 ## Sicurezza sistema informatico 
 
+Impedire a potenziali soggetti attaccanti, l'uso o l'accesso a informazioni e risorse
+
+CIA(Confidentiality-Integrity-Availability)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjg4NjA2OCwtMTgyNDk3NDkxNiw4MT
+eyJoaXN0b3J5IjpbLTU1NzA1MjIwNiwtMTgyNDk3NDkxNiw4MT
 k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
 -->
