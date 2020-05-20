@@ -33,7 +33,16 @@ Tutto il traffico di una rete aziendale gestito e protetto
 - **Filtri di pacchetto IP**
 Permettono di bloccare o abilitare selettivamente il traffico che attraversa il firewall definendo i protocolli, gli indirizzi IP e le porte utilizzate.
 - **Serventi proxy**
-Rappresentano una sorta di intermediario che si occupa di intrattenere le connessioni per cont
+Rappresentano una sorta di intermediario che si occupa di intrattenere le connessioni per conto di qualcun altro nella rete interna
+
+## Personal Firewall 
+
+Programma installato sul pC che lo proteffe da eventuali attacchi esterni
+
+## Network Firewall 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMjE4Mjg0LDE0NDcwNzMwNjldfQ==
+eyJoaXN0b3J5IjpbMTU4OTcxNjA2Myw2NDIyMTgyODQsMTQ0Nz
+A3MzA2OV19
 -->
