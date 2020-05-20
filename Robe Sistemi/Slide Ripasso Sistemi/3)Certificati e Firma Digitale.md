@@ -24,10 +24,7 @@ Procedura:
 
 ## Funzioni di Hash
 
-- MD5
-- SHA
-
-- Algoritmo MD5 (Message Digest 5)
+### Algoritmo MD5 (Message Digest 5)
 
 Struttura:
 	- aggiunta bit di riempimento nel messaggio
@@ -37,6 +34,14 @@ Struttura:
 
 Risultato:
 - Stringa di 128 bit (MD5 checksum) 
+- - - 
+### Algoritmo SHA(Secure Hash Algorithm)
+ 
+ A sua volta suddiviso in 4 categorie:
+ - SHA0(obsoleto)
+ - SHA1(violato)
+ - SHA2(in uso)
+ - SHA3(annunciato)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTk0NzIxMF19
+eyJoaXN0b3J5IjpbNTMzODU1NTQyXX0=
 -->
