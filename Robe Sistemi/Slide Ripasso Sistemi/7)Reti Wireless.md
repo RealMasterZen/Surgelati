@@ -91,7 +91,15 @@ Tecniche di modulazione d'onda:
 - FHSS: Frequency Hopp Spread Spectrum
 - DSSS: Direct Sequence Spread Spectrum 
 - HR DSSS: High Rate DSSS
-- OFDM
+- OFDM: Orthogonal Frequency Division Mutiplexing
+
+### CDMA e CTS / RTS 
+- Code Division Multiple Access
+	- Protocollo di accesso al canale
+
+Due Modalità:
+	- DCF: gestione da parte delle stazioni
+	- PCF: gestione da parte dei AP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzUwMzg0MSwtOTc4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbLTEyMTY0NDg0ODgsLTk3ODk4NjU0N119
 -->
