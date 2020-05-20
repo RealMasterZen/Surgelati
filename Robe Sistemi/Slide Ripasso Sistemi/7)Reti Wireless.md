@@ -11,9 +11,9 @@ Rete Cellulare:
 - L'utente si muove di cella in cella (handover)
 
 Topologia:
-- BAN (Body Area Network)
+- **BAN (Body Area Network)**
 Reti Wearable(auricolari, lettori Mp3)
-- PAN (Personal Area Network)
+- *PAN (Personal Area Network)
 Rete dell'ufficio - Bluetooth
 - WLAN (Wireless Local Area Network)
 100-500 metri / STA + Access point
@@ -45,5 +45,5 @@ Rete dell'ufficio - Bluetooth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyOTExMjk4LC05Nzg5ODY1NDddfQ==
+eyJoaXN0b3J5IjpbNTE3NjYwNzA4LC05Nzg5ODY1NDddfQ==
 -->
