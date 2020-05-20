@@ -62,20 +62,22 @@ Problemi nelle reti:
 Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 **Chiave Simmetrica o chiave privata:**
-
+- - - 
 | Pro | Contro  |
 |--|--|
 |  Molto Veloce | Difficoltà nella distribuzione della chiave |
 
 **Chiave Asimmetrica o chiave pubblica:**
-
+- - - 
 | Pro | Contro |
 |--|--|
-| Lenta Nell | |
+| Nessuna distribuzione della chiave |Lenta Nella comunicazione|
+
+## Algortimi a Chiave Simmetrica
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMz
-Q2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2
-NTE0NF19
+eyJoaXN0b3J5IjpbMTcyMTM2MDc2OCwtMjA3NTMxMDY2MiwxND
+kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
+NTc0LC0xODU2MzY1MTQ0XX0=
 -->
