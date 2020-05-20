@@ -2,7 +2,17 @@
 
 Virtual LAN
 - Lan realizzata logicamente
-- s
+- standard 802.1Q
+- Livello 2 stackISO OSI
+
+Dominio di broadcast:
+- segmento di rete
+- contiene host appartenenti alla stessa subnet che comunicano tra di loro senza passare da un router appartenendo alla stessa VLAN
+
+- VLAN:
+- - rete locale separata dalle altre
+- pacchetti broadcast confinati all'interno
+Interno:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA5NTYxMTFdfQ==
+eyJoaXN0b3J5IjpbNTU2MjE4MTA4XX0=
 -->
