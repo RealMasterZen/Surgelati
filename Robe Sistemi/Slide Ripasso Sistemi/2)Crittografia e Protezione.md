@@ -184,14 +184,16 @@ Esistono 2 modalità di utilizzo di questo algoritmo:
 	- Con la chiave **Privata Crypto** il contenuto del messaggio
 	- con la Chiave **Pubblica Decrypto** il contenuto del messaggio
 	> Questa metodologia garantisce inegrità del messaggio ma non riservatezza
-
+- - - 
 ### RSA
 
 Rivest-Shawn-Adleman
 
-Struttura 
+Struttura:
+- generazione delle chiavi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU0NjY0MTEsMTEyMjc1MjAyNiwtMj
-A3NTMxMDY2MiwxNDkzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2
-MTkzNSwyMTMwNDA3NTc0LC0xODU2MzY1MTQ0XX0=
+eyJoaXN0b3J5IjpbLTY3NjcwNjg1OCwtMTA3NTQ2NjQxMSwxMT
+IyNzUyMDI2LC0yMDc1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2
+NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxND
+RdfQ==
 -->
