@@ -19,7 +19,20 @@ Utilizzo di una funzione di hash:
 Procedura:
 - Estrazione del fingerprint dal documento
 - cifrazione della fingerprint
-- finger print accodata al me
+- finger print accodata al messaggio
+- certificato del firmatario accodato al messaggio
+
+## Funzioni di Hash
+
+- MD5
+- SHA
+
+- Algoritmo MD5 (Message Digest 5)
+
+Struttura:
+	- aggiunta bit di riempimento nel messaggio
+	- aggiunta della lunghezza del messaggio
+	- inizializzazione del buffer  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDI3NjY2M119
+eyJoaXN0b3J5IjpbMjk4OTUxNjAyXX0=
 -->
