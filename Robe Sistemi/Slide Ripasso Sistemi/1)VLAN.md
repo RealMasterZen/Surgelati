@@ -37,8 +37,10 @@ Esterno: comunicazione livello 3 -> routing
 - 802.1Q vero e proprio
 - utilizza gli indirizzi di rete degli host
 - Porta tagged -> Porta di Trunk -> trunk link
-- Standard 802.1Q: agg
+- Standard 802.1Q: 
+	- aggiunge 4 byte(TAG) al frame ethernet
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Njg1NDA1OSwtMTU5NDEyMDk2LC0yMj
-Y1MzgyOTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MzA1OTQ3MjgsLTE1OTQxMjA5NiwtMj
+I2NTM4Mjk0XX0=
 -->
