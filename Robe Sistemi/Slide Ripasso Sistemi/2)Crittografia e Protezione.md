@@ -164,16 +164,20 @@ Advanced Encryption Standard
 
 ## Crittografia Asimmetrica
 
-Crittografia che Utilizza 2 chiavi differenti:
-- Pubblica(per la Criptazione)
-- Privata(per la Decriptazione)
+Crittografia che Utilizza **2 chiavi differenti:**
+- **Pubblica**(per la Criptazione)
+- **Privata**(per la Decriptazione)
 
 Con questa metodologia crittografica si sono risolti 2 problemi:
 - Problema legato alla riservatezza di una informazione
 - Problema legato all'autenticità del mittente
 
+Esistono 2 modalità di utilizzo di questo algoritmo:
+- **Confidenziale** dove:
+	- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4NzE1MTQ1LC0yMDc1MzEwNjYyLDE0OT
-MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
-NzQsLTE4NTYzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbLTkxNDMyNTI5NSwtMjA3NTMxMDY2MiwxND
+kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
+NTc0LC0xODU2MzY1MTQ0XX0=
 -->
