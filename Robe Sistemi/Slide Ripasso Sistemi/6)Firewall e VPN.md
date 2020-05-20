@@ -45,9 +45,21 @@ Firewall aziendali: con una o più macchine dedicate al filtraggio di apcchetti
 
 Classificazione:
 - Packet filtering router
-- Ci
+- Circuit gateway 
+- Proxy Server
 
+ ## Packet Filtering Router
+Scherma i pacchetti indipendente dal protocollo, dall'indirizzo, dalla destinazione
+
+Analizza l'header TCP/Ip:
+- Ip del mittente o destinatario
+- MAC sorgente o destinazione
+- numero di porta
+- protocollo
+
+# ACL
+Access Control List
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUwMjEzNzMsMTU4OTcxNjA2Myw2ND
-IyMTgyODQsMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbMTg1NzUyMjgyNywxNTg5NzE2MDYzLDY0Mj
+IxODI4NCwxNDQ3MDczMDY5XX0=
 -->
