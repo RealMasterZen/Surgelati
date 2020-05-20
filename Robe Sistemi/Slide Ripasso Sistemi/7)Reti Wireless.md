@@ -63,7 +63,17 @@ Crittografia dei dati fatta attraverso:
 		- Sistema di controllo a CRC 32
 	- Basato sul modello a chiave simmetrica
 	- rilasciato prematuramente -> sicurezza non sufficiente
-- **WPA ()**
+
+- **WPA (TKIP WPA1)**
+	- Temporary Key  Integrity Protocol
+	Un involucro intorno al preesistente WEp
+	- 4 elementi:
+		- MIC(controllo dell'integrità)
+		- sequenziamento dei pacchetti
+		- rimescolamento delle chiavi
+		- rigenerazione delle chiavi
+- **WPA 2 (AES)**
+	- Advan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MjcwNTM5LC05Nzg5ODY1NDddfQ==
+eyJoaXN0b3J5IjpbMTI1NDU0NzE3NCwtOTc4OTg2NTQ3XX0=
 -->
