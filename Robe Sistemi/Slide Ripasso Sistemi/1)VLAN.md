@@ -39,8 +39,12 @@ Esterno: comunicazione livello 3 -> routing
 - Porta tagged -> Porta di Trunk -> trunk link
 - Standard 802.1Q: 
 	- aggiunge 4 byte(TAG) al frame ethernet
-
+		
+TAG:
+- primi 2 byte
+	- Tag protocol Identifier
+	- contengono il tag Ether type
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA1OTQ3MjgsLTE1OTQxMjA5NiwtMj
-I2NTM4Mjk0XX0=
+eyJoaXN0b3J5IjpbLTM0NTY0MjM1MiwtMTU5NDEyMDk2LC0yMj
+Y1MzgyOTRdfQ==
 -->
