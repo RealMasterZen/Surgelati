@@ -14,7 +14,10 @@ Problemi nelle reti:
 	- Livello Applicazione
 	> garanzia e certezza dell'originalità di un documento
 
+## Crittografia
 
+- Insieme delle tecniche che consentono di realizzare la cifratura di un testo e la decifratura di un crittogramma
+- Cifratura: processo attraverso il quale un 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMjQ2MTc1XX0=
+eyJoaXN0b3J5IjpbMTcxMTQ2ODg1Nl19
 -->
