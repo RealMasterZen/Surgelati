@@ -93,7 +93,7 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 - 16 volte applicata la funzione cifraria di sostituzione
 
 Questo presta l'algoritmo ad essere propenso all'effetto valanga cioè un minimo cambiamento di dati nel plain text comporta un cambiamento massivo nel cipher text.
-
+- - - 
 ### 3-DES
 Triple DES
 
@@ -107,11 +107,18 @@ Possiede quindi 3 chiavi:
 - Chiave 3 (Cifratura)
 
 **Il cifrario 3des offre 3 alternative:**
-- K1,K2,K3 Diverse e indipendenti
-- K1 = K3 e K2 Differente
-- K1=K2=K3
+- **K1,K2,K3 Diverse e indipendenti**
+- **K1 = K3 e K2 Differente**
+- **K1=K2=K3**
+- - - 
+### IDEA
+ Internetional Data Encryption Algorithm
+ - Cifrario a blocchi
+ - Sistituì DES
+
+-Chiave 128 bit divisa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk5MzExMzQsLTIwNzUzMTA2NjIsMT
-Q5MzM5ODM5LC0xMzQ2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQw
-NzU3NCwtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbNDgwNDE1NzM0LC0yMDc1MzEwNjYyLDE0OT
+MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
+NzQsLTE4NTYzNjUxNDRdfQ==
 -->
