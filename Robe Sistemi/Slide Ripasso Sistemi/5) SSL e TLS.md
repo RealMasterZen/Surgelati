@@ -12,9 +12,14 @@ o rispettivamente:
 - Secure Socket Layer
 - Transport layer security
 
-Sono un insieme di protocolli crittografici che aggiungono funzionalità di cifratura e autenticazione a livello di sessione
+> Sono un insieme di **protocolli crittografici** che **aggiungono funzionalità di cifratura e autenticazione a livello di sessione**
+
+Il protocollo SSL garantisce la sicurezza del collegamento mediante 3 funzionalità fondamentali:
+- privatezza del collegamento
+Attraverso algoritmi di criptazione 
+- autenticazione 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDI0NDA3NV19
+eyJoaXN0b3J5IjpbLTEzODQyNTE2NjddfQ==
 -->
