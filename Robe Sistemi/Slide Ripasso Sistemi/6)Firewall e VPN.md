@@ -41,8 +41,13 @@ Programma installato sul pC che lo proteffe da eventuali attacchi esterni
 
 ## Network Firewall 
 
+Firewall aziendali: con una o più macchine dedicate al filtraggio di apcchetti
+
+Classificazione:
+- Packet filtering router
+- Ci
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTcxNjA2Myw2NDIyMTgyODQsMTQ0Nz
-A3MzA2OV19
+eyJoaXN0b3J5IjpbLTE3OTUwMjEzNzMsMTU4OTcxNjA2Myw2ND
+IyMTgyODQsMTQ0NzA3MzA2OV19
 -->
