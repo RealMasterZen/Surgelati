@@ -144,20 +144,25 @@ Advanced Encryption Standard
 	- velocità e compattezza
 	- semplicità progettuale
 	
-- Messaggio è fatto da blocchi di 128 bit
-- Chiave fatto da 128, 192 o 256 bit
+- **Messaggio:** è fatto da blocchi di 128 bit
+- **Chiave:** fatto da 128, 192 o 256 bit
 
-- Struttura dell'algoritmo:
+- **Struttura** dell'algoritmo:
 	- Matrici 4x4: "Stati"
 	- Passaggio Iniziale : Add Round Key
 	- 10 round con 4 operazioni:
 		- Substitute Bytes
 		- Shift rows
 		- Mix columns
-		- Addo Round Key
-	- Ultimo Pssaggio senza Mix columns
+		- Add Round Key
+	- Ultimo Passaggio senza Mix columns
+
+I Metodi di valutazione dell'Algoritmo AES furono:
+- sicurezza 
+- costo
+- caratteristiche dell'algoritmo e dell'implement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTI0MTAyNSwtMjA3NTMxMDY2MiwxND
+eyJoaXN0b3J5IjpbMTY4OTI4MjgyNywtMjA3NTMxMDY2MiwxND
 kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
 NTc0LC0xODU2MzY1MTQ0XX0=
 -->
