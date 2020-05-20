@@ -76,6 +76,8 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 ## Algortimi a Chiave Simmetrica
 
 ### DES
+> Il Des è un cifrario Misto: 
+> Sia di sostituzione che di traspo
 
 (Data Encription Standard)
 - Data Encryption Standard
@@ -90,9 +92,9 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 - Trasposizione di 56 bit alla chiave
 - 16 volte applicata la funzione cifraria di sostituzione
 
-Questo presta l'algoritmo ad essere propenso all'effetto val
+Questo presta l'algoritmo ad essere propenso all'effetto valanga cioè un minimo cambiamento di dati nel plain text comporta un cambiamento massivo nel cipher text.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM2MjUyMjQsLTIwNzUzMTA2NjIsMT
-Q5MzM5ODM5LC0xMzQ2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQw
-NzU3NCwtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbODg0MTc5Mjc3LC0yMDc1MzEwNjYyLDE0OT
+MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
+NzQsLTE4NTYzNjUxNDRdfQ==
 -->
