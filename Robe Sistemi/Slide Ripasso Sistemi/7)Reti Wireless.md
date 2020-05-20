@@ -161,8 +161,11 @@ Tassonomia delle reti wireless (classificazione)
 >Entità che permette la distribuzione dei servizi MAC via wireless medium per le stazioni associate
 
 Esso rappresenta una sorta di bridge locale tra la rete wireless e quella cablata
-Per impostarlo esistono 2 modalità
+
+Per impostarlo esistono 2 modalità:
+- Root Access Point
+- Repeater Access Point(Ripetitore del Wi-Fi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM2NTUwODYsLTEyMTY0NDg0ODgsLT
-k3ODk4NjU0N119
+eyJoaXN0b3J5IjpbMzY1Nzg5NTkxLC0xMjE2NDQ4NDg4LC05Nz
+g5ODY1NDddfQ==
 -->
