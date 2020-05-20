@@ -106,15 +106,20 @@ Due Modalità:
 
 ## Prblemi nelle trasmissioni wireless
 
-Trasmissione delle onde in etere
+- **Trasmissione delle onde in etere**
 	- Attenuzaione del segnale con ostacoli e indebolimento
 	- Interferenze da altre sorgenti saturazione di dispositivi a 2,4 Ghz
 	- Propagazione su più cammini:
 		- riflessione
 		- rifrazione
 		- diffrazione
-	- Shadowing
+	- Shadowing: zone d'ombra che disturbano la trasmissione
+	- Effetto Doppler: il moto dell'utente causa perdite o cali di segnale
+
+- Problemi di Posizionamento degli host
+	- HandOff
+	Situazione in cui l'host 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQzODY1MjgsLTEyMTY0NDg0ODgsLT
+eyJoaXN0b3J5IjpbLTE3OTQ4NTY1ODQsLTEyMTY0NDg0ODgsLT
 k3ODk4NjU0N119
 -->
