@@ -6,7 +6,7 @@ Tipologia di minacce:
 - minacce umane
 - minacce naturali
 
-Minacce Naturali: 
+**Minacce Naturali:** 
 Ovvero dovute a calamità naturali imprevedibili
 - tempeste 
 - inondazioni
@@ -19,6 +19,8 @@ Ovvero dovute a calamità naturali imprevedibili
 - attacchi terroristici
 
 Per raccogliere l'insieme delle minacce che possono andare a colpire il mio sistema andrò ad effettuare un'analisi dei rischi  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MDIyMTM0XX0=
+eyJoaXN0b3J5IjpbLTEwNjc2MjY0MTRdfQ==
 -->
