@@ -103,7 +103,18 @@ Due Modalità:
 
 **RTS: Request To send**
 **CTS: Clear to send**
+
+## Prblemi nelle trasmissioni wireless
+
+Trasmissione delle onde in etere
+	- Attenuzaione del segnale con ostacoli e indebolimento
+	- Interferenze da altre sorgenti saturazione di dispositivi a 2,4 Ghz
+	- Propagazione su più cammini:
+		- riflessione
+		- rifrazione
+		- diffrazione
+	- Shadowing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDEzMDA5MSwtMTIxNjQ0ODQ4OCwtOT
-c4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbLTE3NTQzODY1MjgsLTEyMTY0NDg0ODgsLT
+k3ODk4NjU0N119
 -->
