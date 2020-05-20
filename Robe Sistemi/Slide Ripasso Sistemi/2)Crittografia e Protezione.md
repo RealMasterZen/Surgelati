@@ -86,9 +86,13 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 	- 56 sono utili
 > 16 Trasformazioni successive applicate a ogni blocco del messaggio
 
+- Messaggio suddiviso in blocchi di 8 byte 
+- Trasposizione di 56 bit alla chiave
+- 16 volte applicata la funzione cifraria di sostituzione
 
+Questo presta l'algoritmo ad essere propenso all'effetto val
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODQ3NTg5NSwtMjA3NTMxMDY2MiwxND
-kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
-NTc0LC0xODU2MzY1MTQ0XX0=
+eyJoaXN0b3J5IjpbLTIwNDM2MjUyMjQsLTIwNzUzMTA2NjIsMT
+Q5MzM5ODM5LC0xMzQ2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQw
+NzU3NCwtMTg1NjM2NTE0NF19
 -->
