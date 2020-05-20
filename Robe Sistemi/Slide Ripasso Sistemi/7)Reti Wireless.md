@@ -36,7 +36,14 @@ Rete dell'ufficio - Bluetooth
 	- handover di terminali
 - 802.11 g
 	- frequenza come 802.11b
-	- velocit
+	- velocità 24.7 mbps
+- 802.11 i 
+	- uso di cifratura simmetrica AES
+	- IEEE 802.1X
+- 802.11 n 
+	- velocità di 250Mbps(100 pratica)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkzNDg3MCwtOTc4OTg2NTQ3XX0=
+eyJoaXN0b3J5IjpbNjcyOTExMjk4LC05Nzg5ODY1NDddfQ==
 -->
