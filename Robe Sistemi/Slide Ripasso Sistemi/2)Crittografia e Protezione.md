@@ -1,7 +1,12 @@
 
+# Crittografie per la protezione dei dati
 
+## Sicurezza nelle reti
 
-> Written with [StackEdit](https://stackedit.io/).
+Problemi nelle reti:
+- Segretezza
+- autenticazione
+- affidabilit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTczOTg4OTQyOF19
 -->
