@@ -59,9 +59,9 @@ Scherma i pacchetti indipendente dal protocollo, dall'indirizzo, dalla destinazi
 
 ## ACL
 
-*Access Control List
+*Access Control List*
 
-Liste dove venfono dettagliati i filtri da applicare a ogni pacchetto in funzione delle informazioni dell'header TCP/IP
+Liste dove vengono dettagliati i filtri da applicare a ogni pacchetto in funzione delle informazioni dell'header TCP/IP
 
 Cisco router ACL/ Linux Netfilter
 
@@ -76,7 +76,7 @@ utilizza quindi una **tabella di stato**:
 - Stato della connessione
 
 **Vantaggi:**
-- rapporto prestazionei/Sicurezza
+- rapporto prestazioni/Sicurezza
 - Protezione dall'Ip spoofing/ session hijacking
 - Vantaggi packet filtering(trasparenza-velocità-gateway only)
 
@@ -86,8 +86,10 @@ utilizza quindi una **tabella di stato**:
 - Mancanza di servizi aggiuntivi 
 - Testing Complesso
 
+## Application Proxy Firewall 
 
+Proxy: pro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQyNTEzNTYsMTU4OTcxNjA2Myw2ND
+eyJoaXN0b3J5IjpbLTE0ODE3OTkyOTksMTU4OTcxNjA2Myw2ND
 IyMTgyODQsMTQ0NzA3MzA2OV19
 -->
