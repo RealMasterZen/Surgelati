@@ -142,7 +142,14 @@ Questo può essere suddiviso in 3 tipi:
 
 # Architettura delle reti wireless
 
+Componenti di una rete wireless
+- Infrastruttura di rete(rete)
+- Host Wireless(laptop. smartphone)
+- Collegamenti(etere)
+- Stazione base(cell tower/Access Point)
+
+Tassonomia delle reti wireless ()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDcyMzk2NDgsLTEyMTY0NDg0ODgsLT
-k3ODk4NjU0N119
+eyJoaXN0b3J5IjpbMjAxMjc3NTcxOSwtMTIxNjQ0ODQ4OCwtOT
+c4OTg2NTQ3XX0=
 -->
