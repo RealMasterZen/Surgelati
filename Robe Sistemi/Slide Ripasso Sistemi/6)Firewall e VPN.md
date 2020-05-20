@@ -57,9 +57,20 @@ Analizza l'header TCP/Ip:
 - numero di porta
 - protocollo
 
-# ACL
+## ACL
 Access Control List
+
+Liste dove venfono dettagliati i filtri da applicare a ogni pacchetto in funzione delle informazioni dell'header TCP/IP
+
+Cisco router ACL/ Linux Netfilter
+
+## Firewall stateful Inspection
+
+Esso effettua un filtraggio in base alla connessione
+
+utilizza quindi una tabella di stato:
+-identificatore u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzUyMjgyNywxNTg5NzE2MDYzLDY0Mj
-IxODI4NCwxNDQ3MDczMDY5XX0=
+eyJoaXN0b3J5IjpbNjE1NDg0MTYyLDE1ODk3MTYwNjMsNjQyMj
+E4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
