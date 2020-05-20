@@ -39,7 +39,7 @@ Esterno: comunicazione livello 3 -> routing
 
 > Offre la possibilità di condividere una VLAN tra 2  o più switch con una stringa di riconoscimento
 
-
+- Utilizza una Porta di trunk che "sottolinea" i frame per identificarli con una stringa di byte apposta alla trama
 - 802.1Q vero e proprio
 - utilizza gli indirizzi di rete degli host
 - Porta tagged -> Porta di Trunk -> trunk link
@@ -58,6 +58,6 @@ TAG:
 		- VID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDE5ODUzNiwyNzM0MDAyOTQsLTM0NT
+eyJoaXN0b3J5IjpbMTc3MzIzMjMyMiwyNzM0MDAyOTQsLTM0NT
 Y0MjM1MiwtMTU5NDEyMDk2LC0yMjY1MzgyOTRdfQ==
 -->
