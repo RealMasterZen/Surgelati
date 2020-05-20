@@ -59,7 +59,16 @@ Dati Contenuti:
 	- Dati della Certification Autority(CA)
 
 Formati di certificato digitale più diffusi:
-- Chiavi PGP/GPG() 
+- Chiavi PGP/GPG(autonomo)
+- Certificato x.509 (ente) 
+
+## PKI
+
+Public Key Infrastructure
+
+Infrastruttura tecnica organizzativa preposta alla creazione, distribuzione e revoca del certificato di chiave pubblica
+
+- Gestiscono 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODc5MDQ0Ml19
+eyJoaXN0b3J5IjpbLTEwNTU2Mzk5MzBdfQ==
 -->
