@@ -4,9 +4,14 @@
 ## Sicurezza nelle reti
 
 Problemi nelle reti:
-- Segretezza
+- Segretezza:
+	> Informazioni leggibili e comprensibili solo da chi ne ha i diritti
 - autenticazione
-- affidabilit
+	> processo di riconoscimento delle credenziali dell'utente
+- affidabilità dei documenti
+	> garanzia e certezza dell'originalitò di un documento
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTg4OTQyOF19
+eyJoaXN0b3J5IjpbLTQ5MTI0NzU2OF19
 -->
