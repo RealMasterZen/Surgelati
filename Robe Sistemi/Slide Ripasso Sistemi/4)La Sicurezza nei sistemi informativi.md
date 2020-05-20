@@ -72,8 +72,17 @@ Data Link: Codifiche e cifrature dei dati
 ## Valutazione dei rischi
 
 Due fasi:
-- an
+- analisi dei rischi
+- gestione della problematica
+
+- Analisi dei rischi:
+- Situazioni di vulnerabilità dei diversi asset(beni, dati e persone d servizio)
+- elenchi delle possibili minacce
+- Assett:
+	- Dati
+	- risorse umane
+	- risorse tecnologiche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcxMTE1MTAsLTE4MjQ5NzQ5MTYsOD
-E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
+eyJoaXN0b3J5IjpbLTE1ODc4MzU2OCwtMTgyNDk3NDkxNiw4MT
+k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
 -->
