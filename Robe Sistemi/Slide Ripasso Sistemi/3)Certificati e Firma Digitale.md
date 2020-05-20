@@ -1,6 +1,6 @@
 # Certificati e Firma Digitale
 
-Metodologia di Firma di un Messaggio quando la riservatezza non è un parametro richiesto, viene infatti solo assicurata l'integrità e l'autenticità di quest'ultimo attraverso la supposta firma.
+*Metodologia di Firma di un Messaggio quando la riservatezza non è un parametro richiesto, viene infatti solo assicurata l'integrità e l'autenticità di quest'ultimo attraverso la supposta firma.*
 
 **Firma Digitale**: 
 - Basata su chiavi asimmetriche
@@ -13,10 +13,10 @@ Metodologia di Firma di un Messaggio quando la riservatezza non è un parametro 
 
 ## Firme digitali
 
-Utilizzo di una funzione di hash:
-- calcolo di una stringa identificativa del messaggio(Fingerprint)
+**Utilizzo di una funzione di hash:**
+- **calcolo di una stringa identificativa del messaggio(Fingerprint)**
 
-Procedura:
+**Procedura:**
 - Estrazione del fingerprint dal documento
 - cifrazione della fingerprint
 - finger print accodata al messaggio
@@ -26,24 +26,24 @@ Procedura:
 
 ### Algoritmo MD5 (Message Digest 5)
 
-Struttura:
+**Struttura:**
 	- aggiunta bit di riempimento nel messaggio
 	- aggiunta della lunghezza del messaggio
 	- inizializzazione del buffer MessageDigest
 	- Elaborazione del Messaggio
 
-Risultato:
+**Risultato:**
 - Stringa di 128 bit (MD5 checksum) 
 - - - 
 ### Algoritmo SHA(Secure Hash Algorithm)
  
- A sua volta suddiviso in 4 categorie:
+ A sua volta suddiviso in **4 categorie:**
  - SHA0(obsoleto)
  - SHA1(violato)
  - SHA2(in uso)
  - SHA3(annunciato)
 
-Struttura:
+**Struttura:**
 	- aggiunta bit di riempimento nel messaggio
 	- aggiunta della lunghezza del messaggio
 	- schema a 8 registri 
@@ -51,31 +51,31 @@ Struttura:
 
 ## Certificati Digitali
 
-Documento informatico contenuto nella smart card del titolare firmato digitalmente da un ente certificatore
+*Documento informatico contenuto nella smart card del titolare firmato digitalmente da un ente certificatore*
 
-Dati Contenuti:
+**Dati Contenuti:**
 	- Dati del proprietario
 	- Dati del Certificato
 	- Dati della Certification Autority(CA)
 
-Formati di certificato digitale più diffusi:
+**Formati di certificato digitale più diffusi:**
 - Chiavi PGP/GPG(autonomo)
 - Certificato x.509 (ente) 
 
 ## PKI
 
-Public Key Infrastructure
+*Public Key Infrastructure*
 
-Infrastruttura tecnica organizzativa preposta alla creazione, distribuzione e revoca del certificato di chiave pubblica
+> Infrastruttura tecnica organizzativa preposta alla creazione, distribuzione e revoca del certificato di chiave pubblica
 
-- Gestiscono una repository dei certificati attivi e revocati(CRL -> Certificate revocation List)
+Gestiscono una repository dei certificati attivi e revocati(CRL -> Certificate revocation List)
 
-Richiesta di un certificato:
+**Richiesta di un certificato:**
 - generazione delle chiavi asimmetriche
 - informazioni del richiedente alla C.A
 - verifica dei dati ricevuti
 - generazione del certificato
 - certificato al richiedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MzUzNjY1XX0=
+eyJoaXN0b3J5IjpbODI3MjUzODg4XX0=
 -->
