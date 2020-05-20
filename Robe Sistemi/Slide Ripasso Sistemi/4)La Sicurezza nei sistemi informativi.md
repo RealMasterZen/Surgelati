@@ -55,11 +55,15 @@ CIA(Confidentiality-Integrity-Availability)
 - **Data Integrity:** evitare che i dati vengano alterati
 - **Sistem Availability:** garantire che il sistema continuerà ad operare
 
-Aspetti dellAnalisi dei rischi
+Aspetti dellAnalisi dei rischi:
+- Autenticazione: processo di riconoscimento delle credenziali dell'utente
+- Autorizzazione: l'utente deve avere associato l'insieme delle autorizzazioni
+- Riservatezza: Informazioni leggivili e comprensibili solo a chi ne ha i diritti
+- Disponibilità: documento sempre disponibile a chi ne  autorizzato(continuità di servizio)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODE3ODMwMCwtMTgyNDk3NDkxNiw4MT
-k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTc2NDExMDMsLTE4MjQ5NzQ5MTYsOD
+E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
 -->
