@@ -116,8 +116,8 @@ Due Modalità:
 	- **Shadowing:** zone d'ombra che disturbano la trasmissione
 	- **Effetto Doppler**: il moto dell'utente causa perdite o cali di segnale
 
-- Problemi di Posizionamento degli host
-	- HandOff
+- **Problemi di Posizionamento degli host**
+	- **HandOff**
 	Situazione in cui l'host si sposta tra due aree di copertura
 		- Handoff orizzontale -> AP stessa tecnologia
 		- Handoff verticale -> AP tecnologia diversa
@@ -142,9 +142,9 @@ Questo può essere suddiviso in 3 tipi:
 
 # Architettura delle reti wireless
 
-Componenti di una rete wireless
-- Infrastruttura di rete(rete)
-- Host Wireless(laptop. smartphone)
+**Componenti di una rete wireless**
+- **Infrastruttura di rete(rete)**
+- **Host** Wireless(laptop. smartphone)
 - Collegamenti(etere)
 - Stazione base(cell tower/Access Point)
 
@@ -166,6 +166,6 @@ Per impostarlo esistono 2 modalità:
 - Root Access Point
 - Repeater Access Point(Ripetitore del Wi-Fi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk3NDE3OTgsLTEyMTY0NDg0ODgsLT
-k3ODk4NjU0N119
+eyJoaXN0b3J5IjpbMTA4MTk5NDc3OCwtMTIxNjQ0ODQ4OCwtOT
+c4OTg2NTQ3XX0=
 -->
