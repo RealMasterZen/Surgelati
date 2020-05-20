@@ -116,7 +116,12 @@ Sfruttando il sistema di tunneling, una rete VPN ha caratteristiche particolari 
 Per questi motivi una rete VPN sarà sempre riservata, anonima e accessibile.
 
 ## I protocolli di una VPN
+
+La VPN fa uso di differenti protocolli di cifratura, alcuni molto comuni, altri più particolari.
+Generalmente i maggiori protocolli di una VPN si individuano in:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMDQ2OTQwLDE1ODk3MTYwNjMsNjQyMj
+eyJoaXN0b3J5IjpbMzk4NDU3NjAzLDE1ODk3MTYwNjMsNjQyMj
 E4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
