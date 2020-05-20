@@ -1,5 +1,7 @@
 # Vlan
 
+> Rete locale separata dalle altre dove i pacchetti sono confinati in un dominio di broadcast
+
 **Virtual-LAN**
 - Lan realizzata logicamente
 - standard 802.1Q
@@ -52,6 +54,6 @@ TAG:
 		- VID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjkzMzc0NCwtMzQ1NjQyMzUyLC0xNT
-k0MTIwOTYsLTIyNjUzODI5NF19
+eyJoaXN0b3J5IjpbMjczNDAwMjk0LC0zNDU2NDIzNTIsLTE1OT
+QxMjA5NiwtMjI2NTM4Mjk0XX0=
 -->
