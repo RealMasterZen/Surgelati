@@ -22,7 +22,14 @@ Esterno: comunicazione livello 3 -> routing
 - Scalabilità
 - Ottimizzazione del'uso delle infrastrutture (riassegnazione delle porte)
 - Possibilità di estensione oltre i limiti di uno switch
+
+## VLAN port-based
+- untagged LAN o private VLAN
+- utilizza i numeri delle porte dello switch
+
+
+## VLAN tagged
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTExMTM0NTIsLTE1OTQxMjA5NiwtMj
+eyJoaXN0b3J5IjpbLTEwNDE1NDM3NjUsLTE1OTQxMjA5NiwtMj
 I2NTM4Mjk0XX0=
 -->
