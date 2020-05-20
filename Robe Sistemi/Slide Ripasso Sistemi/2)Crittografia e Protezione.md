@@ -66,6 +66,8 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 |--|--|
 |  Molto Veloce | Difficoltà nella distribuaizone della chiave |
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbNjU1ODY0MTMyLDIxMzA0MDc1NzQsLTE4NT
+YzNjUxNDRdfQ==
 -->
