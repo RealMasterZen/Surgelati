@@ -135,8 +135,22 @@ Struttura:
 	- Chiave ruotata di 25 bit.
 - - - 
 ### AES 
+
+Advanced Encryption Standard
+- Cifrario a blocchi
+- Standard USA
+- 3 Caratteristiche:
+	- Resistenza
+	- velocità e compattezza
+	- semplicità progettuale
+	
+- Messaggio è fatto da blocchi di 128 bit
+- Chiave fatto da 128, 192 o 256 bit
+
+- Struttura dell'algoritmo:
+	- Metrici 4x4: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MTc5MjQxLC0yMDc1MzEwNjYyLDE0OT
+eyJoaXN0b3J5IjpbMzk3NDUxODY1LC0yMDc1MzEwNjYyLDE0OT
 MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
 NzQsLTE4NTYzNjUxNDRdfQ==
 -->
