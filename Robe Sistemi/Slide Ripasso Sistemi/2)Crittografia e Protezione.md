@@ -26,6 +26,7 @@ Problemi nelle reti:
 **Decifratura:**
 	- processo attraverso il quale un messaggio viene reso comprensibile ha chi ne ha il diritto
 	- algoritmo di decifratura
+	- testo in chiaro -> plain text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjgxMTc0NywtMTg1NjM2NTE0NF19
+eyJoaXN0b3J5IjpbLTQ1ODA4NTI5NiwtMTg1NjM2NTE0NF19
 -->
