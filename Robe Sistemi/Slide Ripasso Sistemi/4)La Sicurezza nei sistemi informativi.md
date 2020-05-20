@@ -127,10 +127,19 @@ Attacchi attivi:
 - Sicurezza nella rete
 - Sicurezza sugli host
 
-> **Princpio minimo di sicurezza**
-> Protezione dagli attacchi passivi e rilevazione degli attacchi attivi
+> **Principio minimo di sicurezza**
+> Protezione dagli attacchi passivi e riconoscimento degli attacchi attivi
+
+**Pilastri della sicurezza**:
+- Avoidance(Prevenzione)
+Protezione dei sistemi e delle comunicazioni
+- Detection(Rilevazione)
+Monitoraggio e controllo degli accessi
+- Investigazion(Investigazione)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODUzNDUxNCwzNDk3NDcyODUsLTEyMj
+eyJoaXN0b3J5IjpbLTIzNjk2MTU5MiwzNDk3NDcyODUsLTEyMj
 Y3NjU1MjksLTE4MjQ5NzQ5MTYsODE5NTI0OTAzLC0xMDY3NjI2
 NDE0XX0=
 -->
