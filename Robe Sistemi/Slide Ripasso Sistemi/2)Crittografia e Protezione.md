@@ -75,9 +75,16 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 ## Algortimi a Chiave Simmetrica
 
+### DES
 
+(Data Encription Standard)
+- Data Encryption Standard
+- Cifrario a blocchi -> chiave blocco di 64 bit
+
+- Chiave 64 bit ;
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTM2MDc2OCwtMjA3NTMxMDY2MiwxND
+eyJoaXN0b3J5IjpbLTkyMzM3NzE3OSwtMjA3NTMxMDY2MiwxND
 kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
 NTc0LC0xODU2MzY1MTQ0XX0=
 -->
