@@ -77,13 +77,15 @@ utilizza quindi una **tabella di stato**:
 
 | Vantaggi | Svantaggi |
 |--|--|
-| - Rapporto prestazioni/Sicurezza
-- Protezione dall'Ip spoofing/ session hijacking
-- Vantaggi packet filtering(trasparenza-velocità-gateway only) |  |
-
+|  Rapporto prestazioni/Sicurezza |  |
+| Protezione dall'Ip spoofing/ session hijacking | | 
+|  Vantaggi packet filtering(trasparenza-velocità-gateway only)
+ | | 
+| | | 
 **:**
-
-
+-
+- 
+-
 **:**
 - protocollo unico
 - auditing limitato
@@ -96,6 +98,6 @@ Proxy: programma eseguito sul gateway che funge da intermediario a livello di ap
 
 Vantaggi:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzAwNjY0MCwxNTg5NzE2MDYzLDY0Mj
+eyJoaXN0b3J5IjpbLTM2MzgxMDk4MCwxNTg5NzE2MDYzLDY0Mj
 IxODI4NCwxNDQ3MDczMDY5XX0=
 -->
