@@ -10,7 +10,15 @@ Minacce Naturali:
 Ovvero dovute a calamità naturali imprevedibili
 - tempeste 
 - inondazioni
-- 
+- fulmini
+- incendi
+- terremoti
+- atti vandalici
+- sommosse popolari
+- guerre
+- attacchi terroristici
+
+Per raccogliere l'insieme delle minacce che possono andare a colpire il mio sistema andrò ad effettuare un'analisi dei rischi  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDY0Nzg4NV19
+eyJoaXN0b3J5IjpbOTQ0MDIyMTM0XX0=
 -->
