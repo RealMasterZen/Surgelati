@@ -82,7 +82,17 @@ Due fasi:
 	- Dati
 	- risorse umane
 	- risorse tecnologiche
+	- locazione dei macchinari
+
+- Eventi Dannosi:
+	- Eventi Intenzionali:
+		- IP spoofing/shadow server
+		- packet sniffing
+		- connection hijacking / data spoofing
+		- Dos/ DDos
+	- Eventi accidentali:
+		- errata gestione della infrastruttura e degli assett
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc4MzU2OCwtMTgyNDk3NDkxNiw4MT
-k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTUwMzU5ODIsLTE4MjQ5NzQ5MTYsOD
+E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
 -->
