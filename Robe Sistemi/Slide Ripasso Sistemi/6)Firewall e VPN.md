@@ -87,8 +87,15 @@ utilizza quindi una **tabella di stato**:
 
 Proxy: programma eseguito sul gateway che funge da intermediario a livello di applicazione
 
-Vantaggi:
+|Vantaggi | Svantaggi |
+|--|--|
+| Controllo Completo |  |
+| | | 
+| | | 
+| | | 
+| | | 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMzMzc5NSwxNTg5NzE2MDYzLDY0Mj
-IxODI4NCwxNDQ3MDczMDY5XX0=
+eyJoaXN0b3J5IjpbNDkzODIxMjE0LDE1ODk3MTYwNjMsNjQyMj
+E4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
