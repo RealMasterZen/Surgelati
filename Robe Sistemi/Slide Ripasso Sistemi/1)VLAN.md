@@ -44,8 +44,14 @@ TAG:
 - primi 2 byte
 	- Tag protocol Identifier
 	- contengono il tag Ether type
-- 
+- ultimi 2 byte
+	- Tag control Information(TCI) o VLAN Tag
+	- diviso in:
+		- user-priority
+		- CFI
+		- VID
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzM5MDA5MSwtMzQ1NjQyMzUyLC0xNT
+eyJoaXN0b3J5IjpbLTI1MjkzMzc0NCwtMzQ1NjQyMzUyLC0xNT
 k0MTIwOTYsLTIyNjUzODI5NF19
 -->
