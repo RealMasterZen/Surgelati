@@ -13,11 +13,11 @@ VLAN:
 - rete locale separata dalle altre
 - pacchetti broadcast confinati all'interno
 
-Interno:
-- comunicazione livello 2
+Interno: comunicazione livello 2
 
-Esterno:
-- comunicazione livello 3 -> routing 
+Esterno: comunicazione livello 3 -> routing 
+
+Vantaggi delle VLAN:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjUzODI5NF19
+eyJoaXN0b3J5IjpbLTE1OTQxMjA5NiwtMjI2NTM4Mjk0XX0=
 -->
