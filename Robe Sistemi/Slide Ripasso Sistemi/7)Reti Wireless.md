@@ -12,7 +12,7 @@ Rete Cellulare:
 
 Topologia:
 - BAN (Body Area Network)
-Reti Wearabl
+Reti Wearable(auricolari, lettori Mp3)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NTI5NTUxXX0=
+eyJoaXN0b3J5IjpbMzc4MjU4MjgxXX0=
 -->
