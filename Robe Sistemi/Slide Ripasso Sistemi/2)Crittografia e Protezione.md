@@ -162,9 +162,16 @@ Advanced Encryption Standard
 - costo
 - caratteristiche dell'algoritmo e dell'implementazione
 
-## Algoritmi Asimmetri
+## Crittografia Asimmetrica
+
+Crittografia che Utilizza 2 chiavi differenti:
+- Pubblica(per la Criptazione)
+- Privata(per la Decriptazione)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzgwNTE3MCwtMjA3NTMxMDY2MiwxND
-kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
-NTc0LC0xODU2MzY1MTQ0XX0=
+eyJoaXN0b3J5IjpbODQyNDMwNjA0LC0yMDc1MzEwNjYyLDE0OT
+MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
+NzQsLTE4NTYzNjUxNDRdfQ==
 -->
