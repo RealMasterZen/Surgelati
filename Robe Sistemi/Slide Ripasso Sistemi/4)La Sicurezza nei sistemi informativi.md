@@ -96,8 +96,22 @@ Due fasi:
 
 ## Tipologie di minacce
 
-Attacchi Passi
+Attacchi Passivi:
+- Sniffing di pacchetti
+- analisi del sistema e del traffico di rete
+
+Attacchi attivi:
+- Intercettazione:
+	- Shadow server
+	- Spoofing
+- Sostituzione host_
+	- Ip spoofing
+	- source address spoofing
+- Produzione:
+	- Attacchi virus
+	- Attacchi worm
+	- Attacchi Dos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njc5OTkyMCwtMTgyNDk3NDkxNiw4MT
-k1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjY3NjU1MjksLTE4MjQ5NzQ5MTYsOD
+E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
 -->
