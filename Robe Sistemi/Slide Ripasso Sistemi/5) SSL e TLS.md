@@ -15,11 +15,13 @@ o rispettivamente:
 > Sono un insieme di **protocolli crittografici** che **aggiungono funzionalità di cifratura e autenticazione a livello di sessione**
 
 Il protocollo SSL garantisce la sicurezza del collegamento mediante 3 funzionalità fondamentali:
-- privatezza del collegamento
-Attraverso algoritmi di criptazione 
-- autenticazione 
+- Privatezza del collegamento
+Attraverso algoritmi di crittografia a chiave simmetrica
+- Autenticazione
+Attraverso l'uso di meccanismi di crittografia a chiave pubblica
+- Affidabilità 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQyNTE2NjddfQ==
+eyJoaXN0b3J5IjpbNTM4MDM4NzY5XX0=
 -->
