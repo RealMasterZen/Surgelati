@@ -97,21 +97,21 @@ Questo presta l'algoritmo ad essere propenso all'effetto valanga cioè un minimo
 ### 3-DES
 Triple DES
 
-- Cifrario a blocchi
+- **Cifrario a blocchi**
 - Sostituisce il DES e ne mantiene lo standard
-- 3 passi di cifratura DES consecutivi
+- **3 passi di cifratura DES consecutivi**
 
 Possiede quindi 3 chiavi:
 - Chiave 1 (Cifratura)
 - Chiave 2 (Decifratura)
 - Chiave 3 (Cifratura)
 
-Il cifrario 3des offre 3 alternative:
+**Il cifrario 3des offre 3 alternative:**
 - K1,K2,K3 Diverse e indipendenti
 - K1 = K3 e K2 Differente
 - K1=K2=K3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NzY4NTc4LC0yMDc1MzEwNjYyLDE0OT
-MzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1
-NzQsLTE4NTYzNjUxNDRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTk5MzExMzQsLTIwNzUzMTA2NjIsMT
+Q5MzM5ODM5LC0xMzQ2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQw
+NzU3NCwtMTg1NjM2NTE0NF19
 -->
