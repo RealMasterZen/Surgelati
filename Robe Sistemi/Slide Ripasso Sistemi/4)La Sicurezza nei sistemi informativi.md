@@ -56,14 +56,16 @@ CIA(Confidentiality-Integrity-Availability)
 - **Sistem Availability:** garantire che il sistema continuerà ad operare
 
 Aspetti dellAnalisi dei rischi:
-- Autenticazione: processo di riconoscimento delle credenziali dell'utente
-- Autorizzazione: l'utente deve avere associato l'insieme delle autorizzazioni
-- Riservatezza: Informazioni leggivili e comprensibili solo a chi ne ha i diritti
-- Disponibilità: documento sempre disponibile a chi ne  autorizzato(continuità di servizio)
-
-
+- **Autenticazione:** processo di riconoscimento delle credenziali dell'utente
+- **Autorizzazione:** l'utente deve avere associato l'insieme delle autorizzazioni
+- **Riservatezza:** Informazioni leggivili e comprensibili solo a chi ne ha i diritti
+- **Disponibilità:** documento sempre disponibile a chi ne è autorizzato(continuità di servizio)
+- **Integrità**: certezza dell'originalità del documento
+- **Paternità:** documento associato all'utente e non ripudiabile(tracciabilità)
+- - - 
+## misure per la segretezza
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc2NDExMDMsLTE4MjQ5NzQ5MTYsOD
+eyJoaXN0b3J5IjpbLTE1MjAyNjE3ODIsLTE4MjQ5NzQ5MTYsOD
 E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
 -->
