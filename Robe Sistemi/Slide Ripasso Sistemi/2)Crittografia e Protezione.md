@@ -43,22 +43,26 @@ Problemi nelle reti:
 
 > E' l'attacco di un crittoanalista mirato a violare il crittosistema
 
-Principio di Kerchoffs -> chiave elemento fondamentale
-Corollario di Shannon: "Il nemico conosce il sistema"
+**Principio di Kerchoffs** -> chiave elemento fondamentale
 
-Proprietà fondamentali di Shannon:
+**Corollario di Shannon:** "Il nemico conosce il sistema"
+
+**Proprietà fondamentali di Shannon:**
 	- Confusione
 	- Diffusione
 
 ## Cifrari e Chiavi
 
-Crittografia consente di:
-- identificare un utente
-- autenticare un messaggio
-- firmare digitalmente
+**Crittografia consente di:**
+- **identificare un utente**
+- **autenticare un messaggio**
+- **firmare digitalmente**
 
-Sistemi Crittografici: Classificati con numero  e tipo di chiavi
+Sistemi Crittografici: Classificati con numero e tipo di chiavi
+
+Chiave Simmetrica o chiave privata:
+- Molto Veloce
+- difficoltà nella distribuaizone della chiave
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwNzc3NTMsLTE4NTYzNjUxNDRdfQ
-==
+eyJoaXN0b3J5IjpbMzk5ODM0NDUwLC0xODU2MzY1MTQ0XX0=
 -->
