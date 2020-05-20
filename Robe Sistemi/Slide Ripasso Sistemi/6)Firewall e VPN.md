@@ -111,8 +111,12 @@ Essa garantisce Sicurezza perimetrale  lasciando l'accesso al sistema ad una sol
 
 Ciò implica che il traffico sarà protetto da eventuali attacchi dall'esterno
 
-Sfruttando il sistema di tunneling, una rete VPN ha caratteristiche particolari e diversificate a seconda della tipologia, sso in ogni caso non necessita di cavi
+Sfruttando il sistema di tunneling, una rete VPN ha caratteristiche particolari e diversificate a seconda della tipologia, esso in ogni caso non necessita di cavi o collegamenti essendo un sistema virtuale.
+
+Per questi motivi una rete VPN sarà sempre riservata, anonima e accessibile.
+
+## I protocolli di una VPN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjYyNjUxODUsMTU4OTcxNjA2Myw2ND
-IyMTgyODQsMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbNjUzMDQ2OTQwLDE1ODk3MTYwNjMsNjQyMj
+E4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
