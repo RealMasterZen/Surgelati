@@ -30,7 +30,8 @@ Tutto il traffico di una rete aziendale gestito e protetto
 
 ### Per il livello di intervento
 
-- ****
+- **Filtri di pacchetto IP**
+permettono di bloccare o abilitare selettivamente il traffico che attraversa il firewall definendo i 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEzOTgyMjEsMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbLTI3MjI3NDEwNSwxNDQ3MDczMDY5XX0=
 -->
