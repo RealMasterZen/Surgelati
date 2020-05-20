@@ -55,6 +55,9 @@ Tipologie di attacchi a una WLAN
 - Accessi non autorizzati
 - interferenze e jamming
 - Danni Materiali all'apparecchiatura
+
+Crittografia dei dati 
+- WEP -> Wired E
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM1ODcwNjgsLTk3ODk4NjU0N119
+eyJoaXN0b3J5IjpbMTQ4OTczMzk3MywtOTc4OTg2NTQ3XX0=
 -->
