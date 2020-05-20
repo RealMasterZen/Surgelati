@@ -4,13 +4,14 @@
 ## Sicurezza nelle reti
 
 Problemi nelle reti:
+
 - Segretezza:
 	- livello 1 e 2 (fisico e data link)
 	> Informazioni leggibili e comprensibili solo da chi ne ha i diritti
-- autenticazione
+- Autenticazione
 	- livello Applicazione
 	> processo di riconoscimento delle credenziali dell'utente
-- affidabilità dei documenti
+- Affidabilità dei documenti
 	- Livello Applicazione
 	> garanzia e certezza dell'originalità di un documento
 
@@ -68,6 +69,6 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjAwMDM1NSwyMTMwNDA3NTc0LC0xOD
+eyJoaXN0b3J5IjpbLTUxODg2MTkzNSwyMTMwNDA3NTc0LC0xOD
 U2MzY1MTQ0XX0=
 -->
