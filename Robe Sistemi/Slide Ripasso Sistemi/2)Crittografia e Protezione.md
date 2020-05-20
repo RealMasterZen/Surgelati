@@ -207,10 +207,13 @@ Generazione Chiavi:
 	- Cifratura del messaggio 
 		- Calcolo crittogramma C
 			- m^a mod n
-			- 
+	- Decifratura del messaggio
+		- Calcolo c^d mod n
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjgzOTU0NCwtMTA3NTQ2NjQxMSwxMT
+eyJoaXN0b3J5IjpbLTMxODc0Mjc5NSwtMTA3NTQ2NjQxMSwxMT
 IyNzUyMDI2LC0yMDc1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2
 NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxND
 RdfQ==
