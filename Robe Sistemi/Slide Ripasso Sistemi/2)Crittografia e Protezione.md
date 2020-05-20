@@ -191,9 +191,12 @@ Rivest-Shawn-Adleman
 
 Struttura:
 - generazione delle chiavi
+- Algoritmo crittografico
+
+Generazione Chiavi: scelta di 2 numeri 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjcwNjg1OCwtMTA3NTQ2NjQxMSwxMT
-IyNzUyMDI2LC0yMDc1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2
-NjczNSwtNTE4ODYxOTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxND
-RdfQ==
+eyJoaXN0b3J5IjpbNTQyMzM0NTE5LC0xMDc1NDY2NDExLDExMj
+I3NTIwMjYsLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMzQ2MDY2
+NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF
+19
 -->
