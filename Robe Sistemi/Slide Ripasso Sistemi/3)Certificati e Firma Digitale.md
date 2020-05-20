@@ -11,6 +11,15 @@ Metodologia di Firma di un Messaggio quando la riservatezza non è un parametro 
 
 > Risultato della firma digitale è un file .p7m
 
+## Firme digitali
+
+Utilizzo di una funzione di hash:
+- calcolo di una stringa identificativa del messaggio(Fingerprint)
+
+Procedura:
+- Estrazione del fingerprint dal documento
+- cifrazione della fingerprint
+- finger print accodata al me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTgwMzQzNl19
+eyJoaXN0b3J5IjpbMTY2MDI3NjY2M119
 -->
