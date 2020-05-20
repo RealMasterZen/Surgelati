@@ -26,10 +26,11 @@ Esterno: comunicazione livello 3 -> routing
 ## VLAN port-based
 - untagged LAN o private VLAN
 - utilizza i numeri delle porte dello switch
+- Porta -> Accesso
 
 
 ## VLAN tagged
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE1NDM3NjUsLTE1OTQxMjA5NiwtMj
+eyJoaXN0b3J5IjpbLTE4OTcyOTk5OTAsLTE1OTQxMjA5NiwtMj
 I2NTM4Mjk0XX0=
 -->
