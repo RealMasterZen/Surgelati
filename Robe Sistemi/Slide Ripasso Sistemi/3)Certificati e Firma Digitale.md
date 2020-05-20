@@ -53,7 +53,13 @@ Struttura:
 
 Documento informatico contenuto nella smart card del titolare firmato digitalmente da un ente certificatore
 
-- 
+Dati Contenuti:
+	- Dati del proprietario
+	- Dati del Certificato
+	- Dati della Certification Autority(CA)
+
+Formati di certificato digitale più diffusi:
+- Chiavi PGP/GPG() 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDE0ODQxM119
+eyJoaXN0b3J5IjpbMTU2ODc5MDQ0Ml19
 -->
