@@ -75,12 +75,16 @@ utilizza quindi una **tabella di stato**:
 - interfacce di rete
 - Stato della connessione
 
-**Vantaggi:**
-- rapporto prestazioni/Sicurezza
+| Vantaggi | Svantaggi |
+|--|--|
+| - Rapporto prestazioni/Sicurezza
 - Protezione dall'Ip spoofing/ session hijacking
-- Vantaggi packet filtering(trasparenza-velocità-gateway only)
+- Vantaggi packet filtering(trasparenza-velocità-gateway only) |  |
 
-**Svantaggi:**
+**:**
+
+
+**:**
 - protocollo unico
 - auditing limitato
 - Mancanza di servizi aggiuntivi 
@@ -88,8 +92,10 @@ utilizza quindi una **tabella di stato**:
 
 ## Application Proxy Firewall 
 
-Proxy: pro
+Proxy: programma eseguito sul gateway che funge da intermediario a livello di applicazione
+
+Vantaggi:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3OTkyOTksMTU4OTcxNjA2Myw2ND
-IyMTgyODQsMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbMTEzNzAwNjY0MCwxNTg5NzE2MDYzLDY0Mj
+IxODI4NCwxNDQ3MDczMDY5XX0=
 -->
