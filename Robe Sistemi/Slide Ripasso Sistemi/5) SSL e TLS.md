@@ -12,7 +12,9 @@ o rispettivamente:
 - Secure Socket Layer
 - Transport layer security
 
-Sono un insieme di protocolli crittografici
+Sono un insieme di protocolli crittografici che aggiungono funzionalità di cifratura e autenticazione a livello di sessione
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3ODIzMjk4XX0=
+eyJoaXN0b3J5IjpbMTA2NDI0NDA3NV19
 -->
