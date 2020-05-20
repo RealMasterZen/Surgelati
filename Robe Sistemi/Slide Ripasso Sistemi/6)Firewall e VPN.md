@@ -31,7 +31,9 @@ Tutto il traffico di una rete aziendale gestito e protetto
 ### Per il livello di intervento
 
 - **Filtri di pacchetto IP**
-permettono di bloccare o abilitare selettivamente il traffico che attraversa il firewall definendo i 
+Permettono di bloccare o abilitare selettivamente il traffico che attraversa il firewall definendo i protocolli, gli indirizzi IP e le porte utilizzate.
+- **Serventi proxy**
+Rappresentano una sorta di intermediario che si occupa di intrattenere le connessioni per cont
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjI3NDEwNSwxNDQ3MDczMDY5XX0=
+eyJoaXN0b3J5IjpbNjQyMjE4Mjg0LDE0NDcwNzMwNjldfQ==
 -->
