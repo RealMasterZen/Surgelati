@@ -103,8 +103,8 @@ Demilitarized Zone
 
 E' Una porzioen di rete che separa la rete interna dalla rete esterna
 
-Essa garantisce Sicurezza perimetrale  lasciando l'accesso al sistema 
+Essa garantisce Sicurezza perimetrale  lasciando l'accesso al sistema ad una sola porta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY2NDU0NTUsMTU4OTcxNjA2Myw2ND
+eyJoaXN0b3J5IjpbLTE3NjY3MTQ0NzMsMTU4OTcxNjA2Myw2ND
 IyMTgyODQsMTQ0NzA3MzA2OV19
 -->
