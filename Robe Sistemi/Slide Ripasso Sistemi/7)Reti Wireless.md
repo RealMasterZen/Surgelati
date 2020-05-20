@@ -153,8 +153,16 @@ Tassonomia delle reti wireless (classificazione)
 > Bluetooth
 - Hop Singolo, con infrastruttura(stazione su rete cablata)
 > Rete di Casa
-- Hop Multi, no Infrastruttura()
+- Hop Multi, no Infrastruttura(rete mobile ad hoc)
+- Hop Multi, con infrastruttura(reti di sensori wireless)
+
+## Ruolo dell'Access Point
+
+>Entità che permette la distribuzione dei servizi MAC via wireless medium per le stazioni associate
+
+Esso rappresenta una sorta di bridge locale tra la rete wireless e quella cablata
+Per impostarlo esistono 2 modalità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3Mjc1MzE5LC0xMjE2NDQ4NDg4LC05Nz
-g5ODY1NDddfQ==
+eyJoaXN0b3J5IjpbLTE3NTM2NTUwODYsLTEyMTY0NDg0ODgsLT
+k3ODk4NjU0N119
 -->
