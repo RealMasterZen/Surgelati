@@ -77,7 +77,7 @@ Due fasi:
 
 - Analisi dei rischi:
 - Situazioni di vulnerabilità dei diversi asset(beni, dati e persone d servizio)
-- elenchi delle possibili minacce
+- Elenchi delle possibili minacce
 - Assett:
 	- Dati
 	- risorse umane
@@ -101,27 +101,27 @@ Attacchi Passivi:
 - analisi del sistema e del traffico di rete
 
 Attacchi attivi:
-- Intercettazione:
+- **Intercettazione:**
 	- Shadow server
 	- Spoofing
-- Sostituzione host_
+- **Sostituzione host:**
 	- Ip spoofing
 	- source address spoofing
-- Produzione:
+- **Produzione:**
 	- Attacchi virus
 	- Attacchi worm
 	- Attacchi Dos:
 		- Ping flooding
 		- SYN attack
 		- DDos
-- Phishing:
+- **Phishing:**
 	- shadow server
 	- plugin: troyan horse
 	- spear phishing
-- Intrusione:
+- **Intrusione:**
 	- Accesso non autorizzato a uno o più host
 	- risultato delle tecniche
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjEyNTQ3OCwtMTIyNjc2NTUyOSwtMT
-gyNDk3NDkxNiw4MTk1MjQ5MDMsLTEwNjc2MjY0MTRdfQ==
+eyJoaXN0b3J5IjpbMzQ5NzQ3Mjg1LC0xMjI2NzY1NTI5LC0xOD
+I0OTc0OTE2LDgxOTUyNDkwMywtMTA2NzYyNjQxNF19
 -->
