@@ -27,7 +27,13 @@ Rete dell'ufficio - Bluetooth
 	- mezzo: raggi infrarossi a 2.4 Ghz(radio successivamente)
 - 802.11 b
 	- Wi-Fi : Wireless Fidelity
-	- Data
+	- Datarate di 11 Mbps con CSMA/CA
+- 802.11 a
+	- Frequenze a 5 Ghz
+	- velocità Max 54 Mbps(pratica 20 mbps)
+- 802.11 f
+	- IAPP (INTERNET ACCESS POINT PROCOTOL)
+	- handover di terminali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAxMDI3OTNdfQ==
+eyJoaXN0b3J5IjpbLTk3ODk4NjU0N119
 -->
