@@ -30,9 +30,9 @@ Esterno: comunicazione livello 3 -> routing
 - Utilizza i numeri delle porte dello switch
 - Porta -> Access Port -> Access link
 - Switch -> 3 operazioni:
-	- ingress
-	- forwarding
-	- egress
+	- **ingress:** trasmette un frame appartenente alla stessa VLAN 
+	- **forwarding**
+	- **egress**
 
 
 ## VLAN tagged
@@ -54,6 +54,6 @@ TAG:
 		- VID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNDAwMjk0LC0zNDU2NDIzNTIsLTE1OT
-QxMjA5NiwtMjI2NTM4Mjk0XX0=
+eyJoaXN0b3J5IjpbMTc3NTc1MjU1NiwyNzM0MDAyOTQsLTM0NT
+Y0MjM1MiwtMTU5NDEyMDk2LC0yMjY1MzgyOTRdfQ==
 -->
