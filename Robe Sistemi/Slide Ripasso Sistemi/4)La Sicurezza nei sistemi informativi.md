@@ -121,7 +121,16 @@ Attacchi attivi:
 - **Intrusione:**
 	- Accesso non autorizzato a uno o più host
 	- risultato delle tecniche
+
+## Sicurezza nei sistemi informatici distribuiti
+
+- Sicurezza nella rete
+- Sicurezza sugli host
+
+> **Princpio minimo di sicurezza**
+> Protezione dagli attacchi passivi e rilevazione degli attacchi attivi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5NzQ3Mjg1LC0xMjI2NzY1NTI5LC0xOD
-I0OTc0OTE2LDgxOTUyNDkwMywtMTA2NzYyNjQxNF19
+eyJoaXN0b3J5IjpbMTEzODUzNDUxNCwzNDk3NDcyODUsLTEyMj
+Y3NjU1MjksLTE4MjQ5NzQ5MTYsODE5NTI0OTAzLC0xMDY3NjI2
+NDE0XX0=
 -->
