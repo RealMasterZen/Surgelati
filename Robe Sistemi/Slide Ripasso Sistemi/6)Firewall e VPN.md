@@ -15,7 +15,16 @@ Nella progettazione di un Firewall bisogna tenere conto di 3 principi fondamenta
 
 ## Classificazione Firewall 
 
+### Per Direzione del Filtraggio dei Pacchetti
+- **Ingress Firewall**
+Collegamenti che vengono da fuori verso l'interno della rete 
+- **Egress Firewall**
+Collegamenti che avvengono da dentro per l'esterno della rete
+
+### Per il Numero di host gestiti
+
+- ****
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAzNzQ3NDgsMTQ0NzA3MzA2OV19
+eyJoaXN0b3J5IjpbMTM2NTE4NzgyLDE0NDcwNzMwNjldfQ==
 -->
