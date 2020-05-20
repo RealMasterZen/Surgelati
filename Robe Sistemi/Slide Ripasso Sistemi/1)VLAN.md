@@ -31,11 +31,15 @@ Esterno: comunicazione livello 3 -> routing
 - Porta -> Access Port -> Access link
 - Switch -> 3 operazioni:
 	- **ingress:**: trasmette un frame appartenente alla stessa VLAN 
-	- **forwarding**: Inoltra
-	- **egress**
+	- **forwarding**: Inoltrato solo verso porte appartenenti alla stessa VLAN
+	- **egress**:  rilevazione della porta e ritrasmissione
 
 
 ## VLAN tagged
+
+> Offre la possibilità di condividere una VLAN tra 2  o più switch con una stringa di riconoscimento
+
+
 - 802.1Q vero e proprio
 - utilizza gli indirizzi di rete degli host
 - Porta tagged -> Porta di Trunk -> trunk link
@@ -54,6 +58,6 @@ TAG:
 		- VID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMTA3OTcsMjczNDAwMjk0LC0zNDU2ND
-IzNTIsLTE1OTQxMjA5NiwtMjI2NTM4Mjk0XX0=
+eyJoaXN0b3J5IjpbMTA2MDE5ODUzNiwyNzM0MDAyOTQsLTM0NT
+Y0MjM1MiwtMTU5NDEyMDk2LC0yMjY1MzgyOTRdfQ==
 -->
