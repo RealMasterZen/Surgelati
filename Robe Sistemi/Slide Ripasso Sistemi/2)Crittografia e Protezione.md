@@ -121,11 +121,17 @@ Messaggio: blocchi da 64 bit divisi in 4 blocchi da 16 bit
 
 Questo è il cifrario più utilizzato coimmercialmente per velocità e sicurezza
 
-Struttura: - Serie di 8 round
-combinazioni di operazioni su numeri a 16 bit
+Struttura:
+ - Serie di 8 round
+- Combinazioni di operazioni su numeri a 16 bit
+- Operazioni:
+	- XOR
+	- Addizione modulo 2^16
+	- Moltiplicazione modulo 2^16 + 1 
 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjk1NDA1MCwtMjA3NTMxMDY2MiwxND
-kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
-NTc0LC0xODU2MzY1MTQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNjYzNTYxNDMsLTIwNzUzMTA2NjIsMT
+Q5MzM5ODM5LC0xMzQ2MDY2NzM1LC01MTg4NjE5MzUsMjEzMDQw
+NzU3NCwtMTg1NjM2NTE0NF19
 -->
