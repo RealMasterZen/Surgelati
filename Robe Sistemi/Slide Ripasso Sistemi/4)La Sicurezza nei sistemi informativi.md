@@ -136,10 +136,13 @@ Protezione dei sistemi e delle comunicazioni
 - Detection(Rilevazione)
 Monitoraggio e controllo degli accessi
 - Investigazion(Investigazione)
+Analisi dei dati raccolti
 
+**Garantire la sicurezza attraverso la prevenzione**:
+- Utilizzo della crittografica 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjk2MTU5MiwzNDk3NDcyODUsLTEyMj
+eyJoaXN0b3J5IjpbLTU5ODgwNzgwOCwzNDk3NDcyODUsLTEyMj
 Y3NjU1MjksLTE4MjQ5NzQ5MTYsODE5NTI0OTAzLC0xMDY3NjI2
 NDE0XX0=
 -->
