@@ -193,9 +193,16 @@ Struttura:
 - generazione delle chiavi
 - Algoritmo crittografico
 
-Generazione Chiavi: scelta di 2 numeri 
+Generazione Chiavi: 
+- scelta di 2 numeri primi p e q 
+- calcolo del prodotto n = p * q
+- Scelta numero "e" coprimo e minore di (p-1)*(q-1) chiamato esponente pubblico
+
+- Numeri coprimi: 
+	- a è coprimo di b se MCD è 1
+	- a è  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMzM0NTE5LC0xMDc1NDY2NDExLDExMj
+eyJoaXN0b3J5IjpbODEyMTc0NTIxLC0xMDc1NDY2NDExLDExMj
 I3NTIwMjYsLTIwNzUzMTA2NjIsMTQ5MzM5ODM5LC0xMzQ2MDY2
 NzM1LC01MTg4NjE5MzUsMjEzMDQwNzU3NCwtMTg1NjM2NTE0NF
 19
