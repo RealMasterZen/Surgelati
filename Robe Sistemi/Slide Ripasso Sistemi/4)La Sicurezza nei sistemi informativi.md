@@ -62,10 +62,18 @@ Aspetti dellAnalisi dei rischi:
 - **Disponibilità:** documento sempre disponibile a chi ne è autorizzato(continuità di servizio)
 - **Integrità**: certezza dell'originalità del documento
 - **Paternità:** documento associato all'utente e non ripudiabile(tracciabilità)
-- - - 
-## misure per la segretezza
 
+## Misure per la segretezza
+
+Livello fisico: impedire le intercettazioni
+
+Data Link: Codifiche e cifrature dei dati
+
+## Valutazione dei rischi
+
+Due fasi:
+- an
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyNjE3ODIsLTE4MjQ5NzQ5MTYsOD
+eyJoaXN0b3J5IjpbLTExMzcxMTE1MTAsLTE4MjQ5NzQ5MTYsOD
 E5NTI0OTAzLC0xMDY3NjI2NDE0XX0=
 -->
