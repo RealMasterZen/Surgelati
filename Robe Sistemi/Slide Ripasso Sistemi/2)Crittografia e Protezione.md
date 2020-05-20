@@ -75,6 +75,8 @@ Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
 ## Algortimi a Chiave Simmetrica
 
+
+
 ### DES
 > Il Des è un cifrario Misto: 
 > Sia di sostituzione che di trasposizione
@@ -182,8 +184,10 @@ Esistono 2 modalità di utilizzo di questo algoritmo:
 	- Con la chiave **Privata Crypto** il contenuto del messaggio
 	- con la Chiave **Pubblica Decrypto** il contenuto del messaggio
 	> Questa metodologia garantisce inegrità del messaggio ma non riservatezza
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjc1MjAyNiwtMjA3NTMxMDY2MiwxND
-kzMzk4MzksLTEzNDYwNjY3MzUsLTUxODg2MTkzNSwyMTMwNDA3
-NTc0LC0xODU2MzY1MTQ0XX0=
+eyJoaXN0b3J5IjpbMTQ0NDMyMzgwNywxMTIyNzUyMDI2LC0yMD
+c1MzEwNjYyLDE0OTMzOTgzOSwtMTM0NjA2NjczNSwtNTE4ODYx
+OTM1LDIxMzA0MDc1NzQsLTE4NTYzNjUxNDRdfQ==
 -->
