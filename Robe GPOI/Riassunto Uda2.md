@@ -13,13 +13,13 @@ La caratterizzazione dinamica definisce i flussi logici tra le attività a parti
 
 focalizzazione sulle unità organizzative porta inevitabilmente a errori.
 
-Lo studio dei processi aziendali, in modo da considerare l'intero processo 
+Lo studio dei processi aziendali, in modo da considerare l'intero processo evidenziando il legame tra  le attività interorganizzative
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTkwOTczNiwyMDk1MDg4NDU2LDc1NT
-UzMjYxOCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbLTExNjA1ODQxMTQsLTczNTkwOTczNiwyMD
+k1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
 -->
