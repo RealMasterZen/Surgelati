@@ -82,13 +82,17 @@ Nel ciclo di vita standard di un prodotto possiamo individuare differenti fasi:
 - Crescita
 - maturità
 - declino
+- - -
+### Processi produttivi e logistici
+
+In merito ai processi produttivi, occorre inne
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMTI2MzA5LC01NTg2NjEwNywtMTQzMj
+eyJoaXN0b3J5IjpbNTA4NjQ2MjczLC01NTg2NjEwNywtMTQzMj
 ExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2
 LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
