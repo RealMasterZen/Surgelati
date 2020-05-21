@@ -32,14 +32,14 @@ I tipi di cliente presenta differenti connotati:
 - **Cliente esterno** è il cliente vero e proprio che acquisisce l'output
 - **Cliente Interno** è un unità organizzativa dell'impresa stessa
 
-
+Le attività di trasformazione in un processo azi
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI4MjA2MjUsLTEyMjc0NDU4Myw3Nz
+eyJoaXN0b3J5IjpbLTE1NjgwMjcyOTAsLTEyMjc0NDU4Myw3Nz
 g5NDg4MDgsLTczNTkwOTczNiwyMDk1MDg4NDU2LDc1NTUzMjYx
 OCwxNTQ5MzMzMTczXX0=
 -->
