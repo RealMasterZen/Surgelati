@@ -19,14 +19,16 @@ Lo studio dei processi aziendali, in modo da considerare l'intero processo evide
 
 > un processo aziendale è un insieme organizzato di attività e decisioni, finalizzato alla creazione di un output effettivamente richiesto da un cliente e al quale questi attribuisce un valore ben definito
 
-Per individuare un processo aziendale è fondamentale riconoscere un cliente, ovvero un soggetto che trae calore dall
+Per individuare un processo aziendale è fondamentale riconoscere un cliente, ovvero un soggetto che trae calore dall'output generato dal processo.
+
+Il valore è da intendersi in termini di prezzo di acquisizione 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTA4NTE4MSw3Nzg5NDg4MDgsLTczNT
-kwOTczNiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTcz
-XX0=
+eyJoaXN0b3J5IjpbNjQ4OTkxNjc4LDc3ODk0ODgwOCwtNzM1OT
+A5NzM2LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNd
+fQ==
 -->
