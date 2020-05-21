@@ -64,14 +64,17 @@ Secondo **Porter**, **l'azienda** è vista come come una **successione di attivi
  Le attività di supporto vengono distinte in:
  - gestione delle risorse
 Procacciamento mantenimento e sviluppo delle risorse umane,delle risorse finanziarie, delle infrastrutture produttive e commerciali, acquisizione di beni/servizi da altre imprese.
-
+- auto Trasformazione:
+Attività finalizzate a costruire il futuro breve e medio lungo dell'impresa modificandone l'output in funzione del progresso tecnico e dei cambiamenti di mercato
+- Attività complessive di governo:
+Ne fanno parte la definizione degli indirizzi strategici, il controllo di gestione
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjM5MDAwNSwtNTU4NjYxMDcsLTE0Mz
-IxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTcz
-NiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbLTE4NTg3Mjg2NDYsLTU1ODY2MTA3LC0xND
+MyMTE3NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3
+MzYsMjA5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
