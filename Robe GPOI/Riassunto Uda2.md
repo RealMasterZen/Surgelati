@@ -59,14 +59,16 @@ non creano di per sè un valore riconosciuto direttamente dal cliente esterno, m
 - **Attività primarie di concezione dell'output:**
 	- legate agli aspetti della progettazione
 
-Secondo Porter, l'azienda è vista come come una successione di attività finalizzate a produrre valore per il cliente, che è misurato dal prezzo che il cliente  è disposto a pagare il prodot
+Secondo Porter, l'azienda è vista come come una successione di attività finalizzate a produrre valore per il cliente, che è misurato dal prezzo che il cliente  è disposto a pagare per il prodotto o servizio ricevuto, andando a creare margine di guadagno per l'impresa.
+
+ 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTM1ODk5LC0xNDMyMTE3NzI2LC0xMj
+eyJoaXN0b3J5IjpbLTU1ODY2MTA3LC0xNDMyMTE3NzI2LC0xMj
 I3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4ODQ1
 Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
