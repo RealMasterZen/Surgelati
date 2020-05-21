@@ -21,10 +21,10 @@ Lo studio dei processi aziendali, in modo da considerare l'intero processo evide
 
 Per individuare un processo aziendale è fondamentale riconoscere un cliente, ovvero un soggetto che trae calore dall'output generato dal processo.
 
-Il valore è da intendersi in termini di - prezzo di acquisizione dell'output stesso
-- qualità 
-- tempo 
-- flessibilità
+Il valore è da intendersi in termini di - **prezzo** 
+- **qualità** 
+- **tempo** 
+- **flessibilità**
 Questi 4 elementi caratterizzano l'output del processo
 
 ## Lezione 2: Le prestazioni dei processi aziendali
@@ -32,7 +32,7 @@ Questi 4 elementi caratterizzano l'output del processo
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNT
-kwOTczNiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTcz
-XX0=
+eyJoaXN0b3J5IjpbMTA1NDI5ODM3MiwtMTIyNzQ0NTgzLDc3OD
+k0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NTYsNzU1NTMyNjE4
+LDE1NDkzMzMxNzNdfQ==
 -->
