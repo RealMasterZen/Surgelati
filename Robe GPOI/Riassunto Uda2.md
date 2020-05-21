@@ -46,25 +46,27 @@ sono quelli che concorrono alla creazione di un output apprezzabile per il suo v
 - **Processi di Supporto**
 non creano di per sè un valore riconosciuto direttamente dal cliente esterno, ma sono tuttavia necessari per il funzionamento di quelli primari
 
-Classificazione delle attività primarie un un organizzazione di un progetto:
+**Classificazione delle attività primarie** un un organizzazione di un progetto:
 
--  Attività primarie legate alla gestione del mercato sono costituite da:
+-  **Attività primarie legate alla gestione del mercato** sono costituite da:
 	- attività di vendita, marketing e servizi complementari in fase pre-vendita
 	- vendita 
 	- post-vendita
 
-- Attività primarie di tipo produttivo e logistico riguardano:
+- **Attività primarie di tipo produttivo e logistico** riguardano:
 	- movimentazione materie prime
 	- trasformazione materie prime
-- Attività primarie di concezione dell'output:
+- **Attività primarie di concezione dell'output:**
 	- legate agli aspetti della progettazione
+
+Secondo Porter, l'azienda è vista come 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjExODE2NywtMTQzMjExNzcyNiwtMT
-IyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0
-NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbNTE1ODQ5MDA0LC0xNDMyMTE3NzI2LC0xMj
+I3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4ODQ1
+Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
