@@ -63,14 +63,15 @@ Secondo **Porter**, **l'azienda** è vista come come una **successione di attivi
 
  Le attività di supporto vengono distinte in:
  - gestione delle risorse
-Procacciamento mantenimento e sviluppo delle risorse umane,delle risorse finanziarie, delle infrastrutture produtt
+Procacciamento mantenimento e sviluppo delle risorse umane,delle risorse finanziarie, delle infrastrutture produttive e commerciali, acquisizione di beni/servizi da altre imprese.
+
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjM3Njk4MywtNTU4NjYxMDcsLTE0Mz
+eyJoaXN0b3J5IjpbLTU4NjM5MDAwNSwtNTU4NjYxMDcsLTE0Mz
 IxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTcz
 NiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
 -->
