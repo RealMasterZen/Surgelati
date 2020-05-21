@@ -27,8 +27,10 @@ Il valore è da intendersi in termini di - **prezzo**
 - **flessibilità**
 Questi 4 elementi caratterizzano l'output del processo
 
-Il cliente esterno è il cliente vero e proprio che acquisisce l'output
-Cliente Interno è un unità organizzativa dell'impresa stessa
+
+I tipi di cliente presenta differenti connotati:
+- Il cliente esterno è il cliente vero e proprio che acquisisce l'output
+- Cliente Interno è un unità organizzativa dell'impresa stessa
 
 
 
@@ -37,7 +39,7 @@ Cliente Interno è un unità organizzativa dell'impresa stessa
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjMyMDMzOSwtMTIyNzQ0NTgzLDc3OD
-k0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NTYsNzU1NTMyNjE4
-LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbODM3MTAxOTc2LC0xMjI3NDQ1ODMsNzc4OT
+Q4ODA4LC03MzU5MDk3MzYsMjA5NTA4ODQ1Niw3NTU1MzI2MTgs
+MTU0OTMzMzE3M119
 -->
