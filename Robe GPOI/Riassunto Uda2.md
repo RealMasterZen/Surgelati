@@ -71,14 +71,16 @@ Attività finalizzate a costruire il futuro breve e medio lungo dell'impresa mod
 - **Attività complessive di governo:**
 Ne fanno parte la definizione degli indirizzi strategici, il controllo di gestione, l'amministrazione, la comunicazione, gli affari legali.
 
-
+Il modello della catena del valore, nelle sue componenti primarie inoltre mostra come il funzionamento di un impresa e pertanto dei processi che la costituiscono, si articola su due poli principali:
+- il lato dei processi produttivi-logistici caratterizzato dalla componente dei fornitori a monte
+- il versante del marketing e delle vendite volto al mercato dei clienti 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTUyMzkzLC01NTg2NjEwNywtMTQzMj
-ExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2
-LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbMTIzNjc3OTk4NywtNTU4NjYxMDcsLTE0Mz
+IxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTcz
+NiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
 -->
