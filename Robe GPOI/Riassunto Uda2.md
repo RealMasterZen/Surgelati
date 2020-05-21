@@ -46,19 +46,22 @@ sono quelli che concorrono alla creazione di un output apprezzabile per il suo v
 - **Processi di Supporto**
 non creano di per sè un valore riconosciuto direttamente dal cliente esterno, ma sono tuttavia necessari per il funzionamento di quelli primari
 
-Le attività primarie legate alla gestione del mercato sono costituite da:
-- attività di vendita, marketing e servizi complementari in fase pre-vendita
-- vendita 
-- post-vendita
+Le attività primarie legate
+- alla gestione del mercato sono costituite da:
+	- attività di vendita, marketing e servizi complementari in fase pre-vendita
+	- vendita 
+	- post-vendita
 
-
+- Attività primarie di tipo produttivo e logistico riguardano:
+	- movimentazione 
+	- Trasformaz
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDc4ODU3NiwtMTQzMjExNzcyNiwtMT
+eyJoaXN0b3J5IjpbMTc4NzcxNjYxMywtMTQzMjExNzcyNiwtMT
 IyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0
 NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
