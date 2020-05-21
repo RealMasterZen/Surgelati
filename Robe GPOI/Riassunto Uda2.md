@@ -41,17 +41,20 @@ Fasi interne a un processo presentano interdipendenze sequenziali o reciproche
 ### Processi primari e Processi di supporto
 
 Esistono diverse tipologie di processi all'interno di un organizzazione aziendale:
-- Processi primari
+- **Processi primari**
 sono quelli che concorrono alla creazione di un output apprezzabile per il suo valore da parte del cliente
-- Processi di Supporto
+- **Processi di Supporto**
 non creano di per sè un valore riconosciuto direttamente dal cliente esterno, ma sono tuttavia necessari per il funzionamento di quelli primari
+
+Le attività primarie legate alla gestione del mercato sono costituite da:
+-attività di 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA0NzM5MTksLTE0MzIxMTc3MjYsLT
-EyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTczNiwyMDk1MDg4
-NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbNjY0NTQ1MTc0LC0xNDMyMTE3NzI2LC0xMj
+I3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4ODQ1
+Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
