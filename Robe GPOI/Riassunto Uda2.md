@@ -11,13 +11,15 @@ La caratterizzazione dinamica definisce i flussi logici tra le attività a parti
 
 **Ottica di processo** è imprescindibile se si considera l'**informazione** e di conseguenza le tecnologie informatiche di supporto, gestite nell'ambito del processo aziendale.
 
-focalizzazione sulle unità organizzative
+focalizzazione sulle unità organizzative porta inevitabilmente a errori.
+
+Lo studio dei processi aziendali, in modo da considerare l'intero processo
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OT
-MzMzE3M119
+eyJoaXN0b3J5IjpbMTUyNTgzMzAwNCwyMDk1MDg4NDU2LDc1NT
+UzMjYxOCwxNTQ5MzMzMTczXX0=
 -->
