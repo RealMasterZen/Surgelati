@@ -85,14 +85,16 @@ Nel ciclo di vita standard di un prodotto possiamo individuare differenti fasi:
 - - -
 ### Processi produttivi e logistici
 
-In merito ai processi produttivi, occorre inne
+In merito ai processi produttivi, occorre innanzitutto osservare che esiste una forte distinzione tra:
+- le attività produttive organizzate per reparti 
+- la produzione in linea 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NjQ2MjczLC01NTg2NjEwNywtMTQzMj
-ExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2
-LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMjYwMDk5ODIsLTU1ODY2MTA3LC0xND
+MyMTE3NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3
+MzYsMjA5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
