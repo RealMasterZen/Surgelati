@@ -62,19 +62,23 @@ non creano di per sè un valore riconosciuto direttamente dal cliente esterno, m
 Secondo **Porter**, **l'azienda** è vista come come una **successione di attività finalizzate a produrre valore per il cliente**, che è misurato dal prezzo che il cliente  è disposto a pagare per il prodotto o servizio ricevuto, andando a creare margine di guadagno per l'impresa.
 
  Le attività di supporto vengono distinte in:
- - gestione delle risorse
+ - **Gestione delle risorse:**
 Procacciamento mantenimento e sviluppo delle risorse umane,delle risorse finanziarie, delle infrastrutture produttive e commerciali, acquisizione di beni/servizi da altre imprese.
-- auto Trasformazione:
+
+- **Auto Trasformazione:**
 Attività finalizzate a costruire il futuro breve e medio lungo dell'impresa modificandone l'output in funzione del progresso tecnico e dei cambiamenti di mercato
-- Attività complessive di governo:
-Ne fanno parte la definizione degli indirizzi strategici, il controllo di gestione
+
+- **Attività complessive di governo:**
+Ne fanno parte la definizione degli indirizzi strategici, il controllo di gestione, l'amministrazione, la comunicazione, gli affari legali.
+
+
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg3Mjg2NDYsLTU1ODY2MTA3LC0xND
-MyMTE3NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3
-MzYsMjA5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
+eyJoaXN0b3J5IjpbMTYyNTUyMzkzLC01NTg2NjEwNywtMTQzMj
+ExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2
+LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
