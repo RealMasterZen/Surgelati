@@ -77,12 +77,18 @@ Il modello della catena del valore, nelle sue componenti primarie inoltre mostra
 - - - 
 ### Il ciclo di vita di un prodotto
 
+Nel ciclo di vita standard di un prodotto possiamo individuare differenti fasi:
+- Introduzione
+- Crescita
+- maturità
+- declino
+
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3OTkzNzYzLC01NTg2NjEwNywtMTQzMj
+eyJoaXN0b3J5IjpbNDUxMTI2MzA5LC01NTg2NjEwNywtMTQzMj
 ExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2
 LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
