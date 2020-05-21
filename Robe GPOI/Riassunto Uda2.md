@@ -17,13 +17,13 @@ Lo studio dei processi aziendali, in modo da considerare l'intero processo evide
 
 ### I Processi aziendali
 
-> un processo aziendale è un insieme organizzato di attività e decisioni, finalizzato alla creazione di un output effettivamente r
+> un processo aziendale è un insieme organizzato di attività e decisioni, finalizzato alla creazione di un output effettivamente richiesto da un cliente e al quale questi attribuisce un valore ben definito
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0NjMsLTczNTkwOTczNiwyMDk1MD
-g4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NT
+A4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
