@@ -5,13 +5,15 @@
 
 ### Il flusso delle attività
 
-Un organizzazione aziendale può essere analizzata da un punto di vista dinamico
+Un organizzazione aziendale può essere analizzata da un punto di vista dinamico seguendo le attività che caratterizzano l'operatività aziendale.
+
+La caratterizzazione dinamica 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTAxMjU4LDc1NTUzMjYxOCwxNTQ5Mz
-MzMTczXX0=
+eyJoaXN0b3J5IjpbLTE5NDA0NjI5OTYsNzU1NTMyNjE4LDE1ND
+kzMzMxNzNdfQ==
 -->
