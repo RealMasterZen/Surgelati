@@ -33,21 +33,24 @@ I tipi di cliente presenta differenti connotati:
 - **Cliente Interno** è un unità organizzativa dell'impresa stessa
 
 Le attività di trasformazione in un processo aziendale possono essere:
-- sequenziali
-- reciproche
-- generiche
+- **sequenziali**
+- **reciproche**
+- **generiche**
 Fasi interne a un processo presentano interdipendenze sequenziali o reciproche 
 - - - 
 ### Processi primari e Processi di supporto
 
-Esistono 2 tipologie di processi all'interno di un azienda
+Esistono diverse tipologie di processi all'interno di un organizzazione aziendale:
+- Processi primari
+sono quelli che concorrono alla creazione di un output apprezzabile per i
+- Processi di Supporto
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIxMTc3MjYsLTEyMjc0NDU4Myw3Nz
-g5NDg4MDgsLTczNTkwOTczNiwyMDk1MDg4NDU2LDc1NTUzMjYx
-OCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbLTQxMTQ1NzQxOSwtMTQzMjExNzcyNiwtMT
+IyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0
+NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
