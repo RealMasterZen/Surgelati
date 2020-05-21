@@ -91,27 +91,27 @@ In merito ai processi produttivi, occorre innanzitutto osservare che esiste una 
 
  #### Produzione per reparti
 
-In ciascun reparto vengono svolte trasformazioni simili dal punto di vista tecnologico, se ci sono delle interdipendenze spazio temporali queste vengono risolte muovendosi da un reparto ad un altro.
+In **ciascun reparto vengono svolte trasformazioni simili dal punto di vista tecnologico**, se ci sono delle interdipendenze spazio temporali queste vengono risolte muovendosi da un reparto ad un altro.
 
 #### Produzione in Linea
 
-Ogni prodotto ha un suo percorso predeterminato e per soddisfare le economie di scala questo percorso richiede una moltiplicazione che richiederà a sua volta una gran quantità in termini di costi.
+**Ogni prodotto ha un suo percorso predeterminato** e per soddisfare le economie di scala questo percorso richiede una moltiplicazione che richiederà a sua volta una gran quantità in termini di costi.
 
 #### Cellular Manufacturing
 
-Consiste nel raggruppare in un unica area le tecnologie necessarie alla realizzazione dei cicli tecnologici di più prodotti, anche diversi tra loro, ma simili dal punto di vista delle tecnologie necessarie.
+Consiste nel **raggruppare in un unica area le tecnologie necessarie alla realizzazione dei cicli tecnologici di più prodotti**, anche diversi tra loro, ma simili dal punto di vista delle tecnologie necessarie.
 
-Definiti, dunque
-
-
+Definiti, dunque, i cicli di produzione dei prodotti, questi ultimi vengono raggruppati in un unica cella.
 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
+### Proces
+
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTU1NDAxOSwtNTU4NjYxMDcsLTE0Mz
-IxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTcz
-NiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbMTYwMjEzMTcwLC01NTg2NjEwNywtMTQzMj
+ExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2
+LDIwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
