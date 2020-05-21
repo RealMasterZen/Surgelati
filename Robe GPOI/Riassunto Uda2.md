@@ -99,7 +99,11 @@ Ogni prodotto ha un suo percorso predeterminato e per soddisfare le economie di 
 
 #### Cellular Manufacturing
 
-Approccio organizzativo funzionale conosciuto come Just-
+Consiste nel raggruppare in un unica area le tecnologie necessarie alla realizzazione dei cicli tecnologici di più prodotti, anche diversi tra loro, ma simili dal punto di vista delle tecnologie necessarie.
+
+Definiti, dunque
+
+
 
 
 ## Lezione 2: Le prestazioni dei processi aziendali
@@ -107,7 +111,7 @@ Approccio organizzativo funzionale conosciuto come Just-
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTA4NzY5NiwtNTU4NjYxMDcsLTE0Mz
+eyJoaXN0b3J5IjpbMTk0OTU1NDAxOSwtNTU4NjYxMDcsLTE0Mz
 IxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTcz
 NiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
 -->
