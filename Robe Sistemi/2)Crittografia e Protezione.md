@@ -189,16 +189,16 @@ Esistono 2 modalità di utilizzo di questo algoritmo:
 
 Rivest-Shawn-Adleman
 
-Struttura:
-- generazione delle chiavi
+**Struttura:**
+- Generazione delle chiavi
 - Algoritmo crittografico
 
-Generazione Chiavi: 
+**Generazione Chiavi:** 
 - scelta di 2 numeri primi p e q 
 - calcolo del prodotto n = p * q
 - Scelta numero "e" coprimo e minore di (p-1)*(q-1) chiamato esponente pubblico
 
-- Numeri coprimi: 
+- **Numeri coprimi:** 
 	- a è coprimo di b se MCD è 1
 	- a è coprimo di qualsiasi numero non divisibile da a 
 - Espressione RSA -> d*e = 1 mod m
@@ -221,5 +221,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI0MDM0MDAsLTUxNzY0Nzc4M119
+eyJoaXN0b3J5IjpbOTc1MDc5NzY4LC01MTc2NDc3ODNdfQ==
 -->
