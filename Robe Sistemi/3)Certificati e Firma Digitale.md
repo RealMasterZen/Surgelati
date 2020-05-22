@@ -54,9 +54,9 @@
 *Documento informatico contenuto nella smart card del titolare firmato digitalmente da un ente certificatore*
 
 **Dati Contenuti:**
-	- Dati del proprietario
-	- Dati del Certificato
-	- Dati della Certification Autority(CA)
+- Dati del proprietario
+- Dati del Certificato
+- Dati della Certification Autority(CA)
 
 **Formati di certificato digitale più diffusi:**
 - Chiavi PGP/GPG(autonomo)
@@ -77,5 +77,6 @@ Gestiscono una repository dei certificati attivi e revocati(CRL -> Certificate r
 - generazione del certificato
 - certificato al richiedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTE3NTc2MCw4MjcyNTM4ODhdfQ==
+eyJoaXN0b3J5IjpbLTgxNTg2NzgwMCwyMTI5MTc1NzYwLDgyNz
+I1Mzg4OF19
 -->
