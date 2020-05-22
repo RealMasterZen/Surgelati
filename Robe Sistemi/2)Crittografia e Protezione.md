@@ -85,14 +85,14 @@ Sono tutti quegli algoritmi che condividono una chiave comune e segreta per crip
 - Data Encryption Standard
 - Cifrario a blocchi -> chiave blocco di 64 bit
 
-- Chiave 64 bit (suddivisa in 8 blocchi da 7 bit + 1 di controllo):
+- **Chiave 64 bit** (suddivisa in **8 blocchi da 7 bit + 1 di controllo**):
 	- 8 sono di controllo
 	- 56 sono utili
 > 16 Trasformazioni successive applicate a ogni blocco del messaggio
 
-- Messaggio suddiviso in blocchi di 8 b
-- Trasposizione di 56 bit alla chiave
-- 16 volte applicata la funzione cifraria di sostituzione
+- Messaggio suddiviso in blocchi di 8 byte
+- **Trasposizione di 56 bit alla chiave**
+- **16 volte applicata la funzione cifraria di sostituzione**
 
 Questo presta l'algoritmo ad essere propenso all'effetto valanga cioè un minimo cambiamento di dati nel plain text comporta un cambiamento massivo nel cipher text.
 - - - 
@@ -221,5 +221,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjMzMTI5NV19
+eyJoaXN0b3J5IjpbLTc1MjY3MTY1MV19
 -->
