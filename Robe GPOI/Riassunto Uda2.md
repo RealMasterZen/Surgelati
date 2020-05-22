@@ -137,14 +137,16 @@ In poche parole è la qualità che un processo ha di produrre valore utilizzando
 
 In poche parole è la capacità del processo 
 
-### Costi, qualità, tempi e flessibilit
+### Costi, qualità, tempi e flessibilità
+
+Le prestazioni di costo sono espresse dal **costo dell'output**
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA2OTM4MjcsMTQyODkxNTUzNiwxMD
-kwNzI1OTE3LC05ODgzNTg1NTksLTIyNTY0NjkwMSwtNjE0OTQ2
-NjM5LDIwMjU5NjE4NDAsMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOS
-wxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIy
-NzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NT
-YsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbMTk0MjMwOTY0LDE0Mjg5MTU1MzYsMTA5MD
+cyNTkxNywtOTg4MzU4NTU5LC0yMjU2NDY5MDEsLTYxNDk0NjYz
+OSwyMDI1OTYxODQwLDE0MTk3NDcxNDIsLTE4MTM0OTA2MDksMT
+YxODg4NTM5NSwtNTU4NjYxMDcsLTE0MzIxMTc3MjYsLTEyMjc0
+NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTczNiwyMDk1MDg4NDU2LD
+c1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
 -->
