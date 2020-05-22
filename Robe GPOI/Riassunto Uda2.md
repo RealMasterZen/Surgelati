@@ -139,14 +139,15 @@ In poche parole è la capacità del processo
 
 ### Costi, qualità, tempi e flessibilità
 
-Le prestazioni di costo sono espresse dal **costo dell'output**
+Le prestazioni di costo sono espresse dal **costo dell'output**:
+- somma dei costi del processo necessarie per l'ottenimento dell'output
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjMwOTY0LDE0Mjg5MTU1MzYsMTA5MD
-cyNTkxNywtOTg4MzU4NTU5LC0yMjU2NDY5MDEsLTYxNDk0NjYz
-OSwyMDI1OTYxODQwLDE0MTk3NDcxNDIsLTE4MTM0OTA2MDksMT
-YxODg4NTM5NSwtNTU4NjYxMDcsLTE0MzIxMTc3MjYsLTEyMjc0
-NDU4Myw3Nzg5NDg4MDgsLTczNTkwOTczNiwyMDk1MDg4NDU2LD
-c1NTUzMjYxOCwxNTQ5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbMTc3MTc1MTQxNiwxNDI4OTE1NTM2LDEwOT
+A3MjU5MTcsLTk4ODM1ODU1OSwtMjI1NjQ2OTAxLC02MTQ5NDY2
+MzksMjAyNTk2MTg0MCwxNDE5NzQ3MTQyLC0xODEzNDkwNjA5LD
+E2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3NzI2LC0xMjI3
+NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4ODQ1Ni
+w3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
