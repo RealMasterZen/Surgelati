@@ -133,12 +133,14 @@ questi determinano **l'efficacia** e **l'efficienza**
 In poche parole è la qualità che un processo ha di produrre valore utilizzando il minor numero di risorse
 
 > **Definizione di Efficacia**
-> Costituisce una misura della capacità del processo di raggiungere  gli obbiettivi prefissati, ovvero un processo è tanto più efficace quanto più s
+> Costituisce una misura della capacità del processo di raggiungere  gli obbiettivi prefissati, ovvero un processo è tanto più efficace quanto più soddisfa le esigenze del cliente
+
+In poche parole è la qualit
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjUyMzA2NiwxMDkwNzI1OTE3LC05OD
+eyJoaXN0b3J5IjpbMTQyODkxNTUzNiwxMDkwNzI1OTE3LC05OD
 gzNTg1NTksLTIyNTY0NjkwMSwtNjE0OTQ2NjM5LDIwMjU5NjE4
 NDAsMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOSwxNjE4ODg1Mzk1LC
 01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0
