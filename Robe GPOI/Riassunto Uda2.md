@@ -132,13 +132,16 @@ questi determinano **l'efficacia** e **l'efficienza**
 
 In poche parole è la qualità che un processo ha di produrre valore utilizzando il minor numero di risorse
 
+> **Definizione di Efficacia**
+> Costituisce una misura della capacità del processo di raggiungiere
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODM1ODU1OSwtMjI1NjQ2OTAxLC02MT
-Q5NDY2MzksMjAyNTk2MTg0MCwxNDE5NzQ3MTQyLC0xODEzNDkw
-NjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3NzI2LC
-0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4
-ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
+eyJoaXN0b3J5IjpbMTA5MDcyNTkxNywtOTg4MzU4NTU5LC0yMj
+U2NDY5MDEsLTYxNDk0NjYzOSwyMDI1OTYxODQwLDE0MTk3NDcx
+NDIsLTE4MTM0OTA2MDksMTYxODg4NTM5NSwtNTU4NjYxMDcsLT
+E0MzIxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLTczNTkw
+OTczNiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMzMTczXX
+0=
 -->
