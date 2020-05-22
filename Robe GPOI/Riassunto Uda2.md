@@ -108,13 +108,17 @@ Definiti, dunque, i cicli di produzione dei prodotti, questi ultimi vengono ragg
 
 ### Processi Efficaci ed Efficienti
 
-Le prestazioni dei processi quantificano 
+Le prestazioni dei processi quantificano la capacità degli output di creare valore per l'azienda e di soddisfare quindi il cliente
+
+Schema generale dei processi aziendali:
+
+
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOSwxNj
-E4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIyNzQ0
-NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NTYsNz
-U1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbLTE1ODU2Nzg3MTQsMTQxOTc0NzE0MiwtMT
+gxMzQ5MDYwOSwxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjEx
+NzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LD
+IwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
