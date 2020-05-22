@@ -56,8 +56,8 @@ Problemi nelle reti:
 
 **Crittografia consente di:**
 - **identificare un utente**(Autenticità)
-- **autenticare un messaggio**()
-- **firmare digitalmente**
+- **autenticare un messaggio**(Integrità)
+- **firmare digitalmente**(Affidabilità)
 
 Sistemi Crittografici: Classificati con numero e tipo di chiavi
 
@@ -221,5 +221,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE1NDY0MTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MjEwMjIyODVdfQ==
 -->
