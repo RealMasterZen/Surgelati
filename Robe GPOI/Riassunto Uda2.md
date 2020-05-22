@@ -127,12 +127,13 @@ Quindi un processo aziendale è caratterizzato da 4 funzioni operative:
 - **flessibilità**
 questi determinano **l'efficacia** e **l'efficienza**
 
-> Definizione di Efficenza
+> Definizione di Efficienza
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTk2MTg0MCwxNDE5NzQ3MTQyLC0xOD
-EzNDkwNjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3
-NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMj
-A5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
+eyJoaXN0b3J5IjpbLTYxNDk0NjYzOSwyMDI1OTYxODQwLDE0MT
+k3NDcxNDIsLTE4MTM0OTA2MDksMTYxODg4NTM5NSwtNTU4NjYx
+MDcsLTE0MzIxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4MDgsLT
+czNTkwOTczNiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNTQ5MzMz
+MTczXX0=
 -->
