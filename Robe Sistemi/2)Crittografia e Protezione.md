@@ -214,12 +214,12 @@ Rivest-Shawn-Adleman
 
 Unisce i due sistemi per unirne i vantaggi
 - Uniscono i due sistemi per unirne i vantaggi 
-- Chiave pubblica per comunicare la chiave segreta
+- **Chiave pubblica per comunicare la chiave segreta**
 - Asimmetrica -> comunicazione chiave
 - Simmetrica -> Comunicazione Messaggio
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MDc5NzY4LC01MTc2NDc3ODNdfQ==
+eyJoaXN0b3J5IjpbNTA2NzQ2MDA4LC01MTc2NDc3ODNdfQ==
 -->
