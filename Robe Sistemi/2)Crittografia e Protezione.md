@@ -115,7 +115,7 @@ Possiede quindi 3 chiavi:
 - - - 
 ### IDEA
 
- **Internetional Data Encryption Algorithm**
+ **International Data Encryption Algorithm**
  - **Cifrario a blocchi**
  - -**Sostituì DES**
 
@@ -221,5 +221,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjY3MTY1MV19
+eyJoaXN0b3J5IjpbLTUxNzY0Nzc4M119
 -->
