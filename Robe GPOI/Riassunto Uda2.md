@@ -141,13 +141,14 @@ In poche parole è la capacità del processo
 
 Le prestazioni di costo sono espresse dal **costo dell'output**:
 - somma dei costi del processo necessarie per l'ottenimento dell'output
+In un processo produttivo il costo dell'output coincide con il costo del prodotto realizzato in un processo di servizio consiste nel costo di erogaizone
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTc1MTQxNiwxNDI4OTE1NTM2LDEwOT
-A3MjU5MTcsLTk4ODM1ODU1OSwtMjI1NjQ2OTAxLC02MTQ5NDY2
-MzksMjAyNTk2MTg0MCwxNDE5NzQ3MTQyLC0xODEzNDkwNjA5LD
-E2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3NzI2LC0xMjI3
-NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4ODQ1Ni
-w3NTU1MzI2MTgsMTU0OTMzMzE3M119
+eyJoaXN0b3J5IjpbMjY1Nzg4Nzg1LDE3NzE3NTE0MTYsMTQyOD
+kxNTUzNiwxMDkwNzI1OTE3LC05ODgzNTg1NTksLTIyNTY0Njkw
+MSwtNjE0OTQ2NjM5LDIwMjU5NjE4NDAsMTQxOTc0NzE0MiwtMT
+gxMzQ5MDYwOSwxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjEx
+NzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LD
+IwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
