@@ -106,15 +106,15 @@ Definiti, dunque, i cicli di produzione dei prodotti, questi ultimi vengono ragg
 
 ## Lezione 2: Le prestazioni dei processi aziendali
 
-### Processi Efficaci ed Efficenti
+### Processi Efficaci ed Efficienti
 
 Le prestazioni dei processi quantificano 
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM0OTA2MDksMTYxODg4NTM5NSwtNT
-U4NjYxMDcsLTE0MzIxMTc3MjYsLTEyMjc0NDU4Myw3Nzg5NDg4
-MDgsLTczNTkwOTczNiwyMDk1MDg4NDU2LDc1NTUzMjYxOCwxNT
-Q5MzMzMTczXX0=
+eyJoaXN0b3J5IjpbMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOSwxNj
+E4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIyNzQ0
+NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NTYsNz
+U1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
