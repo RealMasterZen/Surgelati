@@ -135,15 +135,15 @@ In poche parole è la qualità che un processo ha di produrre valore utilizzando
 > **Definizione di Efficacia**
 > Costituisce una misura della capacità del processo di raggiungere  gli obbiettivi prefissati, ovvero un processo è tanto più efficace quanto più soddisfa le esigenze del cliente
 
-In poche parole è la qualit
+In poche parole è la capacità del processo 
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODkxNTUzNiwxMDkwNzI1OTE3LC05OD
-gzNTg1NTksLTIyNTY0NjkwMSwtNjE0OTQ2NjM5LDIwMjU5NjE4
-NDAsMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOSwxNjE4ODg1Mzk1LC
-01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIyNzQ0NTgzLDc3ODk0
-ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NTYsNzU1NTMyNjE4LD
-E1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzkxNzAxMTAsMTQyODkxNTUzNiwxMD
+kwNzI1OTE3LC05ODgzNTg1NTksLTIyNTY0NjkwMSwtNjE0OTQ2
+NjM5LDIwMjU5NjE4NDAsMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOS
+wxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIy
+NzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NT
+YsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
