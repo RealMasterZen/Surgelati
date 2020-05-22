@@ -178,7 +178,7 @@ Esistono 2 modalità di utilizzo di questo algoritmo:
 - **Confidenziale** dove:
 	- Con la chiave **Pubblica Crypto** il contenuto del messaggio
 	- con la Chiave **Privata Decrypto** il contenuto del messaggio
-	> Questa metodologia garantisce riservatezza e integrità al messaggio
+	> Questa metodologia garantisce riservatezza e non  integrità al messaggio
 
 - **Autenticazione** dove:
 	- Con la chiave **Privata Crypto** il contenuto del messaggio
@@ -221,5 +221,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzY0Nzc4M119
+eyJoaXN0b3J5IjpbLTIwMTI0MDM0MDAsLTUxNzY0Nzc4M119
 -->
