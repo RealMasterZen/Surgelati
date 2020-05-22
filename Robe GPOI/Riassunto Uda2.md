@@ -121,16 +121,18 @@ Schema generale dei processi aziendali:
 
 
 Quindi un processo aziendale è caratterizzato da 4 funzioni operative:
-- costi
-- tempi
-- qualità
-- flessibilità
-questi determinano l'efficacia e l'efficienza
+- **costi**
+- **tempi**
+- **qualità**
+- **flessibilità**
+questi determinano **l'efficacia** e **l'efficienza**
+
+
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NDM5OCwxNDE5NzQ3MTQyLC0xODEzND
-kwNjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3NzI2
-LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NT
-A4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
+eyJoaXN0b3J5IjpbMTc5MDU1NzYxOCwxNDE5NzQ3MTQyLC0xOD
+EzNDkwNjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3
+NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMj
+A5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
