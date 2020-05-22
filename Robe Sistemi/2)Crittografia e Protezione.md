@@ -49,8 +49,8 @@ Problemi nelle reti:
 **Corollario di Shannon:** "Il nemico conosce il sistema"
 
 **Proprietà fondamentali di Shannon:**
-	- Confusione
-	- Diffusione
+	- **Confusione**
+	- **Diffusione**
 
 ## Cifrari e Chiavi
 
@@ -221,5 +221,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIwNDQ1MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDgwODY2ODFdfQ==
 -->
