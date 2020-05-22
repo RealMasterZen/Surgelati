@@ -137,10 +137,11 @@ In poche parole è la qualità che un processo ha di produrre valore utilizzando
 
 In poche parole è la capacità del processo 
 
+### Costi, qualità, tempi e flessibilit
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxNzAxMTAsMTQyODkxNTUzNiwxMD
+eyJoaXN0b3J5IjpbLTE0MDA2OTM4MjcsMTQyODkxNTUzNiwxMD
 kwNzI1OTE3LC05ODgzNTg1NTksLTIyNTY0NjkwMSwtNjE0OTQ2
 NjM5LDIwMjU5NjE4NDAsMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOS
 wxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIy
