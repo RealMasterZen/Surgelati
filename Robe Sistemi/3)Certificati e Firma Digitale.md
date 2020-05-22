@@ -44,12 +44,10 @@
  - SHA3(annunciato)
 
 **Struttura:**
-	- aggiunta bit di riempimento nel messaggio
-	- aggiunta della lunghezza del messaggio
-	- schema a 8 registri 
-	- 80 cicli di operazioni su 
-
-blocchi da 512 o 1024 bit
+- aggiunta bit di riempimento nel messaggio
+- aggiunta della lunghezza del messaggio
+- schema a 8 registri 
+- 80 cicli di operazioni su blocchi da 512 o 1024 bit
 
 ## Certificati Digitali
 
@@ -79,5 +77,5 @@ Gestiscono una repository dei certificati attivi e revocati(CRL -> Certificate r
 - generazione del certificato
 - certificato al richiedente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU2ODYzNjQsODI3MjUzODg4XX0=
+eyJoaXN0b3J5IjpbMjEyOTE3NTc2MCw4MjcyNTM4ODhdfQ==
 -->
