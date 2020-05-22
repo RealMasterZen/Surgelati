@@ -212,6 +212,10 @@ Rivest-Shawn-Adleman
 
 ## Crittografia Ibrida
 
+La chiave segreta viene mandata attraverso la crittografia asimmetrica.
+
+Successivamente la stessa chiave segreta viene utilizzata per la comunicazione.
+
 Unisce i due sistemi per unirne i vantaggi
 - Uniscono i due sistemi per unirne i vantaggi 
 - **Chiave pubblica per comunicare la chiave segreta**
@@ -221,5 +225,5 @@ Unisce i due sistemi per unirne i vantaggi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2NzQ2MDA4LC01MTc2NDc3ODNdfQ==
+eyJoaXN0b3J5IjpbMTE0Nzc2NzcxOCwtNTE3NjQ3NzgzXX0=
 -->
