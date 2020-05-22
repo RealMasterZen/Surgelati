@@ -112,13 +112,15 @@ Le prestazioni dei processi quantificano la capacità degli output di creare val
 
 Schema generale dei processi aziendali:
 
-
+- Processo aziendale:
+	- Efficacia
+	- Efficienza
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU2Nzg3MTQsMTQxOTc0NzE0MiwtMT
-gxMzQ5MDYwOSwxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjEx
-NzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LD
-IwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbLTU5NjM0ODg5NSwxNDE5NzQ3MTQyLC0xOD
+EzNDkwNjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3
+NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMj
+A5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
