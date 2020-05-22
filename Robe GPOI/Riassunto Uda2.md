@@ -130,11 +130,15 @@ questi determinano **l'efficacia** e **l'efficienza**
 > **Definizione di Efficienza**
 > L'efficienza esprime la capacità del processo di ottimizzare il rapporto tra valore dell'output e impiego di risorse
 
+In poche parole è la qualità che un processo ha di produrre valore utilizzando il minor numero di risorse
+
+
+
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTY0NjkwMSwtNjE0OTQ2NjM5LDIwMj
-U5NjE4NDAsMTQxOTc0NzE0MiwtMTgxMzQ5MDYwOSwxNjE4ODg1
-Mzk1LC01NTg2NjEwNywtMTQzMjExNzcyNiwtMTIyNzQ0NTgzLD
-c3ODk0ODgwOCwtNzM1OTA5NzM2LDIwOTUwODg0NTYsNzU1NTMy
-NjE4LDE1NDkzMzMxNzNdfQ==
+eyJoaXN0b3J5IjpbLTk4ODM1ODU1OSwtMjI1NjQ2OTAxLC02MT
+Q5NDY2MzksMjAyNTk2MTg0MCwxNDE5NzQ3MTQyLC0xODEzNDkw
+NjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3NzI2LC
+0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMjA5NTA4
+ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
 -->
