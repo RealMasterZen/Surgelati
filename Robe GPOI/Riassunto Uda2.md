@@ -114,13 +114,15 @@ Schema generale dei processi aziendali:
 
 - Processo aziendale:
 	- Efficacia
+		- Soddisfazione del Cliente
 	- Efficienza
+		- Risultati Aziendali
 
 
 ## Lezione 3: Modellizzazione dei processi aziendali e principi della gestione per processi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjM0ODg5NSwxNDE5NzQ3MTQyLC0xOD
-EzNDkwNjA5LDE2MTg4ODUzOTUsLTU1ODY2MTA3LC0xNDMyMTE3
-NzI2LC0xMjI3NDQ1ODMsNzc4OTQ4ODA4LC03MzU5MDk3MzYsMj
-A5NTA4ODQ1Niw3NTU1MzI2MTgsMTU0OTMzMzE3M119
+eyJoaXN0b3J5IjpbLTIwNjg1MDY1NjAsMTQxOTc0NzE0MiwtMT
+gxMzQ5MDYwOSwxNjE4ODg1Mzk1LC01NTg2NjEwNywtMTQzMjEx
+NzcyNiwtMTIyNzQ0NTgzLDc3ODk0ODgwOCwtNzM1OTA5NzM2LD
+IwOTUwODg0NTYsNzU1NTMyNjE4LDE1NDkzMzMxNzNdfQ==
 -->
